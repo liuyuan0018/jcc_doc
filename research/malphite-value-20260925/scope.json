@@ -1,0 +1,84 @@
+{
+  "status": "preparing",
+  "hero": "墨菲特",
+  "star": 2,
+  "blackthornTiers": [
+    2,
+    4,
+    6
+  ],
+  "sacrifices": [
+    {
+      "cost": 1,
+      "star": 2
+    },
+    {
+      "cost": 1,
+      "star": 3
+    },
+    {
+      "cost": 2,
+      "star": 2
+    },
+    {
+      "cost": 2,
+      "star": 3
+    },
+    {
+      "cost": 3,
+      "star": 2
+    },
+    {
+      "cost": 3,
+      "star": 3
+    },
+    {
+      "cost": 4,
+      "star": 1
+    },
+    {
+      "cost": 4,
+      "star": 2
+    },
+    {
+      "cost": 5,
+      "star": 1
+    },
+    {
+      "cost": 5,
+      "star": 2
+    }
+  ],
+  "includeAugments": true,
+  "estimatedConfigurations": 250950,
+  "mainGroups": [
+    {
+      "blackthorn": 2,
+      "count": 8
+    },
+    {
+      "blackthorn": 4,
+      "count": 8
+    },
+    {
+      "blackthorn": 6,
+      "count": 8
+    }
+  ],
+  "resultsCount": 88,
+  "extraResultsCount": 64,
+  "resultsDetailField": "detailRichText",
+  "scoring": "300 +50 first failure then +1 refinement until first failure; shared ranks on ties",
+  "assumptionsPending": [
+    "sacrifice multiplier order unverified in game",
+    "Malphite petrification/mana behavior and shield expiration explosion require audit"
+  ],
+  "production": "Unity continuous media-capture; shared DSP timeline and actual mixed audio",
+  "completedPreparation": [
+    "Results detailRichText implemented and Unity preview rendered",
+    "Replay card count decoupled from eight-card view",
+    "Variable-length equipment accumulation and serializers",
+    "Legacy eight Fiddlesticks runs exactly identical",
+    "Fourth stat-only equipment accumulation checked"
+  ]
+}

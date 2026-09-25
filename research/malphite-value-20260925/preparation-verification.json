@@ -1,0 +1,11 @@
+{
+  "unityCompileFailed": false,
+  "resultsPreview": "results-layout.png",
+  "resultsTextOverflow": 0,
+  "threeRoundBinding": "24 cards; groups 0,1,2,0 checked in isolated Unity scene",
+  "fourthEquipment": "check passed; ordinary effect counts unchanged",
+  "legacyRegression": "8 archived Fiddlesticks runs match full JSON output",
+  "fullSimulationStarted": false,
+  "recordingStarted": false,
+  "pending": "confirm candidate sacrifice assumptions; audit Malphite model before full scan"
+}
