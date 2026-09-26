@@ -10,6 +10,8 @@
 
 全前排 v4 是另一组口径：83 个场景、749,490 个配置，其中不含心之钢的当前装备池 697,200 个配置；它按 50 来伤增压，**没有**护卫 v2 的逐 1 细分。不同口径的分数不能直接当成相同精度的结果。
 
+墨菲特独立专题另用 [2／4／6 黑荆棘 × 10 档献祭](../traits/blackthorn-sacrifice.md)建立 30 个条件，枚举 250,950 个配置；每档观察 30 秒，每 50 加压至首次失败后再按 1 细分。它不在全前排 v4 的 24 名原生前排池中，也不能把两期名次拼成一个总榜。
+
 这些是模拟输入和计分定义，不是游戏底层机制已经被证实。修改[锁蓝](../mechanics/mana-lock.md)、[护盾消耗](../mechanics/shields.md)、[冕卫](../equipment/crownguard.md)等会影响结论的规则后，应定向重算受影响配置，并明确新数据替代的旧版本。
 
 ## 复核入口
@@ -20,6 +22,7 @@
 | --- | --- |
 | 护卫 v2 冻结引擎 | `/Users/lyu/Documents/ChatGPT/金铲铲/exports/warden-best-20260926-v2/input/engine-web.hpp` |
 | 全前排 v4 冻结引擎 | `/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-01-rerun-v4/input/engine-web.hpp` |
+| 墨菲特专题冻结引擎及运行信息 | `/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-malphite-rerun-v1/input/engine-web.hpp`、同目录上级 `manifest.json` |
 | 模拟装备目录快照 | `/Users/lyu/Documents/ChatGPT/金铲铲/tank-lab/dist/data/catalog.json` |
 | 当前全前排数据指针 | `/Users/lyu/Documents/ChatGPT/金铲铲/state/frontline-episode-01-current.json` |
 
