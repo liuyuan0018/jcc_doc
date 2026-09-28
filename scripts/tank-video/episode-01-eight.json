@@ -1,0 +1,107 @@
+{
+  "id": "frontline-episode-01-eight",
+  "outputDir": "exports/frontline-episode-01-video-v1",
+  "outputName": "frontline-episode-01.mp4",
+  "replayScript": "replay-eight-full.mjs",
+  "replayData": "replay-eight.json",
+  "snapshot": {
+    "path": "exports/frontline-episode-01-design-v1/snapshot-data.json",
+    "sha256": "f347bdf94d95404a93535ade129d8f8acb6c0647df8260166dbca473ef091162"
+  },
+  "theme": {"path": "exports/frontline-episode-01-design-v3/design-v3-theme.json"},
+  "cover": {
+    "path": "exports/frontline-episode-01-cover-v2/cover-3x4.png",
+    "sha256": "90be0bc8694d8443be54d133f710f665b36639acbe1cebd84ad5888bdf9776d3"
+  },
+  "tts": {
+    "provider": "edge-tts",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+4%",
+    "pitch": "+0Hz",
+    "ttsVersion": "7.2.8",
+    "ttsOptions": {}
+  },
+  "voiceProcessing": {
+    "filterChain": "highpass=f=85:p=2,equalizer=f=3500:t=o:w=1:g=-1.5,deesser=i=0.15:m=0.25:f=0.5,acompressor=threshold=0.1:ratio=3:attack=0.3:release=70:makeup=1:knee=2.82843:detection=peak",
+    "fixedGainDb": 7.460000000000001,
+    "fadeMs": 8
+  },
+  "music": {
+    "path": "exports/frontline-video-wallpaper-v1/assets/Wallpaper.mp3",
+    "sha256": "9fa810e5193c88f1b360537366f210f16c2588106d5292f0659e9957fa274f96",
+    "gains": {
+      "wallpaperV2RecipeGainDb": -19.84,
+      "approvedV5AddDb": 3,
+      "note": "沿用已认可固定源增益（v2 配方 -19.84dB + v5 +3dB = -16.84dB，作用于既有 EQ 之后）；不因本片更长而重新归一化"
+    },
+    "fadeInSeconds": 0.6,
+    "fadeOutSeconds": 1.5
+  },
+  "timeline": {
+    "simRate": 3.5,
+    "holdMinSeconds": 2.2,
+    "cueGapSeconds": 0.45,
+    "coverLeadSeconds": 0.3,
+    "coverTailSeconds": 0.35,
+    "introMinSeconds": 3.2,
+    "resultMinSeconds": 7.0
+  },
+  "effects": {"path": "scripts/tank-video/effects-elimination.json"},
+  "credits": {
+    "path": "exports/frontline-video-wallpaper-v5/CREDITS.txt",
+    "sha256": "16fe3013961f2a5c085e3f2e0a3b90a1ee31dbfcd89fcfcdd12113e506111a64"
+  },
+  "cues": [
+    {"id": "cue-01", "text": "三件普通装，八个前排，谁能扛到最后？", "spoken": "三件普通装，八个前排，谁能扛到最后？"},
+    {"id": "cue-02", "text": "每轮满血重开，撑满三十秒，就继续加伤害。", "spoken": "每轮满血重开，撑满三十秒，就继续加伤害。"},
+    {"id": "cue-03", "text": "先看每秒一千二。", "spoken": "先看每秒一千二。"},
+    {"id": "cue-04", "text": "蜘蛛没撑到三十秒。", "spoken": "蜘蛛没撑到三十秒。"},
+    {"id": "cue-05", "text": "加到每秒一千二百五。", "spoken": "加到每秒一千二百五。"},
+    {"id": "cue-06", "text": "奥恩、河蟹和洛都没过，这三位并列第五。", "spoken": "奥恩、河蟹和洛都没过，这三位并列第五。"},
+    {"id": "cue-07", "text": "再加到每秒一千三。", "spoken": "再加到每秒一千三。"},
+    {"id": "cue-08", "text": "慎也没撑到三十秒。", "spoken": "慎也没撑到三十秒。"},
+    {"id": "cue-09", "text": "加到每秒一千五。", "spoken": "加到每秒一千五。"},
+    {"id": "cue-10", "text": "猪妹也没撑住，还剩两个。", "spoken": "猪妹也没撑住，还剩两个。"},
+    {"id": "cue-11", "text": "再加到每秒一千九百五。", "spoken": "再加到每秒一千九百五。"},
+    {"id": "cue-12", "text": "龙龟倒了。", "spoken": "龙龟倒了。"},
+    {"id": "cue-13", "text": "蔚撑满三十秒，赢下这一轮。", "spoken": "魏撑满三十秒，赢下这一轮。"},
+    {"id": "cue-14", "text": "这组测试，蔚最高扛住每秒两千二。", "spoken": "这组测试，魏最高扛住每秒两千二。"}
+  ],
+  "resultRows": [
+    {"lane": 0, "display": "蔚", "rank": "第1", "dps": 2200, "champion": true,
+     "meta": "6主宰 · 饮血 · 石像鬼×2 · 板甲"},
+    {"lane": 1, "display": "龙龟", "rank": "第2", "dps": 1900,
+     "meta": "6护卫 · 饮血 · 大天使 · 石像鬼 · 板甲"},
+    {"lane": 2, "display": "猪妹", "rank": "第3", "dps": 1450,
+     "meta": "6主宰 · 振奋×2 · 石像鬼 · 板甲"},
+    {"lane": 3, "display": "慎", "rank": "第4", "dps": 1250,
+     "meta": "6护卫 · 饮血 · 大天使×2 · 无指定海克斯"},
+    {"lane": 4, "display": "奥恩", "rank": "并列第5", "dps": 1200,
+     "meta": "6护卫 · 饮血 · 大天使 · 正义 · 无指定海克斯"},
+    {"lane": 5, "display": "河蟹", "rank": "并列第5", "dps": 1200,
+     "meta": "6主宰 · 振奋×2 · 石像鬼 · 板甲"},
+    {"lane": 6, "display": "洛", "rank": "并列第5", "dps": 1200,
+     "meta": "6主宰+4重装 · 9人口 · 冕卫 · 石像鬼×2 · 板甲"},
+    {"lane": 7, "display": "蜘蛛", "rank": "并列第8", "dps": 1150,
+     "meta": "6重装 · 鬼索 · 大天使 · 石像鬼 · 板甲"}
+  ],
+  "resultFootnote": "2200 来自完整加压链成绩 · 比较各自配置的持续承压，不是同经济实战胜率",
+  "immutable": [
+    {"path": "exports/frontline-episode-01-design-v3/layout-live.png",
+     "sha256": "febed6b9fa1e0e53b3fe21c63093a6d31234949962af66cf8d5b2f9485c811bb"},
+    {"path": "exports/frontline-episode-01-design-v3/layout-eliminated.png",
+     "sha256": "8c90e572679f47449b4a89a5a30a95e2b9c81fb780564df7f689fa02bab192e7"},
+    {"path": "exports/frontline-episode-01-design-v3/make-layouts-v3.py",
+     "sha256": "9a3a5f0e54c1f7bbaa2ae879b7b573775fb91dae8792b1574f7c54bcab8f6160"},
+    {"path": "exports/frontline-episode-01-design-v1/snapshot-data.json",
+     "sha256": "f347bdf94d95404a93535ade129d8f8acb6c0647df8260166dbca473ef091162"},
+    {"path": "exports/frontline-episode-01-cover-v2/cover-3x4.png",
+     "sha256": "90be0bc8694d8443be54d133f710f665b36639acbe1cebd84ad5888bdf9776d3"},
+    {"path": "exports/frontline-video-wallpaper-v1/assets/Wallpaper.mp3",
+     "sha256": "9fa810e5193c88f1b360537366f210f16c2588106d5292f0659e9957fa274f96"},
+    {"path": "exports/frontline-video-wallpaper-v5/01-hero-pressure-voice-natural.mp4",
+     "sha256": "27a80bf25f8a486bddfefa2727b8f213ba7bb1966629fc6c95dfeb75d9113ead"},
+    {"path": "exports/frontline-video-wallpaper-v5/CREDITS.txt",
+     "sha256": "16fe3013961f2a5c085e3f2e0a3b90a1ee31dbfcd89fcfcdd12113e506111a64"}
+  ]
+}

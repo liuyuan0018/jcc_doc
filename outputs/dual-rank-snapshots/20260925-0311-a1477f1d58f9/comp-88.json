@@ -1,0 +1,192 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "compId": "88",
+    "name": "森林天使",
+    "desc": null,
+    "gameCode": "【阵容码】#神器天使#MjIwMDY3MzAyODc5ODA4NTYxNzg3MTgxOTg4MDM0",
+    "heroes": [
+      {
+        "id": "1928",
+        "heroId": "2512",
+        "heroName": "凯尔",
+        "heroType": 0,
+        "isCarry": true,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 2,
+        "heroStarNum": 3,
+        "position": "4,1"
+      },
+      {
+        "id": "1927",
+        "heroId": "1509",
+        "heroName": "霞",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": true,
+        "isCore": true,
+        "price": 1,
+        "heroStarNum": 3,
+        "position": "4,2"
+      },
+      {
+        "id": "1923",
+        "heroId": "1500",
+        "heroName": "奥恩",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 1,
+        "heroStarNum": 3,
+        "position": "1,4"
+      },
+      {
+        "id": "1926",
+        "heroId": "1502",
+        "heroName": "蕾欧娜",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 1,
+        "heroStarNum": 3,
+        "position": "1,5"
+      },
+      {
+        "id": "1925",
+        "heroId": "2502",
+        "heroName": "瑟庄妮",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 2,
+        "heroStarNum": 3,
+        "position": "1,3"
+      },
+      {
+        "id": "1929",
+        "heroId": "2511",
+        "heroName": "乐芙兰",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 2,
+        "heroStarNum": 3,
+        "position": "4,3"
+      },
+      {
+        "id": "1924",
+        "heroId": "1501",
+        "heroName": "洛",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 1,
+        "heroStarNum": null,
+        "position": "1,2"
+      }
+    ],
+    "traits": [
+      {
+        "id": "83880101",
+        "name": "日蚀骑士"
+      },
+      {
+        "id": "83920101",
+        "name": "永恒之森"
+      },
+      {
+        "id": "83740101",
+        "name": "护卫"
+      },
+      {
+        "id": "83930101",
+        "name": "花仙子"
+      },
+      {
+        "id": "83830101",
+        "name": "迅捷射手"
+      },
+      {
+        "id": "83710101",
+        "name": "主宰"
+      }
+    ],
+    "equips": [
+      {
+        "heroId": "1500",
+        "equipId": "2028",
+        "compHeroId": "1923"
+      },
+      {
+        "heroId": "1500",
+        "equipId": "2025",
+        "compHeroId": "1923"
+      },
+      {
+        "heroId": "1500",
+        "equipId": "2034",
+        "compHeroId": "1923"
+      },
+      {
+        "heroId": "1502",
+        "equipId": "2028",
+        "compHeroId": "1926"
+      },
+      {
+        "heroId": "1502",
+        "equipId": "2025",
+        "compHeroId": "1926"
+      },
+      {
+        "heroId": "1502",
+        "equipId": "2034",
+        "compHeroId": "1926"
+      },
+      {
+        "heroId": "1509",
+        "equipId": "2010",
+        "compHeroId": "1927"
+      },
+      {
+        "heroId": "1509",
+        "equipId": "2013",
+        "compHeroId": "1927"
+      },
+      {
+        "heroId": "1509",
+        "equipId": "2046",
+        "compHeroId": "1927"
+      },
+      {
+        "heroId": "2512",
+        "equipId": "2010",
+        "compHeroId": "1928"
+      },
+      {
+        "heroId": "2512",
+        "equipId": "2038",
+        "compHeroId": "1928"
+      },
+      {
+        "heroId": "2512",
+        "equipId": "2016",
+        "compHeroId": "1928"
+      }
+    ],
+    "top4Rate": 52.26,
+    "topRate": 11,
+    "pickRate": 0.24,
+    "avgPlacement": 4.41,
+    "sampleCount": 6848,
+    "tier": "B",
+    "dataMode": "stats"
+  }
+}

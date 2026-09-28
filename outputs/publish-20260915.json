@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-15",
+  "operation": "update_existing_note",
+  "note_id": "6aa37e050000000029013c00",
+  "title": "S18阵容榜9.15｜附9套阵容码",
+  "assets": "exports/S18-18.2原笔记修正-20260915",
+  "image_count": 10,
+  "body_file": "exports/S18-18.2原笔记修正-20260915/正文.txt",
+  "manager_status": "审核中",
+  "manager_readback_title": true,
+  "original_publication_time": "2026-09-11 12:05",
+  "views": 17367,
+  "likes": 855,
+  "collects": 599,
+  "comments": 31,
+  "shares": 157,
+  "collection": "s18金铲铲阵容数据库",
+  "collection_verification": "saved editor reopened and collection name confirmed",
+  "changes": [
+    "9.14 statistical date / 138888 total matches",
+    "Ashe emblem priority, 76.4% equipment subset separated from 66.33% composition statistic",
+    "Current formation code retained; body and card explicitly require manual equipment adjustment after import"
+  ],
+  "game_import_verified": false,
+  "comment": {
+    "text": "9.15更新：地狱火转优先给艾希。当前带转分项中，艾希前四率76.4%（7956样本），希维尔61.7%（6119样本）。这是两人的带转样本表现，和封面上的整套体系前四率分开看。",
+    "status": "not_sent_captcha",
+    "pinning": "user will pin on mobile"
+  },
+  "saved_readback": {
+    "title": true,
+    "image_count": 10,
+    "ashe_priority_body": true,
+    "code_manual_equipment_note": true
+  }
+}

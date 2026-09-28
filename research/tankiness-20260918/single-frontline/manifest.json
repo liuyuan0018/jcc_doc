@@ -1,0 +1,16 @@
+{
+  "runs": 161226,
+  "elapsed": 182.5,
+  "normal_items": 13,
+  "normal_triples": 455,
+  "gold_triples": 91,
+  "dps": 1400,
+  "sources": 3,
+  "frequency": 3,
+  "mana_base": 20.0,
+  "limit": 30,
+  "dt": 0.016666666666666666,
+  "hp_rule": "all",
+  "budget": 9,
+  "source_sha256": "0338c0734fc0faec4cbd8d34bc1ffed1d77fae49169855536b4630097730d9c2"
+}

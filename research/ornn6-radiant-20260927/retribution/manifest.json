@@ -1,0 +1,8 @@
+{
+  "parent": "../manifest.json",
+  "augment": "正义报复",
+  "effect": "25% crit chance and one spell-crit source per holder, not per item",
+  "eligibility": "at least one ordinary Hand of Justice; radiant-only activation unconfirmed and excluded",
+  "source": "research/special-20260926/gamedata.json augment 30613",
+  "implementation": "isolated frozen engine variant; shared simulator unchanged"
+}

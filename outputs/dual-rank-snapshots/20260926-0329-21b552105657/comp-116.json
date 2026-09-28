@@ -1,0 +1,217 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "compId": "116",
+    "name": "裁决螳螂",
+    "desc": null,
+    "gameCode": "【阵容码】#裁决螳螂#MjIwMDY3MzAyODc5ODA4NTYxNzg5MjE4MDI5MTQ5",
+    "heroes": [
+      {
+        "id": "2324",
+        "heroId": "3505",
+        "heroName": "卡兹克",
+        "heroType": 0,
+        "isCarry": true,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 3,
+        "heroStarNum": 3,
+        "position": "1,7"
+      },
+      {
+        "id": "2333",
+        "heroId": "4513",
+        "heroName": "索拉卡",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": true,
+        "isCore": true,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "4,6"
+      },
+      {
+        "id": "2325",
+        "heroId": "3502",
+        "heroName": "费德提克",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 3,
+        "heroStarNum": 3,
+        "position": "1,2"
+      },
+      {
+        "id": "2326",
+        "heroId": "3500",
+        "heroName": "赫卡里姆",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 3,
+        "heroStarNum": 3,
+        "position": "1,6"
+      },
+      {
+        "id": "2328",
+        "heroId": "4508",
+        "heroName": "伊泽瑞尔",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "4,7"
+      },
+      {
+        "id": "2329",
+        "heroId": "4509",
+        "heroName": "厄斐琉斯",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "4,1"
+      },
+      {
+        "id": "2327",
+        "heroId": "3506",
+        "heroName": "黛安娜",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 3,
+        "heroStarNum": null,
+        "position": "2,6"
+      },
+      {
+        "id": "2330",
+        "heroId": "1500",
+        "heroName": "奥恩",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 1,
+        "heroStarNum": null,
+        "position": "2,1"
+      },
+      {
+        "id": "2331",
+        "heroId": "8705",
+        "heroName": "生命花",
+        "heroType": 1,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 0,
+        "heroStarNum": null,
+        "position": "3,1"
+      },
+      {
+        "id": "2332",
+        "heroId": "8704",
+        "heroName": "石皮树",
+        "heroType": 1,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 0,
+        "heroStarNum": null,
+        "position": "1,1"
+      }
+    ],
+    "traits": [
+      {
+        "id": "83920101",
+        "name": "永恒之森"
+      },
+      {
+        "id": "83890101",
+        "name": "裁决使"
+      },
+      {
+        "id": "83740101",
+        "name": "护卫"
+      },
+      {
+        "id": "83730102",
+        "name": "绝命花妖"
+      },
+      {
+        "id": "83870101",
+        "name": "月蚀骑士"
+      },
+      {
+        "id": "83720101",
+        "name": "重装战士"
+      },
+      {
+        "id": "84620101",
+        "name": "宿敌"
+      }
+    ],
+    "equips": [
+      {
+        "heroId": "3500",
+        "equipId": "2025",
+        "compHeroId": "2326"
+      },
+      {
+        "heroId": "3500",
+        "equipId": "2028",
+        "compHeroId": "2326"
+      },
+      {
+        "heroId": "3500",
+        "equipId": "2034",
+        "compHeroId": "2326"
+      },
+      {
+        "heroId": "3505",
+        "equipId": "2005",
+        "compHeroId": "2324"
+      },
+      {
+        "heroId": "3505",
+        "equipId": "2016",
+        "compHeroId": "2324"
+      },
+      {
+        "heroId": "3505",
+        "equipId": "2039",
+        "compHeroId": "2324"
+      },
+      {
+        "heroId": "4513",
+        "equipId": "2004",
+        "compHeroId": "2333"
+      },
+      {
+        "heroId": "4513",
+        "equipId": "2011",
+        "compHeroId": "2333"
+      },
+      {
+        "heroId": "4513",
+        "equipId": "2020",
+        "compHeroId": "2333"
+      }
+    ],
+    "top4Rate": 59.68,
+    "topRate": 14.23,
+    "pickRate": 0.36,
+    "avgPlacement": 4.01,
+    "sampleCount": 11876,
+    "tier": "S",
+    "dataMode": "stats"
+  }
+}

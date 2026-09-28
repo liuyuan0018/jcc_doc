@@ -1,0 +1,79 @@
+[
+  {
+    "compId": "90",
+    "heroId": "4512",
+    "equipId": "41818",
+    "stats": {
+      "id": "41818",
+      "equipIds": [
+        41818
+      ],
+      "equips": [
+        {
+          "id": 41818,
+          "name": "裁决使纹章",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41818.png"
+        }
+      ],
+      "sampleCount": 11410,
+      "playRate": 19.02,
+      "top4Rate": 61.97,
+      "topRate": 20.67,
+      "avgPlacement": 3.83,
+      "tier": "S",
+      "placementDelta": -0.98
+    },
+    "url": "https://www.dataj.cc/api/web/comp/90/hero-equips?setId=18&gameVersion=18.1.c&heroId=4512"
+  },
+  {
+    "compId": "112",
+    "heroId": "5454",
+    "equipId": "41806",
+    "stats": {
+      "id": "41806",
+      "equipIds": [
+        41806
+      ],
+      "equips": [
+        {
+          "id": 41806,
+          "name": "地狱火纹章",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+        }
+      ],
+      "sampleCount": 3400,
+      "playRate": 33.34,
+      "top4Rate": 72.29,
+      "topRate": 34.26,
+      "avgPlacement": 3.18,
+      "tier": "S"
+    },
+    "url": "https://www.dataj.cc/api/web/comp/112/hero-equips?setId=18&gameVersion=18.1.c&heroId=5454"
+  },
+  {
+    "compId": "114",
+    "heroId": "4506",
+    "equipId": "41815",
+    "stats": {
+      "id": "41815",
+      "equipIds": [
+        41815
+      ],
+      "equips": [
+        {
+          "id": 41815,
+          "name": "迅捷射手纹章",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41815.png"
+        }
+      ],
+      "sampleCount": 58,
+      "playRate": 36.71,
+      "top4Rate": 62.07,
+      "topRate": 18.97,
+      "avgPlacement": 3.86,
+      "tier": "S",
+      "placementDelta": -0.81
+    },
+    "url": "https://www.dataj.cc/api/web/comp/114/hero-equips?setId=18&gameVersion=18.1.c&heroId=4506"
+  }
+]

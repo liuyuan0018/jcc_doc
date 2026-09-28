@@ -1,0 +1,14 @@
+{
+  "id": "frontline-episode-02-v2",
+  "status": "ranked",
+  "production": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-02-v2",
+  "configurations": 1706880,
+  "heroCount": 24,
+  "excludedArtifact": "探索者的护臂",
+  "augments": [
+    "无指定海克斯",
+    "单身板甲",
+    "金霖龙"
+  ],
+  "videoStarted": false
+}

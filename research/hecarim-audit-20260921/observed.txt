@@ -1,0 +1,21 @@
+mode=0 dps=1000 seconds=30 attacks=11 casts=4 heal=2963.77 hp=1297.56
+mode=0 dps=1400 seconds=24.3333 attacks=8 casts=4 heal=3140.4 hp=0
+mode=0 dps=1800 seconds=17 attacks=5 casts=3 heal=2322.73 hp=0
+mode=1 dps=1000 seconds=30 attacks=18 casts=4 heal=2963.77 hp=1436.35
+mode=1 dps=1400 seconds=24.3333 attacks=15 casts=4 heal=3140.4 hp=0
+mode=1 dps=1800 seconds=17 attacks=10 casts=3 heal=2322.73 hp=0
+mode=2 dps=1000 seconds=30 attacks=9 casts=5 heal=3723.58 hp=2282.92
+mode=2 dps=1400 seconds=28.3333 attacks=6 casts=6 heal=4757 hp=0
+mode=2 dps=1800 seconds=21 attacks=3 casts=6 heal=4118.95 hp=0
+mode=3 dps=1000 seconds=30 attacks=18 casts=6 heal=3772.07 hp=2595.67
+mode=3 dps=1400 seconds=29.3333 attacks=17 casts=7 heal=4936.62 hp=0
+mode=3 dps=1800 seconds=23 attacks=13 casts=7 heal=4927.25 hp=0
+isolated star=1 AP=100 healing=375 expected=375 damage=240 expected=240 attacks=0
+isolated star=1 AP=118 healing=442.5 expected=442.5 damage=283.2 expected=283.2 attacks=0
+isolated star=1 AP=200 healing=750 expected=750 damage=480 expected=480 attacks=0
+isolated star=2 AP=100 healing=475 expected=475 damage=360 expected=360 attacks=0
+isolated star=2 AP=118 healing=560.5 expected=560.5 damage=424.8 expected=424.8 attacks=0
+isolated star=2 AP=200 healing=950 expected=950 damage=720 expected=720 attacks=0
+isolated star=3 AP=100 healing=685 expected=685 damage=585 expected=585 attacks=0
+isolated star=3 AP=118 healing=808.3 expected=808.3 damage=690.3 expected=690.3 attacks=0
+isolated star=3 AP=200 healing=1370 expected=1370 damage=1170 expected=1170 attacks=0

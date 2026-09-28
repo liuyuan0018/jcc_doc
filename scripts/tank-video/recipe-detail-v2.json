@@ -1,0 +1,67 @@
+{
+  "version": 2,
+  "sourceJob": "971984d9c5204dbb9de723f42d8bd9c4",
+  "output": "exports/frontline-video-detail-v2",
+  "filters": {
+    "targetCount": "3",
+    "wound": "0.33",
+    "resistance": "3",
+    "trait": "",
+    "traitMax": "",
+    "slots": "",
+    "hero": "",
+    "cost": "",
+    "star": "practical",
+    "cat": "2",
+    "aug": "2",
+    "alive": false
+  },
+  "main": {
+    "id": "01-hero-pressure",
+    "title": "谁才是最能扛的前排？",
+    "subtitle": "金鳞龙 · 各自最优配置 · 四强对比",
+    "topCount": 4,
+    "introSeconds": 4,
+    "roundSeconds": 7,
+    "holdSeconds": 1.2,
+    "outroSeconds": 5
+  },
+  "detail": {
+    "id": "02-vi-build-tiers",
+    "hero": "蔚",
+    "title": "同一个蔚，配装能差多少？",
+    "subtitle": "三星蔚 · 6主宰 · 三套配装同场对照",
+    "pool": [
+      "冕卫",
+      "圣盾使的誓约",
+      "适应性头盔",
+      "振奋盔甲",
+      "棘刺背心",
+      "石像鬼石板甲",
+      "坚定之心",
+      "巨龙之爪",
+      "狂徒铠甲"
+    ],
+    "fixedItem": "大亨之铠",
+    "quantiles": [
+      0.25,
+      0.6,
+      1.0
+    ],
+    "pressureStart": 600,
+    "pressureStep": 50,
+    "pressureMax": 4000,
+    "minTierGap": 150,
+    "introSeconds": 4,
+    "roundSeconds": 8,
+    "holdSeconds": 1.4,
+    "outroSeconds": 5,
+    "displayOrder": "descending",
+    "introCaption": "从上到下按承压能力排序，三套配装一起加压。"
+  },
+  "render": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  }
+}

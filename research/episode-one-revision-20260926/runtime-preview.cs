@@ -1,0 +1,10 @@
+var p=UnityEngine.Object.FindFirstObjectByType<Jcc.Presentation.ReplayPlayer>();
+if (!p) throw new System.Exception("No ReplayPlayer");
+p.Pause();
+foreach(var c in p.GetComponentsInChildren<Jcc.Presentation.ReplayControls>(true)) c.gameObject.SetActive(false);
+if(!p.LoadJson(System.IO.File.ReadAllText("/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-01-video-v6/replay.json"),false)) throw new System.Exception(p.LastError);
+p.Seek(10);
+UnityEngine.Application.runInBackground=true;
+var view=UnityEditor.EditorWindow.GetWindow(typeof(UnityEditor.Editor).Assembly.GetType("UnityEditor.GameView"));view.Show();view.Focus();
+await GameFramework.MediaCapture.Unity.UnityScreenshot.CaptureAsync("/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-01-video-v6/live-main.png");
+return "Live preview ready";

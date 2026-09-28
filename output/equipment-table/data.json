@@ -1,0 +1,462 @@
+[
+  {
+    "row": 1,
+    "iconIds": [
+      "2001",
+      "41806",
+      "41816"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/41806.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/41816.png"
+    ],
+    "rating": "S",
+    "games": 384,
+    "pickRate": "0.7%",
+    "averageRank": "2.60",
+    "rankDelta": "-1.24",
+    "top4": "81.5%",
+    "winRate": "47.4%"
+  },
+  {
+    "row": 2,
+    "iconIds": [
+      "2001",
+      "steraksgage",
+      "41806"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/steraksgage.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/41806.png"
+    ],
+    "rating": "S",
+    "games": 602,
+    "pickRate": "1.1%",
+    "averageRank": "2.87",
+    "rankDelta": "-0.97",
+    "top4": "77.4%",
+    "winRate": "39.7%"
+  },
+  {
+    "row": 3,
+    "iconIds": [
+      "2001",
+      "2039",
+      "41806"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2039.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/41806.png"
+    ],
+    "rating": "S",
+    "games": 355,
+    "pickRate": "0.7%",
+    "averageRank": "3.06",
+    "rankDelta": "-0.78",
+    "top4": "72.7%",
+    "winRate": "37.5%"
+  },
+  {
+    "row": 4,
+    "iconIds": [
+      "2001",
+      "2045",
+      "41806"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2045.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/41806.png"
+    ],
+    "rating": "S",
+    "games": 653,
+    "pickRate": "1.2%",
+    "averageRank": "2.98",
+    "rankDelta": "-0.86",
+    "top4": "75.8%",
+    "winRate": "36.0%"
+  },
+  {
+    "row": 5,
+    "iconIds": [
+      "2001",
+      "2009",
+      "41806"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2009.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/41806.png"
+    ],
+    "rating": "S",
+    "games": 1207,
+    "pickRate": "2.3%",
+    "averageRank": "3.19",
+    "rankDelta": "-0.65",
+    "top4": "71.8%",
+    "winRate": "35.1%"
+  },
+  {
+    "row": 6,
+    "iconIds": [
+      "2001",
+      "2053",
+      "41806"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2053.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/41806.png"
+    ],
+    "rating": "S",
+    "games": 924,
+    "pickRate": "1.8%",
+    "averageRank": "3.25",
+    "rankDelta": "-0.59",
+    "top4": "71.2%",
+    "winRate": "33.2%"
+  },
+  {
+    "row": 7,
+    "iconIds": [
+      "2001",
+      "2004",
+      "41806"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2004.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/41806.png"
+    ],
+    "rating": "S",
+    "games": 326,
+    "pickRate": "0.6%",
+    "averageRank": "3.85",
+    "rankDelta": "+0.02",
+    "top4": "59.8%",
+    "winRate": "27.9%"
+  },
+  {
+    "row": 8,
+    "iconIds": [
+      "2001",
+      "steraksgage",
+      "41816"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/steraksgage.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/41816.png"
+    ],
+    "rating": "S",
+    "games": 377,
+    "pickRate": "0.7%",
+    "averageRank": "3.14",
+    "rankDelta": "-0.70",
+    "top4": "74.8%",
+    "winRate": "27.9%"
+  },
+  {
+    "row": 9,
+    "iconIds": [
+      "2001",
+      "2053",
+      "41816"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2053.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/41816.png"
+    ],
+    "rating": "S",
+    "games": 544,
+    "pickRate": "1.0%",
+    "averageRank": "3.42",
+    "rankDelta": "-0.42",
+    "top4": "68.0%",
+    "winRate": "27.4%"
+  },
+  {
+    "row": 10,
+    "iconIds": [
+      "2001",
+      "2009",
+      "2053"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2009.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2053.png"
+    ],
+    "rating": "S",
+    "games": 761,
+    "pickRate": "1.4%",
+    "averageRank": "3.41",
+    "rankDelta": "-0.43",
+    "top4": "69.8%",
+    "winRate": "24.3%"
+  },
+  {
+    "row": 11,
+    "iconIds": [
+      "2001",
+      "steraksgage",
+      "strikersflail"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/steraksgage.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/strikersflail.png"
+    ],
+    "rating": "S",
+    "games": 461,
+    "pickRate": "0.9%",
+    "averageRank": "3.21",
+    "rankDelta": "-0.63",
+    "top4": "76.1%",
+    "winRate": "24.1%"
+  },
+  {
+    "row": 12,
+    "iconIds": [
+      "2001",
+      "steraksgage",
+      "2009"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/steraksgage.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2009.png"
+    ],
+    "rating": "S",
+    "games": 557,
+    "pickRate": "1.1%",
+    "averageRank": "3.47",
+    "rankDelta": "-0.37",
+    "top4": "68.9%",
+    "winRate": "23.9%"
+  },
+  {
+    "row": 13,
+    "iconIds": [
+      "2001",
+      "2045",
+      "41816"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2045.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/41816.png"
+    ],
+    "rating": "S",
+    "games": 339,
+    "pickRate": "0.7%",
+    "averageRank": "3.62",
+    "rankDelta": "-0.21",
+    "top4": "66.1%",
+    "winRate": "23.6%"
+  },
+  {
+    "row": 14,
+    "iconIds": [
+      "2001",
+      "2009",
+      "2045"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2009.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2045.png"
+    ],
+    "rating": "S",
+    "games": 551,
+    "pickRate": "1.1%",
+    "averageRank": "3.59",
+    "rankDelta": "-0.24",
+    "top4": "65.9%",
+    "winRate": "23.4%"
+  },
+  {
+    "row": 15,
+    "iconIds": [
+      "2001",
+      "bloodthirster",
+      "2053"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/bloodthirster.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2053.png"
+    ],
+    "rating": "S",
+    "games": 487,
+    "pickRate": "0.9%",
+    "averageRank": "3.64",
+    "rankDelta": "-0.19",
+    "top4": "65.5%",
+    "winRate": "23.4%"
+  },
+  {
+    "row": 16,
+    "iconIds": [
+      "2001",
+      "steraksgage",
+      "2039"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/steraksgage.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2039.png"
+    ],
+    "rating": "S",
+    "games": 639,
+    "pickRate": "1.2%",
+    "averageRank": "3.48",
+    "rankDelta": "-0.36",
+    "top4": "68.4%",
+    "winRate": "23.3%"
+  },
+  {
+    "row": 17,
+    "iconIds": [
+      "2001",
+      "2045",
+      "2046"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2045.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2046.png"
+    ],
+    "rating": "S",
+    "games": 416,
+    "pickRate": "0.8%",
+    "averageRank": "3.43",
+    "rankDelta": "-0.41",
+    "top4": "70.4%",
+    "winRate": "23.3%"
+  },
+  {
+    "row": 18,
+    "iconIds": [
+      "2001",
+      "2053",
+      "strikersflail"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2053.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/strikersflail.png"
+    ],
+    "rating": "S",
+    "games": 634,
+    "pickRate": "1.2%",
+    "averageRank": "3.35",
+    "rankDelta": "-0.49",
+    "top4": "71.8%",
+    "winRate": "22.9%"
+  },
+  {
+    "row": 19,
+    "iconIds": [
+      "2001",
+      "strikersflail",
+      "2045"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/strikersflail.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2045.png"
+    ],
+    "rating": "S",
+    "games": 342,
+    "pickRate": "0.7%",
+    "averageRank": "3.25",
+    "rankDelta": "-0.59",
+    "top4": "74.6%",
+    "winRate": "22.8%"
+  },
+  {
+    "row": 20,
+    "iconIds": [
+      "2001",
+      "steraksgage",
+      "2053"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/steraksgage.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2053.png"
+    ],
+    "rating": "S",
+    "games": 1889,
+    "pickRate": "3.6%",
+    "averageRank": "3.56",
+    "rankDelta": "-0.28",
+    "top4": "67.4%",
+    "winRate": "22.4%"
+  },
+  {
+    "row": 21,
+    "iconIds": [
+      "2001",
+      "2039",
+      "2045"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2039.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2045.png"
+    ],
+    "rating": "S",
+    "games": 488,
+    "pickRate": "0.9%",
+    "averageRank": "3.56",
+    "rankDelta": "-0.27",
+    "top4": "68.2%",
+    "winRate": "21.1%"
+  },
+  {
+    "row": 22,
+    "iconIds": [
+      "2001",
+      "steraksgage",
+      "2045"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/steraksgage.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2045.png"
+    ],
+    "rating": "S",
+    "games": 875,
+    "pickRate": "1.7%",
+    "averageRank": "3.52",
+    "rankDelta": "-0.32",
+    "top4": "68.7%",
+    "winRate": "21.0%"
+  },
+  {
+    "row": 23,
+    "iconIds": [
+      "2001",
+      "2053",
+      "2039"
+    ],
+    "iconPaths": [
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2001.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2053.png",
+      "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2039.png"
+    ],
+    "rating": "S",
+    "games": 849,
+    "pickRate": "1.6%",
+    "averageRank": "3.51",
+    "rankDelta": "-0.33",
+    "top4": "69.1%",
+    "winRate": "20.9%"
+  }
+]

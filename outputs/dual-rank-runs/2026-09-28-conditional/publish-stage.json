@@ -1,0 +1,24 @@
+{
+  "observed_at": "2026-09-28T12:44:42.038643+00:00",
+  "evidence_method": "native_chrome_cua_success_and_manager",
+  "regular": {
+    "note_id": "6aae77650000000029014a10",
+    "title": "金铲铲S18阵容榜9.28｜附阵容码",
+    "images": 12,
+    "success_prompt": "更新成功",
+    "manager_status": "审核中"
+  },
+  "cold": {
+    "note_id": "6ab95e5e000000001b030e09",
+    "title": "金铲铲S18 冷门榜9.28｜附阵容码",
+    "images": 9,
+    "success_prompt": "更新成功",
+    "manager_status": "提交后审核中；最终管理页列出且无审核中标记"
+  },
+  "public_visibility_verified": false,
+  "topics_and_settings": "保留原笔记话题、合集、原创、公开和允许复制设置",
+  "delivery_path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc",
+  "data_cutoff_beijing": "2026-09-28 03:31",
+  "status": "submitted",
+  "visual_reuse_unchanged_png_count": 18
+}

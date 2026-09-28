@@ -1,0 +1,140 @@
+{
+  "stage": "reviewable videos delivered",
+  "episodes": [
+    {
+      "stage": "reviewable video delivered",
+      "tier": 2,
+      "star": 3,
+      "ordinary": 3,
+      "augments": [
+        "none",
+        "lone stoneplate"
+      ],
+      "production": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/ornn-2warden-video-20260928",
+      "delivery": [
+        {
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/奥恩-三星2护卫-普通配装-视频.mp4",
+          "source": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/ornn-2warden-video-20260928/review.mp4",
+          "sha256": "4025f4abc4834224080f34323dc60b1000b59423e647665dab74227da1d1ace4"
+        },
+        {
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/奥恩-三星2护卫-普通配装-封面.png",
+          "source": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/ornn-2warden-video-20260928/cover-video.png",
+          "sha256": "6b7597bcae1d8eb6cd0337ab3af7e5497c48e3695a57973696457b36d9f8769e"
+        },
+        {
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/奥恩-三星2护卫-普通配装-文案.txt",
+          "source": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/ornn-2warden-video-20260928/发布文案.txt",
+          "sha256": "2be6b22701945ee956fbe70fe3485314c78c9d095fda4a5928694eaa311b447c"
+        }
+      ],
+      "continuousTake": true,
+      "mediaValidated": true,
+      "audioSync": [
+        {
+          "time": 1,
+          "audioOffsetSeconds": 0.0,
+          "correlation": 0.9996850288165074
+        },
+        {
+          "time": 20,
+          "audioOffsetSeconds": 0.0,
+          "correlation": 0.9997318714885097
+        },
+        {
+          "time": 50,
+          "audioOffsetSeconds": 0.0,
+          "correlation": 0.9998221161924735
+        },
+        {
+          "time": 80,
+          "audioOffsetSeconds": 0.0,
+          "correlation": 0.9998688959470019
+        },
+        {
+          "time": 127.0,
+          "audioOffsetSeconds": 0.0,
+          "correlation": 0.9995493730808486
+        },
+        {
+          "time": 157.0,
+          "audioOffsetSeconds": 0.0,
+          "correlation": 0.9997695640219608
+        }
+      ],
+      "duplicateFrames": 88,
+      "outputFrames": 5042,
+      "droppedAudioFrames": 0,
+      "userApproved": false,
+      "published": false
+    },
+    {
+      "stage": "reviewable video delivered",
+      "tier": 6,
+      "star": 3,
+      "ordinary": 3,
+      "augments": [
+        "none",
+        "lone stoneplate"
+      ],
+      "production": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/ornn-6warden-video-20260928",
+      "delivery": [
+        {
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/奥恩-三星6护卫-普通配装-视频.mp4",
+          "source": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/ornn-6warden-video-20260928/review.mp4",
+          "sha256": "25cef4b95458bb868962d033d3ef6aeb491d292df6460ab9712d983dde8de5f3"
+        },
+        {
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/奥恩-三星6护卫-普通配装-封面.png",
+          "source": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/ornn-6warden-video-20260928/cover-video.png",
+          "sha256": "fc890df25abb5b3124932057c33e02a3cd855acf0d6b5114a94949042133b6e1"
+        },
+        {
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/奥恩-三星6护卫-普通配装-文案.txt",
+          "source": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/ornn-6warden-video-20260928/发布文案.txt",
+          "sha256": "8f2be13417469bc6578d2d98a474bbd380b0671629d61e8c931e6f1a0a046565"
+        }
+      ],
+      "continuousTake": true,
+      "mediaValidated": true,
+      "audioSync": [
+        {
+          "time": 1,
+          "audioOffsetSeconds": 0.0,
+          "correlation": 0.99982329507692
+        },
+        {
+          "time": 20,
+          "audioOffsetSeconds": 0.0,
+          "correlation": 0.9997428753323978
+        },
+        {
+          "time": 50,
+          "audioOffsetSeconds": 0.0,
+          "correlation": 0.9998812567769721
+        },
+        {
+          "time": 80,
+          "audioOffsetSeconds": 0.0,
+          "correlation": 0.9998510617709018
+        },
+        {
+          "time": 138.5,
+          "audioOffsetSeconds": 0.0,
+          "correlation": 0.9997065955011523
+        },
+        {
+          "time": 168.5,
+          "audioOffsetSeconds": 0.0,
+          "correlation": 0.9994722301897363
+        }
+      ],
+      "duplicateFrames": 63,
+      "outputFrames": 5387,
+      "droppedAudioFrames": 0,
+      "userApproved": false,
+      "published": false
+    }
+  ],
+  "published": false
+}

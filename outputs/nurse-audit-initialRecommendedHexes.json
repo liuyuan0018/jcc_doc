@@ -1,0 +1,66 @@
+{
+  "compId": "90",
+  "sampleCount": 20856,
+  "hexes": [
+    {
+      "id": "20225",
+      "name": "金色炊具",
+      "pickRate": 5.54,
+      "pickCount": 3566
+    },
+    {
+      "id": "30668",
+      "name": "厨神阿福",
+      "pickRate": 3.98,
+      "pickCount": 2559
+    },
+    {
+      "id": "20619",
+      "name": "双城赢家",
+      "pickRate": 2.66,
+      "pickCount": 1710
+    },
+    {
+      "id": "20041",
+      "name": "双排",
+      "pickRate": 2.47,
+      "pickCount": 1591
+    },
+    {
+      "id": "2184",
+      "name": "大百宝袋",
+      "pickRate": 2.46,
+      "pickCount": 1582
+    },
+    {
+      "id": "20760",
+      "name": "致命丽花",
+      "pickRate": 2.41,
+      "pickCount": 1548
+    },
+    {
+      "id": "20141",
+      "name": "专属定制",
+      "pickRate": 2.34,
+      "pickCount": 1508
+    },
+    {
+      "id": "3093",
+      "name": "便携锻炉",
+      "pickRate": 2.22,
+      "pickCount": 1427
+    },
+    {
+      "id": "20698",
+      "name": "镀金钢铁",
+      "pickRate": 1.71,
+      "pickCount": 1103
+    },
+    {
+      "id": "20629",
+      "name": "杖之工匠",
+      "pickRate": 1.65,
+      "pickCount": 1065
+    }
+  ]
+}

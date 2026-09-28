@@ -1,0 +1,185 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "compId": "100",
+    "name": "重装女警",
+    "desc": null,
+    "gameCode": "【阵容码】#重装女警#MjIwMDY3MzAyODc5ODA4NTYxNzg3NDAyMjM1MzI3",
+    "heroes": [
+      {
+        "id": "2153",
+        "heroId": "2510",
+        "heroName": "凯特琳",
+        "heroType": 0,
+        "isCarry": true,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 2,
+        "heroStarNum": 3,
+        "position": "4,7"
+      },
+      {
+        "id": "2155",
+        "heroId": "4510",
+        "heroName": "希维尔",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": true,
+        "isCore": true,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "4,5"
+      },
+      {
+        "id": "2157",
+        "heroId": "3500",
+        "heroName": "赫卡里姆",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 3,
+        "heroStarNum": null,
+        "position": "1,5"
+      },
+      {
+        "id": "2152",
+        "heroId": "2504",
+        "heroName": "伊莉丝",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 2,
+        "heroStarNum": 3,
+        "position": "1,6"
+      },
+      {
+        "id": "2158",
+        "heroId": "4500",
+        "heroName": "苍蓝雕纹魔像",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "1,4"
+      },
+      {
+        "id": "2156",
+        "heroId": "3501",
+        "heroName": "蔚",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 3,
+        "heroStarNum": null,
+        "position": "1,2"
+      },
+      {
+        "id": "2159",
+        "heroId": "3508",
+        "heroName": "崔丝塔娜",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 3,
+        "heroStarNum": null,
+        "position": "4,1"
+      },
+      {
+        "id": "2154",
+        "heroId": "1501",
+        "heroName": "洛",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 1,
+        "heroStarNum": null,
+        "position": "1,3"
+      }
+    ],
+    "traits": [
+      {
+        "id": "83720102",
+        "name": "重装战士"
+      },
+      {
+        "id": "83750102",
+        "name": "猎人"
+      },
+      {
+        "id": "83930101",
+        "name": "花仙子"
+      },
+      {
+        "id": "83970101",
+        "name": "野兽之灵"
+      },
+      {
+        "id": "83710101",
+        "name": "主宰"
+      }
+    ],
+    "equips": [
+      {
+        "heroId": "2504",
+        "equipId": "2025",
+        "compHeroId": "2152"
+      },
+      {
+        "heroId": "2504",
+        "equipId": "2028",
+        "compHeroId": "2152"
+      },
+      {
+        "heroId": "2504",
+        "equipId": "2034",
+        "compHeroId": "2152"
+      },
+      {
+        "heroId": "2510",
+        "equipId": "2045",
+        "compHeroId": "2153"
+      },
+      {
+        "heroId": "2510",
+        "equipId": "2013",
+        "compHeroId": "2153"
+      },
+      {
+        "heroId": "2510",
+        "equipId": "2010",
+        "compHeroId": "2153"
+      },
+      {
+        "heroId": "3500",
+        "equipId": "2029",
+        "compHeroId": "2157"
+      },
+      {
+        "heroId": "3500",
+        "equipId": "2034",
+        "compHeroId": "2157"
+      },
+      {
+        "heroId": "3500",
+        "equipId": "2032",
+        "compHeroId": "2157"
+      }
+    ],
+    "top4Rate": 58.46,
+    "topRate": 6.29,
+    "pickRate": 0.14,
+    "avgPlacement": 4.18,
+    "sampleCount": 3483,
+    "tier": "A",
+    "dataMode": "stats"
+  }
+}

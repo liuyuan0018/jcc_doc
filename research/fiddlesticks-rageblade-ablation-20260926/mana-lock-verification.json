@@ -1,0 +1,150 @@
+{
+  "dps": 650,
+  "passed": true,
+  "checks": [
+    {
+      "id": "s158-b2942-a4",
+      "mode": "original",
+      "lockedFrames": 264,
+      "manaDuringLockMax": 0,
+      "attackDuringChannelViolations": 0,
+      "blockedMana": 111.8263081,
+      "casts": 5
+    },
+    {
+      "id": "s158-b2942-a4",
+      "mode": "without",
+      "lockedFrames": 240,
+      "manaDuringLockMax": 0,
+      "attackDuringChannelViolations": 0,
+      "blockedMana": 98.4071511,
+      "casts": 4
+    },
+    {
+      "id": "s158-b2932-a0",
+      "mode": "original",
+      "lockedFrames": 300,
+      "manaDuringLockMax": 0,
+      "attackDuringChannelViolations": 0,
+      "blockedMana": 127.7921071,
+      "casts": 5
+    },
+    {
+      "id": "s158-b2932-a0",
+      "mode": "without",
+      "lockedFrames": 240,
+      "manaDuringLockMax": 0,
+      "attackDuringChannelViolations": 0,
+      "blockedMana": 103.2167019,
+      "casts": 4
+    },
+    {
+      "id": "s158-b2931-a0",
+      "mode": "original",
+      "lockedFrames": 300,
+      "manaDuringLockMax": 0,
+      "attackDuringChannelViolations": 0,
+      "blockedMana": 144.8751297,
+      "casts": 5
+    },
+    {
+      "id": "s158-b2931-a0",
+      "mode": "without",
+      "lockedFrames": 241,
+      "manaDuringLockMax": 0,
+      "attackDuringChannelViolations": 0,
+      "blockedMana": 107.8976269,
+      "casts": 5
+    },
+    {
+      "id": "s158-b4684-a4",
+      "mode": "original",
+      "lockedFrames": 264,
+      "manaDuringLockMax": 0,
+      "attackDuringChannelViolations": 0,
+      "blockedMana": 111.8263081,
+      "casts": 5
+    },
+    {
+      "id": "s158-b4684-a4",
+      "mode": "without",
+      "lockedFrames": 240,
+      "manaDuringLockMax": 0,
+      "attackDuringChannelViolations": 0,
+      "blockedMana": 98.4071511,
+      "casts": 4
+    },
+    {
+      "id": "s158-b2939-a0",
+      "mode": "original",
+      "lockedFrames": 300,
+      "manaDuringLockMax": 0,
+      "attackDuringChannelViolations": 0,
+      "blockedMana": 153.3598768,
+      "casts": 5
+    },
+    {
+      "id": "s158-b2939-a0",
+      "mode": "without",
+      "lockedFrames": 258,
+      "manaDuringLockMax": 0,
+      "attackDuringChannelViolations": 0,
+      "blockedMana": 131.4608468,
+      "casts": 5
+    },
+    {
+      "id": "s158-b4666-a4",
+      "mode": "original",
+      "lockedFrames": 300,
+      "manaDuringLockMax": 0,
+      "attackDuringChannelViolations": 0,
+      "blockedMana": 127.6212121,
+      "casts": 5
+    },
+    {
+      "id": "s158-b4666-a4",
+      "mode": "without",
+      "lockedFrames": 240,
+      "manaDuringLockMax": 0,
+      "attackDuringChannelViolations": 0,
+      "blockedMana": 103.0030303,
+      "casts": 4
+    },
+    {
+      "id": "s158-b4782-a4",
+      "mode": "original",
+      "lockedFrames": 300,
+      "manaDuringLockMax": 0,
+      "attackDuringChannelViolations": 0,
+      "blockedMana": 145.5618182,
+      "casts": 5
+    },
+    {
+      "id": "s158-b4782-a4",
+      "mode": "without",
+      "lockedFrames": 240,
+      "manaDuringLockMax": 0,
+      "attackDuringChannelViolations": 0,
+      "blockedMana": 115.5812121,
+      "casts": 4
+    },
+    {
+      "id": "s158-b2940-a0",
+      "mode": "original",
+      "lockedFrames": 300,
+      "manaDuringLockMax": 0,
+      "attackDuringChannelViolations": 0,
+      "blockedMana": 144.8751297,
+      "casts": 5
+    },
+    {
+      "id": "s158-b2940-a0",
+      "mode": "without",
+      "lockedFrames": 241,
+      "manaDuringLockMax": 0,
+      "attackDuringChannelViolations": 0,
+      "blockedMana": 107.8976269,
+      "casts": 5
+    }
+  ]
+}

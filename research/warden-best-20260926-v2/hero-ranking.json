@@ -1,0 +1,416 @@
+[
+  {
+    "hero": "拉莫斯",
+    "star": 3,
+    "tier": 2,
+    "scenario": 183,
+    "score": 915,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s183-p8028",
+        "items": [
+          24,
+          24,
+          27
+        ],
+        "augment": 4,
+        "score": 915,
+        "passedDps": 900,
+        "failedDps": 950
+      }
+    ],
+    "heroRankInTier": 1
+  },
+  {
+    "hero": "费德提克",
+    "star": 3,
+    "tier": 2,
+    "scenario": 156,
+    "score": 833,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s156-p3287",
+        "items": [
+          5,
+          17,
+          27
+        ],
+        "augment": 4,
+        "score": 833,
+        "passedDps": 800,
+        "failedDps": 850
+      }
+    ],
+    "heroRankInTier": 2
+  },
+  {
+    "hero": "慎",
+    "star": 3,
+    "tier": 2,
+    "scenario": 111,
+    "score": 710,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s111-p8028",
+        "items": [
+          24,
+          24,
+          27
+        ],
+        "augment": 4,
+        "score": 710,
+        "passedDps": 700,
+        "failedDps": 750
+      }
+    ],
+    "heroRankInTier": 3
+  },
+  {
+    "hero": "奥恩",
+    "star": 3,
+    "tier": 2,
+    "scenario": 6,
+    "score": 568,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s6-p8028",
+        "items": [
+          24,
+          24,
+          27
+        ],
+        "augment": 4,
+        "score": 568,
+        "passedDps": 550,
+        "failedDps": 600
+      }
+    ],
+    "heroRankInTier": 4
+  },
+  {
+    "hero": "莉莉娅",
+    "star": 2,
+    "tier": 2,
+    "scenario": 198,
+    "score": 509,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s198-p8028",
+        "items": [
+          24,
+          24,
+          27
+        ],
+        "augment": 4,
+        "score": 509,
+        "passedDps": 500,
+        "failedDps": 550
+      }
+    ],
+    "heroRankInTier": 5
+  },
+  {
+    "hero": "蕾欧娜",
+    "star": 3,
+    "tier": 2,
+    "scenario": 57,
+    "score": 432,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s57-p8028",
+        "items": [
+          24,
+          24,
+          27
+        ],
+        "augment": 4,
+        "score": 432,
+        "passedDps": 400,
+        "failedDps": 450
+      }
+    ],
+    "heroRankInTier": 6
+  },
+  {
+    "hero": "拉莫斯",
+    "star": 3,
+    "tier": 4,
+    "scenario": 184,
+    "score": 1053,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s184-p3392",
+        "items": [
+          5,
+          24,
+          27
+        ],
+        "augment": 4,
+        "score": 1053,
+        "passedDps": 1050,
+        "failedDps": 1100
+      }
+    ],
+    "heroRankInTier": 1
+  },
+  {
+    "hero": "费德提克",
+    "star": 3,
+    "tier": 4,
+    "scenario": 157,
+    "score": 925,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s157-p3287",
+        "items": [
+          5,
+          17,
+          27
+        ],
+        "augment": 4,
+        "score": 925,
+        "passedDps": 900,
+        "failedDps": 950
+      }
+    ],
+    "heroRankInTier": 2
+  },
+  {
+    "hero": "慎",
+    "star": 3,
+    "tier": 4,
+    "scenario": 112,
+    "score": 791,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s112-p8028",
+        "items": [
+          24,
+          24,
+          27
+        ],
+        "augment": 4,
+        "score": 791,
+        "passedDps": 750,
+        "failedDps": 800
+      }
+    ],
+    "heroRankInTier": 3
+  },
+  {
+    "hero": "奥恩",
+    "star": 3,
+    "tier": 4,
+    "scenario": 7,
+    "score": 635,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s7-p8028",
+        "items": [
+          24,
+          24,
+          27
+        ],
+        "augment": 4,
+        "score": 635,
+        "passedDps": 600,
+        "failedDps": 650
+      }
+    ],
+    "heroRankInTier": 4
+  },
+  {
+    "hero": "莉莉娅",
+    "star": 2,
+    "tier": 4,
+    "scenario": 199,
+    "score": 568,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s199-p8028",
+        "items": [
+          24,
+          24,
+          27
+        ],
+        "augment": 4,
+        "score": 568,
+        "passedDps": 550,
+        "failedDps": 600
+      }
+    ],
+    "heroRankInTier": 5
+  },
+  {
+    "hero": "蕾欧娜",
+    "star": 3,
+    "tier": 4,
+    "scenario": 58,
+    "score": 484,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s58-p8028",
+        "items": [
+          24,
+          24,
+          27
+        ],
+        "augment": 4,
+        "score": 484,
+        "passedDps": 450,
+        "failedDps": 500
+      }
+    ],
+    "heroRankInTier": 6
+  },
+  {
+    "hero": "拉莫斯",
+    "star": 3,
+    "tier": 6,
+    "scenario": 185,
+    "score": 1355,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s185-p3392",
+        "items": [
+          5,
+          24,
+          27
+        ],
+        "augment": 4,
+        "score": 1355,
+        "passedDps": 1350,
+        "failedDps": 1400
+      }
+    ],
+    "heroRankInTier": 1
+  },
+  {
+    "hero": "费德提克",
+    "star": 3,
+    "tier": 6,
+    "scenario": 158,
+    "score": 1100,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s158-p8028",
+        "items": [
+          24,
+          24,
+          27
+        ],
+        "augment": 4,
+        "score": 1100,
+        "passedDps": 1100,
+        "failedDps": 1150
+      }
+    ],
+    "heroRankInTier": 2
+  },
+  {
+    "hero": "慎",
+    "star": 3,
+    "tier": 6,
+    "scenario": 113,
+    "score": 957,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s113-p7188",
+        "items": [
+          17,
+          24,
+          27
+        ],
+        "augment": 4,
+        "score": 957,
+        "passedDps": 950,
+        "failedDps": 1000
+      }
+    ],
+    "heroRankInTier": 3
+  },
+  {
+    "hero": "奥恩",
+    "star": 3,
+    "tier": 6,
+    "scenario": 8,
+    "score": 755,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s8-p8028",
+        "items": [
+          24,
+          24,
+          27
+        ],
+        "augment": 4,
+        "score": 755,
+        "passedDps": 750,
+        "failedDps": 800
+      }
+    ],
+    "heroRankInTier": 4
+  },
+  {
+    "hero": "莉莉娅",
+    "star": 2,
+    "tier": 6,
+    "scenario": 200,
+    "score": 702,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s200-p8028",
+        "items": [
+          24,
+          24,
+          27
+        ],
+        "augment": 4,
+        "score": 702,
+        "passedDps": 700,
+        "failedDps": 750
+      }
+    ],
+    "heroRankInTier": 5
+  },
+  {
+    "hero": "蕾欧娜",
+    "star": 3,
+    "tier": 6,
+    "scenario": 59,
+    "score": 572,
+    "tieCount": 1,
+    "builds": [
+      {
+        "id": "s59-p8028",
+        "items": [
+          24,
+          24,
+          27
+        ],
+        "augment": 4,
+        "score": 572,
+        "passedDps": 550,
+        "failedDps": 600
+      }
+    ],
+    "heroRankInTier": 6
+  }
+]

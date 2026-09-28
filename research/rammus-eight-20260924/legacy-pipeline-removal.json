@@ -1,0 +1,110 @@
+{
+  "removed": [
+    {
+      "path": "scripts/tank-video/frontline-video",
+      "sha256": "b1043eacee258c545701441f4746991af1cca49313cde72c5a4a30137f2b598e"
+    },
+    {
+      "path": "scripts/tank-video/frontline_cli.py",
+      "sha256": "2304e0fdc38145abfdb50b0b59607891b4742f6b0f61b1d4340934e7d92a4abb"
+    },
+    {
+      "path": "scripts/tank-video/pipeline_runner.py",
+      "sha256": "a4068fc9f69d3b9d849f30cd95bfe362f344e754f0c03a088e21c4ab7ae232e4"
+    },
+    {
+      "path": "scripts/tank-video/ornn-pipeline.py",
+      "sha256": "cab3262dc94682277cf90c386fa1b38447d800dd41fbcd811218995573edefa7"
+    },
+    {
+      "path": "scripts/tank-video/battle8.py",
+      "sha256": "00d7191e9f41f8d450b9742a6ac1c031b62daa78e3fe2b7009c746a2034b21dd"
+    },
+    {
+      "path": "scripts/tank-video/episode8.py",
+      "sha256": "15365808391ce8fba785a00300ba61253bf27edd90518fe33365ee1a3f05586a"
+    },
+    {
+      "path": "scripts/tank-video/elimination.py",
+      "sha256": "53751938078f5e9bb603b1a0b4d1d86a6f6875d1097a771e064dd05b9c0826ac"
+    },
+    {
+      "path": "scripts/tank-video/render.py",
+      "sha256": "d9c2418d7748e59fa06d49b845c53868b2b56cb7e241ec8b0054c4f75170425e"
+    },
+    {
+      "path": "scripts/tank-video/make.py",
+      "sha256": "721a1fff1c425628d88930fd867a0a993cb957ab2eb6cfb27f4d31cf448bc4c6"
+    },
+    {
+      "path": "scripts/tank-video/finish_video.py",
+      "sha256": "0754e9fa752dce29938fbf6d700fa9b8fae6e5429d27f432a54e509148bda383"
+    },
+    {
+      "path": "scripts/tank-video/verify.py",
+      "sha256": "4332627f3a994bee0282196d52363b4be594dbbcb22c38fa8e8fb8560d7f779a"
+    },
+    {
+      "path": "scripts/tank-video/verify_elimination.py",
+      "sha256": "ba3036fa857e96810cfb8139c4aafc222f2c7e06f9f45398841586e21a6c62bc"
+    },
+    {
+      "path": "scripts/tank-video/test_cli.py",
+      "sha256": "43f4d32b7b80c2858d77e47806ff329deab27f94e17524effa66ec59061a27f4"
+    },
+    {
+      "path": "scripts/tank-video/test_pipeline.py",
+      "sha256": "87697a81dc9837b02b48541b02564be53647ab13114388772b157c8b2fc95aef"
+    },
+    {
+      "path": "scripts/tank-video/pilot-v5.py",
+      "sha256": "2118699d03657ec181a8dfd2aa39d0541e3b37aad18485e32f019f47f8485abd"
+    },
+    {
+      "path": "scripts/tank-video/measure-safe.py",
+      "sha256": "a8ab389b5862cf1dd15455f45642a0b92f8f81aaa09231ef48fa3ba407069e48"
+    },
+    {
+      "path": "scripts/tank-video/run.command",
+      "sha256": "960dab0d721512413836f753de02198e67a99ed000a124c14ac635b3b53d1f34"
+    },
+    {
+      "path": "scripts/tank-video/run-main-v2.command",
+      "sha256": "d48b69675b0738c877206b4167e433d71a5cd2e82d1e94d6c786e5c047e6950e"
+    },
+    {
+      "path": "scripts/tank-video/run-detail.command",
+      "sha256": "144c9de957126bd6f0df83aa4dfe499f44d066d0c2a034b2b8985fb6455e4253"
+    },
+    {
+      "path": "scripts/tank-video/run_vi_vow_content_stage.py",
+      "sha256": "d6e3ea0d580737a2d5553a5ed1047ff9610beebbff32a03abc312526c0c3f82c"
+    },
+    {
+      "path": "research/rammus-eight-20260924/render_semantic_preview.py",
+      "sha256": "c4eeadfef18bc698c4f53600057af77e9e05be77045311c1263524cc534fbc72"
+    },
+    {
+      "path": "research/rammus-eight-20260924/assemble_appendix.py",
+      "sha256": "8a6962b94edffe6bc1810f6639293b66a0b434168c0dc166a4f6ec4dae5ae2e8"
+    },
+    {
+      "path": "research/rammus-eight-20260924/finish_full_episode.py",
+      "sha256": "e39e8d0672565ef0a1c3881c5019d73dfd2a0437de4de3ea3dab04b36fb95a93"
+    }
+  ],
+  "audioHelpers": "scripts/tank-video/audio_helpers.py",
+  "renderer": "Unity jcc.video",
+  "historicalMediaRetained": true,
+  "verification": {
+    "removedFilesAbsent": true,
+    "remainingSourceReferencesToRemovedModules": 0,
+    "audioConsumersImport": true,
+    "audioPcmRoundtrip": true,
+    "skillsValidated": [
+      "jcc-unity-video",
+      "programmatic-video-production",
+      "jcc-frontline-series"
+    ]
+  }
+}

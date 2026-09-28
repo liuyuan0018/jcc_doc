@@ -1,0 +1,305 @@
+{
+  "note_id": "6aacd475000000002b01f439",
+  "stage": "images_filled",
+  "before": {
+    "image_limit": 18,
+    "images": [
+      {
+        "height": 1851,
+        "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325eo803o58705nggdsjg90itprfj7bo?sign=691e3486539c678b52ee5c5a1a1f3aa4&t=6ab52afa",
+        "width": 1080,
+        "asset_id": "1040g34o325eo803o58705nggdsjg90itprfj7bo"
+      },
+      {
+        "height": 2040,
+        "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325eo803o587g5nggdsjg90it294smgg?sign=ffb4c5d434c556ac2d8b84905093d918&t=6ab52afa",
+        "width": 1080,
+        "asset_id": "1040g34o325eo803o587g5nggdsjg90it294smgg"
+      },
+      {
+        "height": 2040,
+        "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325eo803o58805nggdsjg90itkma2gp8?sign=b431763cb010cbafb62d7a9b9410c1b8&t=6ab52afa",
+        "width": 1080,
+        "asset_id": "1040g34o325eo803o58805nggdsjg90itkma2gp8"
+      },
+      {
+        "height": 2040,
+        "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325eo803o588g5nggdsjg90it3pn0ig8?sign=09d9615ae45b2c94ab3c38c3e1176686&t=6ab52afa",
+        "width": 1080,
+        "asset_id": "1040g34o325eo803o588g5nggdsjg90it3pn0ig8"
+      },
+      {
+        "height": 2040,
+        "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325eo803o58905nggdsjg90it09mbsug?sign=16ef2785c504b9a65be083d3fda0d1ef&t=6ab52afa",
+        "width": 1080,
+        "asset_id": "1040g34o325eo803o58905nggdsjg90it09mbsug"
+      },
+      {
+        "height": 2040,
+        "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325eo803o589g5nggdsjg90it1967uto?sign=cb6744641918c51ac6c87256cd66ce87&t=6ab52afa",
+        "width": 1080,
+        "asset_id": "1040g34o325eo803o589g5nggdsjg90it1967uto"
+      },
+      {
+        "height": 1851,
+        "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325eo803o58a05nggdsjg90itkp58qgo?sign=b6a7c24ba5489aed846f7e07ceff66d9&t=6ab52afa",
+        "width": 1080,
+        "asset_id": "1040g34o325eo803o58a05nggdsjg90itkp58qgo"
+      }
+    ],
+    "paragraphs": [
+      {
+        "index": 0,
+        "text": "9月23日上分先看手里的纹章、神器和来牌。封面看数据和适用条件，图2—7看站位、装备与搜牌。",
+        "topics": 0
+      },
+      {
+        "index": 1,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 2,
+        "text": "有条件优先看三套：花妖转凯南前四81.64%（828样本），猎人转巨龙72.57%（700），暗爪卡蜜尔69.81%（540）。前两套要有血量和经济冲五费，卡蜜尔先拿暗爪、来牌多再追三。",
+        "topics": 0
+      },
+      {
+        "index": 3,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 4,
+        "text": "护臂天使前四68.01%（472样本），花妖转螳螂52.00%（325）。这两项看英雄携装，样本还少，拿到关键装备再考虑，别直接和上面三套排强弱。",
+        "topics": 0
+      },
+      {
+        "index": 5,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 6,
+        "text": "神谕大嘴仍是顺牌备选：体系前四50.01%（5751样本）；无尽＋锐利之刃＋巨杀分项54.53%（574）。大嘴、人马多且物理装合适再玩，7级先稳两星和前排，再考虑大嘴三星。站位与搜牌看图7。",
+        "topics": 0
+      },
+      {
+        "index": 7,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 8,
+        "text": "图2—7看阵容；更多常规选择看主页《常规阵容榜》。以下为基础框架码，游戏内导入尚未校验，请对照配图调整：",
+        "topics": 0
+      },
+      {
+        "index": 9,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 10,
+        "text": "花妖转凯南（地狱火95框架）",
+        "topics": 0
+      },
+      {
+        "index": 11,
+        "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg5MjQwODA3MzIw",
+        "topics": 0
+      },
+      {
+        "index": 12,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 13,
+        "text": "猎人转巨龙（巨龙95框架）",
+        "topics": 0
+      },
+      {
+        "index": 14,
+        "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg3MTgyMDgwODEz",
+        "topics": 0
+      },
+      {
+        "index": 15,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 16,
+        "text": "暗爪卡蜜尔",
+        "topics": 0
+      },
+      {
+        "index": 17,
+        "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg5MTEwOTYxNDE2",
+        "topics": 0
+      },
+      {
+        "index": 18,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 19,
+        "text": "护臂天使（森林天使框架）",
+        "topics": 0
+      },
+      {
+        "index": 20,
+        "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg3MTgxOTg4MDM0",
+        "topics": 0
+      },
+      {
+        "index": 21,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 22,
+        "text": "花妖转螳螂（裁决螳螂框架）",
+        "topics": 0
+      },
+      {
+        "index": 23,
+        "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg5MjE4MDI5MTQ5",
+        "topics": 0
+      },
+      {
+        "index": 24,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 25,
+        "text": "神谕大嘴（7人口核心）",
+        "topics": 0
+      },
+      {
+        "index": 26,
+        "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg5NzUwMjI1Njky",
+        "topics": 0
+      },
+      {
+        "index": 27,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 28,
+        "text": "前3套为所属体系内携装分项，天使、螳螂为英雄携装，大嘴三件套单列。成型数据有筛选偏差，不等于开局硬玩的成功率。",
+        "topics": 0
+      },
+      {
+        "index": 29,
+        "text": "数据：DataJ非官方高分段样本，18.2a，截至9/23 03:23。运营为建议，尚无逐局实战复核。",
+        "topics": 0
+      },
+      {
+        "index": 30,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 31,
+        "text": "#金铲铲之战[话题]#  #金铲铲阵容[话题]#  #金铲铲[话题]#  #金铲铲攻略[话题]#  #金铲铲推荐阵容[话题]#  #金铲铲之战S18[话题]#  #金铲铲自然之力[话题]#  #金铲铲冷门阵容[话题]#",
+        "topics": 8
+      }
+    ],
+    "settings": {
+      "checkboxes": [
+        true,
+        true
+      ],
+      "text": "内容设置\n收起\n加入合集\n汇集系列视频，有利于连续性观看\ns18金铲铲阵容数据库\n原创声明\n添加内容类型声明\n添加组件\n添加地点\n选择群聊\n引用笔记\n《金铲铲S18阵容榜9.23｜附阵容码》\n添加投票\n关联直播预告\n标记地点或标记朋友\n添加路线\n选择文件\n关联活动\n更多\n金铲铲激励活动来袭\n08-22 至 10-11\n取消关联\n无畏契约冠军征集令\n09-24 至 10-23\n关联\n更多设置\n收起\n允许正文复制\n公开可见"
+    },
+    "title": "金铲铲S18冷门榜9.23｜附阵容码",
+    "topics": [
+      {
+        "id": "610b9c5b000000000101e01b",
+        "name": "金铲铲之战"
+      },
+      {
+        "id": "612790e600000000010009d6",
+        "name": "金铲铲阵容"
+      },
+      {
+        "id": "60f51be5000000000100ad43",
+        "name": "金铲铲"
+      },
+      {
+        "id": "612e0fc70000000001003ee1",
+        "name": "金铲铲攻略"
+      },
+      {
+        "id": "6128e7500000000001003081",
+        "name": "金铲铲推荐阵容"
+      },
+      {
+        "id": "6a4c9dd5000000000301ea0b",
+        "name": "金铲铲之战S18"
+      },
+      {
+        "id": "6a51d40d000000000301f0d5",
+        "name": "金铲铲自然之力"
+      },
+      {
+        "id": "62f35c7100000000010096fc",
+        "name": "金铲铲冷门阵容"
+      }
+    ],
+    "note_id": "6aacd475000000002b01f439",
+    "body": "9月23日上分先看手里的纹章、神器和来牌。封面看数据和适用条件，图2—7看站位、装备与搜牌。\n\n有条件优先看三套：花妖转凯南前四81.64%（828样本），猎人转巨龙72.57%（700），暗爪卡蜜尔69.81%（540）。前两套要有血量和经济冲五费，卡蜜尔先拿暗爪、来牌多再追三。\n\n护臂天使前四68.01%（472样本），花妖转螳螂52.00%（325）。这两项看英雄携装，样本还少，拿到关键装备再考虑，别直接和上面三套排强弱。\n\n神谕大嘴仍是顺牌备选：体系前四50.01%（5751样本）；无尽＋锐利之刃＋巨杀分项54.53%（574）。大嘴、人马多且物理装合适再玩，7级先稳两星和前排，再考虑大嘴三星。站位与搜牌看图7。\n\n图2—7看阵容；更多常规选择看主页《常规阵容榜》。以下为基础框架码，游戏内导入尚未校验，请对照配图调整：\n\n花妖转凯南（地狱火95框架）\nMjIwMDY3MzAyODc5ODA4NTYxNzg5MjQwODA3MzIw\n\n猎人转巨龙（巨龙95框架）\nMjIwMDY3MzAyODc5ODA4NTYxNzg3MTgyMDgwODEz\n\n暗爪卡蜜尔\nMjIwMDY3MzAyODc5ODA4NTYxNzg5MTEwOTYxNDE2\n\n护臂天使（森林天使框架）\nMjIwMDY3MzAyODc5ODA4NTYxNzg3MTgxOTg4MDM0\n\n花妖转螳螂（裁决螳螂框架）\nMjIwMDY3MzAyODc5ODA4NTYxNzg5MjE4MDI5MTQ5\n\n神谕大嘴（7人口核心）\nMjIwMDY3MzAyODc5ODA4NTYxNzg5NzUwMjI1Njky\n\n前3套为所属体系内携装分项，天使、螳螂为英雄携装，大嘴三件套单列。成型数据有筛选偏差，不等于开局硬玩的成功率。\n数据：DataJ非官方高分段样本，18.2a，截至9/23 03:23。运营为建议，尚无逐局实战复核。",
+    "observed_at": "2026-09-24T13:52:23.994Z"
+  },
+  "target_files": [
+    "0445f2108b8d28235b47878442caf69e4cc4c70034db8a4840786623a8ded208",
+    "01d81d07c0aad3a8b234016519dcb15bfc0e951493c57bc88b47384b5141ff60",
+    "435d5f31bd9a6effad9bcf270ea655e2379185fccf52822ce5ce1a1b3c53f9f0",
+    "b355511cd1b6b0d563bfb36287189ee021fd87f943dc014e75e1de65538e6d6b",
+    "e3b24e5eaf2b47b02401a7a8ad19bf66c30165027ce79d97d53fea24818929e3",
+    "2ccee49428f94785af6ddb83e8eee235e113fccf1a7826fc937ffd266fc651de",
+    "f23f375a08f668399a152c26a63a6e702e7fa4f0619401dfd887c2a25dcad4fe"
+  ],
+  "uploaded": [
+    {
+      "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-24-8ca3252076a0/cold/01-冷门构筑强度榜.png",
+      "png_sha256": "0445f2108b8d28235b47878442caf69e4cc4c70034db8a4840786623a8ded208",
+      "preview_src": "blob:https://creator.xiaohongshu.com/3b337f57-1c2a-4ece-960d-6fedd3720bce"
+    },
+    {
+      "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-24-8ca3252076a0/cold/02-花妖转凯南.png",
+      "png_sha256": "01d81d07c0aad3a8b234016519dcb15bfc0e951493c57bc88b47384b5141ff60",
+      "preview_src": "blob:https://creator.xiaohongshu.com/31c45ac1-19d2-456c-b955-a53bbde502eb"
+    },
+    {
+      "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-24-8ca3252076a0/cold/03-猎人转巨龙.png",
+      "png_sha256": "435d5f31bd9a6effad9bcf270ea655e2379185fccf52822ce5ce1a1b3c53f9f0",
+      "preview_src": "blob:https://creator.xiaohongshu.com/2bfd37e8-5e21-4f36-980c-5b3554af0ecc"
+    },
+    {
+      "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-24-8ca3252076a0/cold/04-暗爪卡蜜尔.png",
+      "png_sha256": "b355511cd1b6b0d563bfb36287189ee021fd87f943dc014e75e1de65538e6d6b",
+      "preview_src": "blob:https://creator.xiaohongshu.com/491e774a-05c5-409b-8497-e91221dae280"
+    },
+    {
+      "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-24-8ca3252076a0/cold/05-护臂天使.png",
+      "png_sha256": "e3b24e5eaf2b47b02401a7a8ad19bf66c30165027ce79d97d53fea24818929e3",
+      "preview_src": "blob:https://creator.xiaohongshu.com/641c9ea7-c2b7-40b0-992a-69394810a867"
+    },
+    {
+      "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-24-8ca3252076a0/cold/06-花妖转螳螂.png",
+      "png_sha256": "2ccee49428f94785af6ddb83e8eee235e113fccf1a7826fc937ffd266fc651de",
+      "preview_src": "blob:https://creator.xiaohongshu.com/46b61348-0805-4087-8201-c90101340f93"
+    },
+    {
+      "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-24-8ca3252076a0/cold/07-神谕大嘴.png",
+      "png_sha256": "f23f375a08f668399a152c26a63a6e702e7fa4f0619401dfd887c2a25dcad4fe",
+      "preview_src": "blob:https://creator.xiaohongshu.com/4cf7801f-9409-49f4-a0b2-5f3c31b9d788"
+    }
+  ],
+  "intent": null
+}

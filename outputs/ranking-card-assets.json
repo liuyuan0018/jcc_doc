@@ -1,0 +1,302 @@
+[
+  {
+    "name": "蔚",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_vi.png",
+    "path": "assets/ranking/s18_head_vi.png"
+  },
+  {
+    "name": "洛",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_rakan.png",
+    "path": "assets/ranking/s18_head_rakan.png"
+  },
+  {
+    "name": "苍蓝雕纹魔像",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_sentinel.png",
+    "path": "assets/ranking/s18_head_sentinel.png"
+  },
+  {
+    "name": "赫卡里姆",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_hecarim.png",
+    "path": "assets/ranking/s18_head_hecarim.png"
+  },
+  {
+    "name": "伊莉丝",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_elisespider.png",
+    "path": "assets/ranking/s18_head_elisespider.png"
+  },
+  {
+    "name": "崔丝塔娜",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_tristana.png",
+    "path": "assets/ranking/s18_head_tristana.png"
+  },
+  {
+    "name": "希维尔",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_sivir.png",
+    "path": "assets/ranking/s18_head_sivir.png"
+  },
+  {
+    "name": "凯特琳",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_caitlyn.png",
+    "path": "assets/ranking/s18_head_caitlyn.png"
+  },
+  {
+    "name": "鬼索的狂暴之刃",
+    "url": "https://img.dataj.cc/images/equip/2010.png",
+    "path": "assets/ranking/2010.png"
+  },
+  {
+    "name": "海妖之怒",
+    "url": "https://img.dataj.cc/images/equip/krakensfury.png",
+    "path": "assets/ranking/krakensfury.png"
+  },
+  {
+    "name": "锐利之刃",
+    "url": "https://img.dataj.cc/images/equip/2045.png",
+    "path": "assets/ranking/2045.png"
+  },
+  {
+    "name": "狂徒铠甲",
+    "url": "https://img.dataj.cc/images/equip/2034.png",
+    "path": "assets/ranking/2034.png"
+  },
+  {
+    "name": "石像鬼石板甲",
+    "url": "https://img.dataj.cc/images/equip/2248.png",
+    "path": "assets/ranking/2248.png"
+  },
+  {
+    "name": "振奋盔甲",
+    "url": "https://img.dataj.cc/images/equip/spiritvisage.png",
+    "path": "assets/ranking/spiritvisage.png"
+  },
+  {
+    "name": "薄暮法袍",
+    "url": "https://img.dataj.cc/images/equip/evenshroud.png",
+    "path": "assets/ranking/evenshroud.png"
+  },
+  {
+    "name": "日炎斗篷",
+    "url": "https://img.dataj.cc/images/equip/2329.png",
+    "path": "assets/ranking/2329.png"
+  },
+  {
+    "name": "塔里克",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_taric.png",
+    "path": "assets/ranking/s18_head_taric.png"
+  },
+  {
+    "name": "茂凯",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_maokai.png",
+    "path": "assets/ranking/s18_head_maokai.png"
+  },
+  {
+    "name": "阿木木",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_amumu.png",
+    "path": "assets/ranking/s18_head_amumu.png"
+  },
+  {
+    "name": "凯南",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_kennen.png",
+    "path": "assets/ranking/s18_head_kennen.png"
+  },
+  {
+    "name": "艾翁",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_ivern.png",
+    "path": "assets/ranking/s18_head_ivern.png"
+  },
+  {
+    "name": "远古巨龙",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_elderdragon.png",
+    "path": "assets/ranking/s18_head_elderdragon.png"
+  },
+  {
+    "name": "德莱文",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_draven.png",
+    "path": "assets/ranking/s18_head_draven.png"
+  },
+  {
+    "name": "最后的轻语",
+    "url": "https://img.dataj.cc/images/equip/2053.png",
+    "path": "assets/ranking/2053.png"
+  },
+  {
+    "name": "强袭者的链枷",
+    "url": "https://img.dataj.cc/images/equip/strikersflail.png",
+    "path": "assets/ranking/strikersflail.png"
+  },
+  {
+    "name": "无尽之刃",
+    "url": "https://img.dataj.cc/images/equip/2001.png",
+    "path": "assets/ranking/2001.png"
+  },
+  {
+    "name": "峡谷迅捷蟹",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_scuttle.png",
+    "path": "assets/ranking/s18_head_scuttle.png"
+  },
+  {
+    "name": "纳尔",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_gnar.png",
+    "path": "assets/ranking/s18_head_gnar.png"
+  },
+  {
+    "name": "远古石甲虫",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_krug.png",
+    "path": "assets/ranking/s18_head_krug.png"
+  },
+  {
+    "name": "苍蓝哨戒",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_sentry.png",
+    "path": "assets/ranking/s18_head_sentry.png"
+  },
+  {
+    "name": "绯红树怪",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_cinderling.png",
+    "path": "assets/ranking/s18_head_cinderling.png"
+  },
+  {
+    "name": "朔极之矛",
+    "url": "https://img.dataj.cc/images/equip/2004.png",
+    "path": "assets/ranking/2004.png"
+  },
+  {
+    "name": "珠光护手",
+    "url": "https://img.dataj.cc/images/equip/2038.png",
+    "path": "assets/ranking/2038.png"
+  },
+  {
+    "name": "大天使之杖",
+    "url": "https://img.dataj.cc/images/equip/2017.png",
+    "path": "assets/ranking/2017.png"
+  },
+  {
+    "name": "暗影狼",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_murkwolf.png",
+    "path": "assets/ranking/s18_head_murkwolf.png"
+  },
+  {
+    "name": "深红锋喙鸟",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_raptor.png",
+    "path": "assets/ranking/s18_head_raptor.png"
+  },
+  {
+    "name": "绯红印记树怪",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_brambleback.png",
+    "path": "assets/ranking/s18_head_brambleback.png"
+  },
+  {
+    "name": "魔沼蛙",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_gromp.png",
+    "path": "assets/ranking/s18_head_gromp.png"
+  },
+  {
+    "name": "圣盾使的誓约",
+    "url": "https://img.dataj.cc/images/equip/2023.png",
+    "path": "assets/ranking/2023.png"
+  },
+  {
+    "name": "水银",
+    "url": "https://img.dataj.cc/images/equip/2041.png",
+    "path": "assets/ranking/2041.png"
+  },
+  {
+    "name": "斯特拉克的挑战护手",
+    "url": "https://img.dataj.cc/images/equip/steraksgage.png",
+    "path": "assets/ranking/steraksgage.png"
+  },
+  {
+    "name": "阿利斯塔",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_alistar.png",
+    "path": "assets/ranking/s18_head_alistar.png"
+  },
+  {
+    "name": "伊泽瑞尔",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_ezreal.png",
+    "path": "assets/ranking/s18_head_ezreal.png"
+  },
+  {
+    "name": "黛安娜",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_diana.png",
+    "path": "assets/ranking/s18_head_diana.png"
+  },
+  {
+    "name": "卡兹克",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_khazix.png",
+    "path": "assets/ranking/s18_head_khazix.png"
+  },
+  {
+    "name": "拉露恩",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_alune.png",
+    "path": "assets/ranking/s18_head_alune.png"
+  },
+  {
+    "name": "克格莫",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_kogmaw.png",
+    "path": "assets/ranking/s18_head_kogmaw.png"
+  },
+  {
+    "name": "厄斐琉斯",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_aphelios.png",
+    "path": "assets/ranking/s18_head_aphelios.png"
+  },
+  {
+    "name": "纳什之牙",
+    "url": "https://img.dataj.cc/images/equip/nashorstooth.png",
+    "path": "assets/ranking/nashorstooth.png"
+  },
+  {
+    "name": "正义之手",
+    "url": "https://img.dataj.cc/images/equip/2039.png",
+    "path": "assets/ranking/2039.png"
+  },
+  {
+    "name": "夜之锋刃",
+    "url": "https://img.dataj.cc/images/equip/2005.png",
+    "path": "assets/ranking/2005.png"
+  },
+  {
+    "name": "墨菲特",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_malphite.png",
+    "path": "assets/ranking/s18_head_malphite.png"
+  },
+  {
+    "name": "约里克",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_yorick.png",
+    "path": "assets/ranking/s18_head_yorick.png"
+  },
+  {
+    "name": "费德提克",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_fiddlesticks.png",
+    "path": "assets/ranking/s18_head_fiddlesticks.png"
+  },
+  {
+    "name": "婕拉",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_zyra.png",
+    "path": "assets/ranking/s18_head_zyra.png"
+  },
+  {
+    "name": "索拉卡",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_soraka.png",
+    "path": "assets/ranking/s18_head_soraka.png"
+  },
+  {
+    "name": "阿兹尔",
+    "url": "https://img.dataj.cc/images/s18/hero/s18_head_azir.png",
+    "path": "assets/ranking/s18_head_azir.png"
+  },
+  {
+    "name": "裁决使纹章",
+    "url": "https://img.dataj.cc/images/equip/41818.png",
+    "path": "assets/ranking/41818.png"
+  },
+  {
+    "name": "虚空之杖",
+    "url": "https://img.dataj.cc/images/equip/voidstaff.png",
+    "path": "assets/ranking/voidstaff.png"
+  },
+  {
+    "name": "班克斯的魔法帽",
+    "url": "https://img.dataj.cc/images/equip/2016.png",
+    "path": "assets/ranking/2016.png"
+  }
+]

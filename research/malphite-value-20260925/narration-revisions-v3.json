@@ -1,0 +1,15 @@
+{
+  "selection-rule": {
+    "displayText": "8套代表配置同场压测\n条件与装备见卡片"
+  },
+  "battle-rule": {
+    "text": "每档满血重开，撑满三十秒再加压。先从九百档开始。",
+    "spoken": "每档满血重开，撑满三十秒再加压。先从九百档开始。"
+  },
+  "scope": {
+    "displayText": "8套出镜 · 72套精选 · 同分并列"
+  },
+  "cover": {
+    "displayText": ""
+  }
+}

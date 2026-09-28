@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "sourceJob": "971984d9c5204dbb9de723f42d8bd9c4",
+  "output": "exports/frontline-video-main-v2",
+  "filters": {
+    "targetCount": "3",
+    "wound": "0.33",
+    "resistance": "3",
+    "trait": "",
+    "traitMax": "",
+    "slots": "",
+    "hero": "",
+    "cost": "",
+    "star": "practical",
+    "cat": "2",
+    "aug": "2",
+    "alive": false
+  },
+  "main": {
+    "id": "01-hero-pressure",
+    "title": "谁才是最能扛的前排？",
+    "subtitle": "金鳞龙 · 各自最优配置 · 热门前排对比",
+    "topCount": 4,
+    "introSeconds": 4,
+    "roundSeconds": 7,
+    "holdSeconds": 1.2,
+    "outroSeconds": 5,
+    "heroes": [
+      "蔚",
+      "拉莫斯",
+      "瑟庄妮",
+      "伊莉丝"
+    ],
+    "heroLabels": {
+      "伊莉丝": "伊莉丝（蜘蛛）"
+    }
+  },
+  "render": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "sourceDirectory": "exports/frontline-video-main-v2/input"
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-28",
+  "name": "地狱火巨龙",
+  "status": "conditional_build_added",
+  "board": [
+    "远古巨龙（2人口，地狱火转）",
+    "慎",
+    "韦鲁斯",
+    "阿木木",
+    "凯南",
+    "塔里克",
+    "茂凯",
+    "苍蓝雕纹魔像"
+  ],
+  "population": 9,
+  "trait": "5地狱火",
+  "same_condition_stats": null,
+  "supporting_carrier_stats": {
+    "sampleCount": 1838,
+    "top4Rate": 82.15,
+    "scope": "巨龙95体系内巨龙携地狱火转，非5地狱火阵容或三件套筛选"
+  },
+  "sources": [
+    "research/special-20260928/gamedata-live.json",
+    "research/special-20260928/conditional-candidates.json"
+  ],
+  "practical_test": false,
+  "package": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-28-inferno"
+}

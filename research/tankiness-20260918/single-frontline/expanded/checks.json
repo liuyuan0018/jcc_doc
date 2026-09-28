@@ -1,0 +1,63 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "legacy parity",
+      "hero": "伊莉丝",
+      "star": 1,
+      "time": 8.0
+    },
+    {
+      "check": "legacy parity",
+      "hero": "伊莉丝",
+      "star": 2,
+      "time": 11.666666666666666
+    },
+    {
+      "check": "legacy parity",
+      "hero": "伊莉丝",
+      "star": 3,
+      "time": 22.666666666666668
+    },
+    {
+      "check": "legacy parity",
+      "hero": "蔚",
+      "star": 1,
+      "time": 15.333333333333334
+    },
+    {
+      "check": "legacy parity",
+      "hero": "蔚",
+      "star": 2,
+      "time": 30.0
+    },
+    {
+      "check": "legacy parity",
+      "hero": "蔚",
+      "star": 3,
+      "time": 30.0
+    },
+    {
+      "check": "legacy parity",
+      "hero": "阿木木",
+      "star": 1,
+      "time": 11.666666666666666
+    },
+    {
+      "check": "legacy parity",
+      "hero": "阿木木",
+      "star": 2,
+      "time": 22.666666666666668
+    },
+    {
+      "check": "legacy parity",
+      "hero": "阿木木",
+      "star": 3,
+      "time": 30.0
+    },
+    {
+      "check": "all 107 item smoke and ledgers",
+      "count": 107
+    }
+  ]
+}

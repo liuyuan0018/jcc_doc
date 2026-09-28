@@ -1,0 +1,2621 @@
+{
+  "folder": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-snapshots/20260924-0317-8ca3252076a0",
+  "test_fixture": false,
+  "summary": {
+    "setId": 18,
+    "gameVersion": "18.2a",
+    "gamesAnalyzed": 205152,
+    "playersAnalyzed": 25644,
+    "threeStarUnits": 193565,
+    "itemsEquipped": 2328214,
+    "totalDamageDealt": 20779527,
+    "dataUpdatedAt": "2026-09-23T19:17:45.837Z"
+  },
+  "when": "2026-09-24T03:17:45.837000+08:00",
+  "regular": {
+    "112": {
+      "comp_id": "112",
+      "name": "地狱火95",
+      "tier": "S",
+      "data_mode": "stats",
+      "scope": "comp",
+      "source_key": "rank",
+      "sampleCount": 32040,
+      "avgPlacement": 3.7,
+      "top4Rate": 63.34,
+      "topRate": 25.91
+    },
+    "104": {
+      "comp_id": "104",
+      "name": "野怪小红",
+      "tier": "S",
+      "data_mode": "stats",
+      "scope": "comp",
+      "source_key": "rank",
+      "sampleCount": 9408,
+      "avgPlacement": 3.88,
+      "top4Rate": 61.53,
+      "topRate": 15.33
+    },
+    "89": {
+      "comp_id": "89",
+      "name": "巨龙95",
+      "tier": "S",
+      "data_mode": "stats",
+      "scope": "comp",
+      "source_key": "rank",
+      "sampleCount": 8351,
+      "avgPlacement": 3.84,
+      "top4Rate": 60.9,
+      "topRate": 23.85
+    },
+    "116": {
+      "comp_id": "116",
+      "name": "裁决螳螂",
+      "tier": "S",
+      "data_mode": "stats",
+      "scope": "comp",
+      "source_key": "rank",
+      "sampleCount": 8626,
+      "avgPlacement": 4,
+      "top4Rate": 60,
+      "topRate": 14.25
+    },
+    "100": {
+      "comp_id": "100",
+      "name": "重装女警",
+      "tier": "A",
+      "data_mode": "stats",
+      "scope": "comp",
+      "source_key": "rank",
+      "sampleCount": 3483,
+      "avgPlacement": 4.18,
+      "top4Rate": 58.46,
+      "topRate": 6.29
+    },
+    "113": {
+      "comp_id": "113",
+      "name": "古纳拉95",
+      "tier": "S",
+      "data_mode": "stats",
+      "scope": "comp",
+      "source_key": "rank",
+      "sampleCount": 2158,
+      "avgPlacement": 4.04,
+      "top4Rate": 58.39,
+      "topRate": 18.03
+    },
+    "99": {
+      "comp_id": "99",
+      "name": "7野怪鸡哥",
+      "tier": "S",
+      "data_mode": "stats",
+      "scope": "comp",
+      "source_key": "rank",
+      "sampleCount": 12285,
+      "avgPlacement": 4.14,
+      "top4Rate": 56.35,
+      "topRate": 12.23
+    },
+    "106": {
+      "comp_id": "106",
+      "name": "主宰女警",
+      "tier": "A",
+      "data_mode": "stats",
+      "scope": "comp",
+      "source_key": "rank",
+      "sampleCount": 6515,
+      "avgPlacement": 4.37,
+      "top4Rate": 54.26,
+      "topRate": 5.73
+    },
+    "109": {
+      "comp_id": "109",
+      "name": "皎月螳螂",
+      "tier": "B",
+      "data_mode": "stats",
+      "scope": "comp",
+      "source_key": "rank",
+      "sampleCount": 1480,
+      "avgPlacement": 4.43,
+      "top4Rate": 52.7,
+      "topRate": 10.54
+    },
+    "119": {
+      "comp_id": "119",
+      "name": "神谕大嘴",
+      "tier": "B",
+      "data_mode": "stats",
+      "scope": "comp",
+      "source_key": "rank",
+      "sampleCount": 6844,
+      "avgPlacement": 4.53,
+      "top4Rate": 49.55,
+      "topRate": 9.22
+    },
+    "115": {
+      "comp_id": "115",
+      "name": "卡丽蜜儿",
+      "tier": "C",
+      "data_mode": "stats",
+      "scope": "comp",
+      "source_key": "rank",
+      "sampleCount": 3589,
+      "avgPlacement": 4.66,
+      "top4Rate": 48.87,
+      "topRate": 6.99
+    },
+    "88": {
+      "comp_id": "88",
+      "name": "森林天使",
+      "tier": "B",
+      "data_mode": "stats",
+      "scope": "comp",
+      "source_key": "rank",
+      "sampleCount": 5897,
+      "avgPlacement": 4.42,
+      "top4Rate": 52.37,
+      "topRate": 11.01
+    }
+  },
+  "cold": {
+    "kennen": {
+      "comp_id": "112",
+      "hero_id": "5453",
+      "equip": 41810,
+      "name": "花妖转凯南",
+      "scope": "carrier",
+      "source_key": "special",
+      "sampleCount": 981,
+      "avgPlacement": 2.68,
+      "top4Rate": 81.75,
+      "topRate": 38.02
+    },
+    "dragon": {
+      "comp_id": "89",
+      "hero_id": "5458",
+      "equip": 41816,
+      "name": "猎人转巨龙",
+      "scope": "carrier",
+      "source_key": "special",
+      "sampleCount": 818,
+      "avgPlacement": 3.13,
+      "top4Rate": 73.11,
+      "topRate": 34.11
+    },
+    "camille": {
+      "comp_id": "115",
+      "hero_id": "1505",
+      "equip": 6073,
+      "name": "暗爪卡蜜尔",
+      "scope": "carrier",
+      "source_key": "special",
+      "sampleCount": 586,
+      "avgPlacement": 3.62,
+      "top4Rate": 69.45,
+      "topRate": 12.8
+    },
+    "kayle": {
+      "comp_id": "88",
+      "hero_id": "2512",
+      "equip": 6084,
+      "name": "护臂天使",
+      "scope": "hero_item",
+      "source_key": "kayle-gear",
+      "sampleCount": 568,
+      "avgPlacement": 3.63,
+      "top4Rate": 67.96,
+      "topRate": 18.66
+    },
+    "khazix": {
+      "comp_id": "116",
+      "hero_id": "3505",
+      "equip": 41810,
+      "name": "花妖转螳螂",
+      "scope": "hero_item",
+      "source_key": "khazix-gear",
+      "sampleCount": 400,
+      "avgPlacement": 4.62,
+      "top4Rate": 49.5,
+      "topRate": 10.25
+    },
+    "kog": {
+      "comp_id": "119",
+      "hero_id": "3512",
+      "equip": [
+        2001,
+        2045,
+        2046
+      ],
+      "name": "神谕大嘴",
+      "scope": "hero_triple",
+      "source_key": "kog-ad-equips",
+      "sampleCount": 685,
+      "avgPlacement": 4.29,
+      "top4Rate": 54.6,
+      "topRate": 9.93
+    }
+  },
+  "extra": {
+    "ashe": {
+      "scope": "comp_hero_item",
+      "source_key": "ashe-emblem",
+      "sampleCount": 7181,
+      "avgPlacement": 3.08,
+      "top4Rate": 74.08,
+      "topRate": 34.63
+    },
+    "zyra": {
+      "scope": "comp_hero_triple",
+      "source_key": "zyra-equips",
+      "sampleCount": 593,
+      "avgPlacement": 4.83,
+      "top4Rate": 44.18,
+      "topRate": 6.58
+    },
+    "dragon": {
+      "scope": "carrier",
+      "source_key": "special",
+      "sampleCount": 1232,
+      "avgPlacement": 2.61,
+      "top4Rate": 81.41,
+      "topRate": 44.64
+    }
+  },
+  "comps": {
+    "112": {
+      "heroes": [
+        {
+          "id": "2288",
+          "heroId": "4510",
+          "heroName": "希维尔",
+          "heroType": 0,
+          "isCarry": true,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "4,1"
+        },
+        {
+          "id": "2287",
+          "heroId": "5454",
+          "heroName": "艾希",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": true,
+          "isCore": true,
+          "price": 5,
+          "heroStarNum": null,
+          "position": "4,7"
+        },
+        {
+          "id": "2291",
+          "heroId": "5453",
+          "heroName": "凯南",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 5,
+          "heroStarNum": null,
+          "position": "2,3"
+        },
+        {
+          "id": "2289",
+          "heroId": "4503",
+          "heroName": "阿木木",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "1,3"
+        },
+        {
+          "id": "2295",
+          "heroId": "5451",
+          "heroName": "塔里克",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 5,
+          "heroStarNum": null,
+          "position": "1,6"
+        },
+        {
+          "id": "2334",
+          "heroId": "4500",
+          "heroName": "苍蓝雕纹魔像",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "1,4"
+        },
+        {
+          "id": "2290",
+          "heroId": "3501",
+          "heroName": "蔚",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 3,
+          "heroStarNum": null,
+          "position": "1,5"
+        },
+        {
+          "id": "2292",
+          "heroId": "2503",
+          "heroName": "慎",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 2,
+          "heroStarNum": null,
+          "position": "1,7"
+        },
+        {
+          "id": "2293",
+          "heroId": "1507",
+          "heroName": "韦鲁斯",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 1,
+          "heroStarNum": null,
+          "position": "4,6"
+        }
+      ],
+      "equips": [
+        {
+          "heroId": "5454",
+          "equipId": "2004",
+          "compHeroId": "2287"
+        },
+        {
+          "heroId": "5454",
+          "equipId": "2037",
+          "compHeroId": "2287"
+        },
+        {
+          "heroId": "5454",
+          "equipId": "2001",
+          "compHeroId": "2287"
+        },
+        {
+          "heroId": "4510",
+          "equipId": "2004",
+          "compHeroId": "2288"
+        },
+        {
+          "heroId": "4510",
+          "equipId": "41806",
+          "compHeroId": "2288"
+        },
+        {
+          "heroId": "4510",
+          "equipId": "2009",
+          "compHeroId": "2288"
+        },
+        {
+          "heroId": "4503",
+          "equipId": "2034",
+          "compHeroId": "2289"
+        },
+        {
+          "heroId": "4503",
+          "equipId": "2028",
+          "compHeroId": "2289"
+        },
+        {
+          "heroId": "4503",
+          "equipId": "2018",
+          "compHeroId": "2289"
+        },
+        {
+          "heroId": "5453",
+          "equipId": "2005",
+          "compHeroId": "2291"
+        },
+        {
+          "heroId": "5453",
+          "equipId": "2016",
+          "compHeroId": "2291"
+        },
+        {
+          "heroId": "5453",
+          "equipId": "2039",
+          "compHeroId": "2291"
+        }
+      ],
+      "traits": [
+        {
+          "id": "84700103",
+          "name": "地狱火"
+        },
+        {
+          "id": "83750101",
+          "name": "猎人"
+        },
+        {
+          "id": "83970101",
+          "name": "野兽之灵"
+        },
+        {
+          "id": "83720101",
+          "name": "重装战士"
+        },
+        {
+          "id": "83710101",
+          "name": "主宰"
+        },
+        {
+          "id": "83840101",
+          "name": "宝石骑士"
+        }
+      ],
+      "gameCode": "【阵容码】#地狱火95#MjIwMDY3MzAyODc5ODA4NTYxNzg5MjQwODA3MzIw",
+      "dataMode": "stats"
+    },
+    "104": {
+      "heroes": [
+        {
+          "id": "2204",
+          "heroId": "1508",
+          "heroName": "绯红树怪",
+          "heroType": 0,
+          "isCarry": true,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 1,
+          "heroStarNum": 3,
+          "position": "4,7"
+        },
+        {
+          "id": "2208",
+          "heroId": "5458",
+          "heroName": "远古巨龙",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": true,
+          "isCore": true,
+          "price": 5,
+          "heroStarNum": null,
+          "position": "4,3"
+        },
+        {
+          "id": "2207",
+          "heroId": "3503",
+          "heroName": "远古石甲虫",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 3,
+          "heroStarNum": 3,
+          "position": "1,5"
+        },
+        {
+          "id": "2232",
+          "heroId": "1511",
+          "heroName": "苍蓝哨戒",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 1,
+          "heroStarNum": 3,
+          "position": "4,5"
+        },
+        {
+          "id": "2211",
+          "heroId": "5452",
+          "heroName": "纳尔",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 5,
+          "heroStarNum": null,
+          "position": "1,3"
+        },
+        {
+          "id": "2205",
+          "heroId": "4500",
+          "heroName": "苍蓝雕纹魔像",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "1,4"
+        },
+        {
+          "id": "2206",
+          "heroId": "2500",
+          "heroName": "峡谷迅捷蟹",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 2,
+          "heroStarNum": null,
+          "position": "1,2"
+        },
+        {
+          "id": "2210",
+          "heroId": "1501",
+          "heroName": "洛",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 1,
+          "heroStarNum": null,
+          "position": "1,1"
+        }
+      ],
+      "equips": [
+        {
+          "heroId": "1511",
+          "equipId": "2038",
+          "compHeroId": "2232"
+        },
+        {
+          "heroId": "1511",
+          "equipId": "2017",
+          "compHeroId": "2232"
+        },
+        {
+          "heroId": "1511",
+          "equipId": "2017",
+          "compHeroId": "2232"
+        },
+        {
+          "heroId": "1508",
+          "equipId": "2001",
+          "compHeroId": "2204"
+        },
+        {
+          "heroId": "1508",
+          "equipId": "2004",
+          "compHeroId": "2204"
+        },
+        {
+          "heroId": "1508",
+          "equipId": "2037",
+          "compHeroId": "2204"
+        },
+        {
+          "heroId": "3503",
+          "equipId": "2025",
+          "compHeroId": "2207"
+        },
+        {
+          "heroId": "3503",
+          "equipId": "2028",
+          "compHeroId": "2207"
+        },
+        {
+          "heroId": "3503",
+          "equipId": "2034",
+          "compHeroId": "2207"
+        },
+        {
+          "heroId": "5458",
+          "equipId": "2001",
+          "compHeroId": "2208"
+        },
+        {
+          "heroId": "5458",
+          "equipId": "2007",
+          "compHeroId": "2208"
+        },
+        {
+          "heroId": "5458",
+          "equipId": "2039",
+          "compHeroId": "2208"
+        }
+      ],
+      "traits": [
+        {
+          "id": "84660103",
+          "name": "峡谷野怪"
+        },
+        {
+          "id": "85200101",
+          "name": "斗士"
+        },
+        {
+          "id": "84800101",
+          "name": "神谕"
+        },
+        {
+          "id": "83720101",
+          "name": "重装战士"
+        },
+        {
+          "id": "83710101",
+          "name": "主宰"
+        },
+        {
+          "id": "83850101",
+          "name": "顶级掠食者"
+        }
+      ],
+      "gameCode": "【阵容码】#野怪小红#MjIwMDY3MzAyODc5ODA4NTYxNzg4MDI3NDMwMjMx",
+      "dataMode": "stats"
+    },
+    "89": {
+      "heroes": [
+        {
+          "id": "1931",
+          "heroId": "5458",
+          "heroName": "远古巨龙",
+          "heroType": 0,
+          "isCarry": true,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 5,
+          "heroStarNum": null,
+          "position": "4,5"
+        },
+        {
+          "id": "1930",
+          "heroId": "5455",
+          "heroName": "德莱文",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": true,
+          "isCore": true,
+          "price": 5,
+          "heroStarNum": null,
+          "position": "4,7"
+        },
+        {
+          "id": "1933",
+          "heroId": "5450",
+          "heroName": "茂凯",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 5,
+          "heroStarNum": null,
+          "position": "1,3"
+        },
+        {
+          "id": "1937",
+          "heroId": "4500",
+          "heroName": "苍蓝雕纹魔像",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "1,5"
+        },
+        {
+          "id": "1932",
+          "heroId": "5457",
+          "heroName": "艾翁",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 5,
+          "heroStarNum": null,
+          "position": "4,1"
+        },
+        {
+          "id": "1934",
+          "heroId": "5451",
+          "heroName": "塔里克",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 5,
+          "heroStarNum": null,
+          "position": "1,2"
+        },
+        {
+          "id": "1936",
+          "heroId": "5453",
+          "heroName": "凯南",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 5,
+          "heroStarNum": null,
+          "position": "2,4"
+        },
+        {
+          "id": "1935",
+          "heroId": "4503",
+          "heroName": "阿木木",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "1,4"
+        }
+      ],
+      "equips": [
+        {
+          "heroId": "5455",
+          "equipId": "2010",
+          "compHeroId": "1930"
+        },
+        {
+          "heroId": "5455",
+          "equipId": "2013",
+          "compHeroId": "1930"
+        },
+        {
+          "heroId": "5455",
+          "equipId": "2013",
+          "compHeroId": "1930"
+        },
+        {
+          "heroId": "5458",
+          "equipId": "2001",
+          "compHeroId": "1931"
+        },
+        {
+          "heroId": "5458",
+          "equipId": "2042",
+          "compHeroId": "1931"
+        },
+        {
+          "heroId": "5458",
+          "equipId": "2037",
+          "compHeroId": "1931"
+        },
+        {
+          "heroId": "5450",
+          "equipId": "2034",
+          "compHeroId": "1933"
+        },
+        {
+          "heroId": "5450",
+          "equipId": "2028",
+          "compHeroId": "1933"
+        },
+        {
+          "heroId": "5450",
+          "equipId": "2025",
+          "compHeroId": "1933"
+        },
+        {
+          "heroId": "4500",
+          "equipId": "2034",
+          "compHeroId": "1937"
+        },
+        {
+          "heroId": "4500",
+          "equipId": "2028",
+          "compHeroId": "1937"
+        },
+        {
+          "heroId": "4500",
+          "equipId": "2023",
+          "compHeroId": "1937"
+        }
+      ],
+      "traits": [
+        {
+          "id": "84700101",
+          "name": "地狱火"
+        },
+        {
+          "id": "83720101",
+          "name": "重装战士"
+        },
+        {
+          "id": "83710101",
+          "name": "主宰"
+        },
+        {
+          "id": "83840101",
+          "name": "宝石骑士"
+        },
+        {
+          "id": "84610101",
+          "name": "翠神"
+        },
+        {
+          "id": "83850101",
+          "name": "顶级掠食者"
+        },
+        {
+          "id": "84650101",
+          "name": "赏金猎人"
+        },
+        {
+          "id": "84600101",
+          "name": "远古树精"
+        }
+      ],
+      "gameCode": "【阵容码】#巨龙95#MjIwMDY3MzAyODc5ODA4NTYxNzg3MTgyMDgwODEz",
+      "dataMode": "stats"
+    },
+    "116": {
+      "heroes": [
+        {
+          "id": "2324",
+          "heroId": "3505",
+          "heroName": "卡兹克",
+          "heroType": 0,
+          "isCarry": true,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 3,
+          "heroStarNum": 3,
+          "position": "1,7"
+        },
+        {
+          "id": "2333",
+          "heroId": "4513",
+          "heroName": "索拉卡",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": true,
+          "isCore": true,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "4,6"
+        },
+        {
+          "id": "2325",
+          "heroId": "3502",
+          "heroName": "费德提克",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 3,
+          "heroStarNum": 3,
+          "position": "1,2"
+        },
+        {
+          "id": "2326",
+          "heroId": "3500",
+          "heroName": "赫卡里姆",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 3,
+          "heroStarNum": 3,
+          "position": "1,6"
+        },
+        {
+          "id": "2328",
+          "heroId": "4508",
+          "heroName": "伊泽瑞尔",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "4,7"
+        },
+        {
+          "id": "2329",
+          "heroId": "4509",
+          "heroName": "厄斐琉斯",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "4,1"
+        },
+        {
+          "id": "2327",
+          "heroId": "3506",
+          "heroName": "黛安娜",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 3,
+          "heroStarNum": null,
+          "position": "2,6"
+        },
+        {
+          "id": "2330",
+          "heroId": "1500",
+          "heroName": "奥恩",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 1,
+          "heroStarNum": null,
+          "position": "2,1"
+        },
+        {
+          "id": "2331",
+          "heroId": "8705",
+          "heroName": "生命花",
+          "heroType": 1,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 0,
+          "heroStarNum": null,
+          "position": "3,1"
+        },
+        {
+          "id": "2332",
+          "heroId": "8704",
+          "heroName": "石皮树",
+          "heroType": 1,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 0,
+          "heroStarNum": null,
+          "position": "1,1"
+        }
+      ],
+      "equips": [
+        {
+          "heroId": "3500",
+          "equipId": "2025",
+          "compHeroId": "2326"
+        },
+        {
+          "heroId": "3500",
+          "equipId": "2028",
+          "compHeroId": "2326"
+        },
+        {
+          "heroId": "3500",
+          "equipId": "2034",
+          "compHeroId": "2326"
+        },
+        {
+          "heroId": "3505",
+          "equipId": "2005",
+          "compHeroId": "2324"
+        },
+        {
+          "heroId": "3505",
+          "equipId": "2016",
+          "compHeroId": "2324"
+        },
+        {
+          "heroId": "3505",
+          "equipId": "2039",
+          "compHeroId": "2324"
+        },
+        {
+          "heroId": "4513",
+          "equipId": "2004",
+          "compHeroId": "2333"
+        },
+        {
+          "heroId": "4513",
+          "equipId": "2011",
+          "compHeroId": "2333"
+        },
+        {
+          "heroId": "4513",
+          "equipId": "2020",
+          "compHeroId": "2333"
+        }
+      ],
+      "traits": [
+        {
+          "id": "83920101",
+          "name": "永恒之森"
+        },
+        {
+          "id": "83890101",
+          "name": "裁决使"
+        },
+        {
+          "id": "83740101",
+          "name": "护卫"
+        },
+        {
+          "id": "83730102",
+          "name": "绝命花妖"
+        },
+        {
+          "id": "83870101",
+          "name": "月蚀骑士"
+        },
+        {
+          "id": "83720101",
+          "name": "重装战士"
+        },
+        {
+          "id": "84620101",
+          "name": "宿敌"
+        }
+      ],
+      "gameCode": "【阵容码】#裁决螳螂#MjIwMDY3MzAyODc5ODA4NTYxNzg5MjE4MDI5MTQ5",
+      "dataMode": "stats"
+    },
+    "100": {
+      "heroes": [
+        {
+          "id": "2153",
+          "heroId": "2510",
+          "heroName": "凯特琳",
+          "heroType": 0,
+          "isCarry": true,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 2,
+          "heroStarNum": 3,
+          "position": "4,7"
+        },
+        {
+          "id": "2155",
+          "heroId": "4510",
+          "heroName": "希维尔",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": true,
+          "isCore": true,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "4,5"
+        },
+        {
+          "id": "2157",
+          "heroId": "3500",
+          "heroName": "赫卡里姆",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 3,
+          "heroStarNum": null,
+          "position": "1,5"
+        },
+        {
+          "id": "2152",
+          "heroId": "2504",
+          "heroName": "伊莉丝",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 2,
+          "heroStarNum": 3,
+          "position": "1,6"
+        },
+        {
+          "id": "2158",
+          "heroId": "4500",
+          "heroName": "苍蓝雕纹魔像",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "1,4"
+        },
+        {
+          "id": "2156",
+          "heroId": "3501",
+          "heroName": "蔚",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 3,
+          "heroStarNum": null,
+          "position": "1,2"
+        },
+        {
+          "id": "2159",
+          "heroId": "3508",
+          "heroName": "崔丝塔娜",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 3,
+          "heroStarNum": null,
+          "position": "4,1"
+        },
+        {
+          "id": "2154",
+          "heroId": "1501",
+          "heroName": "洛",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 1,
+          "heroStarNum": null,
+          "position": "1,3"
+        }
+      ],
+      "equips": [
+        {
+          "heroId": "2504",
+          "equipId": "2025",
+          "compHeroId": "2152"
+        },
+        {
+          "heroId": "2504",
+          "equipId": "2028",
+          "compHeroId": "2152"
+        },
+        {
+          "heroId": "2504",
+          "equipId": "2034",
+          "compHeroId": "2152"
+        },
+        {
+          "heroId": "2510",
+          "equipId": "2045",
+          "compHeroId": "2153"
+        },
+        {
+          "heroId": "2510",
+          "equipId": "2013",
+          "compHeroId": "2153"
+        },
+        {
+          "heroId": "2510",
+          "equipId": "2010",
+          "compHeroId": "2153"
+        },
+        {
+          "heroId": "3500",
+          "equipId": "2029",
+          "compHeroId": "2157"
+        },
+        {
+          "heroId": "3500",
+          "equipId": "2034",
+          "compHeroId": "2157"
+        },
+        {
+          "heroId": "3500",
+          "equipId": "2032",
+          "compHeroId": "2157"
+        }
+      ],
+      "traits": [
+        {
+          "id": "83720102",
+          "name": "重装战士"
+        },
+        {
+          "id": "83750102",
+          "name": "猎人"
+        },
+        {
+          "id": "83930101",
+          "name": "花仙子"
+        },
+        {
+          "id": "83970101",
+          "name": "野兽之灵"
+        },
+        {
+          "id": "83710101",
+          "name": "主宰"
+        }
+      ],
+      "gameCode": "【阵容码】#重装女警#MjIwMDY3MzAyODc5ODA4NTYxNzg3NDAyMjM1MzI3",
+      "dataMode": "stats"
+    },
+    "113": {
+      "heroes": [
+        {
+          "id": "2297",
+          "heroId": "5456",
+          "heroName": "拉露恩",
+          "heroType": 0,
+          "isCarry": true,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 5,
+          "heroStarNum": null,
+          "position": "4,1"
+        },
+        {
+          "id": "2296",
+          "heroId": "5458",
+          "heroName": "远古巨龙",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": true,
+          "isCore": true,
+          "price": 5,
+          "heroStarNum": null,
+          "position": "2,2"
+        },
+        {
+          "id": "2303",
+          "heroId": "5452",
+          "heroName": "纳尔",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 5,
+          "heroStarNum": null,
+          "position": "2,3"
+        },
+        {
+          "id": "2298",
+          "heroId": "4500",
+          "heroName": "苍蓝雕纹魔像",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "1,4"
+        },
+        {
+          "id": "2300",
+          "heroId": "5451",
+          "heroName": "塔里克",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 5,
+          "heroStarNum": null,
+          "position": "1,5"
+        },
+        {
+          "id": "2299",
+          "heroId": "3506",
+          "heroName": "黛安娜",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 3,
+          "heroStarNum": null,
+          "position": "1,3"
+        },
+        {
+          "id": "2301",
+          "heroId": "3500",
+          "heroName": "赫卡里姆",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 3,
+          "heroStarNum": null,
+          "position": "1,2"
+        },
+        {
+          "id": "2302",
+          "heroId": "2501",
+          "heroName": "阿利斯塔",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 2,
+          "heroStarNum": null,
+          "position": "1,6"
+        },
+        {
+          "id": "2304",
+          "heroId": "8704",
+          "heroName": "石皮树",
+          "heroType": 1,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 0,
+          "heroStarNum": null,
+          "position": "1,7"
+        },
+        {
+          "id": "2305",
+          "heroId": "8705",
+          "heroName": "生命花",
+          "heroType": 1,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 0,
+          "heroStarNum": null,
+          "position": "4,4"
+        }
+      ],
+      "equips": [
+        {
+          "heroId": "5452",
+          "equipId": "2012",
+          "compHeroId": "2303"
+        },
+        {
+          "heroId": "5452",
+          "equipId": "2007",
+          "compHeroId": "2303"
+        },
+        {
+          "heroId": "5452",
+          "equipId": "2006",
+          "compHeroId": "2303"
+        },
+        {
+          "heroId": "5458",
+          "equipId": "2037",
+          "compHeroId": "2296"
+        },
+        {
+          "heroId": "5458",
+          "equipId": "2007",
+          "compHeroId": "2296"
+        },
+        {
+          "heroId": "5458",
+          "equipId": "2001",
+          "compHeroId": "2296"
+        },
+        {
+          "heroId": "5456",
+          "equipId": "2038",
+          "compHeroId": "2297"
+        },
+        {
+          "heroId": "5456",
+          "equipId": "2014",
+          "compHeroId": "2297"
+        },
+        {
+          "heroId": "5456",
+          "equipId": "2004",
+          "compHeroId": "2297"
+        },
+        {
+          "heroId": "4500",
+          "equipId": "2034",
+          "compHeroId": "2298"
+        },
+        {
+          "heroId": "4500",
+          "equipId": "2028",
+          "compHeroId": "2298"
+        },
+        {
+          "heroId": "4500",
+          "equipId": "2023",
+          "compHeroId": "2298"
+        }
+      ],
+      "traits": [
+        {
+          "id": "83720102",
+          "name": "重装战士"
+        },
+        {
+          "id": "83920101",
+          "name": "永恒之森"
+        },
+        {
+          "id": "84660101",
+          "name": "峡谷野怪"
+        },
+        {
+          "id": "85200101",
+          "name": "斗士"
+        },
+        {
+          "id": "83870101",
+          "name": "月蚀骑士"
+        },
+        {
+          "id": "83840101",
+          "name": "宝石骑士"
+        },
+        {
+          "id": "83850101",
+          "name": "顶级掠食者"
+        },
+        {
+          "id": "83960101",
+          "name": "月华神女"
+        }
+      ],
+      "gameCode": "【阵容码】#古纳拉95#MjIwMDY3MzAyODc5ODA4NTYxNzg5MDI2ODY2MTcx",
+      "dataMode": "stats"
+    },
+    "99": {
+      "heroes": [
+        {
+          "id": "2120",
+          "heroId": "3509",
+          "heroName": "深红锋喙鸟",
+          "heroType": 0,
+          "isCarry": true,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 3,
+          "heroStarNum": 3,
+          "position": "4,1"
+        },
+        {
+          "id": "2121",
+          "heroId": "4506",
+          "heroName": "绯红印记树怪",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "4,2"
+        },
+        {
+          "id": "2125",
+          "heroId": "4500",
+          "heroName": "苍蓝雕纹魔像",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "1,3"
+        },
+        {
+          "id": "2127",
+          "heroId": "3503",
+          "heroName": "远古石甲虫",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 3,
+          "heroStarNum": 3,
+          "position": "1,5"
+        },
+        {
+          "id": "2122",
+          "heroId": "2513",
+          "heroName": "魔沼蛙",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 2,
+          "heroStarNum": null,
+          "position": "4,3"
+        },
+        {
+          "id": "2126",
+          "heroId": "2500",
+          "heroName": "峡谷迅捷蟹",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 2,
+          "heroStarNum": null,
+          "position": "1,6"
+        },
+        {
+          "id": "2128",
+          "heroId": "2507",
+          "heroName": "暗影狼",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 2,
+          "heroStarNum": null,
+          "position": "1,4"
+        },
+        {
+          "id": "2123",
+          "heroId": "1508",
+          "heroName": "绯红树怪",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 1,
+          "heroStarNum": null,
+          "position": "4,5"
+        },
+        {
+          "id": "2124",
+          "heroId": "1511",
+          "heroName": "苍蓝哨戒",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 1,
+          "heroStarNum": null,
+          "position": "4,7"
+        }
+      ],
+      "equips": [
+        {
+          "heroId": "4500",
+          "equipId": "2034",
+          "compHeroId": "2125"
+        },
+        {
+          "heroId": "4500",
+          "equipId": "2028",
+          "compHeroId": "2125"
+        },
+        {
+          "heroId": "4500",
+          "equipId": "2023",
+          "compHeroId": "2125"
+        },
+        {
+          "heroId": "3503",
+          "equipId": "2034",
+          "compHeroId": "2127"
+        },
+        {
+          "heroId": "3503",
+          "equipId": "2028",
+          "compHeroId": "2127"
+        },
+        {
+          "heroId": "3503",
+          "equipId": "2025",
+          "compHeroId": "2127"
+        },
+        {
+          "heroId": "3509",
+          "equipId": "2045",
+          "compHeroId": "2120"
+        },
+        {
+          "heroId": "3509",
+          "equipId": "2013",
+          "compHeroId": "2120"
+        },
+        {
+          "heroId": "3509",
+          "equipId": "2010",
+          "compHeroId": "2120"
+        },
+        {
+          "heroId": "4506",
+          "equipId": "2045",
+          "compHeroId": "2121"
+        },
+        {
+          "heroId": "4506",
+          "equipId": "2041",
+          "compHeroId": "2121"
+        },
+        {
+          "heroId": "4506",
+          "equipId": "2007",
+          "compHeroId": "2121"
+        }
+      ],
+      "traits": [
+        {
+          "id": "84660103",
+          "name": "峡谷野怪"
+        },
+        {
+          "id": "83900101",
+          "name": "狂战士"
+        },
+        {
+          "id": "84800101",
+          "name": "神谕"
+        }
+      ],
+      "gameCode": "【阵容码】#7野怪鸡哥#MjIwMDY3MzAyODc5ODA4NTYxNzg4MDI3OTEyNjQ5",
+      "dataMode": "stats"
+    },
+    "106": {
+      "heroes": [
+        {
+          "id": "2224",
+          "heroId": "2510",
+          "heroName": "凯特琳",
+          "heroType": 0,
+          "isCarry": true,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 2,
+          "heroStarNum": 3,
+          "position": "4,1"
+        },
+        {
+          "id": "2228",
+          "heroId": "4510",
+          "heroName": "希维尔",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": true,
+          "isCore": true,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "4,3"
+        },
+        {
+          "id": "2225",
+          "heroId": "2500",
+          "heroName": "峡谷迅捷蟹",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 2,
+          "heroStarNum": 3,
+          "position": "1,3"
+        },
+        {
+          "id": "2226",
+          "heroId": "2502",
+          "heroName": "瑟庄妮",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 2,
+          "heroStarNum": 3,
+          "position": "1,4"
+        },
+        {
+          "id": "2231",
+          "heroId": "4503",
+          "heroName": "阿木木",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "1,7"
+        },
+        {
+          "id": "2227",
+          "heroId": "3508",
+          "heroName": "崔丝塔娜",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 3,
+          "heroStarNum": null,
+          "position": "4,7"
+        },
+        {
+          "id": "2229",
+          "heroId": "3501",
+          "heroName": "蔚",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 3,
+          "heroStarNum": null,
+          "position": "1,6"
+        },
+        {
+          "id": "2230",
+          "heroId": "1501",
+          "heroName": "洛",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 1,
+          "heroStarNum": null,
+          "position": "1,5"
+        }
+      ],
+      "equips": [
+        {
+          "heroId": "2510",
+          "equipId": "2045",
+          "compHeroId": "2224"
+        },
+        {
+          "heroId": "2510",
+          "equipId": "2013",
+          "compHeroId": "2224"
+        },
+        {
+          "heroId": "2510",
+          "equipId": "2010",
+          "compHeroId": "2224"
+        },
+        {
+          "heroId": "2500",
+          "equipId": "2034",
+          "compHeroId": "2225"
+        },
+        {
+          "heroId": "2500",
+          "equipId": "2028",
+          "compHeroId": "2225"
+        },
+        {
+          "heroId": "2500",
+          "equipId": "2025",
+          "compHeroId": "2225"
+        },
+        {
+          "heroId": "2502",
+          "equipId": "2029",
+          "compHeroId": "2226"
+        },
+        {
+          "heroId": "2502",
+          "equipId": "2034",
+          "compHeroId": "2226"
+        },
+        {
+          "heroId": "2502",
+          "equipId": "2028",
+          "compHeroId": "2226"
+        },
+        {
+          "heroId": "4510",
+          "equipId": "2037",
+          "compHeroId": "2228"
+        },
+        {
+          "heroId": "4510",
+          "equipId": "2004",
+          "compHeroId": "2228"
+        },
+        {
+          "heroId": "4510",
+          "equipId": "2001",
+          "compHeroId": "2228"
+        }
+      ],
+      "traits": [
+        {
+          "id": "83710102",
+          "name": "主宰"
+        },
+        {
+          "id": "83750102",
+          "name": "猎人"
+        },
+        {
+          "id": "83930101",
+          "name": "花仙子"
+        },
+        {
+          "id": "83970101",
+          "name": "野兽之灵"
+        }
+      ],
+      "gameCode": "【阵容码】#主宰女警#MjIwMDY3MzAyODc5ODA4NTYxNzg4NzgyNjgwNTQy",
+      "dataMode": "stats"
+    },
+    "109": {
+      "heroes": [
+        {
+          "id": "2254",
+          "heroId": "3506",
+          "heroName": "黛安娜",
+          "heroType": 0,
+          "isCarry": true,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 3,
+          "heroStarNum": 3,
+          "position": "1,7"
+        },
+        {
+          "id": "2255",
+          "heroId": "3505",
+          "heroName": "卡兹克",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": true,
+          "isCore": true,
+          "price": 3,
+          "heroStarNum": 3,
+          "position": "2,6"
+        },
+        {
+          "id": "2253",
+          "heroId": "3500",
+          "heroName": "赫卡里姆",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 3,
+          "heroStarNum": 3,
+          "position": "1,6"
+        },
+        {
+          "id": "2252",
+          "heroId": "2515",
+          "heroName": "伊莉丝",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 2,
+          "heroStarNum": 3,
+          "position": "1,2"
+        },
+        {
+          "id": "2258",
+          "heroId": "5456",
+          "heroName": "拉露恩",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 5,
+          "heroStarNum": null,
+          "position": "4,1"
+        },
+        {
+          "id": "2251",
+          "heroId": "4500",
+          "heroName": "苍蓝雕纹魔像",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "1,1"
+        },
+        {
+          "id": "2256",
+          "heroId": "4509",
+          "heroName": "厄斐琉斯",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "4,7"
+        },
+        {
+          "id": "2257",
+          "heroId": "3513",
+          "heroName": "克格莫",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 3,
+          "heroStarNum": null,
+          "position": "4,6"
+        }
+      ],
+      "equips": [
+        {
+          "heroId": "3500",
+          "equipId": "2025",
+          "compHeroId": "2253"
+        },
+        {
+          "heroId": "3500",
+          "equipId": "2028",
+          "compHeroId": "2253"
+        },
+        {
+          "heroId": "3500",
+          "equipId": "2034",
+          "compHeroId": "2253"
+        },
+        {
+          "heroId": "3506",
+          "equipId": "2014",
+          "compHeroId": "2254"
+        },
+        {
+          "heroId": "3506",
+          "equipId": "2038",
+          "compHeroId": "2254"
+        },
+        {
+          "heroId": "3506",
+          "equipId": "2041",
+          "compHeroId": "2254"
+        },
+        {
+          "heroId": "3505",
+          "equipId": "2005",
+          "compHeroId": "2255"
+        },
+        {
+          "heroId": "3505",
+          "equipId": "2038",
+          "compHeroId": "2255"
+        },
+        {
+          "heroId": "3505",
+          "equipId": "2039",
+          "compHeroId": "2255"
+        }
+      ],
+      "traits": [
+        {
+          "id": "83720102",
+          "name": "重装战士"
+        },
+        {
+          "id": "83870102",
+          "name": "月蚀骑士"
+        },
+        {
+          "id": "84800101",
+          "name": "神谕"
+        },
+        {
+          "id": "83980101",
+          "name": "帝王斑蝶"
+        },
+        {
+          "id": "84620101",
+          "name": "宿敌"
+        },
+        {
+          "id": "83960101",
+          "name": "月华神女"
+        }
+      ],
+      "gameCode": "【阵容码】#皎月螳螂#MjIwMDY3MzAyODc5ODA4NTYxNzg4NTk5MzU2MDc5",
+      "dataMode": "stats"
+    },
+    "119": {
+      "heroes": [
+        {
+          "id": "2357",
+          "heroId": "3512",
+          "heroName": "克格莫",
+          "heroType": 0,
+          "isCarry": true,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 3,
+          "heroStarNum": 3,
+          "position": "4,7"
+        },
+        {
+          "id": "2354",
+          "heroId": "4500",
+          "heroName": "苍蓝雕纹魔像",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "1,7"
+        },
+        {
+          "id": "2351",
+          "heroId": "3503",
+          "heroName": "远古石甲虫",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 3,
+          "heroStarNum": 3,
+          "position": "1,1"
+        },
+        {
+          "id": "2353",
+          "heroId": "3500",
+          "heroName": "赫卡里姆",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 3,
+          "heroStarNum": 3,
+          "position": "1,6"
+        },
+        {
+          "id": "2355",
+          "heroId": "4501",
+          "heroName": "莫甘娜",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "2,7"
+        },
+        {
+          "id": "2356",
+          "heroId": "2514",
+          "heroName": "提莫",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 2,
+          "heroStarNum": null,
+          "position": "4,6"
+        },
+        {
+          "id": "2352",
+          "heroId": "1511",
+          "heroName": "苍蓝哨戒",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 1,
+          "heroStarNum": null,
+          "position": "4,1"
+        }
+      ],
+      "equips": [
+        {
+          "heroId": "3512",
+          "equipId": "2001",
+          "compHeroId": "2357"
+        },
+        {
+          "heroId": "3512",
+          "equipId": "2045",
+          "compHeroId": "2357"
+        },
+        {
+          "heroId": "3512",
+          "equipId": "2046",
+          "compHeroId": "2357"
+        },
+        {
+          "heroId": "4501",
+          "equipId": "2020",
+          "compHeroId": "2355"
+        },
+        {
+          "heroId": "4501",
+          "equipId": "2038",
+          "compHeroId": "2355"
+        },
+        {
+          "heroId": "4501",
+          "equipId": "2003",
+          "compHeroId": "2355"
+        },
+        {
+          "heroId": "3500",
+          "equipId": "2025",
+          "compHeroId": "2353"
+        },
+        {
+          "heroId": "3500",
+          "equipId": "2028",
+          "compHeroId": "2353"
+        },
+        {
+          "heroId": "3500",
+          "equipId": "2034",
+          "compHeroId": "2353"
+        },
+        {
+          "heroId": "4500",
+          "equipId": "2023",
+          "compHeroId": "2354"
+        },
+        {
+          "heroId": "4500",
+          "equipId": "2028",
+          "compHeroId": "2354"
+        },
+        {
+          "heroId": "4500",
+          "equipId": "2032",
+          "compHeroId": "2354"
+        }
+      ],
+      "traits": [
+        {
+          "id": "84800104",
+          "name": "神谕"
+        },
+        {
+          "id": "84660101",
+          "name": "峡谷野怪"
+        },
+        {
+          "id": "83720101",
+          "name": "重装战士"
+        },
+        {
+          "id": "83980101",
+          "name": "帝王斑蝶"
+        }
+      ],
+      "gameCode": "【阵容码】#神谕大嘴#MjIwMDY3MzAyODc5ODA4NTYxNzg5NzUwMjI1Njky",
+      "dataMode": "stats"
+    },
+    "115": {
+      "heroes": [
+        {
+          "id": "2323",
+          "heroId": "1513",
+          "heroName": "阿卡丽",
+          "heroType": 0,
+          "isCarry": true,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 1,
+          "heroStarNum": 3,
+          "position": "3,1"
+        },
+        {
+          "id": "2318",
+          "heroId": "1505",
+          "heroName": "卡蜜尔",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": true,
+          "isCore": true,
+          "price": 1,
+          "heroStarNum": 3,
+          "position": "3,2"
+        },
+        {
+          "id": "2315",
+          "heroId": "1500",
+          "heroName": "奥恩",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 1,
+          "heroStarNum": 3,
+          "position": "1,4"
+        },
+        {
+          "id": "2316",
+          "heroId": "1507",
+          "heroName": "韦鲁斯",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 1,
+          "heroStarNum": 3,
+          "position": "4,1"
+        },
+        {
+          "id": "2319",
+          "heroId": "1502",
+          "heroName": "蕾欧娜",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 1,
+          "heroStarNum": 3,
+          "position": "3,4"
+        },
+        {
+          "id": "2322",
+          "heroId": "4503",
+          "heroName": "阿木木",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 4,
+          "heroStarNum": null,
+          "position": "3,5"
+        },
+        {
+          "id": "2320",
+          "heroId": "2502",
+          "heroName": "瑟庄妮",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 2,
+          "heroStarNum": null,
+          "position": "3,7"
+        },
+        {
+          "id": "2321",
+          "heroId": "2512",
+          "heroName": "凯尔",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 2,
+          "heroStarNum": null,
+          "position": "4,7"
+        }
+      ],
+      "equips": [
+        {
+          "heroId": "1500",
+          "equipId": "2034",
+          "compHeroId": "2315"
+        },
+        {
+          "heroId": "1500",
+          "equipId": "2028",
+          "compHeroId": "2315"
+        },
+        {
+          "heroId": "1500",
+          "equipId": "2025",
+          "compHeroId": "2315"
+        },
+        {
+          "heroId": "1507",
+          "equipId": "2037",
+          "compHeroId": "2316"
+        },
+        {
+          "heroId": "1507",
+          "equipId": "2004",
+          "compHeroId": "2316"
+        },
+        {
+          "heroId": "1507",
+          "equipId": "2001",
+          "compHeroId": "2316"
+        },
+        {
+          "heroId": "1505",
+          "equipId": "2041",
+          "compHeroId": "2318"
+        },
+        {
+          "heroId": "1505",
+          "equipId": "2007",
+          "compHeroId": "2318"
+        },
+        {
+          "heroId": "1505",
+          "equipId": "2001",
+          "compHeroId": "2318"
+        },
+        {
+          "heroId": "1513",
+          "equipId": "2039",
+          "compHeroId": "2323"
+        },
+        {
+          "heroId": "1513",
+          "equipId": "2038",
+          "compHeroId": "2323"
+        },
+        {
+          "heroId": "1513",
+          "equipId": "2005",
+          "compHeroId": "2323"
+        }
+      ],
+      "traits": [
+        {
+          "id": "84700102",
+          "name": "地狱火"
+        },
+        {
+          "id": "83880101",
+          "name": "日蚀骑士"
+        },
+        {
+          "id": "83740101",
+          "name": "护卫"
+        },
+        {
+          "id": "83900101",
+          "name": "狂战士"
+        },
+        {
+          "id": "83830101",
+          "name": "迅捷射手"
+        },
+        {
+          "id": "83710101",
+          "name": "主宰"
+        }
+      ],
+      "gameCode": "【阵容码】#卡丽蜜儿#MjIwMDY3MzAyODc5ODA4NTYxNzg5MTEwOTYxNDE2",
+      "dataMode": "stats"
+    },
+    "88": {
+      "heroes": [
+        {
+          "id": "1928",
+          "heroId": "2512",
+          "heroName": "凯尔",
+          "heroType": 0,
+          "isCarry": true,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 2,
+          "heroStarNum": 3,
+          "position": "4,1"
+        },
+        {
+          "id": "1927",
+          "heroId": "1509",
+          "heroName": "霞",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": true,
+          "isCore": true,
+          "price": 1,
+          "heroStarNum": 3,
+          "position": "4,2"
+        },
+        {
+          "id": "1923",
+          "heroId": "1500",
+          "heroName": "奥恩",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 1,
+          "heroStarNum": 3,
+          "position": "1,4"
+        },
+        {
+          "id": "1926",
+          "heroId": "1502",
+          "heroName": "蕾欧娜",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": true,
+          "price": 1,
+          "heroStarNum": 3,
+          "position": "1,5"
+        },
+        {
+          "id": "1925",
+          "heroId": "2502",
+          "heroName": "瑟庄妮",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 2,
+          "heroStarNum": 3,
+          "position": "1,3"
+        },
+        {
+          "id": "1929",
+          "heroId": "2511",
+          "heroName": "乐芙兰",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 2,
+          "heroStarNum": 3,
+          "position": "4,3"
+        },
+        {
+          "id": "1924",
+          "heroId": "1501",
+          "heroName": "洛",
+          "heroType": 0,
+          "isCarry": false,
+          "isSubCarry": false,
+          "isCore": false,
+          "price": 1,
+          "heroStarNum": null,
+          "position": "1,2"
+        }
+      ],
+      "equips": [
+        {
+          "heroId": "1500",
+          "equipId": "2028",
+          "compHeroId": "1923"
+        },
+        {
+          "heroId": "1500",
+          "equipId": "2025",
+          "compHeroId": "1923"
+        },
+        {
+          "heroId": "1500",
+          "equipId": "2034",
+          "compHeroId": "1923"
+        },
+        {
+          "heroId": "1502",
+          "equipId": "2028",
+          "compHeroId": "1926"
+        },
+        {
+          "heroId": "1502",
+          "equipId": "2025",
+          "compHeroId": "1926"
+        },
+        {
+          "heroId": "1502",
+          "equipId": "2034",
+          "compHeroId": "1926"
+        },
+        {
+          "heroId": "1509",
+          "equipId": "2010",
+          "compHeroId": "1927"
+        },
+        {
+          "heroId": "1509",
+          "equipId": "2013",
+          "compHeroId": "1927"
+        },
+        {
+          "heroId": "1509",
+          "equipId": "2046",
+          "compHeroId": "1927"
+        },
+        {
+          "heroId": "2512",
+          "equipId": "2010",
+          "compHeroId": "1928"
+        },
+        {
+          "heroId": "2512",
+          "equipId": "2038",
+          "compHeroId": "1928"
+        },
+        {
+          "heroId": "2512",
+          "equipId": "2016",
+          "compHeroId": "1928"
+        }
+      ],
+      "traits": [
+        {
+          "id": "83880101",
+          "name": "日蚀骑士"
+        },
+        {
+          "id": "83920101",
+          "name": "永恒之森"
+        },
+        {
+          "id": "83740101",
+          "name": "护卫"
+        },
+        {
+          "id": "83930101",
+          "name": "花仙子"
+        },
+        {
+          "id": "83830101",
+          "name": "迅捷射手"
+        },
+        {
+          "id": "83710101",
+          "name": "主宰"
+        }
+      ],
+      "gameCode": "【阵容码】#神器天使#MjIwMDY3MzAyODc5ODA4NTYxNzg3MTgxOTg4MDM0",
+      "dataMode": "stats"
+    }
+  },
+  "rank_ids": [
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "119",
+    "120",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99"
+  ],
+  "source_hashes": {
+    "versions": "f63272d55d918df236654b51a817c0e958739715c8b7fa821ace533d63525568",
+    "summary": "8fd97a0df0d8f70ad3e10a3b1fd09749c42ade9605813387f6989993e7fd712e",
+    "rank": "91dccb104b0c6fc986ad67e2017abe9659670e56073b65ad70535b0b9630feaa",
+    "special": "ce2e9e295a1e2f8cb977c3d95d0b338a9eaa05246ee8bcdffd82085c005d2300",
+    "comp119": "60b447bbc25ef6d1f82869608c8cae9532f4bd041162ad5563d91145924d042a",
+    "kog-ad-equips": "3753a675475d04bf03d0d6e259c96746eda4813cbd742351e0afb242c37343ba",
+    "kayle-gear": "cfa8d2fefcfd300016c0699b80558b87cac4215eea99b637ef177782f0b1f944",
+    "khazix-gear": "9b81196d99c87098f769181d42c1e5bac0241df123b6b35c7fea8116fa18eb24",
+    "ashe-emblem": "b95bd38211891727f138716ebd90c1df81c214e4074ee0833653d7f576259228",
+    "comp-112": "0218c8c8f4a63f970ff6b099a3ecac7ebffd4b9c7adbef5efddacd7a080cf623",
+    "comp-113": "6877c7c1e6b1fc97eb39d48c0926c593721b8f2a0b9aec5adbbbf632be2b795f",
+    "comp-99": "081426f084e8ef06cc2404b41a2093bf31a6aaaa07d4a849e70c26965d4de8e8",
+    "comp-104": "c14907538ee83f8d6640d9a3d37dbccc9953ff4ad421fc7861ab4642cb190916",
+    "comp-89": "69e12d8dfacdee80225e4df1a0ff90ca10b1d6167ff8eb9b5c5e63bf62f2978b",
+    "comp-100": "49c737d2188d91ad2aaebfe67965330c09769727055fd70439b277bc57aa136d",
+    "comp-116": "91b4674a0c53570772d704b780c5275abc2fcbad7e43a05c084eca5f06eae8ff",
+    "comp-106": "ef7424a2d51580cbd53d5850506c267a34f655d00a09edba5e30a1028fc0039b",
+    "comp-109": "f21524cb4c2e929bc4d8e95437aae1f6d5aeb917c1cf9280385f84c0aa993d27",
+    "comp-115": "4e05bff1dca0f6cfde713a43b74d4f6066df5d04cc7307b733e2bfe0c1214f62",
+    "comp-88": "6334af1f845788738e4a313b219547bd1d31a945cfe1acdd663ac1dc9538a177",
+    "zyra-equips": "605a42f65b6da8cce4814a6e79c6bfe518677b22400a2657566e5c62a40c1c7a"
+  },
+  "semantic_hashes": {
+    "versions": "f81371168ea5965ae2c92e150cf1b8ecfa7263978c0e7d085c86477e6fa1d804",
+    "summary": "db3f09158b5b7a3caeda0813f454dbf6c36de60c1503d4c6330bb5c5d6b24ee0",
+    "rank": "1fa34172b55f047475ab4706d280ad7ab86ea235fdfaebf15eac909c82d51d2c",
+    "special": "fc6901660c4ff038df97e15b98160c461c814dce723cf748804d325287298d64",
+    "comp119": "ceb841e31b49e9b0f9c42408d76ad692dee9b1967a0b17b9bc274f299ee122b9",
+    "kog-ad-equips": "5ea29fd8cbb7131daf208f81d8ca0695e15eb4d2a0f28baaf13c0ecde3246ef2",
+    "kayle-gear": "2382fddc0154b66f4f3960570ea7800a887a177b0ae1ac8dac12971bbda0c05e",
+    "khazix-gear": "3d5da8a3140cab8e4dc8526ff906cd8846a61224c56294cfe1c9ca9ac3cf09a9",
+    "ashe-emblem": "fe23311748ca4864cd5b25a4d385e1feff8f4bd4fae07e1ea4ef06e1f28dc8c5",
+    "comp-112": "5b43654358bc7092b2a5c2346e99beb375e80f1c35b64590e132b3dd41686a9b",
+    "comp-113": "15e19ea671898e1f3cfdb577883384f6087f9551f4e288e4d91e7c2786b39dbd",
+    "comp-99": "a1f187d4be98f09ea9c63d3d1d26153bbd45b34e7b5d478fdabf02cba70429cb",
+    "comp-104": "85cb0595a47d4e1d0a8cd153bf7147decdd31a2e464bb2c10f112980c7cb857a",
+    "comp-89": "7e259bbbad55a2079d7d2487eba6e725e9bda1d82272e567c66e9408587da71c",
+    "comp-100": "c1424a1cb62d0d4334f39fd06f695e82f7f647ad59b304f2eb47cba4462433bb",
+    "comp-116": "563f26e5e1f05f98db1dc9cea62721a7eeaa240ba5350f482459bc1bde3e4ef1",
+    "comp-106": "92d83bed391b93e1975523f8f4a102cec97d88ce9ea9b4b35a69489bc075fdb8",
+    "comp-109": "afc4e49f00d967b951880deb9ab16f2c77093b4e1dc40eab5c0d3ec591d6ae3f",
+    "comp-115": "30ac95aaed2eba1bc7f04b68da1c3f27be8f30c969dcfed78a811634c6964cf6",
+    "comp-88": "85be6e9089be0273f4d57cf0a60d641e7c69ffec29ff72b84313183d4a4a9c09",
+    "zyra-equips": "fb8b2cdce4fa907ee7d9f2cc1681b64528de37d2ad1c6f16aa0ba53f32d8afdf"
+  }
+}

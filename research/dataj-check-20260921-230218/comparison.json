@@ -1,0 +1,150 @@
+{
+  "source": "DataJ 金铲铲之战 S18资料与统计",
+  "statistics": {
+    "setId": 18,
+    "gameVersion": "18.2a",
+    "gamesAnalyzed": 117928,
+    "playersAnalyzed": 14741,
+    "threeStarUnits": 109079,
+    "itemsEquipped": 1339460,
+    "totalDamageDealt": 11941537,
+    "dataUpdatedAt": "2026-09-20T19:24:41.989Z"
+  },
+  "baseline": "research/tankiness-20260918/sources/dataj-gamedata.json",
+  "baselineSHA256": "0338c0734fc0faec4cbd8d34bc1ffed1d77fae49169855536b4630097730d9c2",
+  "catalogDiff": {
+    "hero": {
+      "oldRecords": 371,
+      "newRecords": 371,
+      "identical": true,
+      "added": [],
+      "removed": [],
+      "changed": []
+    },
+    "equip": {
+      "oldRecords": 158,
+      "newRecords": 158,
+      "identical": true,
+      "added": [],
+      "removed": [],
+      "changed": []
+    },
+    "trait": {
+      "oldRecords": 90,
+      "newRecords": 90,
+      "identical": true,
+      "added": [],
+      "removed": [],
+      "changed": []
+    },
+    "hex": {
+      "oldRecords": 263,
+      "newRecords": 263,
+      "identical": true,
+      "added": [],
+      "removed": [],
+      "changed": []
+    }
+  },
+  "selectedModelChecks": [
+    {
+      "target": "饮血剑/汲取剑",
+      "field": "AP",
+      "model": 0.18,
+      "datajNormalized": 0.18,
+      "matches": true
+    },
+    {
+      "target": "饮血剑/汲取剑",
+      "field": "AD",
+      "model": 0.18,
+      "datajNormalized": 0.18,
+      "matches": true
+    },
+    {
+      "target": "饮血剑/汲取剑",
+      "field": "MR",
+      "model": 20.0,
+      "datajNormalized": 20,
+      "matches": true
+    },
+    {
+      "target": "饮血剑/汲取剑",
+      "field": "SV",
+      "model": 0.2,
+      "datajNormalized": 0.2,
+      "matches": true
+    },
+    {
+      "target": "石像鬼石板甲",
+      "field": "HP",
+      "model": 100.0,
+      "datajNormalized": 100,
+      "matches": true
+    },
+    {
+      "target": "石像鬼石板甲",
+      "field": "ARMOR",
+      "model": 25.0,
+      "datajNormalized": 25,
+      "matches": true
+    },
+    {
+      "target": "石像鬼石板甲",
+      "field": "MR",
+      "model": 25.0,
+      "datajNormalized": 25,
+      "matches": true
+    },
+    {
+      "target": "石像鬼石板甲",
+      "field": "AP",
+      "model": 0.0,
+      "datajNormalized": 0,
+      "matches": true
+    },
+    {
+      "target": "三星蔚",
+      "field": "H",
+      "model": 3564,
+      "datajNormalized": 3564.0,
+      "matches": true
+    },
+    {
+      "target": "三星蔚",
+      "field": "A",
+      "model": 50,
+      "datajNormalized": 50.0,
+      "matches": true
+    },
+    {
+      "target": "三星蔚",
+      "field": "M",
+      "model": 50,
+      "datajNormalized": 50.0,
+      "matches": true
+    },
+    {
+      "target": "三星蔚",
+      "field": "AS",
+      "model": 0.75,
+      "datajNormalized": 0.75,
+      "matches": true
+    },
+    {
+      "target": "三星蔚",
+      "field": "mp",
+      "model": 0,
+      "datajNormalized": 0.0,
+      "matches": true
+    },
+    {
+      "target": "三星蔚",
+      "field": "cap",
+      "model": 60,
+      "datajNormalized": 60.0,
+      "matches": true
+    }
+  ],
+  "scope": "资料库全字段比对；仅选定装备和蔚基础数值与模拟配置核对。未重新运行模拟，未进行全部机制验收。"
+}

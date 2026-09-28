@@ -1,0 +1,71 @@
+[
+  {
+    "key": "gamedata",
+    "url": "https://www.dataj.cc/api/web/gamedata?setId=18",
+    "fetchedAt": "2026-09-21T15:02:19.137552+00:00",
+    "sha256": "0338c0734fc0faec4cbd8d34bc1ffed1d77fae49169855536b4630097730d9c2",
+    "bytes": 807992,
+    "headers": {
+      "Date": "Mon, 21 Sep 2026 15:02:18 GMT",
+      "Content-Type": "application/json; charset=utf-8",
+      "ETag": "W/\"c5438-6Wyfl6XFAshRdCphPOqe5Lp4t/o\""
+    },
+    "success": true,
+    "code": 200
+  },
+  {
+    "key": "versions",
+    "url": "https://www.dataj.cc/api/web/gamedata/gameVersion?setId=18",
+    "fetchedAt": "2026-09-21T15:02:18.850928+00:00",
+    "sha256": "21c4dc873c3e0ef3de59b2aa9b39cc7623e851b271acb619adb8b9b4b4ac6674",
+    "bytes": 530,
+    "headers": {
+      "Date": "Mon, 21 Sep 2026 15:02:18 GMT",
+      "Content-Type": "application/json; charset=utf-8",
+      "ETag": "W/\"212-W5mNrzo5elmGxn+CRQZ6RgIIMqU\""
+    },
+    "success": true,
+    "code": 200
+  },
+  {
+    "key": "summary",
+    "url": "https://www.dataj.cc/api/web/stats/summary?setId=18&gameVersion=18.2a",
+    "fetchedAt": "2026-09-21T15:02:18.852782+00:00",
+    "sha256": "553431911d6a3e863870b501602ac068dd64d31108e2c827e4e7a7d30824cb6f",
+    "bytes": 255,
+    "headers": {
+      "Date": "Mon, 21 Sep 2026 15:02:18 GMT",
+      "Content-Type": "application/json; charset=utf-8",
+      "ETag": "W/\"ff-0Ydffd0IWAWTQxwFdJxMcUosjp8\""
+    },
+    "success": true,
+    "code": 200
+  },
+  {
+    "key": "special-equip",
+    "url": "https://www.dataj.cc/api/web/stats/special-equip?setId=18&gameVersion=18.2a",
+    "fetchedAt": "2026-09-21T15:02:18.907220+00:00",
+    "sha256": "b78dfe57f5aafaa722edcec5ed99709c1b92b4b819df19b55a69ed4ca339b66b",
+    "bytes": 37223,
+    "headers": {
+      "Date": "Mon, 21 Sep 2026 15:02:18 GMT",
+      "Content-Type": "application/json; charset=utf-8",
+      "ETag": "W/\"9167-pzhfQUlgMM5rIYIpAvyqjVv3Pq0\""
+    },
+    "success": true,
+    "code": 200
+  },
+  {
+    "key": "special-page",
+    "url": "https://www.dataj.cc/special-equip",
+    "fetchedAt": "2026-09-21T15:02:18.976198+00:00",
+    "sha256": "67766cf3a58ed676f3ad328520b3a519e324f8cf369eb660734a21bbf31a2ab5",
+    "bytes": 180076,
+    "headers": {
+      "Date": "Mon, 21 Sep 2026 15:02:18 GMT",
+      "Content-Type": "text/html; charset=utf-8"
+    },
+    "success": true,
+    "code": null
+  }
+]

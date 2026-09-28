@@ -1,0 +1,204 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "compId": "99",
+    "name": "7野怪鸡哥",
+    "desc": null,
+    "gameCode": "【阵容码】#7野怪鸡哥#MjIwMDY3MzAyODc5ODA4NTYxNzg4MDI3OTEyNjQ5",
+    "heroes": [
+      {
+        "id": "2120",
+        "heroId": "3509",
+        "heroName": "深红锋喙鸟",
+        "heroType": 0,
+        "isCarry": true,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 3,
+        "heroStarNum": 3,
+        "position": "4,1"
+      },
+      {
+        "id": "2121",
+        "heroId": "4506",
+        "heroName": "绯红印记树怪",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "4,2"
+      },
+      {
+        "id": "2125",
+        "heroId": "4500",
+        "heroName": "苍蓝雕纹魔像",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "1,3"
+      },
+      {
+        "id": "2127",
+        "heroId": "3503",
+        "heroName": "远古石甲虫",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 3,
+        "heroStarNum": 3,
+        "position": "1,5"
+      },
+      {
+        "id": "2122",
+        "heroId": "2513",
+        "heroName": "魔沼蛙",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 2,
+        "heroStarNum": null,
+        "position": "4,3"
+      },
+      {
+        "id": "2126",
+        "heroId": "2500",
+        "heroName": "峡谷迅捷蟹",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 2,
+        "heroStarNum": null,
+        "position": "1,6"
+      },
+      {
+        "id": "2128",
+        "heroId": "2507",
+        "heroName": "暗影狼",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 2,
+        "heroStarNum": null,
+        "position": "1,4"
+      },
+      {
+        "id": "2123",
+        "heroId": "1508",
+        "heroName": "绯红树怪",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 1,
+        "heroStarNum": null,
+        "position": "4,5"
+      },
+      {
+        "id": "2124",
+        "heroId": "1511",
+        "heroName": "苍蓝哨戒",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 1,
+        "heroStarNum": null,
+        "position": "4,7"
+      }
+    ],
+    "traits": [
+      {
+        "id": "84660103",
+        "name": "峡谷野怪"
+      },
+      {
+        "id": "83900101",
+        "name": "狂战士"
+      },
+      {
+        "id": "84800101",
+        "name": "神谕"
+      }
+    ],
+    "equips": [
+      {
+        "heroId": "4500",
+        "equipId": "2034",
+        "compHeroId": "2125"
+      },
+      {
+        "heroId": "4500",
+        "equipId": "2028",
+        "compHeroId": "2125"
+      },
+      {
+        "heroId": "4500",
+        "equipId": "2023",
+        "compHeroId": "2125"
+      },
+      {
+        "heroId": "3503",
+        "equipId": "2034",
+        "compHeroId": "2127"
+      },
+      {
+        "heroId": "3503",
+        "equipId": "2028",
+        "compHeroId": "2127"
+      },
+      {
+        "heroId": "3503",
+        "equipId": "2025",
+        "compHeroId": "2127"
+      },
+      {
+        "heroId": "3509",
+        "equipId": "2045",
+        "compHeroId": "2120"
+      },
+      {
+        "heroId": "3509",
+        "equipId": "2013",
+        "compHeroId": "2120"
+      },
+      {
+        "heroId": "3509",
+        "equipId": "2010",
+        "compHeroId": "2120"
+      },
+      {
+        "heroId": "4506",
+        "equipId": "2045",
+        "compHeroId": "2121"
+      },
+      {
+        "heroId": "4506",
+        "equipId": "2041",
+        "compHeroId": "2121"
+      },
+      {
+        "heroId": "4506",
+        "equipId": "2007",
+        "compHeroId": "2121"
+      }
+    ],
+    "top4Rate": 61.3,
+    "topRate": 13.47,
+    "pickRate": 0.11,
+    "avgPlacement": 3.98,
+    "sampleCount": 646,
+    "tier": "S",
+    "dataMode": "stats"
+  }
+}

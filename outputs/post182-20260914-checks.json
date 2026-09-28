@@ -1,0 +1,63 @@
+{
+  "cards": [
+    {
+      "name": "地狱火95",
+      "page": 2,
+      "code_verified": true,
+      "configuration_unchanged": true
+    },
+    {
+      "name": "巨龙95",
+      "page": 3,
+      "code_verified": true,
+      "configuration_unchanged": true
+    },
+    {
+      "name": "重装女警",
+      "page": 4,
+      "code_verified": true,
+      "configuration_unchanged": true
+    },
+    {
+      "name": "野怪小红",
+      "page": 5,
+      "code_verified": true,
+      "configuration_unchanged": true
+    },
+    {
+      "name": "7野怪鸡哥",
+      "page": 6,
+      "code_verified": true,
+      "configuration_unchanged": true
+    },
+    {
+      "name": "古纳拉95",
+      "page": 7,
+      "code_verified": true,
+      "configuration_unchanged": true
+    },
+    {
+      "name": "射箭韦鲁斯",
+      "page": 8,
+      "code_verified": true,
+      "configuration_unchanged": true
+    },
+    {
+      "name": "卡丽蜜儿",
+      "page": 9,
+      "code_verified": true,
+      "configuration_unchanged": true
+    },
+    {
+      "name": "永森95",
+      "page": 10,
+      "code_verified": true,
+      "configuration_unchanged": true
+    }
+  ],
+  "images": 10,
+  "body_chars": 883,
+  "cover_verified": true,
+  "visual_check": "cover and representative reordered card inspected; reused same layout and verified unchanged compositions",
+  "status": "submission_pending"
+}

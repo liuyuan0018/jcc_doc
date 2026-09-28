@@ -1,0 +1,72 @@
+{
+  "image_count": 8,
+  "body_characters": 734,
+  "code_count": 7,
+  "population": [
+    {
+      "name": "重装女警",
+      "population": 8,
+      "heroes": 8,
+      "path": "exports/ranking-complete-v2/02-重装女警.png",
+      "source": "https://www.dataj.cc/api/web/comp/100?setId=18&gameVersion=18.1.c",
+      "code_matches_source": true
+    },
+    {
+      "name": "巨龙95",
+      "population": 9,
+      "heroes": 8,
+      "path": "exports/ranking-complete-v2/03-巨龙95.png",
+      "source": "https://www.dataj.cc/api/web/comp/89?setId=18&gameVersion=18.1.c",
+      "code_matches_source": true
+    },
+    {
+      "name": "野怪小红",
+      "population": 9,
+      "heroes": 8,
+      "path": "exports/ranking-complete-v2/04-野怪小红.png",
+      "source": "https://www.dataj.cc/api/web/comp/104?setId=18&gameVersion=18.1.c",
+      "code_matches_source": true
+    },
+    {
+      "name": "7野怪鸡哥",
+      "population": 9,
+      "heroes": 9,
+      "path": "exports/ranking-complete-v2/05-7野怪鸡哥.png",
+      "source": "https://www.dataj.cc/api/web/comp/99?setId=18&gameVersion=18.1.c",
+      "code_matches_source": true
+    },
+    {
+      "name": "永森95",
+      "population": 9,
+      "heroes": 9,
+      "path": "exports/ranking-complete-v2/06-永森95.png",
+      "source": "https://www.dataj.cc/api/web/comp/91?setId=18&gameVersion=18.1.c",
+      "code_matches_source": true
+    },
+    {
+      "name": "皎月螳螂",
+      "population": 8,
+      "heroes": 8,
+      "path": "exports/ranking-complete-v2/07-皎月螳螂.png",
+      "source": "https://www.dataj.cc/api/web/comp/109?setId=18&gameVersion=18.1.c",
+      "code_matches_source": true
+    },
+    {
+      "name": "裁决奶妈",
+      "population": 9,
+      "heroes": 9,
+      "path": "exports/ranking-complete-v2/08-裁决奶妈.png",
+      "source": "https://www.dataj.cc/api/web/comp/90?setId=18&gameVersion=18.1.c",
+      "code_matches_source": true
+    }
+  ],
+  "review": "8张PNG已逐张视觉检查，棋子/位置/费用/参考星级来自逐套详情；装备为来源站参考配置；游戏内导入未测试。",
+  "submission": "submitted update to existing note",
+  "note_id": "6a9e3a720000000028003f36",
+  "platform_status": "审核中",
+  "persisted_images": 8,
+  "persisted_codes": 7,
+  "collection": "s18金铲铲阵容数据库",
+  "body_counter": 707,
+  "body_readback": "same text, paragraph spacing normalized by platform"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "frontline-episode-two-video-v1",
+  "status": "delivered",
+  "sourceArchive": "frontline-episode-02-v2",
+  "video": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/第二期-两普通一神器-视频.mp4",
+  "production": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-02-video-v1",
+  "userApproved": false,
+  "published": false,
+  "validation": "Skipped at explicit user request"
+}

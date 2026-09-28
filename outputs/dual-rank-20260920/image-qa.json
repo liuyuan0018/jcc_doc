@@ -1,0 +1,35 @@
+{
+  "checked_at": "2026-09-20T11:35:11.861602+00:00",
+  "image_count": 19,
+  "source_version": "18.2a",
+  "source_date_bjt": "2026-09-20 03:26",
+  "regular_order": [
+    "地狱火95",
+    "野怪小红",
+    "巨龙95",
+    "裁决螳螂",
+    "重装女警",
+    "古纳拉95",
+    "7野怪鸡哥",
+    "主宰女警",
+    "皎月螳螂",
+    "神谕大嘴"
+  ],
+  "no_previous_date_in_images": true,
+  "body_image_dates_consistent": true,
+  "existing_lineup_data_and_codes_unchanged": true,
+  "embedded_artwork_and_dimensions_preserved": true,
+  "visual_inspection": {
+    "method": "Direct full-size view_image inspection of both covers, reading guide, 地狱火95 board, 护臂天使 board and 神谕大嘴 board; remaining detail boards reuse the same checked layout with date/page-number or numeric-line substitutions.",
+    "checked": [
+      "常规封面",
+      "冷门封面",
+      "今天怎么选",
+      "地狱火95",
+      "护臂天使",
+      "神谕大嘴"
+    ],
+    "result": "No clipping, overlaps or asset loss observed in inspected outputs."
+  },
+  "limits": "No new game-client import or per-match gameplay validation."
+}

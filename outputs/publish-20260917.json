@@ -1,0 +1,49 @@
+{
+  "date": "2026-09-17",
+  "operation": "update_existing_note",
+  "note_id": "6aa37e050000000029013c00",
+  "title": "S18阵容榜9.17｜附9套阵容码",
+  "assets": "exports/S18-18.2a热修含榜单-20260917",
+  "image_count": 11,
+  "codes": 9,
+  "body_file": "exports/S18-18.2a热修含榜单-20260917/正文.txt",
+  "status": "submitted_under_review",
+  "submitted_at": "2026-09-17T18:26:54.018216+08:00",
+  "collection": "s18金铲铲阵容数据库",
+  "collection_verification": "reopened saved editor verified",
+  "source_version": "18.2",
+  "independent_182a_filter": false,
+  "total_matches": 199240,
+  "template_date": "2026-09-16",
+  "source_urls": [
+    "https://www.taptap.cn/moment/849355947523443908",
+    "https://www.dataj.cc/comp"
+  ],
+  "comment_sent": false,
+  "game_import_verified": false,
+  "preserved": "hotfix reminder and nine configuration cards retained; rank restored as cover",
+  "changes": [
+    "18.2a patch overview",
+    "level9/10 XP68",
+    "Camille nerf caution",
+    "Bluegolem Shen shields buff",
+    "large red vs small red disambiguation",
+    "Everforest previous18.2 ratingA observed"
+  ],
+  "manager_status": "审核中",
+  "saved_readback": {
+    "title": true,
+    "images": 11,
+    "body": true,
+    "collection": true
+  },
+  "verified_at": "2026-09-17T18:05:58.494318+08:00",
+  "views": 20150,
+  "likes": 957,
+  "collects": 672,
+  "comments": 36,
+  "shares": 180,
+  "original_publication_time": "2026-09-11 12:05",
+  "automation_status": "PAUSED after one-off completion",
+  "rank_restored": true
+}

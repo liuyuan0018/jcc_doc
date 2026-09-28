@@ -1,0 +1,10 @@
+{
+  "runs": 161226,
+  "elapsed": 50.9,
+  "fps": 30,
+  "normal_triples": 455,
+  "gold_triples": 91,
+  "profiles": 72,
+  "role_source": "datatft-s18.json",
+  "source_sha256": "0338c0734fc0faec4cbd8d34bc1ffed1d77fae49169855536b4630097730d9c2"
+}

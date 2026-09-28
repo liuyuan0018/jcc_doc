@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": [
+    {
+      "setId": 18,
+      "gameVersion": "18.2a",
+      "startTime": "2026-09-16T23:00:00.519Z",
+      "battleCount": 289736
+    },
+    {
+      "setId": 18,
+      "gameVersion": "18.2",
+      "startTime": "2026-09-09T23:00:00.000Z",
+      "battleCount": 203432
+    },
+    {
+      "setId": 18,
+      "gameVersion": "18.1.c",
+      "startTime": "2026-09-02T23:00:00.855Z",
+      "battleCount": 133464
+    },
+    {
+      "setId": 18,
+      "gameVersion": "18.1b",
+      "startTime": "2026-08-26T23:00:00.000Z",
+      "battleCount": 137792
+    },
+    {
+      "setId": 18,
+      "gameVersion": "18.1",
+      "startTime": "2026-08-19T22:00:00.000Z",
+      "battleCount": 148146
+    }
+  ]
+}

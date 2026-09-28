@@ -1,0 +1,21 @@
+{
+  "status": "submitted_under_review",
+  "images": 10,
+  "codes": 9,
+  "body_chars": 850,
+  "independent_182a_filter": false,
+  "source_version": "18.2",
+  "total_matches": 199240,
+  "template_date": "2026-09-16",
+  "game_import_verified": false,
+  "manager_status": "审核中",
+  "collection_verification": "saved editor reopened and collection confirmed",
+  "saved_readback": {
+    "title": true,
+    "images": 10,
+    "codes": 9,
+    "body": true,
+    "collection": true
+  },
+  "verified_at": "2026-09-17T18:05:58.494797+08:00"
+}

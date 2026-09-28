@@ -1,0 +1,1260 @@
+[
+  {
+    "peopleNum": 4,
+    "playRate": null,
+    "builds": [
+      {
+        "id": "130",
+        "gameVersion": "18.1.c",
+        "peopleNum": 4,
+        "sampleCount": 2502,
+        "winRate": 37.73,
+        "avgPlacement": null,
+        "topRate": null,
+        "top4Rate": null,
+        "buildKey": "1501|1510|2505|2509",
+        "heroes": [
+          {
+            "heroId": 11501,
+            "heroBaseId": 1501,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "1,3"
+          },
+          {
+            "heroId": 11510,
+            "heroBaseId": 1510,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,1"
+          },
+          {
+            "heroId": 12505,
+            "heroBaseId": 2505,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 12509,
+            "heroBaseId": 2509,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,2"
+          }
+        ],
+        "rank": 1,
+        "updatedAt": "2026-09-08T20:25:02.130Z"
+      },
+      {
+        "id": "13",
+        "gameVersion": "18.1.c",
+        "peopleNum": 4,
+        "sampleCount": 735,
+        "winRate": 49.93,
+        "avgPlacement": null,
+        "topRate": null,
+        "top4Rate": null,
+        "buildKey": "1510|2500|2505|2509",
+        "heroes": [
+          {
+            "heroId": 11510,
+            "heroBaseId": 1510,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,1"
+          },
+          {
+            "heroId": 12500,
+            "heroBaseId": 2500,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 12505,
+            "heroBaseId": 2505,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "2,3"
+          },
+          {
+            "heroId": 12509,
+            "heroBaseId": 2509,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,2"
+          }
+        ],
+        "rank": 2,
+        "updatedAt": "2026-09-08T20:24:59.606Z"
+      },
+      {
+        "id": "18",
+        "gameVersion": "18.1.c",
+        "peopleNum": 4,
+        "sampleCount": 680,
+        "winRate": 20.59,
+        "avgPlacement": null,
+        "topRate": null,
+        "top4Rate": null,
+        "buildKey": "1505|2504|2510|3511",
+        "heroes": [
+          {
+            "heroId": 11505,
+            "heroBaseId": 1505,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "2,3"
+          },
+          {
+            "heroId": 12504,
+            "heroBaseId": 2504,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 12510,
+            "heroBaseId": 2510,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,2"
+          },
+          {
+            "heroId": 13511,
+            "heroBaseId": 3511,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,1"
+          }
+        ],
+        "rank": 3,
+        "updatedAt": "2026-09-08T20:24:50.448Z"
+      }
+    ]
+  },
+  {
+    "peopleNum": 5,
+    "playRate": null,
+    "builds": [
+      {
+        "id": "1123",
+        "gameVersion": "18.1.c",
+        "peopleNum": 5,
+        "sampleCount": 521,
+        "winRate": 61.8,
+        "avgPlacement": null,
+        "topRate": null,
+        "top4Rate": null,
+        "buildKey": "1501|1510|2505|2509|3510",
+        "heroes": [
+          {
+            "heroId": 11501,
+            "heroBaseId": 1501,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "1,3"
+          },
+          {
+            "heroId": 11510,
+            "heroBaseId": 1510,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,1"
+          },
+          {
+            "heroId": 12505,
+            "heroBaseId": 2505,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 12509,
+            "heroBaseId": 2509,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,3"
+          },
+          {
+            "heroId": 13510,
+            "heroBaseId": 3510,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,2"
+          }
+        ],
+        "rank": 1,
+        "updatedAt": "2026-09-08T20:24:53.723Z"
+      },
+      {
+        "id": "2171",
+        "gameVersion": "18.1.c",
+        "peopleNum": 5,
+        "sampleCount": 373,
+        "winRate": 44.24,
+        "avgPlacement": null,
+        "topRate": null,
+        "top4Rate": null,
+        "buildKey": "1501|1510|2505|2509|3502",
+        "heroes": [
+          {
+            "heroId": 11501,
+            "heroBaseId": 1501,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 11510,
+            "heroBaseId": 1510,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,1"
+          },
+          {
+            "heroId": 12505,
+            "heroBaseId": 2505,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "2,3"
+          },
+          {
+            "heroId": 12509,
+            "heroBaseId": 2509,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,2"
+          },
+          {
+            "heroId": 13502,
+            "heroBaseId": 3502,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "2,4"
+          }
+        ],
+        "rank": 2,
+        "updatedAt": "2026-09-08T20:24:50.382Z"
+      },
+      {
+        "id": "1059",
+        "gameVersion": "18.1.c",
+        "peopleNum": 5,
+        "sampleCount": 340,
+        "winRate": 50.29,
+        "avgPlacement": null,
+        "topRate": null,
+        "top4Rate": null,
+        "buildKey": "1501|1510|2505|2509|2511",
+        "heroes": [
+          {
+            "heroId": 11501,
+            "heroBaseId": 1501,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "2,3"
+          },
+          {
+            "heroId": 11510,
+            "heroBaseId": 1510,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,1"
+          },
+          {
+            "heroId": 22505,
+            "heroBaseId": 2505,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 12509,
+            "heroBaseId": 2509,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,2"
+          },
+          {
+            "heroId": 12511,
+            "heroBaseId": 2511,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,3"
+          }
+        ],
+        "rank": 3,
+        "updatedAt": "2026-09-08T20:24:38.967Z"
+      }
+    ]
+  },
+  {
+    "peopleNum": 6,
+    "playRate": null,
+    "builds": [
+      {
+        "id": "68",
+        "gameVersion": "18.1.c",
+        "peopleNum": 6,
+        "sampleCount": 258,
+        "winRate": 46.12,
+        "avgPlacement": null,
+        "topRate": null,
+        "top4Rate": null,
+        "buildKey": "1501|1510|2505|2509|3502|3510",
+        "heroes": [
+          {
+            "heroId": 21501,
+            "heroBaseId": 1501,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,4"
+          },
+          {
+            "heroId": 11510,
+            "heroBaseId": 1510,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,1"
+          },
+          {
+            "heroId": 12505,
+            "heroBaseId": 2505,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 12509,
+            "heroBaseId": 2509,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,3"
+          },
+          {
+            "heroId": 13502,
+            "heroBaseId": 3502,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "2,3"
+          },
+          {
+            "heroId": 13510,
+            "heroBaseId": 3510,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,2"
+          }
+        ],
+        "rank": 1,
+        "updatedAt": "2026-09-08T20:24:52.922Z"
+      },
+      {
+        "id": "5841",
+        "gameVersion": "18.1.c",
+        "peopleNum": 6,
+        "sampleCount": 189,
+        "winRate": 8.47,
+        "avgPlacement": null,
+        "topRate": null,
+        "top4Rate": null,
+        "buildKey": "1506|1507|1510|2503|2505|2509",
+        "heroes": [
+          {
+            "heroId": 11506,
+            "heroBaseId": 1506,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "2,4"
+          },
+          {
+            "heroId": 11507,
+            "heroBaseId": 1507,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,6"
+          },
+          {
+            "heroId": 11510,
+            "heroBaseId": 1510,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,7"
+          },
+          {
+            "heroId": 12503,
+            "heroBaseId": 2503,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 12505,
+            "heroBaseId": 2505,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "2,3"
+          },
+          {
+            "heroId": 12509,
+            "heroBaseId": 2509,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,5"
+          }
+        ],
+        "rank": 2,
+        "updatedAt": "2026-09-08T20:24:55.242Z"
+      },
+      {
+        "id": "10720",
+        "gameVersion": "18.1.c",
+        "peopleNum": 6,
+        "sampleCount": 162,
+        "winRate": 58.02,
+        "avgPlacement": null,
+        "topRate": null,
+        "top4Rate": null,
+        "buildKey": "1510|2505|2509|3501|3502|3510",
+        "heroes": [
+          {
+            "heroId": 11510,
+            "heroBaseId": 1510,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,1"
+          },
+          {
+            "heroId": 22505,
+            "heroBaseId": 2505,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,3"
+          },
+          {
+            "heroId": 12509,
+            "heroBaseId": 2509,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,2"
+          },
+          {
+            "heroId": 13501,
+            "heroBaseId": 3501,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 13502,
+            "heroBaseId": 3502,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "2,4"
+          },
+          {
+            "heroId": 13510,
+            "heroBaseId": 3510,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,3"
+          }
+        ],
+        "rank": 3,
+        "updatedAt": "2026-09-08T20:24:36.605Z"
+      }
+    ]
+  },
+  {
+    "peopleNum": 7,
+    "playRate": 0.04,
+    "builds": [
+      {
+        "id": "26515",
+        "gameVersion": "18.1.c",
+        "peopleNum": 7,
+        "sampleCount": 3,
+        "winRate": null,
+        "avgPlacement": 7,
+        "topRate": 0,
+        "top4Rate": 0,
+        "buildKey": "2505|3502|3510|4503|4504|4512|4513",
+        "heroes": [
+          {
+            "heroId": 22505,
+            "heroBaseId": 2505,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,3"
+          },
+          {
+            "heroId": 23502,
+            "heroBaseId": 3502,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 23510,
+            "heroBaseId": 3510,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,4"
+          },
+          {
+            "heroId": 14503,
+            "heroBaseId": 4503,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "2,5"
+          },
+          {
+            "heroId": 24504,
+            "heroBaseId": 4504,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,5"
+          },
+          {
+            "heroId": 24512,
+            "heroBaseId": 4512,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,7"
+          },
+          {
+            "heroId": 24513,
+            "heroBaseId": 4513,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,6"
+          }
+        ],
+        "rank": 1,
+        "updatedAt": "2026-09-08T20:21:49.757Z"
+      }
+    ]
+  },
+  {
+    "peopleNum": 8,
+    "playRate": 66.55,
+    "builds": [
+      {
+        "id": "22",
+        "gameVersion": "18.1.c",
+        "peopleNum": 8,
+        "sampleCount": 4440,
+        "winRate": null,
+        "avgPlacement": 4.5,
+        "topRate": 7.36,
+        "top4Rate": 51.17,
+        "buildKey": "2505|3502|3510|4503|4504|4512|4513|5453",
+        "heroes": [
+          {
+            "heroId": 22505,
+            "heroBaseId": 2505,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,3"
+          },
+          {
+            "heroId": 23502,
+            "heroBaseId": 3502,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "3,4"
+          },
+          {
+            "heroId": 23510,
+            "heroBaseId": 3510,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,1"
+          },
+          {
+            "heroId": 24503,
+            "heroBaseId": 4503,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,4"
+          },
+          {
+            "heroId": 24504,
+            "heroBaseId": 4504,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 24512,
+            "heroBaseId": 4512,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,7"
+          },
+          {
+            "heroId": 24513,
+            "heroBaseId": 4513,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,4"
+          },
+          {
+            "heroId": 15453,
+            "heroBaseId": 5453,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "3,5"
+          }
+        ],
+        "rank": 1,
+        "updatedAt": "2026-09-08T20:25:02.761Z"
+      },
+      {
+        "id": "188",
+        "gameVersion": "18.1.c",
+        "peopleNum": 8,
+        "sampleCount": 1666,
+        "winRate": null,
+        "avgPlacement": 5.64,
+        "topRate": 1.68,
+        "top4Rate": 26.89,
+        "buildKey": "2505|3502|3510|4503|4504|4508|4512|4513",
+        "heroes": [
+          {
+            "heroId": 22505,
+            "heroBaseId": 2505,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,3"
+          },
+          {
+            "heroId": 23502,
+            "heroBaseId": 3502,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "3,4"
+          },
+          {
+            "heroId": 23510,
+            "heroBaseId": 3510,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,1"
+          },
+          {
+            "heroId": 24503,
+            "heroBaseId": 4503,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,4"
+          },
+          {
+            "heroId": 24504,
+            "heroBaseId": 4504,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 24508,
+            "heroBaseId": 4508,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,3"
+          },
+          {
+            "heroId": 24512,
+            "heroBaseId": 4512,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,7"
+          },
+          {
+            "heroId": 24513,
+            "heroBaseId": 4513,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,5"
+          }
+        ],
+        "rank": 2,
+        "updatedAt": "2026-09-08T20:25:01.956Z"
+      },
+      {
+        "id": "479",
+        "gameVersion": "18.1.c",
+        "peopleNum": 8,
+        "sampleCount": 1281,
+        "winRate": null,
+        "avgPlacement": 5.88,
+        "topRate": 2.03,
+        "top4Rate": 22.95,
+        "buildKey": "2503|2505|3502|3510|4503|4504|4512|4513",
+        "heroes": [
+          {
+            "heroId": 22503,
+            "heroBaseId": 2503,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,4"
+          },
+          {
+            "heroId": 22505,
+            "heroBaseId": 2505,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,3"
+          },
+          {
+            "heroId": 23502,
+            "heroBaseId": 3502,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "3,4"
+          },
+          {
+            "heroId": 23510,
+            "heroBaseId": 3510,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,1"
+          },
+          {
+            "heroId": 24503,
+            "heroBaseId": 4503,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,5"
+          },
+          {
+            "heroId": 24504,
+            "heroBaseId": 4504,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 24512,
+            "heroBaseId": 4512,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,7"
+          },
+          {
+            "heroId": 24513,
+            "heroBaseId": 4513,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,5"
+          }
+        ],
+        "rank": 3,
+        "updatedAt": "2026-09-08T20:24:57.768Z"
+      }
+    ]
+  },
+  {
+    "peopleNum": 9,
+    "playRate": 30.53,
+    "builds": [
+      {
+        "id": "42",
+        "gameVersion": "18.1.c",
+        "peopleNum": 9,
+        "sampleCount": 568,
+        "winRate": null,
+        "avgPlacement": 2.35,
+        "topRate": 37.68,
+        "top4Rate": 90.32,
+        "buildKey": "2503|2505|3502|3510|4503|4504|4512|4513|5453",
+        "heroes": [
+          {
+            "heroId": 22503,
+            "heroBaseId": 2503,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "3,5"
+          },
+          {
+            "heroId": 22505,
+            "heroBaseId": 2505,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "3,4"
+          },
+          {
+            "heroId": 23502,
+            "heroBaseId": 3502,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,4"
+          },
+          {
+            "heroId": 23510,
+            "heroBaseId": 3510,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,7"
+          },
+          {
+            "heroId": 24503,
+            "heroBaseId": 4503,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,3"
+          },
+          {
+            "heroId": 24504,
+            "heroBaseId": 4504,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 24512,
+            "heroBaseId": 4512,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,1"
+          },
+          {
+            "heroId": 24513,
+            "heroBaseId": 4513,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,4"
+          },
+          {
+            "heroId": 15453,
+            "heroBaseId": 5453,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "3,3"
+          }
+        ],
+        "rank": 1,
+        "updatedAt": "2026-09-08T20:24:49.384Z"
+      },
+      {
+        "id": "1333",
+        "gameVersion": "18.1.c",
+        "peopleNum": 9,
+        "sampleCount": 520,
+        "winRate": null,
+        "avgPlacement": 2.74,
+        "topRate": 25.77,
+        "top4Rate": 85.38,
+        "buildKey": "2505|3502|3510|4503|4504|4508|4512|4513|5453",
+        "heroes": [
+          {
+            "heroId": 22505,
+            "heroBaseId": 2505,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,5"
+          },
+          {
+            "heroId": 23502,
+            "heroBaseId": 3502,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "3,4"
+          },
+          {
+            "heroId": 23510,
+            "heroBaseId": 3510,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,7"
+          },
+          {
+            "heroId": 24503,
+            "heroBaseId": 4503,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,4"
+          },
+          {
+            "heroId": 24504,
+            "heroBaseId": 4504,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 24508,
+            "heroBaseId": 4508,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,5"
+          },
+          {
+            "heroId": 24512,
+            "heroBaseId": 4512,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,1"
+          },
+          {
+            "heroId": 24513,
+            "heroBaseId": 4513,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,3"
+          },
+          {
+            "heroId": 15453,
+            "heroBaseId": 5453,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "2,3"
+          }
+        ],
+        "rank": 2,
+        "updatedAt": "2026-09-08T20:25:01.689Z"
+      },
+      {
+        "id": "1891",
+        "gameVersion": "18.1.c",
+        "peopleNum": 9,
+        "sampleCount": 449,
+        "winRate": null,
+        "avgPlacement": 1.98,
+        "topRate": 42.98,
+        "top4Rate": 95.55,
+        "buildKey": "2505|3502|3510|4503|4504|4512|4513|5453|5456",
+        "heroes": [
+          {
+            "heroId": 22505,
+            "heroBaseId": 2505,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,2"
+          },
+          {
+            "heroId": 23502,
+            "heroBaseId": 3502,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "3,4"
+          },
+          {
+            "heroId": 23510,
+            "heroBaseId": 3510,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,3"
+          },
+          {
+            "heroId": 24503,
+            "heroBaseId": 4503,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,4"
+          },
+          {
+            "heroId": 24504,
+            "heroBaseId": 4504,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 24512,
+            "heroBaseId": 4512,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,1"
+          },
+          {
+            "heroId": 24513,
+            "heroBaseId": 4513,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,5"
+          },
+          {
+            "heroId": 25453,
+            "heroBaseId": 5453,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,3"
+          },
+          {
+            "heroId": 15456,
+            "heroBaseId": 5456,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,7"
+          }
+        ],
+        "rank": 3,
+        "updatedAt": "2026-09-08T20:24:50.448Z"
+      }
+    ]
+  },
+  {
+    "peopleNum": 10,
+    "playRate": 2.87,
+    "builds": [
+      {
+        "id": "13953",
+        "gameVersion": "18.1.c",
+        "peopleNum": 10,
+        "sampleCount": 26,
+        "winRate": null,
+        "avgPlacement": 1.5,
+        "topRate": 65.38,
+        "top4Rate": 96.15,
+        "buildKey": "2503|2505|3502|3510|4503|4504|4512|4513|5453|5456",
+        "heroes": [
+          {
+            "heroId": 22503,
+            "heroBaseId": 2503,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,2"
+          },
+          {
+            "heroId": 22505,
+            "heroBaseId": 2505,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,6"
+          },
+          {
+            "heroId": 23502,
+            "heroBaseId": 3502,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "3,4"
+          },
+          {
+            "heroId": 23510,
+            "heroBaseId": 3510,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,5"
+          },
+          {
+            "heroId": 24503,
+            "heroBaseId": 4503,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,5"
+          },
+          {
+            "heroId": 24504,
+            "heroBaseId": 4504,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 24512,
+            "heroBaseId": 4512,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,4"
+          },
+          {
+            "heroId": 24513,
+            "heroBaseId": 4513,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,3"
+          },
+          {
+            "heroId": 25453,
+            "heroBaseId": 5453,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "3,3"
+          },
+          {
+            "heroId": 15456,
+            "heroBaseId": 5456,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,1"
+          }
+        ],
+        "rank": 1,
+        "updatedAt": "2026-09-08T20:24:50.926Z"
+      },
+      {
+        "id": "65752",
+        "gameVersion": "18.1.c",
+        "peopleNum": 10,
+        "sampleCount": 18,
+        "winRate": null,
+        "avgPlacement": 1.72,
+        "topRate": 38.89,
+        "top4Rate": 100,
+        "buildKey": "2503|2505|3502|3510|4503|4504|4512|4513|5453|5461",
+        "heroes": [
+          {
+            "heroId": 22503,
+            "heroBaseId": 2503,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,1"
+          },
+          {
+            "heroId": 22505,
+            "heroBaseId": 2505,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,6"
+          },
+          {
+            "heroId": 23502,
+            "heroBaseId": 3502,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,2"
+          },
+          {
+            "heroId": 23510,
+            "heroBaseId": 3510,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,5"
+          },
+          {
+            "heroId": 24503,
+            "heroBaseId": 4503,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "3,4"
+          },
+          {
+            "heroId": 24504,
+            "heroBaseId": 4504,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 24512,
+            "heroBaseId": 4512,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,1"
+          },
+          {
+            "heroId": 24513,
+            "heroBaseId": 4513,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,3"
+          },
+          {
+            "heroId": 25453,
+            "heroBaseId": 5453,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "2,4"
+          },
+          {
+            "heroId": 15461,
+            "heroBaseId": 5461,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,7"
+          }
+        ],
+        "rank": 2,
+        "updatedAt": "2026-09-08T20:24:45.250Z"
+      },
+      {
+        "id": "10245",
+        "gameVersion": "18.1.c",
+        "peopleNum": 10,
+        "sampleCount": 16,
+        "winRate": null,
+        "avgPlacement": 1.19,
+        "topRate": 81.25,
+        "top4Rate": 100,
+        "buildKey": "2505|3502|3510|4503|4504|4512|4513|5453|5456|5461",
+        "heroes": [
+          {
+            "heroId": 12505,
+            "heroBaseId": 2505,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "1,4"
+          },
+          {
+            "heroId": 23502,
+            "heroBaseId": 3502,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "3,4"
+          },
+          {
+            "heroId": 23510,
+            "heroBaseId": 3510,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,3"
+          },
+          {
+            "heroId": 24503,
+            "heroBaseId": 4503,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,5"
+          },
+          {
+            "heroId": 24504,
+            "heroBaseId": 4504,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "1,3"
+          },
+          {
+            "heroId": 24512,
+            "heroBaseId": 4512,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,6"
+          },
+          {
+            "heroId": 24513,
+            "heroBaseId": 4513,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,4"
+          },
+          {
+            "heroId": 25453,
+            "heroBaseId": 5453,
+            "heroStarNum": 2,
+            "heroType": 0,
+            "position": "4,5"
+          },
+          {
+            "heroId": 15456,
+            "heroBaseId": 5456,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,1"
+          },
+          {
+            "heroId": 15461,
+            "heroBaseId": 5461,
+            "heroStarNum": 1,
+            "heroType": 0,
+            "position": "4,7"
+          }
+        ],
+        "rank": 3,
+        "updatedAt": "2026-09-08T20:23:14.010Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "sheets": [
+      {
+        "columns": 2,
+        "data_rows": 18,
+        "mode": "overwrite",
+        "name": "阅读说明",
+        "range": "A1:B19",
+        "sheet_id": "3cc786",
+        "writes": 1
+      },
+      {
+        "columns": 19,
+        "data_rows": 216,
+        "mode": "overwrite",
+        "name": "常用资源结果",
+        "range": "A1:S217",
+        "sheet_id": "DGAPeP",
+        "writes": 1
+      },
+      {
+        "columns": 10,
+        "data_rows": 15,
+        "mode": "overwrite",
+        "name": "三星蜘蛛15套",
+        "range": "A1:J16",
+        "sheet_id": "ADPAWw",
+        "writes": 1
+      },
+      {
+        "columns": 19,
+        "data_rows": 5679,
+        "mode": "overwrite",
+        "name": "全量摘要",
+        "range": "A1:S5680",
+        "sheet_id": "Ndq68q",
+        "writes": 3
+      },
+      {
+        "columns": 10,
+        "data_rows": 1296,
+        "mode": "overwrite",
+        "name": "同配置敏感性",
+        "range": "A1:J1297",
+        "sheet_id": "ZT9ygs",
+        "writes": 1
+      },
+      {
+        "columns": 6,
+        "data_rows": 107,
+        "mode": "overwrite",
+        "name": "装备覆盖",
+        "range": "A1:F108",
+        "sheet_id": "fHVEAt",
+        "writes": 1
+      },
+      {
+        "columns": 2,
+        "data_rows": 44,
+        "mode": "overwrite",
+        "name": "排除与单独处理",
+        "range": "A1:B45",
+        "sheet_id": "VMCH8r",
+        "writes": 1
+      },
+      {
+        "columns": 2,
+        "data_rows": 43,
+        "mode": "overwrite",
+        "name": "机制契约",
+        "range": "A1:B44",
+        "sheet_id": "n6H9jt",
+        "writes": 1
+      }
+    ],
+    "spreadsheet": {
+      "folder_token": "",
+      "spreadsheet_token": "Ia2isc6J5hH2kzt2YGWcNH9qnXV",
+      "title": "S18前排坦度｜全装备池30帧模拟｜2026-09-18",
+      "url": "https://my.feishu.cn/sheets/Ia2isc6J5hH2kzt2YGWcNH9qnXV"
+    }
+  },
+  "_notice": {
+    "update": {
+      "command": "lark-cli update",
+      "current": "1.0.95",
+      "latest": "1.0.96",
+      "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+    }
+  }
+}

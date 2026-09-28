@@ -1,0 +1,44 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "column_groups": [],
+    "column_widths": [
+      {
+        "cols": "A:A",
+        "type": "custom",
+        "width": 114
+      },
+      {
+        "cols": "B:B",
+        "type": "custom",
+        "width": 90
+      }
+    ],
+    "frozen_columns": 1,
+    "frozen_rows": 1,
+    "hidden_columns": [],
+    "hidden_rows": [],
+    "merged_cells": [],
+    "range": "A1:B5",
+    "revision": 468,
+    "row_groups": [],
+    "row_heights": [
+      {
+        "height": 34,
+        "rows": "1:5",
+        "type": "custom"
+      }
+    ],
+    "sheet_id": "quiJVc",
+    "sheet_name": "180秒_常用资源结果"
+  },
+  "_notice": {
+    "update": {
+      "command": "lark-cli update",
+      "current": "1.0.95",
+      "latest": "1.0.96",
+      "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+    }
+  }
+}

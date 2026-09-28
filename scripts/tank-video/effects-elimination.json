@@ -1,0 +1,11 @@
+{
+  "elimination": {
+    "enabled": true,
+    "persistAcrossRounds": true,
+    "shake": {"seconds": 1.6, "pixels": 18, "cycles": 3},
+    "flash": {"seconds": 1.5, "color": "#bd552e"},
+    "badge": {"text": "淘汰", "delaySeconds": 0.3, "seconds": 1.0, "popScale": 1.1, "color": "#bd552e"},
+    "fade": {"delaySeconds": 1.7, "seconds": 1.3, "brightness": 0.94},
+    "sound": {"enabled": true, "seconds": 0.1, "peakDbFS": -24}
+  }
+}

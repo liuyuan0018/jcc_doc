@@ -1,0 +1,94 @@
+{
+  "cards": [
+    {
+      "name": "地狱火95",
+      "population": 9,
+      "heroes": 9,
+      "path": "exports/S18-18.2原笔记修正-20260916/02-地狱火95.png",
+      "source": "https://www.dataj.cc/comp/112",
+      "code_available": true
+    },
+    {
+      "name": "巨龙95",
+      "population": 9,
+      "heroes": 8,
+      "path": "exports/S18-18.2原笔记修正-20260916/03-巨龙95.png",
+      "source": "https://www.dataj.cc/comp/89",
+      "code_available": true
+    },
+    {
+      "name": "野怪小红",
+      "population": 9,
+      "heroes": 8,
+      "path": "exports/S18-18.2原笔记修正-20260916/04-野怪小红.png",
+      "source": "https://www.dataj.cc/comp/104",
+      "code_available": true
+    },
+    {
+      "name": "重装女警",
+      "population": 8,
+      "heroes": 8,
+      "path": "exports/S18-18.2原笔记修正-20260916/05-重装女警.png",
+      "source": "https://www.dataj.cc/comp/100",
+      "code_available": true
+    },
+    {
+      "name": "7野怪鸡哥",
+      "population": 9,
+      "heroes": 9,
+      "path": "exports/S18-18.2原笔记修正-20260916/06-7野怪鸡哥.png",
+      "source": "https://www.dataj.cc/comp/99",
+      "code_available": true
+    },
+    {
+      "name": "古纳拉95",
+      "population": 9,
+      "heroes": 10,
+      "path": "exports/S18-18.2原笔记修正-20260916/07-古纳拉95.png",
+      "source": "https://www.dataj.cc/comp/113",
+      "code_available": true
+    },
+    {
+      "name": "射箭韦鲁斯",
+      "population": 8,
+      "heroes": 8,
+      "path": "exports/S18-18.2原笔记修正-20260916/08-射箭韦鲁斯.png",
+      "source": "https://www.dataj.cc/comp/110",
+      "code_available": true
+    },
+    {
+      "name": "卡丽蜜儿",
+      "population": 8,
+      "heroes": 8,
+      "path": "exports/S18-18.2原笔记修正-20260916/09-卡丽蜜儿.png",
+      "source": "https://www.dataj.cc/comp/115",
+      "code_available": true
+    },
+    {
+      "name": "永森95",
+      "population": 9,
+      "heroes": 9,
+      "path": "exports/S18-18.2原笔记修正-20260916/10-永森95.png",
+      "source": "https://www.dataj.cc/comp/91",
+      "code_available": true
+    }
+  ],
+  "body_chars": 865,
+  "title_chars": 17,
+  "codes": 9,
+  "images": 10,
+  "status": "submitted_under_review",
+  "source": "https://www.dataj.cc/comp",
+  "total_matches": 168976,
+  "collection": "s18金铲铲阵容数据库",
+  "config_comparison": "all 9 heroes/equips/traits/gameCode unchanged versus 9.15; Ashe editorial variant retained",
+  "game_import_verified": false,
+  "collection_verification": "saved editor reopened and collection confirmed",
+  "saved_readback": {
+    "title": true,
+    "image_count": 10,
+    "body": true,
+    "codes": 9,
+    "collection": true
+  }
+}

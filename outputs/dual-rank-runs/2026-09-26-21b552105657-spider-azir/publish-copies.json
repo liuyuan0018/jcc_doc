@@ -1,0 +1,165 @@
+{
+  "package": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir",
+  "files": [
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/regular/01-常规阵容强度榜.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/阵容榜9.26-01-常规阵容强度榜.png",
+      "sha256": "90b5338bf4370a9fe15f912fd2ae223684d984da1b244c01b451b1e4fc787480",
+      "bytes": 745904
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/regular/02-今天怎么选.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/阵容榜9.26-02-今天怎么选.png",
+      "sha256": "69942d2bb43f080698d963db164eb682060cbd5db62b2ee64a1c5b42e21e2ef0",
+      "bytes": 179190
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/regular/03-地狱火95.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/阵容榜9.26-03-地狱火95.png",
+      "sha256": "4700f91d2e833c3098676ad1e4e3ead040ad581f24ed87de3e3cb41a8bb2b069",
+      "bytes": 540779
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/regular/04-野怪小红.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/阵容榜9.26-04-野怪小红.png",
+      "sha256": "1d5ea552b07cc8dcd654d69dbd303fb32e1721e0b777ebeed2fefedd73c096d8",
+      "bytes": 441244
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/regular/05-巨龙95.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/阵容榜9.26-05-巨龙95.png",
+      "sha256": "7611a48490316d4167e83abb1e8cca5880974fe961016938b70bf794fac1726f",
+      "bytes": 440847
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/regular/06-裁决螳螂.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/阵容榜9.26-06-裁决螳螂.png",
+      "sha256": "c44049248980c276bda511bfcff9e23e60eb168a86ce5bd4fe1b0fd98635f7a5",
+      "bytes": 491723
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/regular/07-古纳拉95.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/阵容榜9.26-07-古纳拉95.png",
+      "sha256": "f546459df46d918571c9cf3597270474abb66d7d790681b719bb5af867624337",
+      "bytes": 559845
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/regular/08-重装女警.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/阵容榜9.26-08-重装女警.png",
+      "sha256": "208cc86c201ff73c092884fdb248dec6fa7feace951ab7e51a720efb68f5c7ae",
+      "bytes": 458494
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/regular/09-7野怪鸡哥.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/阵容榜9.26-09-7野怪鸡哥.png",
+      "sha256": "1b10a19b51f679d8b330ee1ed63e5c1fc9fdc9c1e2e82fc5e5f199be98d52aed",
+      "bytes": 482791
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/regular/10-主宰女警.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/阵容榜9.26-10-主宰女警.png",
+      "sha256": "cc14410b5618d819d9ea280be2d1802769ba6ce316c55db3814c569500379da0",
+      "bytes": 458061
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/regular/11-皎月螳螂.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/阵容榜9.26-11-皎月螳螂.png",
+      "sha256": "d413421d0134a9067e89dc157e4eeff0882e96dde643f36c61b654c4ee0fa34c",
+      "bytes": 458886
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/regular/12-神谕大嘴.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/阵容榜9.26-12-神谕大嘴.png",
+      "sha256": "147f27b0e00f3b3456c5175a793444fe6c3e5792d81caf614e11b02c3c164674",
+      "bytes": 431540
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/regular-title.txt",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/阵容榜9.26-标题.txt",
+      "sha256": "73ba080abc472b985143fda734987ed1850c8d5c3e0eb72ca39ec33477192f48",
+      "bytes": 40
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/regular-body.txt",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/阵容榜9.26-正文.txt",
+      "sha256": "a089ea35c21177c963558ad44440ebd1d410938b8bfa64d8ca17b46fe1481781",
+      "bytes": 1490
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/cold/01-冷门构筑强度榜.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/冷门榜9.26-01-冷门构筑强度榜.png",
+      "sha256": "b7586fae66629cfbfd0c3eee4a26c6714b208d3a95d57eb87956547c2461b332",
+      "bytes": 632694
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/cold/02-花妖转凯南.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/冷门榜9.26-02-花妖转凯南.png",
+      "sha256": "e97a93c36725ad228485b9f11fd6dc06d396156dbfbd65f46cc8b2bbdf4cf50e",
+      "bytes": 417443
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/cold/03-猎人转巨龙.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/冷门榜9.26-03-猎人转巨龙.png",
+      "sha256": "a75c9df5e5f1ceffb6f2c171a8813abb58a542114f34117e7e902d3aac2b5ba2",
+      "bytes": 393958
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/cold/04-暗爪卡蜜尔.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/冷门榜9.26-04-暗爪卡蜜尔.png",
+      "sha256": "e806af3a90433138868f7d1960242a68d43a08ff2f72f23915f54f245e5a7c3e",
+      "bytes": 395534
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/cold/05-护臂天使.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/冷门榜9.26-05-护臂天使.png",
+      "sha256": "631dfffcf3f3d5b7b0d6b5d082948559bf3a4ae6f960763b41dcc4b8ac06cef6",
+      "bytes": 384040
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/cold/06-花妖转螳螂.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/冷门榜9.26-06-花妖转螳螂.png",
+      "sha256": "eaeddd114de528b4583230704b041abd6fc875a24a541beae0400845dd4a50c4",
+      "bytes": 428601
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/cold/07-神谕大嘴.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/冷门榜9.26-07-神谕大嘴.png",
+      "sha256": "879059ec1e27ac808e18d8a865ff3a7fef45488e6f6ad1d6552e526be6a83b86",
+      "bytes": 432100
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/cold/08-黑暗仪式蜘蛛.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/冷门榜9.26-08-黑暗仪式蜘蛛.png",
+      "sha256": "64372c83458a914f2e135a44a1aa108859e0c31a45b3dc3d0b54eea759086edf",
+      "bytes": 493519
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/cold/09-献祭螳螂阿兹尔.png",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/冷门榜9.26-09-献祭螳螂阿兹尔.png",
+      "sha256": "738110b585c6685562e10d437ca7f58b13999148d8746e1380f6b74022b5d00c",
+      "bytes": 338456
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/cold-title.txt",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/冷门榜9.26-标题.txt",
+      "sha256": "4b5aaeb23b194a3cc7e8bafcbe4957ef4e735d8e61de07dfe7d24be5316e30e4",
+      "bytes": 40
+    },
+    {
+      "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/cold-body.txt",
+      "published_copy": "/Users/lyu/Documents/ChatGPT/金铲铲/publish/冷门榜9.26-正文.txt",
+      "sha256": "3cbc2c01ebb40f4c3f488b6d6a3c455a9dea93943d9230b933a1e67de5080919",
+      "bytes": 2004
+    }
+  ],
+  "staging": {
+    "regular": {
+      "folder": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/upload-regular-clean",
+      "images": 12
+    },
+    "cold": {
+      "folder": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-26-21b552105657-spider-azir/upload-cold-clean",
+      "images": 9
+    }
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "key": "versions",
+    "url": "https://www.dataj.cc/api/web/gamedata/gameVersion?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "fetched_at": "2026-09-19T11:17:16.170030+00:00"
+  },
+  {
+    "key": "summary",
+    "url": "https://www.dataj.cc/api/web/stats/summary?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "fetched_at": "2026-09-19T11:17:16.188484+00:00"
+  },
+  {
+    "key": "rank",
+    "url": "https://www.dataj.cc/api/web/comp/rank?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "fetched_at": "2026-09-19T11:17:16.358826+00:00"
+  },
+  {
+    "key": "special",
+    "url": "https://www.dataj.cc/api/web/stats/special-equip?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "fetched_at": "2026-09-19T11:17:16.208632+00:00"
+  },
+  {
+    "key": "gamedata",
+    "url": "https://www.dataj.cc/api/web/gamedata?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "fetched_at": "2026-09-19T11:17:16.506269+00:00"
+  },
+  {
+    "key": "comp119",
+    "url": "https://www.dataj.cc/api/web/comp/119?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "fetched_at": "2026-09-19T11:17:16.152548+00:00"
+  },
+  {
+    "key": "kog-hexes",
+    "url": "https://www.dataj.cc/api/web/comp/119/hexes?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "fetched_at": "2026-09-19T11:17:16.517201+00:00"
+  },
+  {
+    "key": "kog-ad-equips",
+    "url": "https://www.dataj.cc/api/web/comp/119/hero-equips?heroId=3512&setId=18&gameVersion=18.2a",
+    "ok": true,
+    "fetched_at": "2026-09-19T11:17:16.587803+00:00"
+  },
+  {
+    "key": "kog-ap-equips",
+    "url": "https://www.dataj.cc/api/web/comp/119/hero-equips?heroId=3513&setId=18&gameVersion=18.2a",
+    "ok": true,
+    "fetched_at": "2026-09-19T11:17:16.587721+00:00"
+  },
+  {
+    "key": "zyra-equips",
+    "url": "https://www.dataj.cc/api/web/comp/90/hero-equips?heroId=4512&setId=18&gameVersion=18.2a",
+    "ok": true,
+    "fetched_at": "2026-09-19T11:17:16.628118+00:00"
+  },
+  {
+    "key": "zyra-hexes",
+    "url": "https://www.dataj.cc/api/web/comp/90/hexes?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "fetched_at": "2026-09-19T11:17:16.612449+00:00"
+  },
+  {
+    "key": "three-stars",
+    "url": "https://www.dataj.cc/api/web/stats/three-star-hero?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "fetched_at": "2026-09-19T11:17:16.630632+00:00"
+  }
+]

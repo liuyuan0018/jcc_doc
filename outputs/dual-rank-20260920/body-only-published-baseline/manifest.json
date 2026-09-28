@@ -1,0 +1,140 @@
+{
+  "updated_at": "2026-09-20T11:16:00.773893+00:00",
+  "account": "垚垚同学",
+  "status": "both_published",
+  "authorization": "用户明确要求只修改正文、标题风格和标签不动，改完直接发布。",
+  "scope": "保留现场标题全文（含9.19）、现有图片和正式话题实体，仅更新正文。",
+  "source": {
+    "site": "https://www.dataj.cc/comp",
+    "version": "18.2a",
+    "sample_battles": 88056,
+    "data_updated_at": "2026-09-19T19:26:03.412Z",
+    "data_updated_at_bjt": "2026-09-20 03:26",
+    "image_statistics_as_of": "2026-09-19",
+    "image_date_disclosed_in_both_bodies": true
+  },
+  "notes": [
+    {
+      "key": "cold",
+      "note_id": "6aacd475000000002b01f439",
+      "title": "金铲铲S18冷门榜9.19｜附阵容码",
+      "edit_url": "https://creator.xiaohongshu.com/publish/update?source=&id=6aacd475000000002b01f439&noteType=normal",
+      "operation": "edit_existing_body_only",
+      "status": "published",
+      "body_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-20260920/cold-body.txt",
+      "editor_character_count": 839,
+      "image_count": 7,
+      "code_count": 6,
+      "topics": [
+        {
+          "name": "金铲铲之战",
+          "id": "610b9c5b000000000101e01b"
+        },
+        {
+          "name": "金铲铲阵容",
+          "id": "612790e600000000010009d6"
+        },
+        {
+          "name": "金铲铲",
+          "id": "60f51be5000000000100ad43"
+        },
+        {
+          "name": "金铲铲攻略",
+          "id": "612e0fc70000000001003ee1"
+        },
+        {
+          "name": "金铲铲推荐阵容",
+          "id": "6128e7500000000001003081"
+        },
+        {
+          "name": "金铲铲之战S18",
+          "id": "6a4c9dd5000000000301ea0b"
+        },
+        {
+          "name": "金铲铲自然之力",
+          "id": "6a51d40d000000000301f0d5"
+        },
+        {
+          "name": "金铲铲冷门阵容",
+          "id": "62f35c7100000000010096fc"
+        }
+      ],
+      "saved_readback": {
+        "body_matches_submitted": true,
+        "title_matches_before": true,
+        "topic_ids_names_order_match_before": true,
+        "image_asset_ids_order_match_before": true,
+        "code_name_pairs_match_before": true,
+        "original_declaration": true,
+        "allow_copy": true,
+        "visibility": "公开可见",
+        "collection": "s18金铲铲阵容数据库",
+        "activity": "金铲铲激励活动来袭",
+        "cross_reference_to_other_rank_preserved": true
+      },
+      "submission_evidence": "Clicked Publish once, returned to manager with 审核中; after reload/readback, title appeared in active 已发布 tab without review badge."
+    },
+    {
+      "key": "regular",
+      "note_id": "6aae77650000000029014a10",
+      "title": "金铲铲S18阵容榜9.19｜附阵容码",
+      "edit_url": "https://creator.xiaohongshu.com/publish/update?source=&id=6aae77650000000029014a10&noteType=normal",
+      "operation": "edit_existing_body_only",
+      "status": "published",
+      "body_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-20260920/regular-body.txt",
+      "editor_character_count": 916,
+      "image_count": 12,
+      "code_count": 10,
+      "topics": [
+        {
+          "name": "金铲铲之战",
+          "id": "610b9c5b000000000101e01b"
+        },
+        {
+          "name": "金铲铲S18",
+          "id": "6a54ea3100000000060129a0"
+        },
+        {
+          "name": "金铲铲自然之力",
+          "id": "6a51d40d000000000301f0d5"
+        },
+        {
+          "name": "金铲铲阵容",
+          "id": "612790e600000000010009d6"
+        },
+        {
+          "name": "金铲铲阵容码",
+          "id": "658bcaf4000000003f03ec9c"
+        },
+        {
+          "name": "金铲铲",
+          "id": "60f51be5000000000100ad43"
+        },
+        {
+          "name": "金铲铲攻略",
+          "id": "612e0fc70000000001003ee1"
+        },
+        {
+          "name": "金铲铲推荐阵容",
+          "id": "6128e7500000000001003081"
+        }
+      ],
+      "saved_readback": {
+        "body_matches_submitted": true,
+        "title_matches_before": true,
+        "topic_ids_names_order_match_before": true,
+        "image_asset_ids_order_match_before": true,
+        "code_name_pairs_match_before": true,
+        "original_declaration": true,
+        "allow_copy": true,
+        "visibility": "公开可见",
+        "collection": "s18金铲铲阵容数据库",
+        "activity": "金铲铲激励活动来袭",
+        "cross_reference_to_other_rank_preserved": true
+      },
+      "submission_evidence": "Clicked Publish once, returned to manager with 审核中; after reload/readback, title appeared in active 已发布 tab without review badge."
+    }
+  ],
+  "evidence_method": "Live Creator editor DOM and preview checked before each submission; reopened each original note after submission and compared normalized body, title, topic IDs/names/order and image spectrum asset paths. Signed CDN hosts/tokens rotate on reload; comparison used stable asset paths. Final manager filter was <div class=\"tab-item tab-item--active\">已发布</div> and contained both exact titles.",
+  "remaining_user_action": null
+}

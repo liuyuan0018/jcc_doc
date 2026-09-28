@@ -1,0 +1,141 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "create_time": "2026-09-18T08:22:33.000Z",
+    "modified_time": "2026-09-18T08:29:24.000Z",
+    "revision": 224,
+    "sheets": [
+      {
+        "chart_count": 0,
+        "column_count": 20,
+        "float_image_count": 0,
+        "frozen_columns": 1,
+        "frozen_rows": 1,
+        "index": 0,
+        "is_hidden": false,
+        "merged_cells_count": 0,
+        "pivot_table_count": 0,
+        "resource_type": "sheet",
+        "row_count": 200,
+        "sheet_id": "3cc786",
+        "sheet_name": "阅读说明"
+      },
+      {
+        "chart_count": 0,
+        "column_count": 20,
+        "float_image_count": 0,
+        "frozen_columns": 1,
+        "frozen_rows": 1,
+        "index": 1,
+        "is_hidden": false,
+        "merged_cells_count": 0,
+        "pivot_table_count": 0,
+        "resource_type": "sheet",
+        "row_count": 217,
+        "sheet_id": "DGAPeP",
+        "sheet_name": "常用资源结果"
+      },
+      {
+        "chart_count": 0,
+        "column_count": 20,
+        "float_image_count": 0,
+        "frozen_columns": 1,
+        "frozen_rows": 1,
+        "index": 2,
+        "is_hidden": false,
+        "merged_cells_count": 0,
+        "pivot_table_count": 0,
+        "resource_type": "sheet",
+        "row_count": 200,
+        "sheet_id": "ADPAWw",
+        "sheet_name": "三星蜘蛛15套"
+      },
+      {
+        "chart_count": 0,
+        "column_count": 20,
+        "float_image_count": 0,
+        "frozen_columns": 1,
+        "frozen_rows": 1,
+        "index": 3,
+        "is_hidden": false,
+        "merged_cells_count": 0,
+        "pivot_table_count": 0,
+        "resource_type": "sheet",
+        "row_count": 5680,
+        "sheet_id": "Ndq68q",
+        "sheet_name": "全量摘要"
+      },
+      {
+        "chart_count": 0,
+        "column_count": 20,
+        "float_image_count": 0,
+        "frozen_columns": 1,
+        "frozen_rows": 1,
+        "index": 4,
+        "is_hidden": false,
+        "merged_cells_count": 0,
+        "pivot_table_count": 0,
+        "resource_type": "sheet",
+        "row_count": 1297,
+        "sheet_id": "ZT9ygs",
+        "sheet_name": "同配置敏感性"
+      },
+      {
+        "chart_count": 0,
+        "column_count": 20,
+        "float_image_count": 0,
+        "frozen_columns": 1,
+        "frozen_rows": 1,
+        "index": 5,
+        "is_hidden": false,
+        "merged_cells_count": 0,
+        "pivot_table_count": 0,
+        "resource_type": "sheet",
+        "row_count": 200,
+        "sheet_id": "fHVEAt",
+        "sheet_name": "装备覆盖"
+      },
+      {
+        "chart_count": 0,
+        "column_count": 20,
+        "float_image_count": 0,
+        "frozen_columns": 1,
+        "frozen_rows": 1,
+        "index": 6,
+        "is_hidden": false,
+        "merged_cells_count": 0,
+        "pivot_table_count": 0,
+        "resource_type": "sheet",
+        "row_count": 200,
+        "sheet_id": "VMCH8r",
+        "sheet_name": "排除与单独处理"
+      },
+      {
+        "chart_count": 0,
+        "column_count": 20,
+        "float_image_count": 0,
+        "frozen_columns": 1,
+        "frozen_rows": 1,
+        "index": 7,
+        "is_hidden": false,
+        "merged_cells_count": 0,
+        "pivot_table_count": 0,
+        "resource_type": "sheet",
+        "row_count": 200,
+        "sheet_id": "n6H9jt",
+        "sheet_name": "机制契约"
+      }
+    ],
+    "title": "S18前排坦度｜全装备池30帧模拟｜2026-09-18",
+    "token": "Ia2isc6J5hH2kzt2YGWcNH9qnXV"
+  },
+  "_notice": {
+    "update": {
+      "command": "lark-cli update",
+      "current": "1.0.95",
+      "latest": "1.0.96",
+      "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "frontline-episode-01-rerun-v5",
+  "status": "verified",
+  "archive": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-01-rerun-v5",
+  "manifest": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-01-rerun-v5/manifest.json",
+  "report": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-01-rerun-v5/README.md",
+  "ranking": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-01-rerun-v5/ranking-no-heart.json",
+  "legacyPoolRanking": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-01-rerun-v5/ranking.json",
+  "allConfigurationsRetained": true,
+  "configurationCount": 749490,
+  "currentPoolConfigurationCount": 697200,
+  "stageRuns": 3195824,
+  "modelRevision": "combat-states-justice-20260926",
+  "videoProduced": false,
+  "published": false,
+  "browserRankingDataUpdated": false,
+  "defaultUnityReplayChanged": false
+}

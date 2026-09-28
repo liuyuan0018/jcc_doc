@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "revision": 467,
+    "sheets": [
+      {
+        "filters": [
+          {
+            "details": {
+              "filtered_columns": [],
+              "filtered_out_rows_count": 0,
+              "range": "A1:N217",
+              "rules": [],
+              "total_data_rows": 216,
+              "visible_rows_count": 216
+            },
+            "filter_id": "DDeEGA"
+          }
+        ],
+        "sheet_id": "DDeEGA",
+        "sheet_name": "180秒_新旧对照"
+      }
+    ],
+    "total": 1
+  },
+  "_notice": {
+    "update": {
+      "command": "lark-cli update",
+      "current": "1.0.95",
+      "latest": "1.0.96",
+      "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "test": "buff-lifecycle",
+    "passed": true,
+    "output": "{\"passed\":true,\"effectDrivenManaLock\":true,\"replacementExpiryOverlap\":true,\"independentShields\":true,\"refreshAndStacks\":true}"
+  },
+  {
+    "test": "hecarim-cast",
+    "passed": true,
+    "output": "Hecarim: attacks continue, mana locked 90 frames, resistances and healing retained; seconds=24.3333 attacks=15 casts=4"
+  },
+  {
+    "test": "vi-cast",
+    "passed": true,
+    "output": "Vi casts preserve attacks and external pauses; mana lock and other heroes unchanged"
+  },
+  {
+    "test": "skill-coefficients",
+    "passed": true,
+    "output": "{\"passed\":true,\"checks\":46,\"source\":\"DataJ mobile S18 2026-09-21\"}"
+  },
+  {
+    "test": "wound",
+    "passed": true,
+    "output": "Wound: 4 healing sources, time boundaries, overheal, shield/growth isolation, immunity, full reduction passed"
+  },
+  {
+    "test": "mana-resistance",
+    "passed": true,
+    "output": "{\"passed\":true,\"helm\":\"stats, amplification, lock boundary\",\"damageMana\":\"pre/post mitigation, shield, cap, tank-only, lethal\",\"resistanceModes\":4,\"bloodShieldModel\":\"normal copies share one shield; user client test\"}"
+  },
+  {
+    "test": "presentation-events",
+    "passed": true,
+    "output": "{\"passed\":true,\"checks\":[\"wound\",\"overheal\",\"zeroHeal\",\"growthNotHealing\",\"lethalHpDamage\",\"shieldAbsorption\",\"partialShield\",\"replacement\",\"expiry\",\"decay\",\"currentAP\",\"snapshotDoesNotMutateCaches\",\"captureOff\"]}"
+  },
+  {
+    "test": "frozen-baseline",
+    "passed": true,
+    "cases": 53808,
+    "ticks": 30132860,
+    "baselineSeconds": 1.44982,
+    "refactoredSeconds": 1.41954,
+    "ratio": 0.979115,
+    "exactResultsFramesAndEvents": true
+  }
+]

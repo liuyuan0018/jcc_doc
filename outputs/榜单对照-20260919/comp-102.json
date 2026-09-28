@@ -1,0 +1,221 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "compId": "102",
+    "name": "黑豹轮",
+    "desc": null,
+    "gameCode": "【阵容码】#黑豹轮#MjIwMDY3MzAyODc5ODA4NTYxNzg4MDI3NzE5ODY2",
+    "heroes": [
+      {
+        "id": "2184",
+        "heroId": "4510",
+        "heroName": "希维尔",
+        "heroType": 0,
+        "isCarry": true,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "4,7"
+      },
+      {
+        "id": "2183",
+        "heroId": "4507",
+        "heroName": "奈德丽",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": true,
+        "isCore": true,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "4,1"
+      },
+      {
+        "id": "2186",
+        "heroId": "4504",
+        "heroName": "墨菲特",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "1,4"
+      },
+      {
+        "id": "2191",
+        "heroId": "5451",
+        "heroName": "塔里克",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 5,
+        "heroStarNum": null,
+        "position": "3,3"
+      },
+      {
+        "id": "2188",
+        "heroId": "4500",
+        "heroName": "苍蓝雕纹魔像",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "2,3"
+      },
+      {
+        "id": "2185",
+        "heroId": "3503",
+        "heroName": "远古石甲虫",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 3,
+        "heroStarNum": null,
+        "position": "3,4"
+      },
+      {
+        "id": "2187",
+        "heroId": "3512",
+        "heroName": "克格莫",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 3,
+        "heroStarNum": null,
+        "position": "4,4"
+      },
+      {
+        "id": "2189",
+        "heroId": "1504",
+        "heroName": "雷克塞",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 1,
+        "heroStarNum": null,
+        "position": "2,4"
+      },
+      {
+        "id": "2190",
+        "heroId": "1508",
+        "heroName": "绯红树怪",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 1,
+        "heroStarNum": null,
+        "position": "4,3"
+      }
+    ],
+    "traits": [
+      {
+        "id": "84660101",
+        "name": "峡谷野怪"
+      },
+      {
+        "id": "85200101",
+        "name": "斗士"
+      },
+      {
+        "id": "84510101",
+        "name": "黑荆棘"
+      },
+      {
+        "id": "83750101",
+        "name": "猎人"
+      },
+      {
+        "id": "83700101",
+        "name": "魔战士"
+      },
+      {
+        "id": "84800101",
+        "name": "神谕"
+      },
+      {
+        "id": "83970101",
+        "name": "野兽之灵"
+      },
+      {
+        "id": "83720101",
+        "name": "重装战士"
+      },
+      {
+        "id": "83840101",
+        "name": "宝石骑士"
+      },
+      {
+        "id": "83980101",
+        "name": "帝王斑蝶"
+      },
+      {
+        "id": "83790101",
+        "name": "魔岩巨兽"
+      }
+    ],
+    "equips": [
+      {
+        "heroId": "4507",
+        "equipId": "2042",
+        "compHeroId": "2183"
+      },
+      {
+        "heroId": "4507",
+        "equipId": "2038",
+        "compHeroId": "2183"
+      },
+      {
+        "heroId": "4507",
+        "equipId": "2010",
+        "compHeroId": "2183"
+      },
+      {
+        "heroId": "4510",
+        "equipId": "2045",
+        "compHeroId": "2184"
+      },
+      {
+        "heroId": "4510",
+        "equipId": "2004",
+        "compHeroId": "2184"
+      },
+      {
+        "heroId": "4510",
+        "equipId": "2001",
+        "compHeroId": "2184"
+      },
+      {
+        "heroId": "4504",
+        "equipId": "2034",
+        "compHeroId": "2186"
+      },
+      {
+        "heroId": "4504",
+        "equipId": "2028",
+        "compHeroId": "2186"
+      },
+      {
+        "heroId": "4504",
+        "equipId": "2028",
+        "compHeroId": "2186"
+      }
+    ],
+    "top4Rate": 38.34,
+    "topRate": 5.75,
+    "pickRate": 0.04,
+    "avgPlacement": 5.17,
+    "sampleCount": 313,
+    "tier": "D",
+    "dataMode": "stats"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "passed": true,
+  "replayConservationChecks": 36,
+  "independentNativeRebuildComparisons": 36,
+  "stageRuns": 36,
+  "scenarioMatchesRequest": true,
+  "allItemsOrdinary": true,
+  "noArtifactProgress": true,
+  "augment": 0,
+  "soloPlate": false,
+  "sourceHashes": {
+    "engine-original.cpp": "c65649b7bd761a1c1fd90db203d4843220f2e071fd0aa1113cf008cf0e0666b4",
+    "prepare_engine.py": "41d8453298497dfddd997af33ec519518bb62d02fffbfffb62d771544eb84f6c",
+    "replay_telemetry.py": "b7c21999279f5925d3348be9364841f504e2260b033521a6ab4ddefafc1faa88",
+    "engine-web.hpp": "f476fd9f561189c41d446c525b47ec268e997fe64cfcbd7c7138b077d5301faa",
+    "web.cpp": "62bf18cdf292557225b5fd20c15ee8fdd418a9ca0df26fa847b8bcb9a14912df",
+    "generated.hpp": "9f153b1105b950cce6b733a9f01ec2370ed0e0d6a6a5d7981ae9fb2309fbc3df",
+    "replay-native": "89f153456035771b5d41dea3bc628578342343907c9c917d2908f7de252d2e01",
+    "scenarios.json": "f9137d1a84b2bac39e48c15f115eb0bfee6ff06387389d334381eae3c53ee8a0",
+    "catalog.json": "a92dab300195c6c77fb8cbf30af27a72b6a7cc27c6f9190e75ba0295c9c03c53"
+  },
+  "replayFiles": {
+    "A:last-pass": {
+      "path": "replays/A-200-last-pass.json.gz",
+      "sha256": "bb20cd6b77521f231ad29e341e5878c6c5b3c99659af7e113fdad0b9e05ab0d9",
+      "dps": 200
+    },
+    "A:first-fail": {
+      "path": "replays/A-250-first-fail.json.gz",
+      "sha256": "67c702d5a657e8725cb1bf956c4414e0a0d5cbbccd11f738f0a454f40ca3e663",
+      "dps": 250
+    },
+    "B:last-pass": {
+      "path": "replays/B-200-last-pass.json.gz",
+      "sha256": "fb7c90dda06dcfa8aef06b71bcb3bd39a32e35af1a4c1b4fe7707a879b427528",
+      "dps": 200
+    },
+    "B:first-fail": {
+      "path": "replays/B-250-first-fail.json.gz",
+      "sha256": "69efc0c7a01b2939714374b689e51344306554f64fe5a3c6b73048ac8856cc0d",
+      "dps": 250
+    },
+    "C:last-pass": {
+      "path": "replays/C-150-last-pass.json.gz",
+      "sha256": "e11162c5f8438dee0f2678e273caf3c3ff54e06499547ec765c22b6be7340821",
+      "dps": 150
+    },
+    "C:first-fail": {
+      "path": "replays/C-200-first-fail.json.gz",
+      "sha256": "b9cbce06cef2d8b5563eb80d667c2ee6e9aeef4858ea1506377adaa84387d2ec",
+      "dps": 200
+    },
+    "D:last-pass": {
+      "path": "replays/D-300-last-pass.json.gz",
+      "sha256": "5b5e0ba9e9afc90caea78500a0f2105344acf8feaa67d355c9a1796bc6408290",
+      "dps": 300
+    },
+    "D:first-fail": {
+      "path": "replays/D-350-first-fail.json.gz",
+      "sha256": "6d79596d5841812b1e266564b822a0674cc719f6f840693ceaa510687e475b69",
+      "dps": 350
+    },
+    "E:last-pass": {
+      "path": "replays/E-300-last-pass.json.gz",
+      "sha256": "ffc0ebe6fa1cce01c01a2296939fd729abff15fdd232b82d86f86f1eb73ecac7",
+      "dps": 300
+    },
+    "E:first-fail": {
+      "path": "replays/E-350-first-fail.json.gz",
+      "sha256": "73b46bf69387517a743d2c91fb45f730aca902ecd0b40c66c9e981e0ace7fe6f",
+      "dps": 350
+    },
+    "F:last-pass": {
+      "path": "replays/F-250-last-pass.json.gz",
+      "sha256": "843a356510c0f6ccdb708f710050920dab740d84fe4d5e7637f582021014dadb",
+      "dps": 250
+    },
+    "F:first-fail": {
+      "path": "replays/F-300-first-fail.json.gz",
+      "sha256": "6a57bf8170c6dc88d407cdb3139412dbb17c6434753f5d6513407e5486752e87",
+      "dps": 300
+    },
+    "G:last-pass": {
+      "path": "replays/G-200-last-pass.json.gz",
+      "sha256": "a4238a895573ce48b25382a60193356bb55f5422e0ef935cfc9b6d0f9a1db877",
+      "dps": 200
+    },
+    "G:first-fail": {
+      "path": "replays/G-250-first-fail.json.gz",
+      "sha256": "1cdd45496841860759c9caad0e744f928733cf59a53b7e70140ddebc1a7d1a36",
+      "dps": 250
+    },
+    "H:last-pass": {
+      "path": "replays/H-300-last-pass.json.gz",
+      "sha256": "722ac356c09fc0ed1f6cec12e31a4b0543dcdf06177004fe502a63c1c76bc844",
+      "dps": 300
+    },
+    "H:first-fail": {
+      "path": "replays/H-350-first-fail.json.gz",
+      "sha256": "54898f79c16ae02a947aa5fddb0c37559ec6736898e8a200598ac43a5a0388c3",
+      "dps": 350
+    }
+  },
+  "inputsSha256": "ff797f243b9de687a6bb2cf02caa61e63ab02bff8809c978ea3f27bcd5976f7f",
+  "resultsSha256": "35aacd9aaa34fa6c9a5fdde6236d6086caa9022b7fcbd2fcf881cade0fc357ac"
+}

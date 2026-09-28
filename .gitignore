@@ -1,0 +1,34 @@
+# Local caches and rebuildable temporary files
+.DS_Store
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.bak
+/.local-git-backups/
+/outputs/dual-rank-cache/
+.env
+.env.*
+!.env.example
+/research/combat-buff-refactor-20260926/baseline/batch-before-refactor
+/research/fiddlesticks-rageblade-ablation-20260926/scan
+/research/fiddlesticks-video-20260925/refine
+/research/ornn-two-warden-eight-20260923/input/replay-native
+/research/ornn3-two-warden-shieldlock-20260926-side/check
+/research/ornn3-two-warden-shieldlock-20260926-side/scan
+/research/ornn6-radiant-20260927/retribution-radiant/search
+/research/ornn6-radiant-20260927/retribution/search
+/research/ornn6-radiant-20260927/search
+/research/rammus-rank-integer-20260925/scan
+/research/rammus-rank-refinement-pilot-20260925/pilot
+/research/rammus-revision-20260926/scan
+/research/tankiness-20260918/single-frontline/expanded/engine
+/research/tankiness-20260918/single-frontline/expanded/engine_checks
+/research/tankiness-20260918/single-frontline/expanded/export_case
+/research/tankiness-20260918/single-frontline/expanded180/engine
+/research/tankiness-20260918/single-frontline/expanded180/engine_checks
+/research/tankiness-20260918/single-frontline/expanded180/export_case
+/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/replay-native
+
+# Lossless compressed copy is tracked instead of the oversized raw JSONL
+/research/fiddlesticks-video-20260925/refinement.jsonl

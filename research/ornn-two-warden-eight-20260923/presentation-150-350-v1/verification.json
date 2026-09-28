@@ -1,0 +1,280 @@
+{
+  "passed": true,
+  "stageCount": 30,
+  "reusedReplays": 16,
+  "frozenCliSupplements": 14,
+  "sourceSha256": "04673bca44df0fd286a69ea88529728b0115252bbadaa130a783d2d5a8dd845a",
+  "expectedResultsSha256": "35aacd9aaa34fa6c9a5fdde6236d6086caa9022b7fcbd2fcf881cade0fc357ac",
+  "stages": [
+    {
+      "build": "A",
+      "dps": 150,
+      "origin": "frozen-cli-supplement",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 124
+    },
+    {
+      "build": "A",
+      "dps": 200,
+      "origin": "verified-replay",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 127
+    },
+    {
+      "build": "A",
+      "dps": 250,
+      "origin": "verified-replay",
+      "alive": false,
+      "frame": 680,
+      "frameCount": 681,
+      "presentationEvents": 95
+    },
+    {
+      "build": "B",
+      "dps": 150,
+      "origin": "frozen-cli-supplement",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 122
+    },
+    {
+      "build": "B",
+      "dps": 200,
+      "origin": "verified-replay",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 122
+    },
+    {
+      "build": "B",
+      "dps": 250,
+      "origin": "verified-replay",
+      "alive": false,
+      "frame": 690,
+      "frameCount": 691,
+      "presentationEvents": 96
+    },
+    {
+      "build": "C",
+      "dps": 150,
+      "origin": "verified-replay",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 119
+    },
+    {
+      "build": "C",
+      "dps": 200,
+      "origin": "verified-replay",
+      "alive": false,
+      "frame": 800,
+      "frameCount": 801,
+      "presentationEvents": 107
+    },
+    {
+      "build": "D",
+      "dps": 150,
+      "origin": "frozen-cli-supplement",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 121
+    },
+    {
+      "build": "D",
+      "dps": 200,
+      "origin": "frozen-cli-supplement",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 121
+    },
+    {
+      "build": "D",
+      "dps": 250,
+      "origin": "frozen-cli-supplement",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 121
+    },
+    {
+      "build": "D",
+      "dps": 300,
+      "origin": "verified-replay",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 124
+    },
+    {
+      "build": "D",
+      "dps": 350,
+      "origin": "verified-replay",
+      "alive": false,
+      "frame": 860,
+      "frameCount": 861,
+      "presentationEvents": 123
+    },
+    {
+      "build": "E",
+      "dps": 150,
+      "origin": "frozen-cli-supplement",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 126
+    },
+    {
+      "build": "E",
+      "dps": 200,
+      "origin": "frozen-cli-supplement",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 127
+    },
+    {
+      "build": "E",
+      "dps": 250,
+      "origin": "frozen-cli-supplement",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 129
+    },
+    {
+      "build": "E",
+      "dps": 300,
+      "origin": "verified-replay",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 129
+    },
+    {
+      "build": "E",
+      "dps": 350,
+      "origin": "verified-replay",
+      "alive": false,
+      "frame": 820,
+      "frameCount": 821,
+      "presentationEvents": 118
+    },
+    {
+      "build": "F",
+      "dps": 150,
+      "origin": "frozen-cli-supplement",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 94
+    },
+    {
+      "build": "F",
+      "dps": 200,
+      "origin": "frozen-cli-supplement",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 96
+    },
+    {
+      "build": "F",
+      "dps": 250,
+      "origin": "verified-replay",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 96
+    },
+    {
+      "build": "F",
+      "dps": 300,
+      "origin": "verified-replay",
+      "alive": false,
+      "frame": 810,
+      "frameCount": 811,
+      "presentationEvents": 87
+    },
+    {
+      "build": "G",
+      "dps": 150,
+      "origin": "frozen-cli-supplement",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 111
+    },
+    {
+      "build": "G",
+      "dps": 200,
+      "origin": "verified-replay",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 111
+    },
+    {
+      "build": "G",
+      "dps": 250,
+      "origin": "verified-replay",
+      "alive": false,
+      "frame": 850,
+      "frameCount": 851,
+      "presentationEvents": 105
+    },
+    {
+      "build": "H",
+      "dps": 150,
+      "origin": "frozen-cli-supplement",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 126
+    },
+    {
+      "build": "H",
+      "dps": 200,
+      "origin": "frozen-cli-supplement",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 126
+    },
+    {
+      "build": "H",
+      "dps": 250,
+      "origin": "frozen-cli-supplement",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 127
+    },
+    {
+      "build": "H",
+      "dps": 300,
+      "origin": "verified-replay",
+      "alive": true,
+      "frame": 900,
+      "frameCount": 901,
+      "presentationEvents": 129
+    },
+    {
+      "build": "H",
+      "dps": 350,
+      "origin": "verified-replay",
+      "alive": false,
+      "frame": 770,
+      "frameCount": 771,
+      "presentationEvents": 111
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "ornn-two-warden-eight-20260923",
+  "modelRevision": "dataj-s18-vow-single-normal-shield-20260923",
+  "scenario": {
+    "index": 3,
+    "hero_index": 1,
+    "hero": "奥恩",
+    "star": 2,
+    "cost": 1,
+    "traits": {
+      "护卫": 2
+    },
+    "slots": 2
+  },
+  "environment": {
+    "seconds": 30,
+    "fps": 30,
+    "startDps": 300,
+    "step": 50,
+    "targetResistance": 50,
+    "attackers": 5,
+    "wound": 0.33,
+    "woundStartFrame": 0,
+    "woundEndFrame": 5401,
+    "resistanceMode": 3,
+    "physicalShare": 0.5,
+    "control": false,
+    "augment": 0,
+    "soloPlate": false,
+    "noArtifactProgress": true,
+    "lockFrames": 30,
+    "pauseFrames": 9,
+    "fixedDamagePacketsPerSecond": 3
+  },
+  "builds": [
+    {
+      "key": "A",
+      "itemNames": [
+        "饮血剑",
+        "正义之手",
+        "大天使之杖"
+      ],
+      "itemIndexes": [
+        5,
+        25,
+        16
+      ],
+      "itemIds": [
+        529,
+        577,
+        555
+      ]
+    },
+    {
+      "key": "B",
+      "itemNames": [
+        "饮血剑",
+        "大天使之杖",
+        "石像鬼石板甲"
+      ],
+      "itemIndexes": [
+        5,
+        16,
+        27
+      ],
+      "itemIds": [
+        529,
+        555,
+        581
+      ]
+    },
+    {
+      "key": "C",
+      "itemNames": [
+        "正义之手",
+        "大天使之杖",
+        "石像鬼石板甲"
+      ],
+      "itemIndexes": [
+        25,
+        16,
+        27
+      ],
+      "itemIds": [
+        577,
+        555,
+        581
+      ]
+    },
+    {
+      "key": "D",
+      "itemNames": [
+        "饮血剑",
+        "石像鬼石板甲",
+        "狂徒铠甲"
+      ],
+      "itemIndexes": [
+        5,
+        27,
+        33
+      ],
+      "itemIds": [
+        529,
+        581,
+        597
+      ]
+    },
+    {
+      "key": "E",
+      "itemNames": [
+        "振奋盔甲",
+        "石像鬼石板甲",
+        "狂徒铠甲"
+      ],
+      "itemIndexes": [
+        24,
+        27,
+        33
+      ],
+      "itemIds": [
+        31012,
+        581,
+        597
+      ]
+    },
+    {
+      "key": "F",
+      "itemNames": [
+        "石像鬼石板甲",
+        "石像鬼石板甲",
+        "狂徒铠甲"
+      ],
+      "itemIndexes": [
+        27,
+        27,
+        33
+      ],
+      "itemIds": [
+        581,
+        581,
+        597
+      ]
+    },
+    {
+      "key": "G",
+      "itemNames": [
+        "棘刺背心",
+        "巨龙之爪",
+        "狂徒铠甲"
+      ],
+      "itemIndexes": [
+        26,
+        30,
+        33
+      ],
+      "itemIds": [
+        579,
+        609,
+        597
+      ]
+    },
+    {
+      "key": "H",
+      "itemNames": [
+        "坚定之心",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "itemIndexes": [
+        29,
+        24,
+        27
+      ],
+      "itemIds": [
+        625,
+        31012,
+        581
+      ]
+    }
+  ],
+  "engine": "input/replay-native",
+  "engineSource": "input/engine-web.hpp"
+}

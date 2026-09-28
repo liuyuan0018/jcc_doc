@@ -1,0 +1,393 @@
+{
+  "id": "frontline-ornn-eight",
+  "version": 1,
+  "outputDir": "exports/frontline-pipeline-refactor-20260920",
+  "outputName": "frontline-ornn-rerun.mp4",
+  "replayData": "ornn-eight-data.json",
+  "coverPath": "cover/cover-9x16-v2.png",
+  "tts": {
+    "provider": "edge-tts",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+4%",
+    "pitch": "+0Hz",
+    "ttsVersion": "7.2.8",
+    "ttsOptions": {}
+  },
+  "voiceProcessing": {
+    "filterChain": "highpass=f=85:p=2,equalizer=f=3500:t=o:w=1:g=-1.5,deesser=i=0.15:m=0.25:f=0.5,acompressor=threshold=0.1:ratio=3:attack=0.3:release=70:makeup=1:knee=2.82843:detection=peak",
+    "fixedGainDb": 7.460000000000001,
+    "fadeMs": 8
+  },
+  "music": {
+    "path": "exports/frontline-video-wallpaper-v1/assets/Wallpaper.mp3",
+    "sha256": "9fa810e5193c88f1b360537366f210f16c2588106d5292f0659e9957fa274f96",
+    "gains": {
+      "wallpaperV2RecipeGainDb": -19.84,
+      "approvedV5AddDb": 3
+    },
+    "fadeInSeconds": 0.6,
+    "fadeOutSeconds": 1.5
+  },
+  "timeline": {
+    "coverLeadSeconds": 0.3,
+    "coverTailSeconds": 0.35,
+    "introMinSeconds": 4.0,
+    "cueGapSeconds": 0.45,
+    "normalSimRate": 3.5,
+    "fastBattleSeconds": 1.45,
+    "fastHoldSeconds": 0.55,
+    "normalHoldMinSeconds": 2.2,
+    "resultMinSeconds": 9.0
+  },
+  "effects": {
+    "path": "scripts/tank-video/effects-elimination.json"
+  },
+  "credits": {
+    "path": "exports/frontline-video-wallpaper-v5/CREDITS.txt",
+    "sha256": "16fe3013961f2a5c085e3f2e0a3b90a1ee31dbfcd89fcfcdd12113e506111a64"
+  },
+  "ui": {
+    "brand": "奥恩 · 8套配装 · 模拟测试",
+    "legend": "上两行混合配装 · 下两行纯防御",
+    "footnote": "机制模拟 · 非实机录像 · 技能命中3目标",
+    "resultFootnote": "固定条件下参测配装的持续承压 · 实战还要看对手和站位",
+    "heroName": "奥恩",
+    "traitLine": "3星 · 6护卫 · 6人口 · 无指定海克斯",
+    "resultHeader": "奥恩 · 8套配装 · 模拟测试",
+    "resultCondition": "3星 · 6护卫 · 6人口 · 无指定海克斯 · 技能命中3目标",
+    "titleAux": "奥恩 · 8套 · 模拟",
+    "conditions": "5人集火 / 33%重伤 / 双抗各降30% / 物理魔法各半 / 技能命中3目标",
+    "hexLabel": "无海克斯",
+    "soloTraitLine": "3星 · 6护卫 · 6人口"
+  },
+  "cues": [
+    {
+      "id": "O01",
+      "text": "这次沿用上期条件，模拟对比奥恩的八套装备，其中四套是纯肉搭配。",
+      "spoken": "这次沿用上期条件，模拟对比奥恩的八套装备，其中四套是纯肉搭配。",
+      "displayLines": [
+        "这次沿用上期条件，模拟对比奥恩的八套装备，",
+        "其中四套是纯肉搭配。"
+      ]
+    },
+    {
+      "id": "O02",
+      "text": "统一三星、六护卫、六人口，不带指定装备海克斯。",
+      "spoken": "统一三星、六护卫、六人口，不带指定装备海克斯。"
+    },
+    {
+      "id": "O03",
+      "text": "每档满血重开，三十秒结算时还站着，来伤就加五十。",
+      "spoken": "每档满血重开，三十秒结算时还站着，来伤就加五十。",
+      "displayLines": [
+        "每档满血重开，",
+        "三十秒结算时还站着，来伤就加五十。"
+      ]
+    },
+    {
+      "id": "O04",
+      "text": "上期那套在左上，下两行是四套纯肉。这里统一按技能命中三个目标来算。",
+      "spoken": "上期那套在左上，下两行是四套纯肉。这里统一按技能命中三个目标来算。",
+      "displayLines": [
+        "上期那套在左上，下两行是四套纯肉。",
+        "这里统一按技能命中三个目标来算。"
+      ]
+    },
+    {
+      "id": "O05",
+      "text": "五百五十，双石像鬼加狂徒，到结算时倒下了。",
+      "spoken": "五百五十，双石像鬼加狂徒，到结算时倒下了。"
+    },
+    {
+      "id": "O06",
+      "text": "六百，反甲、龙牙加狂徒也没过。",
+      "spoken": "六百，反甲、龙牙加狂徒也没过。"
+    },
+    {
+      "id": "O07",
+      "text": "六百五十，B组和H组都没过，最高通过六百。",
+      "spoken": "六百五十，B组和H组都没过，最高通过六百。"
+    },
+    {
+      "id": "O08",
+      "text": "七百，饮血和振奋这组对照也都没过。两套同档并列。",
+      "spoken": "七百，饮血和振奋这组对照也都没过。两套同档并列。",
+      "displayLines": [
+        "七百，饮血和振奋这组对照也都没过。",
+        "两套同档并列。"
+      ]
+    },
+    {
+      "id": "O09",
+      "text": "八百五十，去饮血的C组没过。A组通过。",
+      "spoken": "八百五十，去饮血的C组没过。A组通过。"
+    },
+    {
+      "id": "O10",
+      "text": "只剩饮血、正义、大天使这套，继续加压。",
+      "spoken": "只剩饮血、正义、大天使这套，继续加压。"
+    },
+    {
+      "id": "O11",
+      "text": "九百五十，通过。",
+      "spoken": "九百五十，通过。"
+    },
+    {
+      "id": "O12",
+      "text": "一千一百，通过。",
+      "spoken": "一千一百，通过。"
+    },
+    {
+      "id": "O13",
+      "text": "一千二，三十秒通过。再加五十。",
+      "spoken": "一千二，三十秒通过。再加五十。"
+    },
+    {
+      "id": "O14",
+      "text": "一千二百五十，这次没撑住。",
+      "spoken": "一千二百五十，这次没撑住。"
+    },
+    {
+      "id": "O15",
+      "text": "本轮八套里，饮血、正义、大天使最高，通过每秒一千二。再加五十就没过。",
+      "spoken": "本轮八套里，饮血、正义、大天使最高，通过每秒一千二。再加五十就没过。",
+      "displayLines": [
+        "本轮八套里，饮血、正义、大天使最高，",
+        "通过每秒一千二。再加五十就没过。"
+      ]
+    },
+    {
+      "id": "O16",
+      "text": "四套纯肉里，振奋、石像鬼、狂徒最高，通过六百五十。",
+      "spoken": "四套纯肉里，振奋、石像鬼、狂徒最高，通过六百五十。",
+      "displayLines": [
+        "四套纯肉里，振奋、石像鬼、狂徒最高，",
+        "通过六百五十。"
+      ]
+    },
+    {
+      "id": "O17",
+      "text": "同样的石像鬼和狂徒，搭饮血与搭振奋的成绩相同，不能只看有没有饮血就下结论。",
+      "spoken": "同样的石像鬼和狂徒，搭饮血与搭振奋的成绩相同，不能只看有没有饮血就下结论。"
+    },
+    {
+      "id": "O18",
+      "text": "比的是这组条件下的持续承压。实战还要看对手和站位。",
+      "spoken": "比的是这组条件下的持续承压。实战还要看对手和站位。",
+      "displayLines": [
+        "比的是这组条件下的持续承压。",
+        "实战还要看对手和站位。"
+      ]
+    }
+  ],
+  "program": {
+    "tiers": [
+      {
+        "dps": 500,
+        "speed": "normal",
+        "layout": "eight"
+      },
+      {
+        "dps": 550,
+        "speed": "normal",
+        "layout": "eight"
+      },
+      {
+        "dps": 600,
+        "speed": "normal",
+        "layout": "eight"
+      },
+      {
+        "dps": 650,
+        "speed": "normal",
+        "layout": "eight"
+      },
+      {
+        "dps": 700,
+        "speed": "normal",
+        "layout": "eight"
+      },
+      {
+        "dps": 750,
+        "speed": "fast",
+        "layout": "eight"
+      },
+      {
+        "dps": 800,
+        "speed": "fast",
+        "layout": "eight"
+      },
+      {
+        "dps": 850,
+        "speed": "normal",
+        "layout": "eight"
+      },
+      {
+        "dps": 900,
+        "speed": "fast",
+        "layout": "solo"
+      },
+      {
+        "dps": 950,
+        "speed": "fast",
+        "layout": "solo"
+      },
+      {
+        "dps": 1000,
+        "speed": "fast",
+        "layout": "solo"
+      },
+      {
+        "dps": 1050,
+        "speed": "fast",
+        "layout": "solo"
+      },
+      {
+        "dps": 1100,
+        "speed": "fast",
+        "layout": "solo"
+      },
+      {
+        "dps": 1150,
+        "speed": "fast",
+        "layout": "solo"
+      },
+      {
+        "dps": 1200,
+        "speed": "normal",
+        "layout": "solo"
+      },
+      {
+        "dps": 1250,
+        "speed": "normal",
+        "layout": "solo"
+      }
+    ],
+    "soloLane": 0,
+    "anchors": {
+      "O01": {
+        "type": "cover"
+      },
+      "O02": {
+        "type": "intro"
+      },
+      "O03": {
+        "type": "intro"
+      },
+      "O04": {
+        "type": "intro"
+      },
+      "O05": {
+        "type": "death",
+        "tier": 1,
+        "build": "F",
+        "offset": 0.2
+      },
+      "O06": {
+        "type": "death",
+        "tier": 2,
+        "build": "G",
+        "offset": 0.2
+      },
+      "O07": {
+        "type": "tierPassed",
+        "tier": 3,
+        "offset": 0.3
+      },
+      "O08": {
+        "type": "tierPassed",
+        "tier": 4,
+        "offset": 0.3
+      },
+      "O09": {
+        "type": "tierPassed",
+        "tier": 7,
+        "offset": 0.3
+      },
+      "O10": {
+        "type": "tierPassed",
+        "tier": 7,
+        "offset": 0.5
+      },
+      "O11": {
+        "type": "tierPassed",
+        "tier": 9,
+        "offset": 0.3
+      },
+      "O12": {
+        "type": "tierPassed",
+        "tier": 12,
+        "offset": 0.3
+      },
+      "O13": {
+        "type": "tierPassed",
+        "tier": 14,
+        "offset": 0.3
+      },
+      "O14": {
+        "type": "death",
+        "tier": 15,
+        "build": "A",
+        "offset": 0.25
+      },
+      "O15": {
+        "type": "result",
+        "offset": 0.2
+      },
+      "O16": {
+        "type": "result",
+        "offset": 8.0
+      },
+      "O17": {
+        "type": "result",
+        "offset": 14.5
+      },
+      "O18": {
+        "type": "result",
+        "offset": 22.0
+      }
+    }
+  },
+  "densityOffsets": {
+    "left_text": 10,
+    "conditions": 22,
+    "right_text": 14,
+    "corner_text": 42,
+    "bottom_text": 42,
+    "result_rank": 20
+  },
+  "immutable": [
+    {
+      "path": "exports/frontline-episode-01-video-v3/frontline-episode-01.mp4",
+      "sha256": "ef8fe386ff96e275c83fc9eb79bb005163763605f1ffc659a30b6fe92f9e3ef1"
+    },
+    {
+      "path": "exports/frontline-episode-01-video-v5/frontline-episode-01.mp4",
+      "sha256": "a1154e0407d7cca90e6ce0b0a7c7dc5785812762f061a95595db3b418c8becd4"
+    },
+    {
+      "path": "exports/frontline-ornn-eight-v1/ornn-eight-final-v2.mp4",
+      "sha256": "f8bfa9bb09eef3a12daa9e67b6918d586f825173575802b6f3e9fd900498b172"
+    }
+  ],
+  "sourceDir": "exports/frontline-ornn-eight-v1",
+  "themePath": "exports/frontline-episode-01-design-v3/design-v3-theme.json",
+  "protectedOutputDirs": [
+    "exports/frontline-ornn-eight-v1",
+    "exports/frontline-episode-01-video-v3",
+    "exports/frontline-episode-01-video-v5"
+  ],
+  "castDefaults": {
+    "hero": "奥恩",
+    "cost": 1,
+    "star": 3,
+    "traits": {
+      "护卫": 6
+    },
+    "slots": 6,
+    "aug": 0,
+    "_traitText": "6护卫 · 6人口",
+    "_qualityText": "奥恩 · 1费 · 3星",
+    "avatar": "tank-lab/dist/assets/s18_head_ornn.png"
+  }
+}

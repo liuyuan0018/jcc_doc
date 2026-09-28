@@ -1,0 +1,204 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "compId": "104",
+    "name": "野怪小红",
+    "desc": null,
+    "gameCode": "【阵容码】#野怪小红#MjIwMDY3MzAyODc5ODA4NTYxNzg4MDI3NDMwMjMx",
+    "heroes": [
+      {
+        "id": "2204",
+        "heroId": "1508",
+        "heroName": "绯红树怪",
+        "heroType": 0,
+        "isCarry": true,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 1,
+        "heroStarNum": 3,
+        "position": "4,7"
+      },
+      {
+        "id": "2208",
+        "heroId": "5458",
+        "heroName": "远古巨龙",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": true,
+        "isCore": true,
+        "price": 5,
+        "heroStarNum": null,
+        "position": "4,3"
+      },
+      {
+        "id": "2207",
+        "heroId": "3503",
+        "heroName": "远古石甲虫",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 3,
+        "heroStarNum": 3,
+        "position": "1,5"
+      },
+      {
+        "id": "2232",
+        "heroId": "1511",
+        "heroName": "苍蓝哨戒",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 1,
+        "heroStarNum": 3,
+        "position": "4,5"
+      },
+      {
+        "id": "2211",
+        "heroId": "5452",
+        "heroName": "纳尔",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 5,
+        "heroStarNum": null,
+        "position": "1,3"
+      },
+      {
+        "id": "2205",
+        "heroId": "4500",
+        "heroName": "苍蓝雕纹魔像",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "1,4"
+      },
+      {
+        "id": "2206",
+        "heroId": "2500",
+        "heroName": "峡谷迅捷蟹",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 2,
+        "heroStarNum": null,
+        "position": "1,2"
+      },
+      {
+        "id": "2210",
+        "heroId": "1501",
+        "heroName": "洛",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 1,
+        "heroStarNum": null,
+        "position": "1,1"
+      }
+    ],
+    "traits": [
+      {
+        "id": "84660103",
+        "name": "峡谷野怪"
+      },
+      {
+        "id": "85200101",
+        "name": "斗士"
+      },
+      {
+        "id": "84800101",
+        "name": "神谕"
+      },
+      {
+        "id": "83720101",
+        "name": "重装战士"
+      },
+      {
+        "id": "83710101",
+        "name": "主宰"
+      },
+      {
+        "id": "83850101",
+        "name": "顶级掠食者"
+      }
+    ],
+    "equips": [
+      {
+        "heroId": "1511",
+        "equipId": "2038",
+        "compHeroId": "2232"
+      },
+      {
+        "heroId": "1511",
+        "equipId": "2017",
+        "compHeroId": "2232"
+      },
+      {
+        "heroId": "1511",
+        "equipId": "2017",
+        "compHeroId": "2232"
+      },
+      {
+        "heroId": "1508",
+        "equipId": "2001",
+        "compHeroId": "2204"
+      },
+      {
+        "heroId": "1508",
+        "equipId": "2004",
+        "compHeroId": "2204"
+      },
+      {
+        "heroId": "1508",
+        "equipId": "2037",
+        "compHeroId": "2204"
+      },
+      {
+        "heroId": "3503",
+        "equipId": "2025",
+        "compHeroId": "2207"
+      },
+      {
+        "heroId": "3503",
+        "equipId": "2028",
+        "compHeroId": "2207"
+      },
+      {
+        "heroId": "3503",
+        "equipId": "2034",
+        "compHeroId": "2207"
+      },
+      {
+        "heroId": "5458",
+        "equipId": "2001",
+        "compHeroId": "2208"
+      },
+      {
+        "heroId": "5458",
+        "equipId": "2007",
+        "compHeroId": "2208"
+      },
+      {
+        "heroId": "5458",
+        "equipId": "2039",
+        "compHeroId": "2208"
+      }
+    ],
+    "top4Rate": 61.53,
+    "topRate": 15.33,
+    "pickRate": 0.37,
+    "avgPlacement": 3.88,
+    "sampleCount": 9408,
+    "tier": "S",
+    "dataMode": "stats"
+  }
+}

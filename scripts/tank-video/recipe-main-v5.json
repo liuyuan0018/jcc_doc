@@ -1,0 +1,48 @@
+{
+  "version": 5,
+  "sourceJob": "971984d9c5204dbb9de723f42d8bd9c4",
+  "output": "exports/frontline-video-main-v5",
+  "filters": {
+    "targetCount": "3",
+    "wound": "0.33",
+    "resistance": "3",
+    "trait": "",
+    "traitMax": "",
+    "slots": "",
+    "hero": "",
+    "cost": "",
+    "star": "practical",
+    "cat": "",
+    "aug": "",
+    "alive": false
+  },
+  "main": {
+    "id": "01-hero-pressure",
+    "title": "谁才是最能扛的前排？",
+    "subtitle": "全装备池 · 各英雄独立选装",
+    "topCount": 4,
+    "introSeconds": 4,
+    "roundSeconds": 7,
+    "holdSeconds": 1.2,
+    "outroSeconds": 5,
+    "heroes": [
+      "拉莫斯",
+      "瑟庄妮",
+      "蔚",
+      "伊莉丝"
+    ],
+    "heroLabels": {
+      "伊莉丝": "伊莉丝（蜘蛛）"
+    },
+    "selectionMode": "per-hero-global",
+    "scopeLabel": "普通／光明／神器均参与搜索 · 各取最优",
+    "coverScopeLabel": "全装备池独立选装  ·  机制模拟",
+    "introCaption": "全装备池各取最优，再放一起加压。",
+    "outroCaption": "本轮模型与环境下，各自最优配置的承压结果。"
+  },
+  "render": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  }
+}

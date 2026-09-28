@@ -1,0 +1,109 @@
+{
+  "images": [
+    {
+      "file": "01-常规阵容强度榜.svg",
+      "dimensions": [
+        1080,
+        1851
+      ],
+      "png_sha256": "0648dc2269b44352efc5f5b4569646f541ffbf2bef079eaa913169c8c62053cf"
+    },
+    {
+      "file": "02-今天怎么选.svg",
+      "dimensions": [
+        1080,
+        1653
+      ],
+      "png_sha256": "5243f8af4e9fbc489273624b69479d6bd3654f20cbcb3f728a0dd3e6e2e2667d"
+    },
+    {
+      "file": "03-地狱火95.svg",
+      "dimensions": [
+        1080,
+        1653
+      ],
+      "png_sha256": "62171adde11a1314f89b6ac618f58bb0a2529e3f40a7aa06b18af351f3d7b7bf"
+    },
+    {
+      "file": "04-野怪小红.svg",
+      "dimensions": [
+        1080,
+        1653
+      ],
+      "png_sha256": "06a7c7a6c02d61fd8764cedbd1df09ec0e8d34d0ae7821a52b1ba68bf34f1a45"
+    },
+    {
+      "file": "05-重装女警.svg",
+      "dimensions": [
+        1080,
+        1653
+      ],
+      "png_sha256": "db471a7c08c0a54a4a9630de44d1677b2495d28513efae802172190e77359831"
+    },
+    {
+      "file": "06-巨龙95.svg",
+      "dimensions": [
+        1080,
+        1653
+      ],
+      "png_sha256": "6df7d6592e24146f3f1745f9f41dc958b353f6f389070e6b77f60d5fc05545dc"
+    },
+    {
+      "file": "07-古纳拉95.svg",
+      "dimensions": [
+        1080,
+        1653
+      ],
+      "png_sha256": "2eebafb78ac3d1bfc8920bc7d2c5cfef2d744c065ad481672b2c96b08b6e7bba"
+    },
+    {
+      "file": "08-裁决螳螂.svg",
+      "dimensions": [
+        1080,
+        1653
+      ],
+      "png_sha256": "17b16ac0fcfed4e1ba42266c3652ae10c62e4165ae9ceb0cddf4588a6e0fa4f2"
+    },
+    {
+      "file": "09-7野怪鸡哥.svg",
+      "dimensions": [
+        1080,
+        1653
+      ],
+      "png_sha256": "de731e9b2aa23e3c1157bcb91c2ffd93e90d73fd5fa1a3f97e7385883d37304f"
+    },
+    {
+      "file": "10-主宰女警.svg",
+      "dimensions": [
+        1080,
+        1653
+      ],
+      "png_sha256": "cd206bc4413435a20febe7dbfb237c674ef828a654a8d721f0482845c7bb277e"
+    },
+    {
+      "file": "11-皎月螳螂.svg",
+      "dimensions": [
+        1080,
+        1653
+      ],
+      "png_sha256": "11a2e6dc2a7b52ee0998b3af3b91ec7568f19476cbd4d04295a325052ec2868a"
+    },
+    {
+      "file": "12-神谕大嘴.svg",
+      "dimensions": [
+        1080,
+        1851
+      ],
+      "png_sha256": "77a16de9df2a5b35bfc6b09a6b038fe51e23ae16f11f8ebf8b453e478bcc3bf6"
+    }
+  ],
+  "codes": 10,
+  "unchanged_boards": "04-11 differ only in page total",
+  "stale_ashe_metric": "cleared",
+  "cover_correction": {
+    "only_cover_png_changed": true,
+    "other_11_png_hashes_unchanged": true,
+    "full_godkog_row_present": true,
+    "verified_at": "2026-09-19T11:41:57.493203+00:00"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "status": "mana-rule-confirmed",
+  "hero": {
+    "id": 24504,
+    "kind": 24,
+    "star": 2,
+    "hp": 2340,
+    "armor": 70,
+    "magicResist": 70,
+    "attackSpeed": 0.55,
+    "attackDamage": 105,
+    "startingMana": 30,
+    "manaCap": 80,
+    "shield": 850,
+    "shieldSeconds": 4,
+    "burstFlatAp": 60,
+    "burstResistanceCoefficient": 0.45
+  },
+  "trait": {
+    "name": "魔岩巨兽",
+    "resistancePerAttacker": 10,
+    "attackers": 5
+  },
+  "variants": {
+    "0": "no mana or attacks while skill shield active; burst on shield expiry",
+    "1": "mana allowed after normal cast lock while shield active; no recast until shield ends",
+    "2": "attacks allowed after normal cast pause while shield active",
+    "4": "no burst on natural shield expiry"
+  },
+  "pilotConfigurations": 48,
+  "variantRuns": 192,
+  "blockingFact": null,
+  "source": "DataJ snapshot + TFTips sacrifice candidates; not verified with the game client",
+  "userConfirmedManaRule": "no mana during skill shield"
+}

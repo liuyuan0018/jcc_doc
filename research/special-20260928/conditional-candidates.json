@@ -1,0 +1,121 @@
+{
+  "version": "18.2a",
+  "dataUpdatedAt": "2026-09-27T19:31:29.674Z",
+  "source": "https://www.dataj.cc/api/web/stats/special-equip?setId=18&gameVersion=18.2a",
+  "candidates": [
+    {
+      "equipment": "密银黎明",
+      "system": "神谕大嘴",
+      "carrier": {
+        "heroId": "3512",
+        "heroName": "克格莫",
+        "equipIds": [
+          2001,
+          2045,
+          6072
+        ],
+        "sampleCount": 350,
+        "avgPlacement": 3.88,
+        "top4Rate": 61.43,
+        "topRate": 17.14
+      },
+      "scope": "所属体系内英雄携带单件装备分项，非展示三件套交叉筛选",
+      "status": "数据与规则初筛，未实战验证"
+    },
+    {
+      "equipment": "巫妖之祸",
+      "system": "裁决螳螂",
+      "carrier": {
+        "heroId": "3505",
+        "heroName": "卡兹克",
+        "equipIds": [
+          2005,
+          2039,
+          6086
+        ],
+        "sampleCount": 506,
+        "avgPlacement": 3.65,
+        "top4Rate": 66.21,
+        "topRate": 16.6
+      },
+      "scope": "所属体系内英雄携带单件装备分项，非展示三件套交叉筛选",
+      "status": "数据与规则初筛，未实战验证"
+    },
+    {
+      "equipment": "魔蕴",
+      "system": "裁决螳螂",
+      "carrier": {
+        "heroId": "3505",
+        "heroName": "卡兹克",
+        "equipIds": [
+          2005,
+          2038,
+          6058
+        ],
+        "sampleCount": 336,
+        "avgPlacement": 3.67,
+        "top4Rate": 68.45,
+        "topRate": 18.75
+      },
+      "scope": "所属体系内英雄携带单件装备分项，非展示三件套交叉筛选",
+      "status": "数据与规则初筛，未实战验证"
+    },
+    {
+      "equipment": "地狱火纹章",
+      "system": "巨龙95",
+      "carrier": {
+        "heroId": "5458",
+        "heroName": "远古巨龙",
+        "equipIds": [
+          2001,
+          2009,
+          41806
+        ],
+        "sampleCount": 1838,
+        "avgPlacement": 2.6,
+        "top4Rate": 82.15,
+        "topRate": 43.42
+      },
+      "scope": "所属体系内英雄携带单件装备分项，非展示三件套交叉筛选",
+      "status": "数据与规则初筛，未实战验证"
+    },
+    {
+      "equipment": "主宰纹章",
+      "system": "地狱火95",
+      "carrier": {
+        "heroId": "5453",
+        "heroName": "凯南",
+        "equipIds": [
+          2005,
+          2038,
+          41814
+        ],
+        "sampleCount": 1219,
+        "avgPlacement": 2.26,
+        "top4Rate": 86.38,
+        "topRate": 50.62
+      },
+      "scope": "所属体系内英雄携带单件装备分项，非展示三件套交叉筛选",
+      "status": "数据与规则初筛，未实战验证"
+    },
+    {
+      "equipment": "死亡之蔑",
+      "system": "卡丽蜜儿",
+      "carrier": {
+        "heroId": "1505",
+        "heroName": "卡蜜尔",
+        "equipIds": [
+          2001,
+          2007,
+          6054
+        ],
+        "sampleCount": 258,
+        "avgPlacement": 3.68,
+        "top4Rate": 68.99,
+        "topRate": 14.34
+      },
+      "scope": "所属体系内英雄携带单件装备分项，非展示三件套交叉筛选",
+      "status": "数据与规则初筛，未实战验证"
+    }
+  ]
+}

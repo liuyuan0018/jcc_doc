@@ -1,0 +1,56 @@
+{
+  "images": 10,
+  "order": [
+    "地狱火艾希",
+    "重装女警",
+    "巨龙95",
+    "野怪小红",
+    "7野怪鸡哥",
+    "永森95",
+    "古纳拉95",
+    "皎月螳螂",
+    "裁决奶妈"
+  ],
+  "codes": 8,
+  "missing_code": "古纳拉95",
+  "body_characters": 784,
+  "old_cards": [
+    {
+      "name": "重装女警",
+      "only_change": "page number",
+      "source": "exports/ranking-recipes-v3/02-重装女警.svg"
+    },
+    {
+      "name": "巨龙95",
+      "only_change": "page number",
+      "source": "exports/ranking-recipes-v3/03-巨龙95.svg"
+    },
+    {
+      "name": "野怪小红",
+      "only_change": "page number",
+      "source": "exports/ranking-recipes-v3/04-野怪小红.svg"
+    },
+    {
+      "name": "7野怪鸡哥",
+      "only_change": "page number",
+      "source": "exports/ranking-recipes-v3/05-7野怪鸡哥.svg"
+    },
+    {
+      "name": "永森95",
+      "only_change": "page number",
+      "source": "exports/ranking-recipes-v3/06-永森95.svg"
+    },
+    {
+      "name": "皎月螳螂",
+      "only_change": "page number",
+      "source": "exports/ranking-recipes-v3/07-皎月螳螂.svg"
+    },
+    {
+      "name": "裁决奶妈",
+      "only_change": "page number",
+      "source": "exports/ranking-recipes-v3/08-裁决奶妈.svg"
+    }
+  ],
+  "new_cards_visual_review": "passed",
+  "platform_status": "not uploaded"
+}

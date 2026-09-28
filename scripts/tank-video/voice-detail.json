@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "kind": "build-tiers",
+  "source": "exports/frontline-video-detail-v2/02-vi-build-tiers.mp4",
+  "output": "exports/frontline-video-detail-v3/narration-source/02-vi-build-tiers-voice.mp4",
+  "voice": "zh-CN-YunxiNeural",
+  "rate": "+4%",
+  "pitch": "+0Hz",
+  "pronunciation": {
+    "蔚": "魏"
+  },
+  "expectedBuilds": [
+    {
+      "label": "配装 A",
+      "hero": "蔚",
+      "equipment": [
+        "振奋盔甲",
+        "巨龙之爪",
+        "大亨之铠"
+      ],
+      "passedDps": 2150
+    },
+    {
+      "label": "配装 B",
+      "hero": "蔚",
+      "equipment": [
+        "冕卫",
+        "圣盾使的誓约",
+        "大亨之铠"
+      ],
+      "passedDps": 2000
+    },
+    {
+      "label": "配装 C",
+      "hero": "蔚",
+      "equipment": [
+        "圣盾使的誓约",
+        "棘刺背心",
+        "大亨之铠"
+      ],
+      "passedDps": 1850
+    }
+  ],
+  "cues": [
+    {
+      "id": "opening",
+      "start": 0.2,
+      "end": 3.9,
+      "text": "同一个蔚，三套配装，谁更耐扛？"
+    },
+    {
+      "id": "fixed-item",
+      "start": 4.15,
+      "end": 8.15,
+      "text": "大亨固定，另外两件换着穿。"
+    },
+    {
+      "id": "bottom-death",
+      "death": {
+        "round": 0,
+        "label": "配装 C",
+        "offset": 0.08
+      },
+      "end": 13.35,
+      "text": "配装 C 倒了。"
+    },
+    {
+      "id": "round-two",
+      "start": 13.6,
+      "end": 18.0,
+      "text": "压力再加一档。"
+    },
+    {
+      "id": "middle-death",
+      "death": {
+        "round": 1,
+        "label": "配装 B",
+        "offset": 0.08
+      },
+      "end": 22.75,
+      "text": "配装 B 也倒了。"
+    },
+    {
+      "id": "round-three",
+      "start": 23.0,
+      "end": 27.0,
+      "text": "最后一档，三套一起看。"
+    },
+    {
+      "id": "watch-top",
+      "start": 28.93,
+      "end": 30.48,
+      "text": "配装 A 还在撑。"
+    },
+    {
+      "id": "top-death",
+      "death": {
+        "round": 2,
+        "label": "配装 A",
+        "offset": 0.08
+      },
+      "end": 32.15,
+      "text": "配装 A 也倒了。"
+    },
+    {
+      "id": "summary",
+      "start": 32.35,
+      "end": 37.0,
+      "text": "这组条件下，配装 A 撑得最久。"
+    }
+  ]
+}

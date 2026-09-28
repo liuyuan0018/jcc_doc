@@ -1,0 +1,1405 @@
+{
+  "status": "historical-candidates-pending-model-audit",
+  "scenario": 185,
+  "augment": 0,
+  "eligibleCount": 7770,
+  "targetCount": 40,
+  "includeCutoffTies": true,
+  "historicalCutoff": 1550,
+  "candidateCount": 58,
+  "sourceSummarySha256": "6d14869946bfcb17cca5eaeb12019e425871d19bf1d7c1ffdf69ddf97673751e",
+  "rows": [
+    {
+      "id": "s185-b3092-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        16,
+        23
+      ],
+      "augment": 0,
+      "passedDps": 1850,
+      "failedDps": 1900,
+      "stageCount": 33,
+      "failedFrame": 730,
+      "remainingHpShield": 1135.783969499381,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "大天使之杖",
+        "适应性头盔"
+      ],
+      "rank": 1,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6447-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        16,
+        23
+      ],
+      "augment": 0,
+      "passedDps": 1850,
+      "failedDps": 1900,
+      "stageCount": 33,
+      "failedFrame": 450,
+      "remainingHpShield": 1568.5459177975108,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "大天使之杖",
+        "适应性头盔"
+      ],
+      "rank": 1,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b3085-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        16,
+        16
+      ],
+      "augment": 0,
+      "passedDps": 1800,
+      "failedDps": 1850,
+      "stageCount": 32,
+      "failedFrame": 520,
+      "remainingHpShield": 1055.8554125119217,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "大天使之杖",
+        "大天使之杖"
+      ],
+      "rank": 3,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b3086-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        16,
+        17
+      ],
+      "augment": 0,
+      "passedDps": 1800,
+      "failedDps": 1850,
+      "stageCount": 32,
+      "failedFrame": 760,
+      "remainingHpShield": 744.9910748008813,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "大天使之杖",
+        "冕卫"
+      ],
+      "rank": 3,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6459-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        17,
+        17
+      ],
+      "augment": 0,
+      "passedDps": 1800,
+      "failedDps": 1850,
+      "stageCount": 32,
+      "failedFrame": 680,
+      "remainingHpShield": 768.481370809428,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "冕卫",
+        "冕卫"
+      ],
+      "rank": 3,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b2980-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        11,
+        16
+      ],
+      "augment": 0,
+      "passedDps": 1750,
+      "failedDps": 1800,
+      "stageCount": 31,
+      "failedFrame": 680,
+      "remainingHpShield": 1023.0388375022995,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "泰坦的坚决",
+        "大天使之杖"
+      ],
+      "rank": 6,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b3066-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        15,
+        16
+      ],
+      "augment": 0,
+      "passedDps": 1750,
+      "failedDps": 1800,
+      "stageCount": 31,
+      "failedFrame": 760,
+      "remainingHpShield": 1195.7006369222922,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "灭世者的死亡之帽",
+        "大天使之杖"
+      ],
+      "rank": 6,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b3093-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        16,
+        24
+      ],
+      "augment": 0,
+      "passedDps": 1750,
+      "failedDps": 1800,
+      "stageCount": 31,
+      "failedFrame": 600,
+      "remainingHpShield": 358.53131770164964,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "大天使之杖",
+        "振奋盔甲"
+      ],
+      "rank": 6,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b3094-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        16,
+        25
+      ],
+      "augment": 0,
+      "passedDps": 1750,
+      "failedDps": 1800,
+      "stageCount": 31,
+      "failedFrame": 600,
+      "remainingHpShield": 426.0377686732344,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "大天使之杖",
+        "正义之手"
+      ],
+      "rank": 6,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6441-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        16,
+        17
+      ],
+      "augment": 0,
+      "passedDps": 1750,
+      "failedDps": 1800,
+      "stageCount": 31,
+      "failedFrame": 520,
+      "remainingHpShield": 1319.8577031329262,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "大天使之杖",
+        "冕卫"
+      ],
+      "rank": 6,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b6554-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        23,
+        25
+      ],
+      "augment": 0,
+      "passedDps": 1750,
+      "failedDps": 1800,
+      "stageCount": 31,
+      "failedFrame": 730,
+      "remainingHpShield": 1746.1702701949537,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "适应性头盔",
+        "正义之手"
+      ],
+      "rank": 6,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6250-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        15,
+        16,
+        16
+      ],
+      "augment": 0,
+      "passedDps": 1700,
+      "failedDps": 1750,
+      "stageCount": 30,
+      "failedFrame": 520,
+      "remainingHpShield": 1252.525035427494,
+      "ceilingReached": false,
+      "itemNames": [
+        "灭世者的死亡之帽",
+        "大天使之杖",
+        "大天使之杖"
+      ],
+      "rank": 12,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b6259-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        15,
+        16,
+        25
+      ],
+      "augment": 0,
+      "passedDps": 1700,
+      "failedDps": 1750,
+      "stageCount": 30,
+      "failedFrame": 520,
+      "remainingHpShield": 810.3496142526574,
+      "ceilingReached": false,
+      "itemNames": [
+        "灭世者的死亡之帽",
+        "大天使之杖",
+        "正义之手"
+      ],
+      "rank": 12,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6440-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        16,
+        16
+      ],
+      "augment": 0,
+      "passedDps": 1700,
+      "failedDps": 1750,
+      "stageCount": 30,
+      "failedFrame": 360,
+      "remainingHpShield": 1416.748561031511,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "大天使之杖",
+        "大天使之杖"
+      ],
+      "rank": 12,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b6448-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        16,
+        24
+      ],
+      "augment": 0,
+      "passedDps": 1700,
+      "failedDps": 1750,
+      "stageCount": 30,
+      "failedFrame": 440,
+      "remainingHpShield": 1373.8313920365213,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "大天使之杖",
+        "振奋盔甲"
+      ],
+      "rank": 12,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b3090-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        16,
+        21
+      ],
+      "augment": 0,
+      "passedDps": 1650,
+      "failedDps": 1700,
+      "stageCount": 29,
+      "failedFrame": 680,
+      "remainingHpShield": 915.1069384655636,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "大天使之杖",
+        "蓝霸符"
+      ],
+      "rank": 16,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b3096-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        16,
+        27
+      ],
+      "augment": 0,
+      "passedDps": 1650,
+      "failedDps": 1700,
+      "stageCount": 29,
+      "failedFrame": 770,
+      "remainingHpShield": 1011.4444943119195,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "大天使之杖",
+        "石像鬼石板甲"
+      ],
+      "rank": 16,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b5280-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        11,
+        16,
+        16
+      ],
+      "augment": 0,
+      "passedDps": 1650,
+      "failedDps": 1700,
+      "stageCount": 29,
+      "failedFrame": 520,
+      "remainingHpShield": 2138.9144689908376,
+      "ceilingReached": false,
+      "itemNames": [
+        "泰坦的坚决",
+        "大天使之杖",
+        "大天使之杖"
+      ],
+      "rank": 16,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b6449-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        16,
+        25
+      ],
+      "augment": 0,
+      "passedDps": 1650,
+      "failedDps": 1700,
+      "stageCount": 29,
+      "failedFrame": 520,
+      "remainingHpShield": 1439.950725909916,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "大天使之杖",
+        "正义之手"
+      ],
+      "rank": 16,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b6463-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        17,
+        21
+      ],
+      "augment": 0,
+      "passedDps": 1650,
+      "failedDps": 1700,
+      "stageCount": 29,
+      "failedFrame": 600,
+      "remainingHpShield": 869.9151168898877,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "冕卫",
+        "蓝霸符"
+      ],
+      "rank": 16,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6465-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        17,
+        23
+      ],
+      "augment": 0,
+      "passedDps": 1650,
+      "failedDps": 1700,
+      "stageCount": 29,
+      "failedFrame": 740,
+      "remainingHpShield": 453.694935092572,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "冕卫",
+        "适应性头盔"
+      ],
+      "rank": 16,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6527-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        21,
+        23
+      ],
+      "augment": 0,
+      "passedDps": 1650,
+      "failedDps": 1700,
+      "stageCount": 29,
+      "failedFrame": 660,
+      "remainingHpShield": 1260.5965691357305,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "蓝霸符",
+        "适应性头盔"
+      ],
+      "rank": 16,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6575-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        25,
+        25
+      ],
+      "augment": 0,
+      "passedDps": 1650,
+      "failedDps": 1700,
+      "stageCount": 29,
+      "failedFrame": 600,
+      "remainingHpShield": 640.1971874772904,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "正义之手",
+        "正义之手"
+      ],
+      "rank": 16,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b2821-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        5,
+        16
+      ],
+      "augment": 0,
+      "passedDps": 1600,
+      "failedDps": 1650,
+      "stageCount": 28,
+      "failedFrame": 670,
+      "remainingHpShield": 530.3894544585751,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "饮血剑",
+        "大天使之杖"
+      ],
+      "rank": 24,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b3104-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        17,
+        17
+      ],
+      "augment": 0,
+      "passedDps": 1600,
+      "failedDps": 1650,
+      "stageCount": 28,
+      "failedFrame": 840,
+      "remainingHpShield": 514.8288540282864,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "冕卫",
+        "冕卫"
+      ],
+      "rank": 24,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b5281-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        11,
+        16,
+        17
+      ],
+      "augment": 0,
+      "passedDps": 1600,
+      "failedDps": 1650,
+      "stageCount": 28,
+      "failedFrame": 740,
+      "remainingHpShield": 884.8223662736277,
+      "ceilingReached": false,
+      "itemNames": [
+        "泰坦的坚决",
+        "大天使之杖",
+        "冕卫"
+      ],
+      "rank": 24,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b5285-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        11,
+        16,
+        21
+      ],
+      "augment": 0,
+      "passedDps": 1600,
+      "failedDps": 1650,
+      "stageCount": 28,
+      "failedFrame": 520,
+      "remainingHpShield": 745.591192529956,
+      "ceilingReached": false,
+      "itemNames": [
+        "泰坦的坚决",
+        "大天使之杖",
+        "蓝霸符"
+      ],
+      "rank": 24,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6251-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        15,
+        16,
+        17
+      ],
+      "augment": 0,
+      "passedDps": 1600,
+      "failedDps": 1650,
+      "stageCount": 28,
+      "failedFrame": 670,
+      "remainingHpShield": 1103.0567459089007,
+      "ceilingReached": false,
+      "itemNames": [
+        "灭世者的死亡之帽",
+        "大天使之杖",
+        "冕卫"
+      ],
+      "rank": 24,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6255-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        15,
+        16,
+        21
+      ],
+      "augment": 0,
+      "passedDps": 1600,
+      "failedDps": 1650,
+      "stageCount": 28,
+      "failedFrame": 600,
+      "remainingHpShield": 1059.5206704106088,
+      "ceilingReached": false,
+      "itemNames": [
+        "灭世者的死亡之帽",
+        "大天使之杖",
+        "蓝霸符"
+      ],
+      "rank": 24,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6257-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        15,
+        16,
+        23
+      ],
+      "augment": 0,
+      "passedDps": 1600,
+      "failedDps": 1650,
+      "stageCount": 28,
+      "failedFrame": 520,
+      "remainingHpShield": 640.1324978857242,
+      "ceilingReached": false,
+      "itemNames": [
+        "灭世者的死亡之帽",
+        "大天使之杖",
+        "适应性头盔"
+      ],
+      "rank": 24,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6445-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        16,
+        21
+      ],
+      "augment": 0,
+      "passedDps": 1600,
+      "failedDps": 1650,
+      "stageCount": 28,
+      "failedFrame": 520,
+      "remainingHpShield": 1393.508856872933,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "大天使之杖",
+        "蓝霸符"
+      ],
+      "rank": 24,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b6451-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        16,
+        27
+      ],
+      "augment": 0,
+      "passedDps": 1600,
+      "failedDps": 1650,
+      "stageCount": 28,
+      "failedFrame": 500,
+      "remainingHpShield": 1562.6382581264781,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "大天使之杖",
+        "石像鬼石板甲"
+      ],
+      "rank": 24,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b6552-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        23,
+        23
+      ],
+      "augment": 0,
+      "passedDps": 1600,
+      "failedDps": 1650,
+      "stageCount": 28,
+      "failedFrame": 660,
+      "remainingHpShield": 896.1441885678125,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "适应性头盔",
+        "适应性头盔"
+      ],
+      "rank": 24,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b2956-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        10,
+        16
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 660,
+      "remainingHpShield": 537.6677804438045,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "虚空之杖",
+        "大天使之杖"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b2979-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        11,
+        15
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 770,
+      "remainingHpShield": 566.5737286933559,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "泰坦的坚决",
+        "灭世者的死亡之帽"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b2981-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        11,
+        17
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 850,
+      "remainingHpShield": 714.3844484493428,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "泰坦的坚决",
+        "冕卫"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b3067-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        15,
+        17
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 860,
+      "remainingHpShield": 639.1144792537917,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "灭世者的死亡之帽",
+        "冕卫"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b3073-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        15,
+        23
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 840,
+      "remainingHpShield": 288.7851921331785,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "灭世者的死亡之帽",
+        "适应性头盔"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b3091-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        16,
+        22
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 740,
+      "remainingHpShield": 266.013314426991,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "大天使之杖",
+        "圣盾使的誓约"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b3099-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        16,
+        30
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 770,
+      "remainingHpShield": 898.394802122443,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "大天使之杖",
+        "巨龙之爪"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b3110-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        17,
+        23
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 900,
+      "remainingHpShield": 348.6380803471056,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "冕卫",
+        "适应性头盔"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b3174-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        21,
+        25
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 760,
+      "remainingHpShield": 113.75368599072655,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "蓝霸符",
+        "正义之手"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b3199-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        23,
+        25
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 810,
+      "remainingHpShield": 212.962737872512,
+      "ceilingReached": false,
+      "itemNames": [
+        "饮血剑",
+        "适应性头盔",
+        "正义之手"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b5287-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        11,
+        16,
+        23
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 520,
+      "remainingHpShield": 725.6543945520343,
+      "ceilingReached": false,
+      "itemNames": [
+        "泰坦的坚决",
+        "大天使之杖",
+        "适应性头盔"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b5289-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        11,
+        16,
+        25
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 650,
+      "remainingHpShield": 942.7870738380179,
+      "ceilingReached": false,
+      "itemNames": [
+        "泰坦的坚决",
+        "大天使之杖",
+        "正义之手"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6231-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        15,
+        15,
+        16
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 670,
+      "remainingHpShield": 1191.910215364164,
+      "ceilingReached": false,
+      "itemNames": [
+        "灭世者的死亡之帽",
+        "灭世者的死亡之帽",
+        "大天使之杖"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b6258-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        15,
+        16,
+        24
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 580,
+      "remainingHpShield": 868.0615791177613,
+      "ceilingReached": false,
+      "itemNames": [
+        "灭世者的死亡之帽",
+        "大天使之杖",
+        "振奋盔甲"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6275-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        15,
+        17,
+        23
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 760,
+      "remainingHpShield": 67.37763353905245,
+      "ceilingReached": false,
+      "itemNames": [
+        "灭世者的死亡之帽",
+        "冕卫",
+        "适应性头盔"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6446-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        16,
+        22
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 620,
+      "remainingHpShield": 513.9283542282699,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "大天使之杖",
+        "圣盾使的誓约"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b6466-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        17,
+        24
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 760,
+      "remainingHpShield": 1170.7446551216613,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "冕卫",
+        "振奋盔甲"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6467-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        17,
+        25
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 760,
+      "remainingHpShield": 1242.2863993009119,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "冕卫",
+        "正义之手"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6472-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        17,
+        30
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 670,
+      "remainingHpShield": 895.2276846095671,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "冕卫",
+        "巨龙之爪"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6528-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        21,
+        24
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 520,
+      "remainingHpShield": 881.5521213562344,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "蓝霸符",
+        "振奋盔甲"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6529-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        21,
+        25
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 680,
+      "remainingHpShield": 1126.9978468480958,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "蓝霸符",
+        "正义之手"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6553-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        23,
+        24
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 520,
+      "remainingHpShield": 483.9120478013561,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "适应性头盔",
+        "振奋盔甲"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6577-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        16,
+        25,
+        27
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 760,
+      "remainingHpShield": 1279.8964556453152,
+      "ceilingReached": false,
+      "itemNames": [
+        "大天使之杖",
+        "正义之手",
+        "石像鬼石板甲"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": false
+    },
+    {
+      "id": "s185-b6630-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        17,
+        17,
+        17
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 860,
+      "remainingHpShield": 1757.4562910235272,
+      "ceilingReached": false,
+      "itemNames": [
+        "冕卫",
+        "冕卫",
+        "冕卫"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": true
+    },
+    {
+      "id": "s185-b6636-a0",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        17,
+        17,
+        23
+      ],
+      "augment": 0,
+      "passedDps": 1550,
+      "failedDps": 1600,
+      "stageCount": 27,
+      "failedFrame": 830,
+      "remainingHpShield": 466.43292793322195,
+      "ceilingReached": false,
+      "itemNames": [
+        "冕卫",
+        "冕卫",
+        "适应性头盔"
+      ],
+      "rank": 34,
+      "requiresDuplicateEffectAudit": true
+    }
+  ]
+}

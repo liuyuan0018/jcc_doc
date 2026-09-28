@@ -1,0 +1,86 @@
+{
+  "api": "GameFramework.MediaCapture.Unity.UnityScreenshot.CaptureAsync",
+  "replay": "replay.json",
+  "images": [
+    {
+      "page": 1,
+      "time": 2,
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-results64-20260925/page-01.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "sha256": "3c6966d0cbea6a27cc474f019ed43e6420f5ac20b64d6e0c1f8b6882e918d3d2"
+    },
+    {
+      "page": 2,
+      "time": 7,
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-results64-20260925/page-02.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "sha256": "21997f6843c6e1b465ec59db9073350bdf8e5d5ebcbe945641decc74f1ee72df"
+    },
+    {
+      "page": 3,
+      "time": 12,
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-results64-20260925/page-03.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "sha256": "d45cb76ea7bc750e4c5880ffb25c242c3f3050be4dd4be7abc4653ed8dcb72b5"
+    },
+    {
+      "page": 4,
+      "time": 17,
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-results64-20260925/page-04.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "sha256": "0ea7b17ce9302b26c7b2d4844c46075f642bae1eb5321c735bd525591f6884e5"
+    },
+    {
+      "page": 5,
+      "time": 22,
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-results64-20260925/page-05.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "sha256": "ab76a0347a9623292b8ab7dcb2739a74bd6f00e7134f7999635c25e74464cf82"
+    },
+    {
+      "page": 6,
+      "time": 27,
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-results64-20260925/page-06.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "sha256": "b485b96204bb44a6e6548638c3c3de7541c6d847dda5655d1b47341271599753"
+    },
+    {
+      "page": 7,
+      "time": 32,
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-results64-20260925/page-07.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "sha256": "b72b644ca228c5cfbd710cbf31569235a88b8ccf35d04a0bd921acfb879326ee"
+    },
+    {
+      "page": 8,
+      "time": 37,
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-results64-20260925/page-08.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "sha256": "083e63c7d401f9f80752241e828efbb8b74f72e3baee4f0d18dbbf39fbbde1c4"
+    }
+  ]
+}

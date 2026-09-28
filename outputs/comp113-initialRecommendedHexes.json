@@ -1,0 +1,66 @@
+{
+  "compId": "113",
+  "sampleCount": 253,
+  "hexes": [
+    {
+      "id": "3008",
+      "name": "升级咯！",
+      "pickRate": 3.17,
+      "pickCount": 25
+    },
+    {
+      "id": "20759",
+      "name": "顶尖构筑",
+      "pickRate": 2.92,
+      "pickCount": 23
+    },
+    {
+      "id": "20041",
+      "name": "双排",
+      "pickRate": 2.79,
+      "pickCount": 22
+    },
+    {
+      "id": "20661",
+      "name": "后期收益",
+      "pickRate": 2.66,
+      "pickCount": 21
+    },
+    {
+      "id": "30027",
+      "name": "爆炸式增长+",
+      "pickRate": 2.28,
+      "pickCount": 18
+    },
+    {
+      "id": "20624",
+      "name": "生日聚会",
+      "pickRate": 2.16,
+      "pickCount": 17
+    },
+    {
+      "id": "20642",
+      "name": "摇钱树",
+      "pickRate": 2.03,
+      "pickCount": 16
+    },
+    {
+      "id": "20009",
+      "name": "投资+",
+      "pickRate": 1.9,
+      "pickCount": 15
+    },
+    {
+      "id": "30009",
+      "name": "投资++",
+      "pickRate": 1.9,
+      "pickCount": 15
+    },
+    {
+      "id": "3851",
+      "name": "混沌召唤",
+      "pickRate": 1.78,
+      "pickCount": 14
+    }
+  ]
+}

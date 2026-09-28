@@ -1,0 +1,26 @@
+{
+  "verified_at": "2026-09-20T11:12:44.039307+00:00",
+  "source_date_bjt": "2026-09-20 03:26",
+  "game_version": "18.2a",
+  "regular_stats_rows": 10,
+  "cold_stats_rows": 6,
+  "code_counts": {
+    "cold": 6,
+    "regular": 10
+  },
+  "old_statistics_absent": true,
+  "image_date_disclosed": true,
+  "body_sha256": {
+    "cold": "b7831b6f2b9bf2605c5e39a5e8a254b94f1fbaffebcdbf637d02db15c521a264",
+    "regular": "5e745a9565584f54b006bbeb59d329513fc9f2bb06644721d06d8827fae12556"
+  },
+  "source_sha256": {
+    "summary.json": "af7352a0a6f129191fdd2794fcff387709b879db10d31efb2ba874f5de02c7b5",
+    "khazix-gear.json": "654e93dcd15ae8caed41cb481268858ab3fc531616aaa629bb6dfa9766fa042e",
+    "kog-ad-equips.json": "ca0bf3fe809748164c4f3e9cd6aa10cfd933c1f1a03572ca4b3739a5063194f2",
+    "versions.json": "471891d3aa3f7a017b5a2dbaaa52b11464af3fa26d49e7f7a51c1c40c649da65",
+    "special.json": "c1d65d55957450e74c4ea888afcf35ea4bdb59f2ae49bd7a4ceb3ed6f51fa508",
+    "kayle-gear.json": "30be741f54f745125c21a186eb7f2bc28ca7cc896ef97bb707ab4f509bfb83d3",
+    "rank.json": "0fdc5f9fc6fb18bfe49f24984af9a1fb7b5c69d855fdab5785b657156a92a80f"
+  }
+}

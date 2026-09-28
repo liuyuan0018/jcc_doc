@@ -1,0 +1,392 @@
+{
+  "scope": "S18 裁决奶妈样板",
+  "metadata_note": "来源 setId=18 和 s18 图片路径一致，但原始 season 字段为 S19；保留异常，不能以该字段认定赛季或数值版本。图片身份另行与攻略参考对照。",
+  "assets": [
+    {
+      "key": "hero-14512",
+      "name": "婕拉",
+      "kind": "hero",
+      "source_id": "14512",
+      "path": "assets/hero/s18_head_zyra.png",
+      "source_url": "https://img.dataj.cc/images/s18/hero/s18_head_zyra.png",
+      "source_page": "https://www.dataj.cc/database",
+      "source_api": "https://www.dataj.cc/api/web/gamedata?setId=18",
+      "retrieved": "2026-09-07",
+      "sha256": "eb1a0b74c036de20388d74dd8fd52acfc402dc2f6ae3cf5b4775580467f171c1",
+      "source_metadata": {
+        "setId": "18",
+        "season": "S19",
+        "version": "18.18.1b"
+      },
+      "verification": {
+        "name_url_mapping": true,
+        "visual_crosscheck": "matches reference guide 6a943d800000000020032819_2.jpg; reviewed 2026-09-07",
+        "user_approved": false,
+        "source_authority": "third-party named season database, not direct official game extraction"
+      },
+      "dimensions": [
+        96,
+        96
+      ],
+      "aliases": []
+    },
+    {
+      "key": "hero-14513",
+      "name": "索拉卡",
+      "kind": "hero",
+      "source_id": "14513",
+      "path": "assets/hero/s18_head_soraka.png",
+      "source_url": "https://img.dataj.cc/images/s18/hero/s18_head_soraka.png",
+      "source_page": "https://www.dataj.cc/database",
+      "source_api": "https://www.dataj.cc/api/web/gamedata?setId=18",
+      "retrieved": "2026-09-07",
+      "sha256": "8486d3fc15cf8bb8e6386be806f6b3f628e47805e1e4cf559859bd9d7f84d1af",
+      "source_metadata": {
+        "setId": "18",
+        "season": "S19",
+        "version": "18.18.1c"
+      },
+      "verification": {
+        "name_url_mapping": true,
+        "visual_crosscheck": "matches reference guide 6a943d800000000020032819_2.jpg; reviewed 2026-09-07",
+        "user_approved": false,
+        "source_authority": "third-party named season database, not direct official game extraction"
+      },
+      "dimensions": [
+        96,
+        96
+      ],
+      "aliases": [
+        "奶妈"
+      ]
+    },
+    {
+      "key": "hero-14504",
+      "name": "墨菲特",
+      "kind": "hero",
+      "source_id": "14504",
+      "path": "assets/hero/s18_head_malphite.png",
+      "source_url": "https://img.dataj.cc/images/s18/hero/s18_head_malphite.png",
+      "source_page": "https://www.dataj.cc/database",
+      "source_api": "https://www.dataj.cc/api/web/gamedata?setId=18",
+      "retrieved": "2026-09-07",
+      "sha256": "b2d6abcbe560090810ee48abc886e5180a4e3a474b4f208a80125a6c562885c1",
+      "source_metadata": {
+        "setId": "18",
+        "season": "S19",
+        "version": "18.18.1"
+      },
+      "verification": {
+        "name_url_mapping": true,
+        "visual_crosscheck": "matches reference guide 6a943d800000000020032819_2.jpg; reviewed 2026-09-07",
+        "user_approved": false,
+        "source_authority": "third-party named season database, not direct official game extraction"
+      },
+      "dimensions": [
+        96,
+        96
+      ],
+      "aliases": [
+        "石头人"
+      ]
+    },
+    {
+      "key": "hero-14503",
+      "name": "阿木木",
+      "kind": "hero",
+      "source_id": "14503",
+      "path": "assets/hero/s18_head_amumu.png",
+      "source_url": "https://img.dataj.cc/images/s18/hero/s18_head_amumu.png",
+      "source_page": "https://www.dataj.cc/database",
+      "source_api": "https://www.dataj.cc/api/web/gamedata?setId=18",
+      "retrieved": "2026-09-07",
+      "sha256": "64e77afb3fb0199af65f9e6791f19a8748e83f87ae3336c8b725cee25310d30d",
+      "source_metadata": {
+        "setId": "18",
+        "season": "S19",
+        "version": "18.18.1c"
+      },
+      "verification": {
+        "name_url_mapping": true,
+        "visual_crosscheck": "matches reference guide 6a943d800000000020032819_2.jpg; reviewed 2026-09-07",
+        "user_approved": false,
+        "source_authority": "third-party named season database, not direct official game extraction"
+      },
+      "dimensions": [
+        96,
+        96
+      ],
+      "aliases": []
+    },
+    {
+      "key": "hero-15453",
+      "name": "凯南",
+      "kind": "hero",
+      "source_id": "15453",
+      "path": "assets/hero/s18_head_kennen.png",
+      "source_url": "https://img.dataj.cc/images/s18/hero/s18_head_kennen.png",
+      "source_page": "https://www.dataj.cc/database",
+      "source_api": "https://www.dataj.cc/api/web/gamedata?setId=18",
+      "retrieved": "2026-09-07",
+      "sha256": "3866d885ee733f3c887b6731a68ed79521559efe4622d682d112c813a755a568",
+      "source_metadata": {
+        "setId": "18",
+        "season": "S19",
+        "version": "18.18.1b"
+      },
+      "verification": {
+        "name_url_mapping": true,
+        "visual_crosscheck": "matches reference guide 6a943d800000000020032819_2.jpg; reviewed 2026-09-07",
+        "user_approved": false,
+        "source_authority": "third-party named season database, not direct official game extraction"
+      },
+      "dimensions": [
+        96,
+        96
+      ],
+      "aliases": []
+    },
+    {
+      "key": "hero-13502",
+      "name": "费德提克",
+      "kind": "hero",
+      "source_id": "13502",
+      "path": "assets/hero/s18_head_fiddlesticks.png",
+      "source_url": "https://img.dataj.cc/images/s18/hero/s18_head_fiddlesticks.png",
+      "source_page": "https://www.dataj.cc/database",
+      "source_api": "https://www.dataj.cc/api/web/gamedata?setId=18",
+      "retrieved": "2026-09-07",
+      "sha256": "9bb9305e72e47f41f6e0a6fff1871e8f46ba765f0381369995537dd52ae5e6e9",
+      "source_metadata": {
+        "setId": "18",
+        "season": "S19",
+        "version": "18.18.1b"
+      },
+      "verification": {
+        "name_url_mapping": true,
+        "visual_crosscheck": "matches reference guide 6a943d800000000020032819_2.jpg; reviewed 2026-09-07",
+        "user_approved": false,
+        "source_authority": "third-party named season database, not direct official game extraction"
+      },
+      "dimensions": [
+        96,
+        96
+      ],
+      "aliases": [
+        "草人"
+      ]
+    },
+    {
+      "key": "hero-13510",
+      "name": "阿兹尔",
+      "kind": "hero",
+      "source_id": "13510",
+      "path": "assets/hero/s18_head_azir.png",
+      "source_url": "https://img.dataj.cc/images/s18/hero/s18_head_azir.png",
+      "source_page": "https://www.dataj.cc/database",
+      "source_api": "https://www.dataj.cc/api/web/gamedata?setId=18",
+      "retrieved": "2026-09-07",
+      "sha256": "a56cf8738169121f77b8763d3c6e8aaaf1f71c6d846bca78970bed9399b0d50e",
+      "source_metadata": {
+        "setId": "18",
+        "season": "S19",
+        "version": "18.18.1b"
+      },
+      "verification": {
+        "name_url_mapping": true,
+        "visual_crosscheck": "matches reference guide 6a943d800000000020032819_2.jpg; reviewed 2026-09-07",
+        "user_approved": false,
+        "source_authority": "third-party named season database, not direct official game extraction"
+      },
+      "dimensions": [
+        96,
+        96
+      ],
+      "aliases": [
+        "沙皇"
+      ]
+    },
+    {
+      "key": "hero-12505",
+      "name": "约里克",
+      "kind": "hero",
+      "source_id": "12505",
+      "path": "assets/hero/s18_head_yorick.png",
+      "source_url": "https://img.dataj.cc/images/s18/hero/s18_head_yorick.png",
+      "source_page": "https://www.dataj.cc/database",
+      "source_api": "https://www.dataj.cc/api/web/gamedata?setId=18",
+      "retrieved": "2026-09-07",
+      "sha256": "c1550c77fe1cacf25225fe7e9d28423158cb8d7a4987f5c3f343ddd161fd7624",
+      "source_metadata": {
+        "setId": "18",
+        "season": "S19",
+        "version": "18.18.1"
+      },
+      "verification": {
+        "name_url_mapping": true,
+        "visual_crosscheck": "matches reference guide 6a943d800000000020032819_2.jpg; reviewed 2026-09-07",
+        "user_approved": false,
+        "source_authority": "third-party named season database, not direct official game extraction"
+      },
+      "dimensions": [
+        96,
+        96
+      ],
+      "aliases": [
+        "掘墓"
+      ]
+    },
+    {
+      "key": "equip-41818",
+      "name": "裁决使纹章",
+      "kind": "equip",
+      "source_id": "41818",
+      "path": "assets/equip/41818.png",
+      "source_url": "https://img.dataj.cc/images/equip/41818.png",
+      "source_page": "https://www.dataj.cc/database",
+      "source_api": "https://www.dataj.cc/api/web/gamedata?setId=18",
+      "retrieved": "2026-09-07",
+      "sha256": "30e86e2f3efaeb2c37fd5a5605c29db896471c2116b8c029d511e5e661878409",
+      "source_metadata": {
+        "setId": "18",
+        "season": "S19",
+        "version": "18.18.1b"
+      },
+      "verification": {
+        "name_url_mapping": true,
+        "visual_crosscheck": "matches reference guide 6a943d800000000020032819_2.jpg; reviewed 2026-09-07",
+        "user_approved": false,
+        "source_authority": "third-party named season database, not direct official game extraction"
+      },
+      "dimensions": [
+        96,
+        96
+      ],
+      "aliases": [
+        "裁决转",
+        "裁决纹章"
+      ]
+    },
+    {
+      "key": "equip-2004",
+      "name": "朔极之矛",
+      "kind": "equip",
+      "source_id": "2004",
+      "path": "assets/equip/2004.png",
+      "source_url": "https://img.dataj.cc/images/equip/2004.png",
+      "source_page": "https://www.dataj.cc/database",
+      "source_api": "https://www.dataj.cc/api/web/gamedata?setId=18",
+      "retrieved": "2026-09-07",
+      "sha256": "43246da2926a1422326c733bfd57919429333073cff0ac5c2ecd7cff7e48f22b",
+      "source_metadata": {
+        "setId": "18",
+        "season": "S19",
+        "version": "18.18.1"
+      },
+      "verification": {
+        "name_url_mapping": true,
+        "visual_crosscheck": "matches reference guide 6a943d800000000020032819_2.jpg; reviewed 2026-09-07",
+        "user_approved": false,
+        "source_authority": "third-party named season database, not direct official game extraction"
+      },
+      "dimensions": [
+        96,
+        96
+      ],
+      "aliases": [
+        "青龙刀"
+      ]
+    },
+    {
+      "key": "equip-2011",
+      "name": "虚空之杖",
+      "kind": "equip",
+      "source_id": "2011",
+      "path": "assets/equip/voidstaff.png",
+      "source_url": "https://img.dataj.cc/images/equip/voidstaff.png",
+      "source_page": "https://www.dataj.cc/database",
+      "source_api": "https://www.dataj.cc/api/web/gamedata?setId=18",
+      "retrieved": "2026-09-07",
+      "sha256": "42b964938131a260d310cc84c98f4a6e007bdede40ef3fd2114b756d1482e00f",
+      "source_metadata": {
+        "setId": "18",
+        "season": "S19",
+        "version": "18.18.1"
+      },
+      "verification": {
+        "name_url_mapping": true,
+        "visual_crosscheck": "matches reference guide 6a943d800000000020032819_2.jpg; reviewed 2026-09-07",
+        "user_approved": false,
+        "source_authority": "third-party named season database, not direct official game extraction"
+      },
+      "dimensions": [
+        96,
+        96
+      ],
+      "aliases": [
+        "虚空杖"
+      ]
+    },
+    {
+      "key": "equip-2028",
+      "name": "石像鬼石板甲",
+      "kind": "equip",
+      "source_id": "2028",
+      "path": "assets/equip/2248.png",
+      "source_url": "https://img.dataj.cc/images/equip/2248.png",
+      "source_page": "https://www.dataj.cc/database",
+      "source_api": "https://www.dataj.cc/api/web/gamedata?setId=18",
+      "retrieved": "2026-09-07",
+      "sha256": "6e371bee95f58107c4c7c2dd273b9c53592d16b5cefe492ab0952ff6ac4f8468",
+      "source_metadata": {
+        "setId": "18",
+        "season": "S19",
+        "version": "18.18.1"
+      },
+      "verification": {
+        "name_url_mapping": true,
+        "visual_crosscheck": "matches reference guide 6a943d800000000020032819_2.jpg; reviewed 2026-09-07",
+        "user_approved": false,
+        "source_authority": "third-party named season database, not direct official game extraction"
+      },
+      "dimensions": [
+        96,
+        96
+      ],
+      "aliases": [
+        "板甲",
+        "石板甲"
+      ]
+    },
+    {
+      "key": "equip-2034",
+      "name": "狂徒铠甲",
+      "kind": "equip",
+      "source_id": "2034",
+      "path": "assets/equip/2034.png",
+      "source_url": "https://img.dataj.cc/images/equip/2034.png",
+      "source_page": "https://www.dataj.cc/database",
+      "source_api": "https://www.dataj.cc/api/web/gamedata?setId=18",
+      "retrieved": "2026-09-07",
+      "sha256": "181b2fcc6bdf1d9ecb30028453ec5cd0415dab1839f360bd6cb05a70e82f37bd",
+      "source_metadata": {
+        "setId": "18",
+        "season": "S19",
+        "version": "18.18.1"
+      },
+      "verification": {
+        "name_url_mapping": true,
+        "visual_crosscheck": "matches reference guide 6a943d800000000020032819_2.jpg; reviewed 2026-09-07",
+        "user_approved": false,
+        "source_authority": "third-party named season database, not direct official game extraction"
+      },
+      "dimensions": [
+        96,
+        96
+      ],
+      "aliases": [
+        "狂徒"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "same_source": false,
+  "statistics": [
+    {
+      "scope": "regular",
+      "id": "89",
+      "fields": {
+        "top4Rate": {
+          "before": 60.8,
+          "after": 61.5
+        }
+      }
+    },
+    {
+      "scope": "cold",
+      "id": "kog",
+      "fields": {
+        "sampleCount": {
+          "before": 253,
+          "after": 300
+        },
+        "top4Rate": {
+          "before": 57.71,
+          "after": 58.15
+        }
+      }
+    }
+  ],
+  "ranking": [
+    {
+      "id": "89",
+      "name": "巨龙95",
+      "before": 3,
+      "after": 2
+    },
+    {
+      "id": "104",
+      "name": "野怪小红",
+      "before": 2,
+      "after": 3
+    }
+  ],
+  "tiers": [],
+  "review_required": [],
+  "reviewed_alerts": [],
+  "review_receipt": null,
+  "new_candidates": [],
+  "order": [
+    "112",
+    "89",
+    "104",
+    "116",
+    "100",
+    "113",
+    "99",
+    "106",
+    "109",
+    "119"
+  ]
+}

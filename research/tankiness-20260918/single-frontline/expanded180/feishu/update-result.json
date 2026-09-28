@@ -1,0 +1,98 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "sheets": [
+      {
+        "columns": 2,
+        "data_rows": 19,
+        "mode": "overwrite",
+        "name": "180秒_阅读说明",
+        "range": "A1:B20",
+        "sheet_id": "9bptfx",
+        "writes": 1
+      },
+      {
+        "columns": 19,
+        "data_rows": 216,
+        "mode": "overwrite",
+        "name": "180秒_常用资源结果",
+        "range": "A1:S217",
+        "sheet_id": "quiJVc",
+        "writes": 1
+      },
+      {
+        "columns": 10,
+        "data_rows": 15,
+        "mode": "overwrite",
+        "name": "180秒_蜘蛛原15套延长",
+        "range": "A1:J16",
+        "sheet_id": "rHFrhe",
+        "writes": 1
+      },
+      {
+        "columns": 19,
+        "data_rows": 5679,
+        "mode": "overwrite",
+        "name": "180秒_全量摘要",
+        "range": "A1:S5680",
+        "sheet_id": "Stq7eH",
+        "writes": 3
+      },
+      {
+        "columns": 10,
+        "data_rows": 1296,
+        "mode": "overwrite",
+        "name": "180秒_同配置敏感性",
+        "range": "A1:J1297",
+        "sheet_id": "l3GGxH",
+        "writes": 1
+      },
+      {
+        "columns": 6,
+        "data_rows": 107,
+        "mode": "overwrite",
+        "name": "180秒_装备覆盖",
+        "range": "A1:F108",
+        "sheet_id": "xNC0oF",
+        "writes": 1
+      },
+      {
+        "columns": 2,
+        "data_rows": 44,
+        "mode": "overwrite",
+        "name": "180秒_排除与单独处理",
+        "range": "A1:B45",
+        "sheet_id": "qSFYa8",
+        "writes": 1
+      },
+      {
+        "columns": 2,
+        "data_rows": 44,
+        "mode": "overwrite",
+        "name": "180秒_机制契约",
+        "range": "A1:B45",
+        "sheet_id": "q2ybu2",
+        "writes": 1
+      },
+      {
+        "columns": 14,
+        "data_rows": 216,
+        "mode": "overwrite",
+        "name": "180秒_新旧对照",
+        "range": "A1:N217",
+        "sheet_id": "DDeEGA",
+        "writes": 1
+      }
+    ],
+    "spreadsheet_token": "Ia2isc6J5hH2kzt2YGWcNH9qnXV"
+  },
+  "_notice": {
+    "update": {
+      "command": "lark-cli update",
+      "current": "1.0.95",
+      "latest": "1.0.96",
+      "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+    }
+  }
+}

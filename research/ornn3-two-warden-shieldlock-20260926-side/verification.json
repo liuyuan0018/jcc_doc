@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "builds": 8365,
+  "lockedFrames": 4305433,
+  "checks": "skill shield blocks mana; removal unlocks; equipment shields do not lock; actual frame-level mana remains zero",
+  "sourceUnchanged": true,
+  "rowsVerified": 8365,
+  "producerHashes": {
+    "engine-web.hpp": "b0b9dca2e1dadee3100debba14a28e4def960af0bc97324cb5cc163f8d11f6bf",
+    "web.cpp": "62bf18cdf292557225b5fd20c15ee8fdd418a9ca0df26fa847b8bcb9a14912df",
+    "generated.hpp": "9f153b1105b950cce6b733a9f01ec2370ed0e0d6a6a5d7981ae9fb2309fbc3df"
+  }
+}

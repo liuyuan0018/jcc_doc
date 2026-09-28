@@ -1,0 +1,73 @@
+{
+  "version": "18.2a",
+  "source_updated_at": "2026-09-18T19:32:50.884Z",
+  "main": {
+    "title": "金铲铲S18阵容榜9.19｜附阵容码",
+    "operation": "create_new",
+    "images": [
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919/01-常规阵容强度榜.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919/02-今天怎么选.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919/03-地狱火95.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919/04-野怪小红.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919/05-重装女警.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919/06-巨龙95.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919/07-古纳拉95.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919/08-裁决螳螂.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919/09-7野怪鸡哥.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919/10-主宰女警.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919/11-皎月螳螂.png"
+    ],
+    "editor_tab_id": "1808207246",
+    "bound_topics": [
+      "金铲铲之战",
+      "金铲铲S18",
+      "金铲铲自然之力",
+      "金铲铲阵容推荐",
+      "阵容码"
+    ],
+    "superseded_by": "outputs/regular-revision-20260919/manifest.json",
+    "latest_observation": "User-submitted 9.19 new note seen under review in note manager, timestamp 2026-09-19 19:52; agent did not submit."
+  },
+  "cold": {
+    "title": "金铲铲S18冷门榜9.19｜附阵容码",
+    "operation": "edit_existing",
+    "note_id": "6aacd475000000002b01f439",
+    "images": [
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260919/01-冷门构筑强度榜.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260919/02-花妖转凯南.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260919/03-猎人转巨龙.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260919/04-暗爪卡蜜尔.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260919/05-护臂天使.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260919/06-花妖转螳螂.png"
+    ],
+    "editor_tab_id": "1808207246",
+    "bound_topics": [
+      "金铲铲之战",
+      "金铲铲S18",
+      "金铲铲自然之力",
+      "金铲铲冷门阵容",
+      "金铲铲神器阵容",
+      "阵容码"
+    ],
+    "latest_observation": "Existing original note reopened and prepared with seven images, six codes and eight bound topics; not submitted by agent.",
+    "superseded_by": "outputs/cold-revision-20260919/manifest.json"
+  },
+  "status": "mixed_states_see_main_and_cold_latest_manifests",
+  "publish_permission": "USER_WILL_CLICK_DO_NOT_SUBMIT",
+  "collection": "s18金铲铲阵容数据库",
+  "collection_status": "selected_in_editors_not_submitted",
+  "verification": {
+    "local_visual_contact_sheets": "passed",
+    "uploaded_image_count": [
+      11,
+      6
+    ],
+    "body_code_count": [
+      9,
+      5
+    ],
+    "topic_entities": "verified_in_editors",
+    "published": false,
+    "user_will_click_publish": true
+  }
+}

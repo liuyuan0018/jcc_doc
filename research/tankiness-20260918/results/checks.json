@@ -1,0 +1,128 @@
+[
+  {
+    "test": "护卫2",
+    "expected": 1.575,
+    "observed": 1.576,
+    "error": 0.001000000000000112
+  },
+  {
+    "test": "护卫4",
+    "expected": 1.89,
+    "observed": 1.89,
+    "error": 0.0
+  },
+  {
+    "test": "护卫6",
+    "expected": 2.43,
+    "observed": 2.431,
+    "error": 0.0009999999999998899
+  },
+  {
+    "test": "主宰2",
+    "expected": 1.6875,
+    "observed": 1.688,
+    "error": 0.0004999999999999449
+  },
+  {
+    "test": "主宰4",
+    "expected": 2.0149253731343286,
+    "observed": 2.015,
+    "error": 7.462686567150101e-05
+  },
+  {
+    "test": "主宰6",
+    "expected": 2.4545454545454546,
+    "observed": 2.455,
+    "error": 0.00045454545454548523
+  },
+  {
+    "test": "重装2",
+    "expected": 1.8359999999999999,
+    "observed": 1.837,
+    "error": 0.001000000000000112
+  },
+  {
+    "test": "重装4",
+    "expected": 2.16,
+    "observed": 2.161,
+    "error": 0.0009999999999998899
+  },
+  {
+    "test": "重装6",
+    "expected": 2.486842105263158,
+    "observed": 2.487,
+    "error": 0.00015789473684213462
+  },
+  {
+    "test": "斗士2",
+    "expected": 1.6875,
+    "observed": 1.688,
+    "error": 0.0004999999999999449
+  },
+  {
+    "test": "斗士4",
+    "expected": 1.89,
+    "observed": 1.89,
+    "error": 0.0
+  },
+  {
+    "test": "斗士6",
+    "expected": 2.2275,
+    "observed": 2.228,
+    "error": 0.000500000000000167
+  },
+  {
+    "test": "步长-11500",
+    "dt": 0.1,
+    "time": 15.5,
+    "censored": false
+  },
+  {
+    "test": "步长-11500",
+    "dt": 0.05,
+    "time": 15.5,
+    "censored": false
+  },
+  {
+    "test": "步长-11500",
+    "dt": 0.025,
+    "time": 15.5,
+    "censored": false
+  },
+  {
+    "test": "步长-11503",
+    "dt": 0.1,
+    "time": 15.5,
+    "censored": false
+  },
+  {
+    "test": "步长-11503",
+    "dt": 0.05,
+    "time": 15.5,
+    "censored": false
+  },
+  {
+    "test": "步长-11503",
+    "dt": 0.025,
+    "time": 15.475,
+    "censored": false
+  },
+  {
+    "test": "步长-14503",
+    "dt": 0.1,
+    "time": 30,
+    "censored": true
+  },
+  {
+    "test": "步长-14503",
+    "dt": 0.05,
+    "time": 30,
+    "censored": true
+  },
+  {
+    "test": "步长-14503",
+    "dt": 0.025,
+    "time": 30,
+    "censored": true
+  }
+]

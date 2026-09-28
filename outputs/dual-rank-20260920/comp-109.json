@@ -1,0 +1,189 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "compId": "109",
+    "name": "皎月螳螂",
+    "desc": null,
+    "gameCode": "【阵容码】#皎月螳螂#MjIwMDY3MzAyODc5ODA4NTYxNzg4NTk5MzU2MDc5",
+    "heroes": [
+      {
+        "id": "2254",
+        "heroId": "3506",
+        "heroName": "黛安娜",
+        "heroType": 0,
+        "isCarry": true,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 3,
+        "heroStarNum": 3,
+        "position": "1,7"
+      },
+      {
+        "id": "2255",
+        "heroId": "3505",
+        "heroName": "卡兹克",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": true,
+        "isCore": true,
+        "price": 3,
+        "heroStarNum": 3,
+        "position": "2,6"
+      },
+      {
+        "id": "2253",
+        "heroId": "3500",
+        "heroName": "赫卡里姆",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 3,
+        "heroStarNum": 3,
+        "position": "1,6"
+      },
+      {
+        "id": "2252",
+        "heroId": "2515",
+        "heroName": "伊莉丝",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 2,
+        "heroStarNum": 3,
+        "position": "1,2"
+      },
+      {
+        "id": "2258",
+        "heroId": "5456",
+        "heroName": "拉露恩",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 5,
+        "heroStarNum": null,
+        "position": "4,1"
+      },
+      {
+        "id": "2251",
+        "heroId": "4500",
+        "heroName": "苍蓝雕纹魔像",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "1,1"
+      },
+      {
+        "id": "2256",
+        "heroId": "4509",
+        "heroName": "厄斐琉斯",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "4,7"
+      },
+      {
+        "id": "2257",
+        "heroId": "3513",
+        "heroName": "克格莫",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 3,
+        "heroStarNum": null,
+        "position": "4,6"
+      }
+    ],
+    "traits": [
+      {
+        "id": "83720102",
+        "name": "重装战士"
+      },
+      {
+        "id": "83870102",
+        "name": "月蚀骑士"
+      },
+      {
+        "id": "84800101",
+        "name": "神谕"
+      },
+      {
+        "id": "83980101",
+        "name": "帝王斑蝶"
+      },
+      {
+        "id": "84620101",
+        "name": "宿敌"
+      },
+      {
+        "id": "83960101",
+        "name": "月华神女"
+      }
+    ],
+    "equips": [
+      {
+        "heroId": "3500",
+        "equipId": "2025",
+        "compHeroId": "2253"
+      },
+      {
+        "heroId": "3500",
+        "equipId": "2028",
+        "compHeroId": "2253"
+      },
+      {
+        "heroId": "3500",
+        "equipId": "2034",
+        "compHeroId": "2253"
+      },
+      {
+        "heroId": "3506",
+        "equipId": "2014",
+        "compHeroId": "2254"
+      },
+      {
+        "heroId": "3506",
+        "equipId": "2038",
+        "compHeroId": "2254"
+      },
+      {
+        "heroId": "3506",
+        "equipId": "2041",
+        "compHeroId": "2254"
+      },
+      {
+        "heroId": "3505",
+        "equipId": "2005",
+        "compHeroId": "2255"
+      },
+      {
+        "heroId": "3505",
+        "equipId": "2038",
+        "compHeroId": "2255"
+      },
+      {
+        "heroId": "3505",
+        "equipId": "2039",
+        "compHeroId": "2255"
+      }
+    ],
+    "top4Rate": 53.54,
+    "topRate": 11.19,
+    "pickRate": 0.06,
+    "avgPlacement": 4.4,
+    "sampleCount": 706,
+    "tier": "A",
+    "dataMode": "stats"
+  }
+}

@@ -1,0 +1,2095 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": [
+    {
+      "equipId": 41806,
+      "name": "地狱火纹章",
+      "type": "转职纹章",
+      "sampleCount": 20121,
+      "playRate": 1.52,
+      "avgPlacement": 3.67,
+      "top4Rate": 63.86,
+      "topRate": 27.65,
+      "comps": [
+        {
+          "compId": "112",
+          "name": "地狱火95",
+          "sampleCount": 15767,
+          "playRate": 1.97,
+          "avgPlacement": 3.54,
+          "top4Rate": 66.18,
+          "topRate": 28.79,
+          "placementDelta": -0.3,
+          "carrier": {
+            "heroId": "4510",
+            "heroName": "希维尔",
+            "equipIds": [
+              2001,
+              2004,
+              41806
+            ],
+            "sampleCount": 9344,
+            "avgPlacement": 3.7,
+            "top4Rate": 63.55,
+            "topRate": 26.11
+          },
+          "tier": "S"
+        },
+        {
+          "compId": "89",
+          "name": "巨龙95",
+          "sampleCount": 1490,
+          "playRate": 1.37,
+          "avgPlacement": 2.56,
+          "top4Rate": 81.81,
+          "topRate": 44.9,
+          "placementDelta": -1.69,
+          "carrier": {
+            "heroId": "5458",
+            "heroName": "远古巨龙",
+            "equipIds": [
+              2001,
+              2037,
+              41806
+            ],
+            "sampleCount": 545,
+            "avgPlacement": 2.64,
+            "top4Rate": 80.37,
+            "topRate": 44.77
+          },
+          "tier": "S"
+        },
+        {
+          "compId": "108",
+          "name": "护卫豹轮",
+          "sampleCount": 236,
+          "playRate": 1.31,
+          "avgPlacement": 3.58,
+          "top4Rate": 63.98,
+          "topRate": 29.24,
+          "placementDelta": -1.44,
+          "carrier": {
+            "heroId": "4510",
+            "heroName": "希维尔",
+            "equipIds": [
+              2001,
+              2004,
+              41806
+            ],
+            "sampleCount": 153,
+            "avgPlacement": 3.69,
+            "top4Rate": 61.44,
+            "topRate": 27.45
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 41818,
+      "name": "裁决使纹章",
+      "type": "转职纹章",
+      "sampleCount": 5112,
+      "playRate": 0.44,
+      "avgPlacement": 4.43,
+      "top4Rate": 51.29,
+      "topRate": 15.28,
+      "comps": [
+        {
+          "compId": "90",
+          "name": "裁决奶妈",
+          "sampleCount": 1482,
+          "playRate": 1.1,
+          "avgPlacement": 4.84,
+          "top4Rate": 44.6,
+          "topRate": 7.09,
+          "placementDelta": -0.48,
+          "carrier": {
+            "heroId": "4512",
+            "heroName": "婕拉",
+            "equipIds": [
+              2004,
+              2011,
+              41818
+            ],
+            "sampleCount": 1300,
+            "avgPlacement": 4.82,
+            "top4Rate": 44.92,
+            "topRate": 7.08
+          },
+          "tier": "D"
+        },
+        {
+          "compId": "112",
+          "name": "地狱火95",
+          "sampleCount": 1016,
+          "playRate": 1.11,
+          "avgPlacement": 3.48,
+          "top4Rate": 66.83,
+          "topRate": 32.19,
+          "placementDelta": -0.18,
+          "carrier": {
+            "heroId": "5454",
+            "heroName": "艾希",
+            "equipIds": [
+              2004,
+              41806,
+              41818
+            ],
+            "sampleCount": 337,
+            "avgPlacement": 3.04,
+            "top4Rate": 75.37,
+            "topRate": 37.98
+          },
+          "tier": "S"
+        },
+        {
+          "compId": "116",
+          "name": "裁决螳螂",
+          "sampleCount": 488,
+          "playRate": 1.04,
+          "avgPlacement": 4.05,
+          "top4Rate": 57.99,
+          "topRate": 16.6,
+          "placementDelta": 0.1,
+          "carrier": {
+            "heroId": "3506",
+            "heroName": "黛安娜",
+            "equipIds": [
+              2014,
+              2041,
+              41818
+            ],
+            "sampleCount": 295,
+            "avgPlacement": 4.01,
+            "top4Rate": 58.98,
+            "topRate": 15.25
+          },
+          "tier": "S"
+        },
+        {
+          "compId": "84",
+          "name": "莲华阿狸",
+          "sampleCount": 425,
+          "playRate": 1.14,
+          "avgPlacement": 4.67,
+          "top4Rate": 46.12,
+          "topRate": 12.71,
+          "placementDelta": -0.21,
+          "carrier": {
+            "heroId": "4511",
+            "heroName": "阿狸",
+            "equipIds": [
+              2004,
+              2038,
+              41818
+            ],
+            "sampleCount": 264,
+            "avgPlacement": 4.68,
+            "top4Rate": 46.59,
+            "topRate": 11.36
+          },
+          "tier": "C"
+        },
+        {
+          "compId": "105",
+          "name": "森林月男",
+          "sampleCount": 253,
+          "playRate": 1.11,
+          "avgPlacement": 4.01,
+          "top4Rate": 60.08,
+          "topRate": 13.83,
+          "placementDelta": -0.45,
+          "carrier": {
+            "heroId": "4509",
+            "heroName": "厄斐琉斯",
+            "equipIds": [
+              2001,
+              2010,
+              41818
+            ],
+            "sampleCount": 168,
+            "avgPlacement": 3.99,
+            "top4Rate": 60.71,
+            "topRate": 13.1
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 41815,
+      "name": "迅捷射手纹章",
+      "type": "转职纹章",
+      "sampleCount": 4949,
+      "playRate": 0.42,
+      "avgPlacement": 4.32,
+      "top4Rate": 53.95,
+      "topRate": 12.87,
+      "comps": [
+        {
+          "compId": "95",
+          "name": "月男Flex",
+          "sampleCount": 1458,
+          "playRate": 1.09,
+          "avgPlacement": 4.47,
+          "top4Rate": 52.13,
+          "topRate": 8.3,
+          "placementDelta": -0.17,
+          "carrier": {
+            "heroId": "4512",
+            "heroName": "婕拉",
+            "equipIds": [
+              2004,
+              2038,
+              41815
+            ],
+            "sampleCount": 605,
+            "avgPlacement": 4.56,
+            "top4Rate": 51.4,
+            "topRate": 7.11
+          },
+          "tier": "B"
+        },
+        {
+          "compId": "114",
+          "name": "5迅射月男",
+          "sampleCount": 1088,
+          "playRate": 1.2,
+          "avgPlacement": 4.48,
+          "top4Rate": 52.02,
+          "topRate": 7.81,
+          "placementDelta": 0.62,
+          "carrier": {
+            "heroId": "4506",
+            "heroName": "绯红印记树怪",
+            "equipIds": [
+              2005,
+              2007,
+              41815
+            ],
+            "sampleCount": 539,
+            "avgPlacement": 4.73,
+            "top4Rate": 47.12,
+            "topRate": 6.68
+          },
+          "tier": "B"
+        },
+        {
+          "compId": "112",
+          "name": "地狱火95",
+          "sampleCount": 608,
+          "playRate": 1.1,
+          "avgPlacement": 3.22,
+          "top4Rate": 70.56,
+          "topRate": 31.41,
+          "placementDelta": -0.45,
+          "carrier": {
+            "heroId": "4510",
+            "heroName": "希维尔",
+            "equipIds": [
+              2001,
+              41806,
+              41815
+            ],
+            "sampleCount": 159,
+            "avgPlacement": 3.35,
+            "top4Rate": 67.92,
+            "topRate": 27.04
+          },
+          "tier": "S"
+        },
+        {
+          "compId": "105",
+          "name": "森林月男",
+          "sampleCount": 292,
+          "playRate": 1.08,
+          "avgPlacement": 4.01,
+          "top4Rate": 60.96,
+          "topRate": 14.73,
+          "placementDelta": -0.46,
+          "carrier": {
+            "heroId": "4508",
+            "heroName": "伊泽瑞尔",
+            "equipIds": [
+              2001,
+              2004,
+              41815
+            ],
+            "sampleCount": 183,
+            "avgPlacement": 4.08,
+            "top4Rate": 60.66,
+            "topRate": 14.21
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 41816,
+      "name": "猎人纹章",
+      "type": "转职纹章",
+      "sampleCount": 4464,
+      "playRate": 0.38,
+      "avgPlacement": 4.2,
+      "top4Rate": 54.84,
+      "topRate": 17.14,
+      "comps": [
+        {
+          "compId": "112",
+          "name": "地狱火95",
+          "sampleCount": 930,
+          "playRate": 1.11,
+          "avgPlacement": 3.34,
+          "top4Rate": 69.35,
+          "topRate": 32.26,
+          "placementDelta": -0.33,
+          "carrier": {
+            "heroId": "1507",
+            "heroName": "韦鲁斯",
+            "equipIds": [
+              2001,
+              2022,
+              41816
+            ],
+            "sampleCount": 268,
+            "avgPlacement": 3.91,
+            "top4Rate": 58.96,
+            "topRate": 22.01
+          },
+          "tier": "S"
+        },
+        {
+          "compId": "95",
+          "name": "月男Flex",
+          "sampleCount": 483,
+          "playRate": 1.09,
+          "avgPlacement": 4.62,
+          "top4Rate": 47.83,
+          "topRate": 7.45,
+          "placementDelta": 0,
+          "carrier": {
+            "heroId": "4509",
+            "heroName": "厄斐琉斯",
+            "equipIds": [
+              2001,
+              2010,
+              41816
+            ],
+            "sampleCount": 333,
+            "avgPlacement": 4.7,
+            "top4Rate": 45.65,
+            "topRate": 7.51
+          },
+          "tier": "C"
+        },
+        {
+          "compId": "89",
+          "name": "巨龙95",
+          "sampleCount": 408,
+          "playRate": 1.09,
+          "avgPlacement": 2.95,
+          "top4Rate": 75.74,
+          "topRate": 36.76,
+          "placementDelta": -0.96,
+          "carrier": {
+            "heroId": "5458",
+            "heroName": "远古巨龙",
+            "equipIds": [
+              2001,
+              2037,
+              41816
+            ],
+            "sampleCount": 365,
+            "avgPlacement": 2.94,
+            "top4Rate": 75.34,
+            "topRate": 36.71
+          },
+          "tier": "S"
+        },
+        {
+          "compId": "99",
+          "name": "7野怪鸡哥",
+          "sampleCount": 384,
+          "playRate": 1.08,
+          "avgPlacement": 3.76,
+          "top4Rate": 63.8,
+          "topRate": 18.49,
+          "placementDelta": -0.35,
+          "carrier": {
+            "heroId": "3509",
+            "heroName": "深红锋喙鸟",
+            "equipIds": [
+              2001,
+              2010,
+              41816
+            ],
+            "sampleCount": 264,
+            "avgPlacement": 3.95,
+            "top4Rate": 59.47,
+            "topRate": 16.29
+          },
+          "tier": "S"
+        },
+        {
+          "compId": "104",
+          "name": "野怪小红",
+          "sampleCount": 294,
+          "playRate": 1.06,
+          "avgPlacement": 3.75,
+          "top4Rate": 62.24,
+          "topRate": 18.71,
+          "placementDelta": -0.14,
+          "carrier": {
+            "heroId": "5458",
+            "heroName": "远古巨龙",
+            "equipIds": [
+              2001,
+              2037,
+              41816
+            ],
+            "sampleCount": 214,
+            "avgPlacement": 3.47,
+            "top4Rate": 69.16,
+            "topRate": 21.96
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 41808,
+      "name": "月蚀骑士纹章",
+      "type": "转职纹章",
+      "sampleCount": 4155,
+      "playRate": 0.35,
+      "avgPlacement": 4.36,
+      "top4Rate": 53.21,
+      "topRate": 11.96,
+      "comps": [
+        {
+          "compId": "95",
+          "name": "月男Flex",
+          "sampleCount": 1726,
+          "playRate": 1.15,
+          "avgPlacement": 4.49,
+          "top4Rate": 50.75,
+          "topRate": 8.05,
+          "placementDelta": -0.15,
+          "carrier": {
+            "heroId": "4512",
+            "heroName": "婕拉",
+            "equipIds": [
+              2004,
+              2038,
+              41808
+            ],
+            "sampleCount": 826,
+            "avgPlacement": 4.56,
+            "top4Rate": 50.12,
+            "topRate": 6.66
+          },
+          "tier": "B"
+        },
+        {
+          "compId": "105",
+          "name": "森林月男",
+          "sampleCount": 354,
+          "playRate": 1.12,
+          "avgPlacement": 4.08,
+          "top4Rate": 57.63,
+          "topRate": 14.69,
+          "placementDelta": -0.38,
+          "carrier": {
+            "heroId": "4508",
+            "heroName": "伊泽瑞尔",
+            "equipIds": [
+              2001,
+              2004,
+              41808
+            ],
+            "sampleCount": 155,
+            "avgPlacement": 4.27,
+            "top4Rate": 52.26,
+            "topRate": 12.26
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 41814,
+      "name": "主宰纹章",
+      "type": "转职纹章",
+      "sampleCount": 4019,
+      "playRate": 0.34,
+      "avgPlacement": 3.72,
+      "top4Rate": 63.08,
+      "topRate": 23.44,
+      "comps": [
+        {
+          "compId": "117",
+          "name": "6主宰Flex",
+          "sampleCount": 920,
+          "playRate": 1.13,
+          "avgPlacement": 4.29,
+          "top4Rate": 53.48,
+          "topRate": 13.04,
+          "placementDelta": -0.68,
+          "carrier": {
+            "heroId": "5453",
+            "heroName": "凯南",
+            "equipIds": [
+              2005,
+              2011,
+              41814
+            ],
+            "sampleCount": 181,
+            "avgPlacement": 3.62,
+            "top4Rate": 66.3,
+            "topRate": 23.76
+          },
+          "tier": "A"
+        },
+        {
+          "compId": "112",
+          "name": "地狱火95",
+          "sampleCount": 890,
+          "playRate": 1.13,
+          "avgPlacement": 2.76,
+          "top4Rate": 77.87,
+          "topRate": 43.93,
+          "placementDelta": -0.95,
+          "carrier": {
+            "heroId": "5453",
+            "heroName": "凯南",
+            "equipIds": [
+              2005,
+              2038,
+              41814
+            ],
+            "sampleCount": 314,
+            "avgPlacement": 2.25,
+            "top4Rate": 86.31,
+            "topRate": 52.23
+          },
+          "tier": "S"
+        },
+        {
+          "compId": "95",
+          "name": "月男Flex",
+          "sampleCount": 317,
+          "playRate": 1.04,
+          "avgPlacement": 4.12,
+          "top4Rate": 56.15,
+          "topRate": 11.04,
+          "placementDelta": -0.51,
+          "carrier": {
+            "heroId": "4500",
+            "heroName": "苍蓝雕纹魔像",
+            "equipIds": [
+              2023,
+              2034,
+              41814
+            ],
+            "sampleCount": 159,
+            "avgPlacement": 4.13,
+            "top4Rate": 55.97,
+            "topRate": 11.32
+          },
+          "tier": "S"
+        },
+        {
+          "compId": "84",
+          "name": "莲华阿狸",
+          "sampleCount": 195,
+          "playRate": 1.11,
+          "avgPlacement": 4.16,
+          "top4Rate": 55.9,
+          "topRate": 20,
+          "placementDelta": -0.73,
+          "carrier": {
+            "heroId": "4505",
+            "heroName": "瑟提",
+            "equipIds": [
+              2028,
+              2034,
+              41814
+            ],
+            "sampleCount": 122,
+            "avgPlacement": 4.3,
+            "top4Rate": 52.46,
+            "topRate": 19.67
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 41813,
+      "name": "重装战士纹章",
+      "type": "转职纹章",
+      "sampleCount": 3955,
+      "playRate": 0.34,
+      "avgPlacement": 4.19,
+      "top4Rate": 55.75,
+      "topRate": 15.93,
+      "comps": [
+        {
+          "compId": "95",
+          "name": "月男Flex",
+          "sampleCount": 1044,
+          "playRate": 1.11,
+          "avgPlacement": 4.59,
+          "top4Rate": 48.37,
+          "topRate": 9,
+          "placementDelta": -0.03,
+          "carrier": {
+            "heroId": "4504",
+            "heroName": "墨菲特",
+            "equipIds": [
+              2028,
+              2034,
+              41813
+            ],
+            "sampleCount": 207,
+            "avgPlacement": 4.7,
+            "top4Rate": 46.38,
+            "topRate": 6.28
+          },
+          "tier": "B"
+        },
+        {
+          "compId": "112",
+          "name": "地狱火95",
+          "sampleCount": 494,
+          "playRate": 1.1,
+          "avgPlacement": 3.21,
+          "top4Rate": 72.47,
+          "topRate": 33.4,
+          "placementDelta": -0.46,
+          "carrier": {
+            "heroId": "4503",
+            "heroName": "阿木木",
+            "equipIds": [
+              2028,
+              2034,
+              41813
+            ],
+            "sampleCount": 235,
+            "avgPlacement": 3.05,
+            "top4Rate": 76.17,
+            "topRate": 34.89
+          },
+          "tier": "S"
+        },
+        {
+          "compId": "100",
+          "name": "重装女警",
+          "sampleCount": 260,
+          "playRate": 1.06,
+          "avgPlacement": 3.85,
+          "top4Rate": 68.08,
+          "topRate": 8.08,
+          "placementDelta": -0.26,
+          "carrier": {
+            "heroId": "3501",
+            "heroName": "蔚",
+            "equipIds": [
+              2029,
+              2032,
+              41813
+            ],
+            "sampleCount": 147,
+            "avgPlacement": 3.63,
+            "top4Rate": 72.11,
+            "topRate": 9.52
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 41801,
+      "name": "永恒之森纹章",
+      "type": "转职纹章",
+      "sampleCount": 3667,
+      "playRate": 0.29,
+      "avgPlacement": 4.32,
+      "top4Rate": 53.4,
+      "topRate": 13.61,
+      "comps": [
+        {
+          "compId": "105",
+          "name": "森林月男",
+          "sampleCount": 2072,
+          "playRate": 1.32,
+          "avgPlacement": 4.23,
+          "top4Rate": 55.69,
+          "topRate": 12.84,
+          "placementDelta": -0.52,
+          "carrier": {
+            "heroId": "4509",
+            "heroName": "厄斐琉斯",
+            "equipIds": [
+              2001,
+              2010,
+              41801
+            ],
+            "sampleCount": 717,
+            "avgPlacement": 4.26,
+            "top4Rate": 54.39,
+            "topRate": 12.55
+          },
+          "tier": "A"
+        }
+      ]
+    },
+    {
+      "equipId": 41811,
+      "name": "斗士纹章",
+      "type": "转职纹章",
+      "sampleCount": 3622,
+      "playRate": 0.31,
+      "avgPlacement": 4.3,
+      "top4Rate": 53.92,
+      "topRate": 13.22,
+      "comps": [
+        {
+          "compId": "95",
+          "name": "月男Flex",
+          "sampleCount": 438,
+          "playRate": 1.06,
+          "avgPlacement": 4.68,
+          "top4Rate": 44.98,
+          "topRate": 6.39,
+          "placementDelta": 0.06,
+          "carrier": {
+            "heroId": "4500",
+            "heroName": "苍蓝雕纹魔像",
+            "equipIds": [
+              2023,
+              2028,
+              41811
+            ],
+            "sampleCount": 183,
+            "avgPlacement": 4.45,
+            "top4Rate": 49.73,
+            "topRate": 9.84
+          },
+          "tier": "C"
+        },
+        {
+          "compId": "99",
+          "name": "7野怪鸡哥",
+          "sampleCount": 390,
+          "playRate": 1.03,
+          "avgPlacement": 3.34,
+          "top4Rate": 72.31,
+          "topRate": 19.23,
+          "placementDelta": -0.82,
+          "carrier": {
+            "heroId": "4500",
+            "heroName": "苍蓝雕纹魔像",
+            "equipIds": [
+              2023,
+              2032,
+              41811
+            ],
+            "sampleCount": 148,
+            "avgPlacement": 3.5,
+            "top4Rate": 64.86,
+            "topRate": 16.22
+          },
+          "tier": "S"
+        },
+        {
+          "compId": "112",
+          "name": "地狱火95",
+          "sampleCount": 375,
+          "playRate": 1.1,
+          "avgPlacement": 3.28,
+          "top4Rate": 70.4,
+          "topRate": 29.6,
+          "placementDelta": -0.38,
+          "carrier": {
+            "heroId": "4503",
+            "heroName": "阿木木",
+            "equipIds": [
+              2028,
+              2034,
+              41811
+            ],
+            "sampleCount": 136,
+            "avgPlacement": 3.1,
+            "top4Rate": 75.74,
+            "topRate": 33.09
+          },
+          "tier": "S"
+        },
+        {
+          "compId": "84",
+          "name": "莲华阿狸",
+          "sampleCount": 357,
+          "playRate": 1.07,
+          "avgPlacement": 4.75,
+          "top4Rate": 45.38,
+          "topRate": 11.76,
+          "placementDelta": -0.13,
+          "carrier": {
+            "heroId": "3501",
+            "heroName": "蔚",
+            "equipIds": [
+              2028,
+              2034,
+              41811
+            ],
+            "sampleCount": 135,
+            "avgPlacement": 4.59,
+            "top4Rate": 45.19,
+            "topRate": 13.33
+          },
+          "tier": "C"
+        },
+        {
+          "compId": "104",
+          "name": "野怪小红",
+          "sampleCount": 338,
+          "playRate": 1.06,
+          "avgPlacement": 3.59,
+          "top4Rate": 68.05,
+          "topRate": 18.05,
+          "placementDelta": -0.31,
+          "carrier": {
+            "heroId": "4500",
+            "heroName": "苍蓝雕纹魔像",
+            "equipIds": [
+              2028,
+              2034,
+              41811
+            ],
+            "sampleCount": 129,
+            "avgPlacement": 3.2,
+            "top4Rate": 72.87,
+            "topRate": 21.71
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 41807,
+      "name": "野兽之灵纹章",
+      "type": "转职纹章",
+      "sampleCount": 3578,
+      "playRate": 0.3,
+      "avgPlacement": 4.29,
+      "top4Rate": 52.96,
+      "topRate": 16.18,
+      "comps": [
+        {
+          "compId": "112",
+          "name": "地狱火95",
+          "sampleCount": 750,
+          "playRate": 1.13,
+          "avgPlacement": 3.16,
+          "top4Rate": 71.73,
+          "topRate": 35.33,
+          "placementDelta": -0.52,
+          "carrier": {
+            "heroId": "5453",
+            "heroName": "凯南",
+            "equipIds": [
+              2005,
+              2038,
+              41807
+            ],
+            "sampleCount": 257,
+            "avgPlacement": 2.88,
+            "top4Rate": 76.26,
+            "topRate": 38.52
+          },
+          "tier": "S"
+        },
+        {
+          "compId": "95",
+          "name": "月男Flex",
+          "sampleCount": 322,
+          "playRate": 1.08,
+          "avgPlacement": 4.6,
+          "top4Rate": 45.96,
+          "topRate": 9.01,
+          "placementDelta": -0.02,
+          "carrier": {
+            "heroId": "4509",
+            "heroName": "厄斐琉斯",
+            "equipIds": [
+              2001,
+              2010,
+              41807
+            ],
+            "sampleCount": 117,
+            "avgPlacement": 4.92,
+            "top4Rate": 37.61,
+            "topRate": 5.13
+          },
+          "tier": "C"
+        },
+        {
+          "compId": "84",
+          "name": "莲华阿狸",
+          "sampleCount": 295,
+          "playRate": 1.11,
+          "avgPlacement": 4.58,
+          "top4Rate": 48.47,
+          "topRate": 15.59,
+          "placementDelta": -0.31,
+          "carrier": {
+            "heroId": "4511",
+            "heroName": "阿狸",
+            "equipIds": [
+              2004,
+              2038,
+              41807
+            ],
+            "sampleCount": 105,
+            "avgPlacement": 4.79,
+            "top4Rate": 45.71,
+            "topRate": 15.24
+          },
+          "tier": "B"
+        }
+      ]
+    },
+    {
+      "equipId": 41820,
+      "name": "神谕纹章",
+      "type": "转职纹章",
+      "sampleCount": 3533,
+      "playRate": 0.3,
+      "avgPlacement": 4.46,
+      "top4Rate": 50.61,
+      "topRate": 12.68,
+      "comps": [
+        {
+          "compId": "84",
+          "name": "莲华阿狸",
+          "sampleCount": 643,
+          "playRate": 1.12,
+          "avgPlacement": 4.6,
+          "top4Rate": 48.06,
+          "topRate": 13.22,
+          "placementDelta": -0.3,
+          "carrier": {
+            "heroId": "4511",
+            "heroName": "阿狸",
+            "equipIds": [
+              2016,
+              2038,
+              41820
+            ],
+            "sampleCount": 537,
+            "avgPlacement": 4.63,
+            "top4Rate": 47.67,
+            "topRate": 13.04
+          },
+          "tier": "B"
+        },
+        {
+          "compId": "95",
+          "name": "月男Flex",
+          "sampleCount": 466,
+          "playRate": 1.06,
+          "avgPlacement": 4.47,
+          "top4Rate": 52.36,
+          "topRate": 7.51,
+          "placementDelta": -0.16,
+          "carrier": {
+            "heroId": "4512",
+            "heroName": "婕拉",
+            "equipIds": [
+              2011,
+              2038,
+              41820
+            ],
+            "sampleCount": 257,
+            "avgPlacement": 4.47,
+            "top4Rate": 52.14,
+            "topRate": 5.45
+          },
+          "tier": "B"
+        },
+        {
+          "compId": "104",
+          "name": "野怪小红",
+          "sampleCount": 222,
+          "playRate": 1.08,
+          "avgPlacement": 3.86,
+          "top4Rate": 60.81,
+          "topRate": 18.02,
+          "placementDelta": -0.02,
+          "carrier": {
+            "heroId": "1508",
+            "heroName": "绯红树怪",
+            "equipIds": [
+              2001,
+              2037,
+              41820
+            ],
+            "sampleCount": 118,
+            "avgPlacement": 4.12,
+            "top4Rate": 56.78,
+            "topRate": 16.95
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 41810,
+      "name": "绝命花妖纹章",
+      "type": "转职纹章",
+      "sampleCount": 3240,
+      "playRate": 0.28,
+      "avgPlacement": 4.32,
+      "top4Rate": 52.93,
+      "topRate": 15.96,
+      "comps": [
+        {
+          "compId": "112",
+          "name": "地狱火95",
+          "sampleCount": 643,
+          "playRate": 1.1,
+          "avgPlacement": 3.06,
+          "top4Rate": 74.65,
+          "topRate": 32.5,
+          "placementDelta": -0.62,
+          "carrier": {
+            "heroId": "5453",
+            "heroName": "凯南",
+            "equipIds": [
+              2005,
+              2038,
+              41810
+            ],
+            "sampleCount": 401,
+            "avgPlacement": 2.59,
+            "top4Rate": 84.79,
+            "topRate": 37.16
+          },
+          "tier": "S"
+        },
+        {
+          "compId": "90",
+          "name": "裁决奶妈",
+          "sampleCount": 467,
+          "playRate": 1.05,
+          "avgPlacement": 4.98,
+          "top4Rate": 41.97,
+          "topRate": 7.28,
+          "placementDelta": -0.09,
+          "carrier": {
+            "heroId": "4512",
+            "heroName": "婕拉",
+            "equipIds": [
+              2004,
+              2038,
+              41810
+            ],
+            "sampleCount": 229,
+            "avgPlacement": 5.45,
+            "top4Rate": 33.19,
+            "topRate": 4.8
+          },
+          "tier": "D"
+        },
+        {
+          "compId": "84",
+          "name": "莲华阿狸",
+          "sampleCount": 264,
+          "playRate": 1.06,
+          "avgPlacement": 4.84,
+          "top4Rate": 43.18,
+          "topRate": 13.26,
+          "placementDelta": -0.03,
+          "carrier": {
+            "heroId": "4511",
+            "heroName": "阿狸",
+            "equipIds": [
+              2004,
+              2038,
+              41810
+            ],
+            "sampleCount": 102,
+            "avgPlacement": 5.46,
+            "top4Rate": 32.35,
+            "topRate": 9.8
+          },
+          "tier": "C"
+        },
+        {
+          "compId": "95",
+          "name": "月男Flex",
+          "sampleCount": 261,
+          "playRate": 1.04,
+          "avgPlacement": 4.62,
+          "top4Rate": 50.19,
+          "topRate": 7.66,
+          "placementDelta": 0,
+          "carrier": {
+            "heroId": "4512",
+            "heroName": "婕拉",
+            "equipIds": [
+              2004,
+              2038,
+              41810
+            ],
+            "sampleCount": 123,
+            "avgPlacement": 5.02,
+            "top4Rate": 43.09,
+            "topRate": 4.88
+          },
+          "tier": "B"
+        },
+        {
+          "compId": "116",
+          "name": "裁决螳螂",
+          "sampleCount": 238,
+          "playRate": 1.07,
+          "avgPlacement": 3.88,
+          "top4Rate": 61.34,
+          "topRate": 18.49,
+          "placementDelta": -0.09,
+          "carrier": {
+            "heroId": "3505",
+            "heroName": "卡兹克",
+            "equipIds": [
+              2005,
+              2038,
+              41810
+            ],
+            "sampleCount": 102,
+            "avgPlacement": 3.92,
+            "top4Rate": 62.75,
+            "topRate": 17.65
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 41802,
+      "name": "黑荆棘纹章",
+      "type": "转职纹章",
+      "sampleCount": 3000,
+      "playRate": 0.25,
+      "avgPlacement": 4.76,
+      "top4Rate": 45.4,
+      "topRate": 10.9,
+      "comps": [
+        {
+          "compId": "95",
+          "name": "月男Flex",
+          "sampleCount": 604,
+          "playRate": 1.09,
+          "avgPlacement": 4.53,
+          "top4Rate": 50.17,
+          "topRate": 7.95,
+          "placementDelta": -0.09,
+          "carrier": {
+            "heroId": "4500",
+            "heroName": "苍蓝雕纹魔像",
+            "equipIds": [
+              2023,
+              2032,
+              41802
+            ],
+            "sampleCount": 315,
+            "avgPlacement": 4.44,
+            "top4Rate": 52.06,
+            "topRate": 7.3
+          },
+          "tier": "B"
+        },
+        {
+          "compId": "90",
+          "name": "裁决奶妈",
+          "sampleCount": 502,
+          "playRate": 1.2,
+          "avgPlacement": 4.82,
+          "top4Rate": 44.22,
+          "topRate": 10.96,
+          "placementDelta": -0.26,
+          "carrier": {
+            "heroId": "4503",
+            "heroName": "阿木木",
+            "equipIds": [
+              2028,
+              2034,
+              41802
+            ],
+            "sampleCount": 128,
+            "avgPlacement": 4.89,
+            "top4Rate": 45.31,
+            "topRate": 10.94
+          },
+          "tier": "C"
+        }
+      ]
+    },
+    {
+      "equipId": 41809,
+      "name": "灵魂莲华纹章",
+      "type": "转职纹章",
+      "sampleCount": 2911,
+      "playRate": 0.23,
+      "avgPlacement": 4.6,
+      "top4Rate": 47.48,
+      "topRate": 14.6,
+      "comps": [
+        {
+          "compId": "84",
+          "name": "莲华阿狸",
+          "sampleCount": 1739,
+          "playRate": 1.29,
+          "avgPlacement": 4.66,
+          "top4Rate": 45.83,
+          "topRate": 14.89,
+          "placementDelta": -0.26,
+          "carrier": {
+            "heroId": "4510",
+            "heroName": "希维尔",
+            "equipIds": [
+              2001,
+              2004,
+              41809
+            ],
+            "sampleCount": 620,
+            "avgPlacement": 4.67,
+            "top4Rate": 46.94,
+            "topRate": 14.35
+          },
+          "tier": "C"
+        }
+      ]
+    },
+    {
+      "equipId": 41812,
+      "name": "护卫纹章",
+      "type": "转职纹章",
+      "sampleCount": 2787,
+      "playRate": 0.24,
+      "avgPlacement": 4.09,
+      "top4Rate": 57.27,
+      "topRate": 18.41,
+      "comps": [
+        {
+          "compId": "112",
+          "name": "地狱火95",
+          "sampleCount": 772,
+          "playRate": 1.1,
+          "avgPlacement": 2.9,
+          "top4Rate": 76.55,
+          "topRate": 37.56,
+          "placementDelta": -0.79,
+          "carrier": {
+            "heroId": "4503",
+            "heroName": "阿木木",
+            "equipIds": [
+              2028,
+              2034,
+              41812
+            ],
+            "sampleCount": 296,
+            "avgPlacement": 3.18,
+            "top4Rate": 70.27,
+            "topRate": 33.78
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 41819,
+      "name": "法师纹章",
+      "type": "转职纹章",
+      "sampleCount": 2351,
+      "playRate": 0.21,
+      "avgPlacement": 4.61,
+      "top4Rate": 48.36,
+      "topRate": 12.29,
+      "comps": [
+        {
+          "compId": "90",
+          "name": "裁决奶妈",
+          "sampleCount": 249,
+          "playRate": 1.04,
+          "avgPlacement": 4.74,
+          "top4Rate": 48.19,
+          "topRate": 3.61,
+          "placementDelta": -0.34,
+          "carrier": {
+            "heroId": "4513",
+            "heroName": "索拉卡",
+            "equipIds": [
+              2014,
+              2038,
+              41819
+            ],
+            "sampleCount": 140,
+            "avgPlacement": 5.09,
+            "top4Rate": 39.29,
+            "topRate": 1.43
+          },
+          "tier": "C"
+        },
+        {
+          "compId": "112",
+          "name": "地狱火95",
+          "sampleCount": 240,
+          "playRate": 1.05,
+          "avgPlacement": 3.52,
+          "top4Rate": 65.42,
+          "topRate": 29.58,
+          "placementDelta": -0.14,
+          "carrier": {
+            "heroId": "5453",
+            "heroName": "凯南",
+            "equipIds": [
+              2005,
+              2038,
+              41819
+            ],
+            "sampleCount": 105,
+            "avgPlacement": 3.44,
+            "top4Rate": 66.67,
+            "topRate": 30.48
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 41817,
+      "name": "狂战士纹章",
+      "type": "转职纹章",
+      "sampleCount": 1911,
+      "playRate": 0.17,
+      "avgPlacement": 4.24,
+      "top4Rate": 54.68,
+      "topRate": 15.23,
+      "comps": [
+        {
+          "compId": "112",
+          "name": "地狱火95",
+          "sampleCount": 359,
+          "playRate": 1.07,
+          "avgPlacement": 3.33,
+          "top4Rate": 69.64,
+          "topRate": 34.26,
+          "placementDelta": -0.33,
+          "carrier": {
+            "heroId": "5453",
+            "heroName": "凯南",
+            "equipIds": [
+              2005,
+              2016,
+              41817
+            ],
+            "sampleCount": 159,
+            "avgPlacement": 2.88,
+            "top4Rate": 77.99,
+            "topRate": 38.36
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 6052,
+      "name": "大亨之铠",
+      "type": "神器装备",
+      "sampleCount": 1616,
+      "playRate": 0.15,
+      "avgPlacement": 4.56,
+      "top4Rate": 48.82,
+      "topRate": 11.01,
+      "comps": [
+        {
+          "compId": "95",
+          "name": "月男Flex",
+          "sampleCount": 348,
+          "playRate": 1.02,
+          "avgPlacement": 4.53,
+          "top4Rate": 50,
+          "topRate": 6.9,
+          "placementDelta": -0.09,
+          "carrier": {
+            "heroId": "4504",
+            "heroName": "墨菲特",
+            "equipIds": [
+              2028,
+              2034,
+              6052
+            ],
+            "sampleCount": 139,
+            "avgPlacement": 4.49,
+            "top4Rate": 50.36,
+            "topRate": 7.19
+          },
+          "tier": "B"
+        },
+        {
+          "compId": "112",
+          "name": "地狱火95",
+          "sampleCount": 153,
+          "playRate": 1,
+          "avgPlacement": 3.24,
+          "top4Rate": 69.93,
+          "topRate": 32.03,
+          "placementDelta": -0.42,
+          "carrier": {
+            "heroId": "4503",
+            "heroName": "阿木木",
+            "equipIds": [
+              2028,
+              2034,
+              6052
+            ],
+            "sampleCount": 116,
+            "avgPlacement": 3.08,
+            "top4Rate": 74.14,
+            "topRate": 31.03
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 6087,
+      "name": "纳沃利烁刃",
+      "type": "神器装备",
+      "sampleCount": 1407,
+      "playRate": 0.13,
+      "avgPlacement": 4.6,
+      "top4Rate": 48.97,
+      "topRate": 7.96,
+      "comps": [
+        {
+          "compId": "95",
+          "name": "月男Flex",
+          "sampleCount": 401,
+          "playRate": 1.02,
+          "avgPlacement": 4.8,
+          "top4Rate": 44.39,
+          "topRate": 4.24,
+          "placementDelta": 0.18,
+          "carrier": {
+            "heroId": "4509",
+            "heroName": "厄斐琉斯",
+            "equipIds": [
+              2001,
+              2010,
+              6087
+            ],
+            "sampleCount": 375,
+            "avgPlacement": 4.8,
+            "top4Rate": 44.53,
+            "topRate": 4
+          },
+          "tier": "C"
+        },
+        {
+          "compId": "88",
+          "name": "森林天使",
+          "sampleCount": 279,
+          "playRate": 1.03,
+          "avgPlacement": 3.83,
+          "top4Rate": 64.87,
+          "topRate": 16.85,
+          "placementDelta": -0.68,
+          "carrier": {
+            "heroId": "2512",
+            "heroName": "凯尔",
+            "equipIds": [
+              2010,
+              2038,
+              6087
+            ],
+            "sampleCount": 268,
+            "avgPlacement": 3.8,
+            "top4Rate": 65.3,
+            "topRate": 17.54
+          },
+          "tier": "S"
+        },
+        {
+          "compId": "106",
+          "name": "主宰女警",
+          "sampleCount": 102,
+          "playRate": 1,
+          "avgPlacement": 4.34,
+          "top4Rate": 59.8,
+          "topRate": 3.92,
+          "placementDelta": -0.04,
+          "carrier": {
+            "heroId": "2510",
+            "heroName": "凯特琳",
+            "equipIds": [
+              2001,
+              2010,
+              6087
+            ],
+            "sampleCount": 101,
+            "avgPlacement": 4.33,
+            "top4Rate": 60.4,
+            "topRate": 3.96
+          },
+          "tier": "A"
+        }
+      ]
+    },
+    {
+      "equipId": 6058,
+      "name": "魔蕴",
+      "type": "神器装备",
+      "sampleCount": 1204,
+      "playRate": 0.11,
+      "avgPlacement": 4.51,
+      "top4Rate": 50.08,
+      "topRate": 11.71,
+      "comps": [
+        {
+          "compId": "88",
+          "name": "森林天使",
+          "sampleCount": 124,
+          "playRate": 1.01,
+          "avgPlacement": 3.53,
+          "top4Rate": 70.16,
+          "topRate": 19.35,
+          "placementDelta": -0.95,
+          "carrier": {
+            "heroId": "2511",
+            "heroName": "乐芙兰",
+            "equipIds": [
+              2004,
+              2038,
+              6058
+            ],
+            "sampleCount": 120,
+            "avgPlacement": 3.58,
+            "top4Rate": 69.17,
+            "topRate": 20
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 6059,
+      "name": "金币收集者",
+      "type": "神器装备",
+      "sampleCount": 962,
+      "playRate": 0.09,
+      "avgPlacement": 4.38,
+      "top4Rate": 51.66,
+      "topRate": 10.71,
+      "comps": [
+        {
+          "compId": "95",
+          "name": "月男Flex",
+          "sampleCount": 220,
+          "playRate": 1,
+          "avgPlacement": 4.42,
+          "top4Rate": 52.27,
+          "topRate": 8.18,
+          "placementDelta": -0.2,
+          "carrier": {
+            "heroId": "4509",
+            "heroName": "厄斐琉斯",
+            "equipIds": [
+              2001,
+              2010,
+              6059
+            ],
+            "sampleCount": 196,
+            "avgPlacement": 4.53,
+            "top4Rate": 50.51,
+            "topRate": 6.63
+          },
+          "tier": "B"
+        }
+      ]
+    },
+    {
+      "equipId": 6080,
+      "name": "疾射火炮",
+      "type": "神器装备",
+      "sampleCount": 874,
+      "playRate": 0.08,
+      "avgPlacement": 4.62,
+      "top4Rate": 48.4,
+      "topRate": 7.67,
+      "comps": [
+        {
+          "compId": "115",
+          "name": "卡丽蜜儿",
+          "sampleCount": 217,
+          "playRate": 1.01,
+          "avgPlacement": 4.23,
+          "top4Rate": 55.76,
+          "topRate": 8.76,
+          "placementDelta": -0.54,
+          "carrier": {
+            "heroId": "1505",
+            "heroName": "卡蜜尔",
+            "equipIds": [
+              2001,
+              2041,
+              6080
+            ],
+            "sampleCount": 182,
+            "avgPlacement": 4.34,
+            "top4Rate": 54.4,
+            "topRate": 7.69
+          },
+          "tier": "A"
+        },
+        {
+          "compId": "95",
+          "name": "月男Flex",
+          "sampleCount": 149,
+          "playRate": 1,
+          "avgPlacement": 4.85,
+          "top4Rate": 44.97,
+          "topRate": 5.37,
+          "placementDelta": 0.23,
+          "carrier": {
+            "heroId": "4509",
+            "heroName": "厄斐琉斯",
+            "equipIds": [
+              2001,
+              2010,
+              6080
+            ],
+            "sampleCount": 123,
+            "avgPlacement": 4.88,
+            "top4Rate": 45.53,
+            "topRate": 4.88
+          },
+          "tier": "D"
+        },
+        {
+          "compId": "88",
+          "name": "森林天使",
+          "sampleCount": 120,
+          "playRate": 1,
+          "avgPlacement": 4.43,
+          "top4Rate": 55,
+          "topRate": 8.33,
+          "placementDelta": 0.01,
+          "carrier": {
+            "heroId": "2512",
+            "heroName": "凯尔",
+            "equipIds": [
+              2010,
+              2038,
+              6080
+            ],
+            "sampleCount": 110,
+            "avgPlacement": 4.45,
+            "top4Rate": 54.55,
+            "topRate": 9.09
+          },
+          "tier": "A"
+        }
+      ]
+    },
+    {
+      "equipId": 6065,
+      "name": "投机者之刃",
+      "type": "神器装备",
+      "sampleCount": 836,
+      "playRate": 0.08,
+      "avgPlacement": 4.51,
+      "top4Rate": 50.12,
+      "topRate": 11.72,
+      "comps": [
+        {
+          "compId": "95",
+          "name": "月男Flex",
+          "sampleCount": 236,
+          "playRate": 1.01,
+          "avgPlacement": 4.56,
+          "top4Rate": 50.42,
+          "topRate": 10.17,
+          "placementDelta": -0.06,
+          "carrier": {
+            "heroId": "4509",
+            "heroName": "厄斐琉斯",
+            "equipIds": [
+              2001,
+              2010,
+              6065
+            ],
+            "sampleCount": 134,
+            "avgPlacement": 4.76,
+            "top4Rate": 46.27,
+            "topRate": 9.7
+          },
+          "tier": "B"
+        }
+      ]
+    },
+    {
+      "equipId": 6084,
+      "name": "探索者的护臂",
+      "type": "神器装备",
+      "sampleCount": 781,
+      "playRate": 0.07,
+      "avgPlacement": 4.5,
+      "top4Rate": 49.3,
+      "topRate": 12.55,
+      "comps": [
+        {
+          "compId": "88",
+          "name": "森林天使",
+          "sampleCount": 165,
+          "playRate": 1.01,
+          "avgPlacement": 3.47,
+          "top4Rate": 68.48,
+          "topRate": 22.42,
+          "placementDelta": -1.03,
+          "carrier": {
+            "heroId": "2512",
+            "heroName": "凯尔",
+            "equipIds": [
+              2010,
+              2038,
+              6084
+            ],
+            "sampleCount": 156,
+            "avgPlacement": 3.41,
+            "top4Rate": 71.15,
+            "topRate": 22.44
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 6070,
+      "name": "连指手套",
+      "type": "神器装备",
+      "sampleCount": 775,
+      "playRate": 0.07,
+      "avgPlacement": 4.32,
+      "top4Rate": 55.23,
+      "topRate": 10.06,
+      "comps": [
+        {
+          "compId": "115",
+          "name": "卡丽蜜儿",
+          "sampleCount": 156,
+          "playRate": 1.01,
+          "avgPlacement": 3.95,
+          "top4Rate": 62.18,
+          "topRate": 8.33,
+          "placementDelta": -0.83,
+          "carrier": {
+            "heroId": "1505",
+            "heroName": "卡蜜尔",
+            "equipIds": [
+              2001,
+              2007,
+              6070
+            ],
+            "sampleCount": 136,
+            "avgPlacement": 3.95,
+            "top4Rate": 61.76,
+            "topRate": 7.35
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 6088,
+      "name": "斯塔缇克电刃",
+      "type": "神器装备",
+      "sampleCount": 671,
+      "playRate": 0.06,
+      "avgPlacement": 4.4,
+      "top4Rate": 52.46,
+      "topRate": 9.69,
+      "comps": [
+        {
+          "compId": "88",
+          "name": "森林天使",
+          "sampleCount": 284,
+          "playRate": 1.04,
+          "avgPlacement": 4.01,
+          "top4Rate": 59.51,
+          "topRate": 13.73,
+          "placementDelta": -0.47,
+          "carrier": {
+            "heroId": "2512",
+            "heroName": "凯尔",
+            "equipIds": [
+              2010,
+              2038,
+              6088
+            ],
+            "sampleCount": 270,
+            "avgPlacement": 4.04,
+            "top4Rate": 58.89,
+            "topRate": 14.07
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 6069,
+      "name": "鱼骨头",
+      "type": "神器装备",
+      "sampleCount": 612,
+      "playRate": 0.06,
+      "avgPlacement": 4.9,
+      "top4Rate": 44.28,
+      "topRate": 8.5,
+      "comps": [
+        {
+          "compId": "115",
+          "name": "卡丽蜜儿",
+          "sampleCount": 166,
+          "playRate": 1.01,
+          "avgPlacement": 4.46,
+          "top4Rate": 54.82,
+          "topRate": 7.23,
+          "placementDelta": -0.28,
+          "carrier": {
+            "heroId": "1505",
+            "heroName": "卡蜜尔",
+            "equipIds": [
+              2001,
+              2007,
+              6069
+            ],
+            "sampleCount": 139,
+            "avgPlacement": 4.55,
+            "top4Rate": 53.96,
+            "topRate": 7.19
+          },
+          "tier": "B"
+        },
+        {
+          "compId": "95",
+          "name": "月男Flex",
+          "sampleCount": 133,
+          "playRate": 1.01,
+          "avgPlacement": 4.83,
+          "top4Rate": 43.61,
+          "topRate": 9.77,
+          "placementDelta": 0.21,
+          "carrier": {
+            "heroId": "4509",
+            "heroName": "厄斐琉斯",
+            "equipIds": [
+              2001,
+              2010,
+              6069
+            ],
+            "sampleCount": 112,
+            "avgPlacement": 4.88,
+            "top4Rate": 41.96,
+            "topRate": 8.93
+          },
+          "tier": "C"
+        }
+      ]
+    },
+    {
+      "equipId": 6072,
+      "name": "密银黎明",
+      "type": "神器装备",
+      "sampleCount": 610,
+      "playRate": 0.05,
+      "avgPlacement": 4.49,
+      "top4Rate": 50.16,
+      "topRate": 11.48,
+      "comps": [
+        {
+          "compId": "115",
+          "name": "卡丽蜜儿",
+          "sampleCount": 146,
+          "playRate": 1.01,
+          "avgPlacement": 4.55,
+          "top4Rate": 51.37,
+          "topRate": 4.11,
+          "placementDelta": -0.18,
+          "carrier": {
+            "heroId": "1505",
+            "heroName": "卡蜜尔",
+            "equipIds": [
+              2001,
+              2007,
+              6072
+            ],
+            "sampleCount": 124,
+            "avgPlacement": 4.6,
+            "top4Rate": 51.61,
+            "topRate": 4.03
+          },
+          "tier": "B"
+        }
+      ]
+    },
+    {
+      "equipId": 6073,
+      "name": "暗行者之爪",
+      "type": "神器装备",
+      "sampleCount": 572,
+      "playRate": 0.05,
+      "avgPlacement": 3.75,
+      "top4Rate": 66.08,
+      "topRate": 13.81,
+      "comps": [
+        {
+          "compId": "115",
+          "name": "卡丽蜜儿",
+          "sampleCount": 375,
+          "playRate": 1.04,
+          "avgPlacement": 3.5,
+          "top4Rate": 70.13,
+          "topRate": 15.2,
+          "placementDelta": -1.45,
+          "carrier": {
+            "heroId": "1505",
+            "heroName": "卡蜜尔",
+            "equipIds": [
+              2001,
+              2007,
+              6073
+            ],
+            "sampleCount": 357,
+            "avgPlacement": 3.55,
+            "top4Rate": 69.75,
+            "topRate": 14.01
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 41821,
+      "name": "绝命花妖纹章",
+      "type": "转职纹章",
+      "sampleCount": 533,
+      "playRate": 0.05,
+      "avgPlacement": 4.87,
+      "top4Rate": 44.65,
+      "topRate": 6.94,
+      "comps": [
+        {
+          "compId": "90",
+          "name": "裁决奶妈",
+          "sampleCount": 177,
+          "playRate": 1,
+          "avgPlacement": 5.06,
+          "top4Rate": 42.94,
+          "topRate": 3.95,
+          "placementDelta": 0.01,
+          "carrier": {
+            "heroId": "4512",
+            "heroName": "婕拉",
+            "equipIds": [
+              2004,
+              2038,
+              41821
+            ],
+            "sampleCount": 123,
+            "avgPlacement": 5.34,
+            "top4Rate": 37.4,
+            "topRate": 3.25
+          },
+          "tier": "D"
+        }
+      ]
+    },
+    {
+      "equipId": 6075,
+      "name": "智慧末刃",
+      "type": "神器装备",
+      "sampleCount": 501,
+      "playRate": 0.04,
+      "avgPlacement": 4.49,
+      "top4Rate": 48.9,
+      "topRate": 9.38,
+      "comps": [
+        {
+          "compId": "88",
+          "name": "森林天使",
+          "sampleCount": 184,
+          "playRate": 1.03,
+          "avgPlacement": 4.04,
+          "top4Rate": 56.52,
+          "topRate": 15.76,
+          "placementDelta": -0.42,
+          "carrier": {
+            "heroId": "2512",
+            "heroName": "凯尔",
+            "equipIds": [
+              2010,
+              2038,
+              6075
+            ],
+            "sampleCount": 173,
+            "avgPlacement": 4.06,
+            "top4Rate": 56.65,
+            "topRate": 15.03
+          },
+          "tier": "S"
+        }
+      ]
+    },
+    {
+      "equipId": 6054,
+      "name": "死亡之蔑",
+      "type": "神器装备",
+      "sampleCount": 358,
+      "playRate": 0.03,
+      "avgPlacement": 4.22,
+      "top4Rate": 55.03,
+      "topRate": 11.17,
+      "comps": [
+        {
+          "compId": "115",
+          "name": "卡丽蜜儿",
+          "sampleCount": 160,
+          "playRate": 1.02,
+          "avgPlacement": 3.79,
+          "top4Rate": 64.38,
+          "topRate": 11.88,
+          "placementDelta": -1,
+          "carrier": {
+            "heroId": "1505",
+            "heroName": "卡蜜尔",
+            "equipIds": [
+              2001,
+              2007,
+              6054
+            ],
+            "sampleCount": 136,
+            "avgPlacement": 3.76,
+            "top4Rate": 63.97,
+            "topRate": 13.24
+          },
+          "tier": "S"
+        }
+      ]
+    }
+  ]
+}

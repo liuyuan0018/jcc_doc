@@ -1,0 +1,12 @@
+var catalog=UnityEditor.AssetDatabase.LoadAssetAtPath<Jcc.Presentation.ReplayAssetCatalog>("Assets/Res/Replay/ReplayAssets.asset");
+typeof(Jcc.Presentation.ReplayAssetCatalog).GetField("lookup",System.Reflection.BindingFlags.Instance|System.Reflection.BindingFlags.NonPublic).SetValue(catalog,null);
+var json=System.IO.File.ReadAllText("/Volumes/Apple/Codex/art-assets/金铲铲/exports/frontline-malphite-rerun-v1/production-v5/replay.json");
+var doc=UnityEngine.JsonUtility.FromJson<Jcc.Presentation.ReplayDocument>(json);
+var loaded=new Jcc.Production.LoadedPackage{Json=json,Replay=new Jcc.Presentation.ReplaySession(doc),Package=new Jcc.Production.EpisodePackage{width=1080,height=1920,hideControls=true}};
+using(var preview=new Jcc.Production.ProductionPreviewScene(loaded)) { preview.CheckCaptions();
+preview.Capture(new Jcc.Production.PreviewPoint{id="selection-rule",time=6.75},"/Volumes/Apple/Codex/art-assets/金铲铲/exports/frontline-malphite-rerun-v1/production-v5/preflight");
+preview.Capture(new Jcc.Production.PreviewPoint{id="G1-1450",time=70.75},"/Volumes/Apple/Codex/art-assets/金铲铲/exports/frontline-malphite-rerun-v1/production-v5/preflight");
+preview.Capture(new Jcc.Production.PreviewPoint{id="P01",time=164.25},"/Volumes/Apple/Codex/art-assets/金铲铲/exports/frontline-malphite-rerun-v1/production-v5/preflight");
+preview.Capture(new Jcc.Production.PreviewPoint{id="P04",time=183.75},"/Volumes/Apple/Codex/art-assets/金铲铲/exports/frontline-malphite-rerun-v1/production-v5/preflight");
+preview.Capture(new Jcc.Production.PreviewPoint{id="P09",time=216.25},"/Volumes/Apple/Codex/art-assets/金铲铲/exports/frontline-malphite-rerun-v1/production-v5/preflight");
+} return "Five keyframes and caption check complete";

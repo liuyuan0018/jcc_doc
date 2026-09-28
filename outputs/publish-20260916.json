@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-16",
+  "operation": "update_existing_note",
+  "note_id": "6aa37e050000000029013c00",
+  "title": "S18阵容榜9.16｜附9套阵容码",
+  "assets": "exports/S18-18.2原笔记修正-20260916",
+  "image_count": 10,
+  "codes": 9,
+  "body_file": "exports/S18-18.2原笔记修正-20260916/正文.txt",
+  "manager_status": "审核中",
+  "original_publication_time": "2026-09-11 12:05",
+  "views": 19412,
+  "likes": 922,
+  "collects": 654,
+  "comments": 34,
+  "shares": 179,
+  "collection": "s18金铲铲阵容数据库",
+  "collection_verification": "saved editor reopened and collection confirmed",
+  "game_import_verified": false,
+  "changes": [
+    "9.16采集累计168976局",
+    "野怪小红与重装女警排序对调",
+    "卡丽蜜儿56.56%",
+    "艾希地狱火转76.17%/9789样本，希维尔61.49%/8509样本；与体系65.8%分开"
+  ],
+  "comment_sent_this_run": false,
+  "status": "submitted_under_review",
+  "saved_readback": {
+    "title": true,
+    "image_count": 10,
+    "body": true,
+    "codes": 9,
+    "collection": true
+  }
+}

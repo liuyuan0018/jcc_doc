@@ -1,0 +1,8 @@
+{
+  "total_rows_verified": 169794,
+  "mana_ledgers": "passed",
+  "shield_ledgers": "passed",
+  "engine_sha256": "b34302c5bf97e330f94b01b08691625842ef689bded8ec8bf7cc84bba01a3cd5",
+  "expanded_runs": 8568,
+  "fps": 30
+}

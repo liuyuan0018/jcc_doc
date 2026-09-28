@@ -1,0 +1,72 @@
+{
+  "verified_at": "2026-09-19T12:06:19.737956+00:00",
+  "url": "https://creator.xiaohongshu.com/publish/update?id=6aacd475000000002b01f439&noteType=normal",
+  "editor_tab_id": "1808207246",
+  "title": "金铲铲S18冷门榜9.19｜附阵容码",
+  "body_file": "cold-body.txt",
+  "body_matches_prepared_copy": true,
+  "uploaded_images": 7,
+  "all_images_loaded": true,
+  "body_code_count": 6,
+  "original_five_codes_preserved": true,
+  "god_kog_code": "MjIwMDY3MzAyODc5ODA4NTYxNzg5NzUwMjI1Njky",
+  "topics": [
+    {
+      "name": "金铲铲之战",
+      "id": "610b9c5b000000000101e01b",
+      "live_browse_count": "42.4亿"
+    },
+    {
+      "name": "金铲铲阵容",
+      "id": "612790e600000000010009d6",
+      "live_browse_count": "11.2亿"
+    },
+    {
+      "name": "金铲铲",
+      "id": "60f51be5000000000100ad43",
+      "live_browse_count": "10.3亿"
+    },
+    {
+      "name": "金铲铲攻略",
+      "id": "612e0fc70000000001003ee1",
+      "live_browse_count": "7.9亿"
+    },
+    {
+      "name": "金铲铲推荐阵容",
+      "id": "6128e7500000000001003081",
+      "live_browse_count": "5.6亿"
+    },
+    {
+      "name": "金铲铲之战S18",
+      "id": "6a4c9dd5000000000301ea0b",
+      "live_browse_count": "594.9万"
+    },
+    {
+      "name": "金铲铲自然之力",
+      "id": "6a51d40d000000000301f0d5",
+      "live_browse_count": "6818.1万"
+    },
+    {
+      "name": "金铲铲冷门阵容",
+      "id": "62f35c7100000000010096fc",
+      "live_browse_count": "2427万"
+    }
+  ],
+  "topic_queries": [
+    "#金铲铲",
+    "#金铲铲S18",
+    "#金铲铲自然之力",
+    "#金铲铲冷门"
+  ],
+  "topic_decisions": {
+    "season": "金铲铲之战S18 594.9万 versus 金铲铲S18 569.3万; selected the former.",
+    "nature": "金铲铲自然之力 6818.1万, highest relevant exact-season suggestion.",
+    "cold": "金铲铲冷门阵容 2427万 versus 金铲铲冷门上分阵容 1602.6万.",
+    "broad": "Selected current high-browse game, lineup, guide and recommendation suggestions; removed old 神器阵容 and generic 阵容码 entities."
+  },
+  "collection": "s18金铲铲阵容数据库",
+  "original_declaration": true,
+  "allow_copy": true,
+  "activity_preserved": "金铲铲激励活动来袭",
+  "published_by_agent": false
+}

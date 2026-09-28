@@ -1,0 +1,1 @@
+var s=UnityEngine.SceneManagement.SceneManager.GetActiveScene(); return s.path+" dirty="+s.isDirty+" playing="+UnityEngine.Application.isPlaying+" players="+UnityEngine.Object.FindObjectsByType<Jcc.Presentation.ReplayPlayer>(UnityEngine.FindObjectsSortMode.None).Length;

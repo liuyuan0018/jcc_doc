@@ -1,0 +1,590 @@
+{
+  "id": "frontline-episode-01-eight-v5",
+  "version": 5,
+  "outputDir": "exports/frontline-episode-01-video-v5",
+  "outputName": "frontline-episode-01.mp4",
+  "replayScript": "replay-eight-v2.mjs",
+  "replayData": "replay-eight-v2.json",
+  "ttsImportDir": "../frontline-episode-01-video-v2/assets/tts",
+  "snapshot": {
+    "path": "exports/frontline-episode-01-design-v1/snapshot-data.json",
+    "sha256": "f347bdf94d95404a93535ade129d8f8acb6c0647df8260166dbca473ef091162"
+  },
+  "theme": {
+    "path": "exports/frontline-episode-01-design-v3/design-v3-theme.json"
+  },
+  "cover": {
+    "path": "exports/frontline-episode-01-cover-v2/cover-3x4.png",
+    "sha256": "90be0bc8694d8443be54d133f710f665b36639acbe1cebd84ad5888bdf9776d3"
+  },
+  "tts": {
+    "provider": "edge-tts",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+4%",
+    "pitch": "+0Hz",
+    "ttsVersion": "7.2.8",
+    "ttsOptions": {}
+  },
+  "voiceProcessing": {
+    "filterChain": "highpass=f=85:p=2,equalizer=f=3500:t=o:w=1:g=-1.5,deesser=i=0.15:m=0.25:f=0.5,acompressor=threshold=0.1:ratio=3:attack=0.3:release=70:makeup=1:knee=2.82843:detection=peak",
+    "fixedGainDb": 7.460000000000001,
+    "fadeMs": 8
+  },
+  "music": {
+    "path": "exports/frontline-video-wallpaper-v1/assets/Wallpaper.mp3",
+    "sha256": "9fa810e5193c88f1b360537366f210f16c2588106d5292f0659e9957fa274f96",
+    "gains": {
+      "wallpaperV2RecipeGainDb": -19.84,
+      "approvedV5AddDb": 3,
+      "note": "沿用已认可固定源增益（v2 配方 -19.84dB + v5 +3dB = -16.84dB，作用于既有 EQ 之后）；不因本片更长而重新归一化"
+    },
+    "fadeInSeconds": 0.6,
+    "fadeOutSeconds": 1.5
+  },
+  "timeline": {
+    "coverLeadSeconds": 0.3,
+    "coverTailSeconds": 0.35,
+    "introMinSeconds": 3.2,
+    "cueGapSeconds": 0.45,
+    "normalSimRate": 3.5,
+    "fastBattleSeconds": 1.45,
+    "fastHoldSeconds": 0.55,
+    "normalHoldMinSeconds": 2.2,
+    "resultMinSeconds": 7.0
+  },
+  "effects": {
+    "path": "scripts/tank-video/effects-elimination.json"
+  },
+  "credits": {
+    "path": "exports/frontline-video-wallpaper-v5/CREDITS.txt",
+    "sha256": "16fe3013961f2a5c085e3f2e0a3b90a1ee31dbfcd89fcfcdd12113e506111a64"
+  },
+  "program": {
+    "tiers": [
+      {
+        "dps": 1150,
+        "layout": "eight",
+        "speed": "normal"
+      },
+      {
+        "dps": 1200,
+        "layout": "eight",
+        "speed": "normal"
+      },
+      {
+        "dps": 1250,
+        "layout": "eight",
+        "speed": "normal"
+      },
+      {
+        "dps": 1300,
+        "layout": "eight",
+        "speed": "normal"
+      },
+      {
+        "dps": 1350,
+        "layout": "eight",
+        "speed": "fast"
+      },
+      {
+        "dps": 1400,
+        "layout": "eight",
+        "speed": "fast"
+      },
+      {
+        "dps": 1450,
+        "layout": "eight",
+        "speed": "fast"
+      },
+      {
+        "dps": 1500,
+        "layout": "eight",
+        "speed": "normal"
+      },
+      {
+        "dps": 1550,
+        "layout": "eight",
+        "speed": "fast"
+      },
+      {
+        "dps": 1600,
+        "layout": "eight",
+        "speed": "fast"
+      },
+      {
+        "dps": 1650,
+        "layout": "eight",
+        "speed": "fast"
+      },
+      {
+        "dps": 1700,
+        "layout": "eight",
+        "speed": "fast"
+      },
+      {
+        "dps": 1750,
+        "layout": "eight",
+        "speed": "fast"
+      },
+      {
+        "dps": 1800,
+        "layout": "eight",
+        "speed": "fast"
+      },
+      {
+        "dps": 1850,
+        "layout": "eight",
+        "speed": "fast"
+      },
+      {
+        "dps": 1900,
+        "layout": "eight",
+        "speed": "fast"
+      },
+      {
+        "dps": 1950,
+        "layout": "eight",
+        "speed": "normal"
+      },
+      {
+        "dps": 2000,
+        "layout": "solo",
+        "speed": "fast"
+      },
+      {
+        "dps": 2050,
+        "layout": "solo",
+        "speed": "fast"
+      },
+      {
+        "dps": 2100,
+        "layout": "solo",
+        "speed": "fast"
+      },
+      {
+        "dps": 2150,
+        "layout": "solo",
+        "speed": "fast"
+      },
+      {
+        "dps": 2200,
+        "layout": "solo",
+        "speed": "normal"
+      },
+      {
+        "dps": 2250,
+        "layout": "solo",
+        "speed": "normal"
+      }
+    ],
+    "soloLane": 0,
+    "soloEntryBestDps": 1950,
+    "anchors": {
+      "c01": {
+        "type": "cover"
+      },
+      "c02": {
+        "type": "intro"
+      },
+      "c03": {
+        "type": "tierStart",
+        "tier": 0,
+        "offset": 0.2
+      },
+      "c04": {
+        "type": "tierStart",
+        "tier": 1,
+        "offset": 0.1
+      },
+      "c05": {
+        "type": "death",
+        "tier": 1,
+        "hero": "伊莉丝",
+        "offset": 0.2
+      },
+      "c06": {
+        "type": "tierStart",
+        "tier": 2,
+        "offset": 0.1
+      },
+      "c07": {
+        "type": "death",
+        "tier": 2,
+        "hero": "洛",
+        "offset": 0.25
+      },
+      "c08": {
+        "type": "tierStart",
+        "tier": 3,
+        "offset": 0.1
+      },
+      "c09": {
+        "type": "death",
+        "tier": 3,
+        "hero": "慎",
+        "offset": 0.2
+      },
+      "c10": {
+        "type": "tierStart",
+        "tier": 4,
+        "offset": 0.3
+      },
+      "c11": {
+        "type": "tierPassed",
+        "tier": 6,
+        "offset": 0.25
+      },
+      "c12": {
+        "type": "tierStart",
+        "tier": 7,
+        "offset": 0.1
+      },
+      "c13": {
+        "type": "death",
+        "tier": 7,
+        "hero": "瑟庄妮",
+        "offset": 0.2
+      },
+      "c14": {
+        "type": "tierStart",
+        "tier": 8,
+        "offset": 0.3
+      },
+      "c15": {
+        "type": "tierPassed",
+        "tier": 15,
+        "offset": 0.25
+      },
+      "c16": {
+        "type": "tierStart",
+        "tier": 16,
+        "offset": 0.1
+      },
+      "c17": {
+        "type": "death",
+        "tier": 16,
+        "hero": "拉莫斯",
+        "offset": 0.2
+      },
+      "c18": {
+        "type": "tierPassed",
+        "tier": 16,
+        "offset": 0.35
+      },
+      "c19": {
+        "type": "tierPassed",
+        "tier": 20,
+        "offset": 0.25
+      },
+      "c20": {
+        "type": "tierStart",
+        "tier": 21,
+        "offset": 0.1
+      },
+      "c21": {
+        "type": "tierPassed",
+        "tier": 21,
+        "offset": 0.3
+      },
+      "c22": {
+        "type": "tierStart",
+        "tier": 22,
+        "offset": 0.1
+      },
+      "c23": {
+        "type": "death",
+        "tier": 22,
+        "hero": "蔚",
+        "offset": 0.25
+      },
+      "c24": {
+        "type": "result",
+        "offset": 0.2
+      }
+    }
+  },
+  "cues": [
+    {
+      "id": "c01",
+      "text": "三件普通装，八个前排，谁能扛到最后？",
+      "spoken": "三件普通装，八个前排，谁能扛到最后？"
+    },
+    {
+      "id": "c02",
+      "text": "每轮满血重开，撑满三十秒，就加五十。",
+      "spoken": "每轮满血重开，撑满三十秒，就加五十。"
+    },
+    {
+      "id": "c03",
+      "text": "先从每秒一千一百五开始。",
+      "spoken": "先从每秒一千一百五开始。"
+    },
+    {
+      "id": "c04",
+      "text": "加到每秒一千二。",
+      "spoken": "加到每秒一千二。"
+    },
+    {
+      "id": "c05",
+      "text": "蜘蛛没撑到三十秒。",
+      "spoken": "蜘蛛没撑到三十秒。"
+    },
+    {
+      "id": "c06",
+      "text": "加到每秒一千二百五。",
+      "spoken": "加到每秒一千二百五。"
+    },
+    {
+      "id": "c07",
+      "text": "奥恩、河蟹和洛都没过，这三位并列第五。",
+      "spoken": "奥恩、河蟹和洛都没过，这三位并列第五。"
+    },
+    {
+      "id": "c08",
+      "text": "再加到每秒一千三。",
+      "spoken": "再加到每秒一千三。"
+    },
+    {
+      "id": "c09",
+      "text": "慎也没撑到三十秒。",
+      "spoken": "慎也没撑到三十秒。"
+    },
+    {
+      "id": "c10",
+      "text": "继续加压，看看剩下这三位。",
+      "spoken": "继续加压，看看剩下这三位。"
+    },
+    {
+      "id": "c11",
+      "text": "一千四百五，三个都过了。",
+      "spoken": "一千四百五，三个都过了。"
+    },
+    {
+      "id": "c12",
+      "text": "加到每秒一千五。",
+      "spoken": "加到每秒一千五。"
+    },
+    {
+      "id": "c13",
+      "text": "猪妹也没撑住，还剩两个。",
+      "spoken": "猪妹也没撑住，还剩两个。"
+    },
+    {
+      "id": "c14",
+      "text": "龙龟和蔚继续往上加。",
+      "spoken": "龙龟和魏继续往上加。"
+    },
+    {
+      "id": "c15",
+      "text": "一千九，两个都过了。",
+      "spoken": "一千九，两个都过了。"
+    },
+    {
+      "id": "c16",
+      "text": "再加到每秒一千九百五。",
+      "spoken": "再加到每秒一千九百五。"
+    },
+    {
+      "id": "c17",
+      "text": "龙龟倒了。",
+      "spoken": "龙龟倒了。"
+    },
+    {
+      "id": "c18",
+      "text": "只剩蔚了，继续测她的上限。",
+      "spoken": "只剩魏了，继续测她的上限。"
+    },
+    {
+      "id": "c19",
+      "text": "两千一百五，也过了。",
+      "spoken": "两千一百五，也过了。"
+    },
+    {
+      "id": "c20",
+      "text": "再加到两千二。",
+      "spoken": "再加到两千二。"
+    },
+    {
+      "id": "c21",
+      "text": "三十秒，还是站住了。",
+      "spoken": "三十秒，还是站住了。"
+    },
+    {
+      "id": "c22",
+      "text": "再加五十。",
+      "spoken": "再加五十。"
+    },
+    {
+      "id": "c23",
+      "text": "两千二百五，没撑住。",
+      "spoken": "两千二百五，没撑住。"
+    },
+    {
+      "id": "c24",
+      "text": "这组测试，蔚最高扛住每秒两千二。",
+      "spoken": "这组测试，魏最高扛住每秒两千二。"
+    }
+  ],
+  "resultRows": [
+    {
+      "lane": 0,
+      "display": "蔚",
+      "rank": "第1",
+      "dps": 2200,
+      "champion": true,
+      "meta": "6主宰 · 饮血 · 石像鬼×2 · 板甲"
+    },
+    {
+      "lane": 1,
+      "display": "龙龟",
+      "rank": "第2",
+      "dps": 1900,
+      "meta": "6护卫 · 饮血 · 大天使 · 石像鬼 · 板甲"
+    },
+    {
+      "lane": 2,
+      "display": "猪妹",
+      "rank": "第3",
+      "dps": 1450,
+      "meta": "6主宰 · 振奋×2 · 石像鬼 · 板甲"
+    },
+    {
+      "lane": 3,
+      "display": "慎",
+      "rank": "第4",
+      "dps": 1250,
+      "meta": "6护卫 · 饮血 · 大天使×2 · 无指定海克斯"
+    },
+    {
+      "lane": 4,
+      "display": "奥恩",
+      "rank": "并列第5",
+      "dps": 1200,
+      "meta": "6护卫 · 饮血 · 大天使 · 正义 · 无指定海克斯"
+    },
+    {
+      "lane": 5,
+      "display": "河蟹",
+      "rank": "并列第5",
+      "dps": 1200,
+      "meta": "6主宰 · 振奋×2 · 石像鬼 · 板甲"
+    },
+    {
+      "lane": 6,
+      "display": "洛",
+      "rank": "并列第5",
+      "dps": 1200,
+      "meta": "6主宰+4重装 · 9人口 · 冕卫 · 石像鬼×2 · 板甲"
+    },
+    {
+      "lane": 7,
+      "display": "蜘蛛",
+      "rank": "并列第8",
+      "dps": 1150,
+      "meta": "6重装 · 鬼索 · 大天使 · 石像鬼 · 板甲"
+    }
+  ],
+  "resultFootnote": "2200 通过与 2250 首次失败均为真实回放 · 比较各自配置的持续承压，不是同经济实战胜率",
+  "immutable": [
+    {
+      "path": "exports/frontline-episode-01-video-v2/frontline-episode-01.mp4",
+      "sha256": "1725320fc29561e6ca2b7c2d5ae0e53895f4cfab4bbd54d5e774872198b24144"
+    },
+    {
+      "path": "exports/frontline-episode-01-video-v2/preview-1950-to-limit.mp4",
+      "sha256": "dad1881f23356f35a69a3605bc85a1fde5043af618d3a8b65dda676841056d75"
+    },
+    {
+      "path": "exports/frontline-episode-01-video-v2/timeline.json",
+      "sha256": "4d0d7d2ee83e3cbba7ec4b77f1f0fadd56285e1bdb7aff18969756e08da1c451"
+    },
+    {
+      "path": "exports/frontline-episode-01-video-v2/mix-master.wav",
+      "sha256": "cdbc8acedbbaa993d582ce6dffead4aaba21cc4d0c504de42682ca99224212e5"
+    },
+    {
+      "path": "exports/frontline-episode-01-video-v2/voice-processed.wav",
+      "sha256": "c7bef721cd0e257968eb8fe9a99b8b11a4dec404c17c765ad8097415c4e1d5fd"
+    },
+    {
+      "path": "exports/frontline-episode-01-video-v2/music-bed.wav",
+      "sha256": "ed86a8e3320aa1dafdacfb50c28d73027e338a9f9abf4b4ac2ade58f6fa8ef3d"
+    },
+    {
+      "path": "exports/frontline-episode-01-video-v2/elimination-effects.wav",
+      "sha256": "97f9446256498594f138a2e96550d519e80a46c4beaf0ef4ed4616ecb4f3b6bf"
+    },
+    {
+      "path": "exports/frontline-episode-01-video-v1/frontline-episode-01.mp4",
+      "sha256": "ac49f8d1bd36158c9d3980b32586c1c69b4a27872f6826df3941314487120cde"
+    },
+    {
+      "path": "exports/frontline-episode-01-video-v1/recipe.json",
+      "sha256": "5c82c9d56d15d089a601059743bd08507edba9e3d3392e8b3fb9b91fe50d328b"
+    },
+    {
+      "path": "exports/frontline-episode-01-video-v1/timeline.json",
+      "sha256": "709ffba3afa6d73b69b70e7e73cee4cbdcc1f653c56e7c42ec0f9ac3cb624e67"
+    },
+    {
+      "path": "exports/frontline-episode-01-design-v3/layout-live.png",
+      "sha256": "febed6b9fa1e0e53b3fe21c63093a6d31234949962af66cf8d5b2f9485c811bb"
+    },
+    {
+      "path": "exports/frontline-episode-01-design-v3/layout-eliminated.png",
+      "sha256": "8c90e572679f47449b4a89a5a30a95e2b9c81fb780564df7f689fa02bab192e7"
+    },
+    {
+      "path": "exports/frontline-episode-01-design-v3/make-layouts-v3.py",
+      "sha256": "9a3a5f0e54c1f7bbaa2ae879b7b573775fb91dae8792b1574f7c54bcab8f6160"
+    },
+    {
+      "path": "exports/frontline-episode-01-design-v1/snapshot-data.json",
+      "sha256": "f347bdf94d95404a93535ade129d8f8acb6c0647df8260166dbca473ef091162"
+    },
+    {
+      "path": "exports/frontline-episode-01-cover-v2/cover-3x4.png",
+      "sha256": "90be0bc8694d8443be54d133f710f665b36639acbe1cebd84ad5888bdf9776d3"
+    },
+    {
+      "path": "exports/frontline-video-wallpaper-v1/assets/Wallpaper.mp3",
+      "sha256": "9fa810e5193c88f1b360537366f210f16c2588106d5292f0659e9957fa274f96"
+    },
+    {
+      "path": "exports/frontline-video-wallpaper-v5/01-hero-pressure-voice-natural.mp4",
+      "sha256": "27a80bf25f8a486bddfefa2727b8f213ba7bb1966629fc6c95dfeb75d9113ead"
+    },
+    {
+      "path": "exports/frontline-video-wallpaper-v5/CREDITS.txt",
+      "sha256": "16fe3013961f2a5c085e3f2e0a3b90a1ee31dbfcd89fcfcdd12113e506111a64"
+    },
+    {
+      "path": "exports/frontline-episode-01-video-v4/frontline-episode-01.mp4",
+      "sha256": "9818d73bd805b5bbfa1b17a1b2bebcb51342f54a87d91d418cb253151b4f0523"
+    }
+  ],
+  "visual": {
+    "hideTierTotal": true,
+    "soloRecords": true
+  },
+  "transitions": {
+    "dpsFlipSeconds": 0.24,
+    "sceneFadeSeconds": 0.3,
+    "soloBridgeSeconds": 0.4,
+    "resultFadeSeconds": 0.35
+  },
+  "timelineBaseline": {
+    "path": "exports/frontline-episode-01-video-v2/timeline.json",
+    "sha256": "4d0d7d2ee83e3cbba7ec4b77f1f0fadd56285e1bdb7aff18969756e08da1c451",
+    "note": "v3 只改画面；时间线必须与 v2 逐字节一致"
+  },
+  "densityOffsets": {
+    "left_text": 10,
+    "conditions": 22,
+    "right_text": 14,
+    "corner_text": 42,
+    "bottom_text": 42,
+    "note": "纯相对平移+5px guard；字号/头像/卡片/画布尺寸不变；result_rank 独立于 bottom_text 避免结果页名次与头像碰撞",
+    "result_rank": 20
+  }
+}

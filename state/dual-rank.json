@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "published_manifest": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v3/manifest.json",
+  "published_snapshot": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-snapshots/20260925-0311-a1477f1d58f9",
+  "latest_package": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-28-inferno",
+  "last_submitted_manifest": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-28-inferno/manifest.json",
+  "last_submission_ui": {
+    "observed_at": "2026-09-28T13:21:53.602368+00:00",
+    "evidence_method": "native_chrome_cua_success_and_manager",
+    "regular": {
+      "note_id": "6aae77650000000029014a10",
+      "title": "金铲铲S18阵容榜9.28｜附阵容码",
+      "images": 12,
+      "success_prompt": "更新成功",
+      "manager_status": "审核中"
+    },
+    "cold": {
+      "note_id": "6ab95e5e000000001b030e09",
+      "title": "金铲铲S18 冷门榜9.28｜附阵容码",
+      "image_count": 10,
+      "body_platform_count": 956,
+      "success_prompt": "更新成功",
+      "manager_status": "审核中",
+      "topics_and_settings_preserved": true
+    },
+    "public_visibility_verified": false,
+    "topics_and_settings": "保留原笔记话题、合集、原创、公开和允许复制设置",
+    "delivery_path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc",
+    "data_cutoff_beijing": "2026-09-28 03:31",
+    "status": "submitted",
+    "visual_reuse_unchanged_png_count": 18,
+    "cold_package": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-28-inferno"
+  },
+  "last_checked_at": "2026-09-28T12:14:08.784490+00:00",
+  "last_checked_snapshot": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-snapshots/20260928-0331-23a96356d4f8",
+  "last_check": {
+    "same_source": false,
+    "review_required": []
+  },
+  "last_publication_ui": {
+    "observed_at": "2026-09-25T15:41:09Z",
+    "manager_filter": "已发布",
+    "note_ids": [
+      "6aae77650000000029014a10",
+      "6aacd475000000002b01f439"
+    ],
+    "evidence_method": "manual_cua_readback_without_asset_ids"
+  }
+}

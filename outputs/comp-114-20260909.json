@@ -1,0 +1,224 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "compId": "114",
+    "name": "5迅射月男",
+    "desc": null,
+    "gameCode": "",
+    "heroes": [
+      {
+        "id": "2307",
+        "heroId": "4506",
+        "heroName": "绯红印记树怪",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "3,1"
+      },
+      {
+        "id": "2311",
+        "heroId": "4503",
+        "heroName": "阿木木",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "1,4"
+      },
+      {
+        "id": "2306",
+        "heroId": "4509",
+        "heroName": "厄斐琉斯",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "4,1"
+      },
+      {
+        "id": "2312",
+        "heroId": "4500",
+        "heroName": "苍蓝雕纹魔像",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "2,3"
+      },
+      {
+        "id": "2308",
+        "heroId": "3509",
+        "heroName": "深红锋喙鸟",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 3,
+        "heroStarNum": null,
+        "position": "4,2"
+      },
+      {
+        "id": "2313",
+        "heroId": "3506",
+        "heroName": "黛安娜",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 3,
+        "heroStarNum": null,
+        "position": "2,4"
+      },
+      {
+        "id": "2309",
+        "heroId": "1509",
+        "heroName": "霞",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 1,
+        "heroStarNum": null,
+        "position": "4,3"
+      },
+      {
+        "id": "2310",
+        "heroId": "1507",
+        "heroName": "韦鲁斯",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 1,
+        "heroStarNum": null,
+        "position": "4,4"
+      },
+      {
+        "id": "2314",
+        "heroId": "1501",
+        "heroName": "洛",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 1,
+        "heroStarNum": null,
+        "position": "2,5"
+      }
+    ],
+    "traits": [
+      {
+        "id": "83830103",
+        "name": "迅捷射手"
+      },
+      {
+        "id": "84660101",
+        "name": "峡谷野怪"
+      },
+      {
+        "id": "84700101",
+        "name": "地狱火"
+      },
+      {
+        "id": "83930101",
+        "name": "花仙子"
+      },
+      {
+        "id": "83900101",
+        "name": "狂战士"
+      },
+      {
+        "id": "83870101",
+        "name": "月蚀骑士"
+      },
+      {
+        "id": "83720101",
+        "name": "重装战士"
+      },
+      {
+        "id": "83710101",
+        "name": "主宰"
+      }
+    ],
+    "equips": [
+      {
+        "heroId": "4503",
+        "equipId": "2028",
+        "compHeroId": "2311"
+      },
+      {
+        "heroId": "4503",
+        "equipId": "2028",
+        "compHeroId": "2311"
+      },
+      {
+        "heroId": "4503",
+        "equipId": "2034",
+        "compHeroId": "2311"
+      },
+      {
+        "heroId": "4506",
+        "equipId": "41815",
+        "compHeroId": "2307"
+      },
+      {
+        "heroId": "4506",
+        "equipId": "2005",
+        "compHeroId": "2307"
+      },
+      {
+        "heroId": "4506",
+        "equipId": "2046",
+        "compHeroId": "2307"
+      },
+      {
+        "heroId": "4509",
+        "equipId": "2001",
+        "compHeroId": "2306"
+      },
+      {
+        "heroId": "4509",
+        "equipId": "2013",
+        "compHeroId": "2306"
+      },
+      {
+        "heroId": "4509",
+        "equipId": "2045",
+        "compHeroId": "2306"
+      },
+      {
+        "heroId": "4500",
+        "equipId": "2032",
+        "compHeroId": "2312"
+      },
+      {
+        "heroId": "4500",
+        "equipId": "2023",
+        "compHeroId": "2312"
+      },
+      {
+        "heroId": "4500",
+        "equipId": "2024",
+        "compHeroId": "2312"
+      }
+    ],
+    "top4Rate": 61.34,
+    "topRate": 16.81,
+    "pickRate": 0.01,
+    "avgPlacement": 3.97,
+    "sampleCount": 119,
+    "tier": "S",
+    "dataMode": "stats"
+  }
+}

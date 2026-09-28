@@ -1,0 +1,181 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "compId": "117",
+    "name": "6主宰Flex",
+    "desc": null,
+    "gameCode": "【阵容码】#6主宰Flex#MjIwMDY3MzAyODc5ODA4NTYxNzg5MzI0OTU3MjU5",
+    "heroes": [
+      {
+        "id": "2340",
+        "heroId": "4510",
+        "heroName": "希维尔",
+        "heroType": 0,
+        "isCarry": true,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "4,7"
+      },
+      {
+        "id": "2341",
+        "heroId": "5454",
+        "heroName": "艾希",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": true,
+        "isCore": true,
+        "price": 5,
+        "heroStarNum": null,
+        "position": "4,1"
+      },
+      {
+        "id": "2339",
+        "heroId": "4503",
+        "heroName": "阿木木",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "1,6"
+      },
+      {
+        "id": "2342",
+        "heroId": "5450",
+        "heroName": "茂凯",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 5,
+        "heroStarNum": null,
+        "position": "1,4"
+      },
+      {
+        "id": "2338",
+        "heroId": "3501",
+        "heroName": "蔚",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 3,
+        "heroStarNum": null,
+        "position": "1,5"
+      },
+      {
+        "id": "2336",
+        "heroId": "2502",
+        "heroName": "瑟庄妮",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 2,
+        "heroStarNum": null,
+        "position": "1,1"
+      },
+      {
+        "id": "2337",
+        "heroId": "2500",
+        "heroName": "峡谷迅捷蟹",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 2,
+        "heroStarNum": null,
+        "position": "1,3"
+      },
+      {
+        "id": "2335",
+        "heroId": "1501",
+        "heroName": "洛",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 1,
+        "heroStarNum": null,
+        "position": "1,2"
+      }
+    ],
+    "traits": [
+      {
+        "id": "83710103",
+        "name": "主宰"
+      },
+      {
+        "id": "83750101",
+        "name": "猎人"
+      },
+      {
+        "id": "83970101",
+        "name": "野兽之灵"
+      },
+      {
+        "id": "84600101",
+        "name": "远古树精"
+      }
+    ],
+    "equips": [
+      {
+        "heroId": "4510",
+        "equipId": "2001",
+        "compHeroId": "2340"
+      },
+      {
+        "heroId": "4510",
+        "equipId": "2004",
+        "compHeroId": "2340"
+      },
+      {
+        "heroId": "4510",
+        "equipId": "2045",
+        "compHeroId": "2340"
+      },
+      {
+        "heroId": "5454",
+        "equipId": "2004",
+        "compHeroId": "2341"
+      },
+      {
+        "heroId": "5454",
+        "equipId": "2009",
+        "compHeroId": "2341"
+      },
+      {
+        "heroId": "5454",
+        "equipId": "2037",
+        "compHeroId": "2341"
+      },
+      {
+        "heroId": "4503",
+        "equipId": "2018",
+        "compHeroId": "2339"
+      },
+      {
+        "heroId": "4503",
+        "equipId": "2028",
+        "compHeroId": "2339"
+      },
+      {
+        "heroId": "4503",
+        "equipId": "2034",
+        "compHeroId": "2339"
+      }
+    ],
+    "top4Rate": 42.2,
+    "topRate": 7.48,
+    "pickRate": 0.51,
+    "avgPlacement": 4.88,
+    "sampleCount": 3701,
+    "tier": "D",
+    "dataMode": "stats"
+  }
+}

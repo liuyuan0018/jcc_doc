@@ -1,0 +1,200 @@
+{
+  "conditions": {
+    "index": 158,
+    "hero_index": 41,
+    "hero": "费德提克",
+    "star": 3,
+    "cost": 3,
+    "traits": {
+      "护卫": 6
+    },
+    "slots": 6
+  },
+  "sourceHashes": {
+    "/Users/lyu/Documents/ChatGPT/金铲铲/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/web.cpp": "62bf18cdf292557225b5fd20c15ee8fdd418a9ca0df26fa847b8bcb9a14912df",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/engine-web.hpp": "f476fd9f561189c41d446c525b47ec268e997fe64cfcbd7c7138b077d5301faa",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/generated.hpp": "9f153b1105b950cce6b733a9f01ec2370ed0e0d6a6a5d7981ae9fb2309fbc3df",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/replay-native": "89f153456035771b5d41dea3bc628578342343907c9c917d2908f7de252d2e01"
+  },
+  "sourceRankingSha256": "982cd892a4b023f5ed0d733498adb2af7b937f3df0464196aa6f94fdac6550f9",
+  "scoring": "300 +50 first failure, then +1 from last passed coarse tier until first failure; ties preserved",
+  "originalEightReproduced": true,
+  "comparisons": [
+    {
+      "items": [
+        5,
+        9,
+        27
+      ],
+      "augment": 4,
+      "rank": 203,
+      "withRageblade": 897,
+      "withoutRageblade": 771,
+      "gain": 126,
+      "gainPercent": 16.34,
+      "bestReplacement": {
+        "items": [
+          5,
+          16,
+          27
+        ],
+        "score": 1070,
+        "rank": 2
+      }
+    },
+    {
+      "items": [
+        5,
+        9,
+        17
+      ],
+      "augment": 0,
+      "rank": 286,
+      "withRageblade": 874,
+      "withoutRageblade": 733,
+      "gain": 141,
+      "gainPercent": 19.24,
+      "bestReplacement": {
+        "items": [
+          5,
+          17,
+          27
+        ],
+        "score": 996,
+        "rank": 31
+      }
+    },
+    {
+      "items": [
+        5,
+        9,
+        16
+      ],
+      "augment": 0,
+      "rank": 313,
+      "withRageblade": 869,
+      "withoutRageblade": 751,
+      "gain": 118,
+      "gainPercent": 15.71,
+      "bestReplacement": {
+        "items": [
+          5,
+          16,
+          16
+        ],
+        "score": 1045,
+        "rank": 5
+      }
+    },
+    {
+      "items": [
+        9,
+        17,
+        27
+      ],
+      "augment": 4,
+      "rank": 487,
+      "withRageblade": 840,
+      "withoutRageblade": 732,
+      "gain": 108,
+      "gainPercent": 14.75,
+      "bestReplacement": {
+        "items": [
+          5,
+          17,
+          27
+        ],
+        "score": 1068,
+        "rank": 3
+      }
+    },
+    {
+      "items": [
+        5,
+        9,
+        24
+      ],
+      "augment": 0,
+      "rank": 492,
+      "withRageblade": 839,
+      "withoutRageblade": 764,
+      "gain": 75,
+      "gainPercent": 9.82,
+      "bestReplacement": {
+        "items": [
+          5,
+          16,
+          24
+        ],
+        "score": 1029,
+        "rank": 8
+      }
+    },
+    {
+      "items": [
+        9,
+        16,
+        27
+      ],
+      "augment": 4,
+      "rank": 503,
+      "withRageblade": 837,
+      "withoutRageblade": 729,
+      "gain": 108,
+      "gainPercent": 14.81,
+      "bestReplacement": {
+        "items": [
+          5,
+          16,
+          27
+        ],
+        "score": 1070,
+        "rank": 2
+      }
+    },
+    {
+      "items": [
+        9,
+        24,
+        27
+      ],
+      "augment": 4,
+      "rank": 539,
+      "withRageblade": 831,
+      "withoutRageblade": 750,
+      "gain": 81,
+      "gainPercent": 10.8,
+      "bestReplacement": {
+        "items": [
+          24,
+          24,
+          27
+        ],
+        "score": 1100,
+        "rank": 1
+      }
+    },
+    {
+      "items": [
+        5,
+        9,
+        25
+      ],
+      "augment": 0,
+      "rank": 561,
+      "withRageblade": 828,
+      "withoutRageblade": 671,
+      "gain": 157,
+      "gainPercent": 23.4,
+      "bestReplacement": {
+        "items": [
+          5,
+          16,
+          25
+        ],
+        "score": 932,
+        "rank": 101
+      }
+    }
+  ]
+}

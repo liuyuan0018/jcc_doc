@@ -1,0 +1,116 @@
+[
+  {
+    "key": "summary",
+    "url": "https://www.dataj.cc/api/web/stats/summary?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.067797+00:00"
+  },
+  {
+    "key": "rank",
+    "url": "https://www.dataj.cc/api/web/comp/rank?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.173184+00:00"
+  },
+  {
+    "key": "special",
+    "url": "https://www.dataj.cc/api/web/stats/special-equip?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.129955+00:00"
+  },
+  {
+    "key": "gamedata",
+    "url": "https://www.dataj.cc/api/web/gamedata?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.456185+00:00"
+  },
+  {
+    "key": "ashe-emblem",
+    "url": "https://www.dataj.cc/api/web/comp/112/hero-equips?setId=18&gameVersion=18.2a&heroId=5454",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.206551+00:00"
+  },
+  {
+    "key": "kayle-gear",
+    "url": "https://www.dataj.cc/api/web/stats/hero/2512/equips?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.355406+00:00"
+  },
+  {
+    "key": "khazix-gear",
+    "url": "https://www.dataj.cc/api/web/stats/hero/3505/equips?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.521096+00:00"
+  },
+  {
+    "key": "comp-112",
+    "url": "https://www.dataj.cc/api/web/comp/112?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.306634+00:00"
+  },
+  {
+    "key": "comp-113",
+    "url": "https://www.dataj.cc/api/web/comp/113?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.348194+00:00"
+  },
+  {
+    "key": "comp-99",
+    "url": "https://www.dataj.cc/api/web/comp/99?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.394942+00:00"
+  },
+  {
+    "key": "comp-104",
+    "url": "https://www.dataj.cc/api/web/comp/104?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.490362+00:00"
+  },
+  {
+    "key": "comp-89",
+    "url": "https://www.dataj.cc/api/web/comp/89?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.515769+00:00"
+  },
+  {
+    "key": "comp-100",
+    "url": "https://www.dataj.cc/api/web/comp/100?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.510779+00:00"
+  },
+  {
+    "key": "comp-116",
+    "url": "https://www.dataj.cc/api/web/comp/116?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.542875+00:00"
+  },
+  {
+    "key": "comp-106",
+    "url": "https://www.dataj.cc/api/web/comp/106?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.584441+00:00"
+  },
+  {
+    "key": "comp-109",
+    "url": "https://www.dataj.cc/api/web/comp/109?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.622775+00:00"
+  },
+  {
+    "key": "comp-115",
+    "url": "https://www.dataj.cc/api/web/comp/115?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.676004+00:00"
+  },
+  {
+    "key": "comp-88",
+    "url": "https://www.dataj.cc/api/web/comp/88?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.678242+00:00"
+  },
+  {
+    "key": "comp-91",
+    "url": "https://www.dataj.cc/api/web/comp/91?setId=18&gameVersion=18.2a",
+    "ok": true,
+    "at": "2026-09-19T10:14:35.678280+00:00"
+  }
+]

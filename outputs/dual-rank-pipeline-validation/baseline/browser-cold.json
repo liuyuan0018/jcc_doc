@@ -1,0 +1,269 @@
+{
+  "note_id": "6aacd475000000002b01f439",
+  "stage": "noop",
+  "before": {
+    "image_limit": 18,
+    "images": [
+      {
+        "height": 1851,
+        "src": "https://sns-na-i2.xhscdn.com/spectrum/1040g0k0325baugfs58005nggdsjg90itdea3hrg?sign=3c443a79cc37eb6a9457c4eb8226f56c&t=6aafcddd",
+        "width": 1080,
+        "asset_id": "1040g0k0325baugfs58005nggdsjg90itdea3hrg"
+      },
+      {
+        "height": 2040,
+        "src": "https://sns-na-i2.xhscdn.com/spectrum/1040g0k0325baugfs580g5nggdsjg90itrco4mhg?sign=1921cdc2b1ff726989a1ae416d64aec6&t=6aafcddd",
+        "width": 1080,
+        "asset_id": "1040g0k0325baugfs580g5nggdsjg90itrco4mhg"
+      },
+      {
+        "height": 2040,
+        "src": "https://sns-na-i2.xhscdn.com/spectrum/1040g0k0325baugfs58105nggdsjg90it086jcr0?sign=9cfb194fb7378b895e5ef3bde5467647&t=6aafcddd",
+        "width": 1080,
+        "asset_id": "1040g0k0325baugfs58105nggdsjg90it086jcr0"
+      },
+      {
+        "height": 2040,
+        "src": "https://sns-na-i2.xhscdn.com/spectrum/1040g0k0325baugfs581g5nggdsjg90it81n50t8?sign=2eb2e20c7ce6f75be4f679b49d93177f&t=6aafcddd",
+        "width": 1080,
+        "asset_id": "1040g0k0325baugfs581g5nggdsjg90it81n50t8"
+      },
+      {
+        "height": 2040,
+        "src": "https://sns-na-i2.xhscdn.com/spectrum/1040g0k0325baugfs58205nggdsjg90itc440gb8?sign=672909509bdfac2ca70497a16fe5abe9&t=6aafcddd",
+        "width": 1080,
+        "asset_id": "1040g0k0325baugfs58205nggdsjg90itc440gb8"
+      },
+      {
+        "height": 2040,
+        "src": "https://sns-na-i2.xhscdn.com/spectrum/1040g0k0325baugfs582g5nggdsjg90itu324jqg?sign=4bf2723057367ff70c49bc1aadbab1ab&t=6aafcddd",
+        "width": 1080,
+        "asset_id": "1040g0k0325baugfs582g5nggdsjg90itu324jqg"
+      },
+      {
+        "height": 1851,
+        "src": "https://sns-na-i2.xhscdn.com/spectrum/1040g0k0325baugfs58305nggdsjg90itudohejg?sign=306822f9abb6d9bf0306e54eb93e5863&t=6aafcddd",
+        "width": 1080,
+        "asset_id": "1040g0k0325baugfs58305nggdsjg90itudohejg"
+      }
+    ],
+    "paragraphs": [
+      {
+        "index": 0,
+        "text": "9月20日上分先看手里的纹章、神器和来牌。封面看数据和适用条件，图2—7看站位、装备与搜牌。",
+        "topics": 0
+      },
+      {
+        "index": 1,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 2,
+        "text": "有条件优先看三套：花妖转凯南前四84.79%（401样本），猎人转巨龙75.34%（365），暗爪卡蜜尔69.75%（357）。前两套要有血量和经济冲五费，卡蜜尔先拿暗爪、来牌多再追三。",
+        "topics": 0
+      },
+      {
+        "index": 3,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 4,
+        "text": "护臂天使前四70.65%（184样本），花妖转螳螂59.30%（172）。这两项看英雄携装，样本还少，拿到关键装备再考虑，别直接和上面三套排强弱。",
+        "topics": 0
+      },
+      {
+        "index": 5,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 6,
+        "text": "神谕大嘴仍是顺牌备选：体系前四49.21%（2223样本）；无尽＋锐利之刃＋巨杀分项57.71%（253）。大嘴、人马多且物理装合适再玩，7级先稳两星和前排，再考虑大嘴三星。站位与搜牌看图7。",
+        "topics": 0
+      },
+      {
+        "index": 7,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 8,
+        "text": "图2—7看阵容；更多常规选择看主页《常规阵容榜》。以下为基础框架码，游戏内导入尚未校验，请对照配图调整：",
+        "topics": 0
+      },
+      {
+        "index": 9,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 10,
+        "text": "花妖转凯南（地狱火95框架）",
+        "topics": 0
+      },
+      {
+        "index": 11,
+        "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg5MjQwODA3MzIw",
+        "topics": 0
+      },
+      {
+        "index": 12,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 13,
+        "text": "猎人转巨龙（巨龙95框架）",
+        "topics": 0
+      },
+      {
+        "index": 14,
+        "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg3MTgyMDgwODEz",
+        "topics": 0
+      },
+      {
+        "index": 15,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 16,
+        "text": "暗爪卡蜜尔",
+        "topics": 0
+      },
+      {
+        "index": 17,
+        "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg5MTEwOTYxNDE2",
+        "topics": 0
+      },
+      {
+        "index": 18,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 19,
+        "text": "护臂天使（森林天使框架）",
+        "topics": 0
+      },
+      {
+        "index": 20,
+        "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg3MTgxOTg4MDM0",
+        "topics": 0
+      },
+      {
+        "index": 21,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 22,
+        "text": "花妖转螳螂（裁决螳螂框架）",
+        "topics": 0
+      },
+      {
+        "index": 23,
+        "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg5MjE4MDI5MTQ5",
+        "topics": 0
+      },
+      {
+        "index": 24,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 25,
+        "text": "神谕大嘴（7人口核心）",
+        "topics": 0
+      },
+      {
+        "index": 26,
+        "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg5NzUwMjI1Njky",
+        "topics": 0
+      },
+      {
+        "index": 27,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 28,
+        "text": "前3套为所属体系内携装分项，天使、螳螂为英雄携装，大嘴三件套单列。成型数据有筛选偏差，不等于开局硬玩的成功率。",
+        "topics": 0
+      },
+      {
+        "index": 29,
+        "text": "数据：DataJ非官方高分段样本，18.2a，截至9/20 03:26。运营为建议，尚无逐局实战复核。",
+        "topics": 0
+      },
+      {
+        "index": 30,
+        "text": "",
+        "topics": 0
+      },
+      {
+        "index": 31,
+        "text": "#金铲铲之战[话题]#  #金铲铲阵容[话题]#  #金铲铲[话题]#  #金铲铲攻略[话题]#  #金铲铲推荐阵容[话题]#  #金铲铲之战S18[话题]#  #金铲铲自然之力[话题]#  #金铲铲冷门阵容[话题]#",
+        "topics": 8
+      }
+    ],
+    "settings": {
+      "checkboxes": [
+        true,
+        true
+      ],
+      "text": "内容设置\n收起\n加入合集\n汇集系列视频，有利于连续性观看\ns18金铲铲阵容数据库\n原创声明\n添加内容类型声明\n添加组件\n添加地点\n选择群聊\n引用笔记\n《金铲铲S18阵容榜9.20｜附阵容码》\n添加投票\n关联直播预告\n标记地点或标记朋友\n添加路线\n选择文件\n关联活动\n更多\n金铲铲激励活动来袭\n08-22 至 10-11\n取消关联\nKPL十周年征稿第三期\n09-20 至 10-19\n关联\n更多设置\n收起\n允许正文复制\n公开可见"
+    },
+    "title": "金铲铲S18冷门榜9.20｜附阵容码",
+    "topics": [
+      {
+        "id": "610b9c5b000000000101e01b",
+        "name": "金铲铲之战"
+      },
+      {
+        "id": "612790e600000000010009d6",
+        "name": "金铲铲阵容"
+      },
+      {
+        "id": "60f51be5000000000100ad43",
+        "name": "金铲铲"
+      },
+      {
+        "id": "612e0fc70000000001003ee1",
+        "name": "金铲铲攻略"
+      },
+      {
+        "id": "6128e7500000000001003081",
+        "name": "金铲铲推荐阵容"
+      },
+      {
+        "id": "6a4c9dd5000000000301ea0b",
+        "name": "金铲铲之战S18"
+      },
+      {
+        "id": "6a51d40d000000000301f0d5",
+        "name": "金铲铲自然之力"
+      },
+      {
+        "id": "62f35c7100000000010096fc",
+        "name": "金铲铲冷门阵容"
+      }
+    ],
+    "note_id": "6aacd475000000002b01f439",
+    "body": "9月20日上分先看手里的纹章、神器和来牌。封面看数据和适用条件，图2—7看站位、装备与搜牌。\n\n有条件优先看三套：花妖转凯南前四84.79%（401样本），猎人转巨龙75.34%（365），暗爪卡蜜尔69.75%（357）。前两套要有血量和经济冲五费，卡蜜尔先拿暗爪、来牌多再追三。\n\n护臂天使前四70.65%（184样本），花妖转螳螂59.30%（172）。这两项看英雄携装，样本还少，拿到关键装备再考虑，别直接和上面三套排强弱。\n\n神谕大嘴仍是顺牌备选：体系前四49.21%（2223样本）；无尽＋锐利之刃＋巨杀分项57.71%（253）。大嘴、人马多且物理装合适再玩，7级先稳两星和前排，再考虑大嘴三星。站位与搜牌看图7。\n\n图2—7看阵容；更多常规选择看主页《常规阵容榜》。以下为基础框架码，游戏内导入尚未校验，请对照配图调整：\n\n花妖转凯南（地狱火95框架）\nMjIwMDY3MzAyODc5ODA4NTYxNzg5MjQwODA3MzIw\n\n猎人转巨龙（巨龙95框架）\nMjIwMDY3MzAyODc5ODA4NTYxNzg3MTgyMDgwODEz\n\n暗爪卡蜜尔\nMjIwMDY3MzAyODc5ODA4NTYxNzg5MTEwOTYxNDE2\n\n护臂天使（森林天使框架）\nMjIwMDY3MzAyODc5ODA4NTYxNzg3MTgxOTg4MDM0\n\n花妖转螳螂（裁决螳螂框架）\nMjIwMDY3MzAyODc5ODA4NTYxNzg5MjE4MDI5MTQ5\n\n神谕大嘴（7人口核心）\nMjIwMDY3MzAyODc5ODA4NTYxNzg5NzUwMjI1Njky\n\n前3套为所属体系内携装分项，天使、螳螂为英雄携装，大嘴三件套单列。成型数据有筛选偏差，不等于开局硬玩的成功率。\n数据：DataJ非官方高分段样本，18.2a，截至9/20 03:26。运营为建议，尚无逐局实战复核。",
+    "observed_at": "2026-09-20T12:21:06.590Z"
+  },
+  "target_files": [
+    "7120c5457af4584e0a6b2933758c808499bdc5debccd818f44b96c3a395d89ba",
+    "91af1facb07ba8e825eb9d05484d4892c5bca57fa11119dae7ae0281840fb851",
+    "b9c4350e5b0255273caf84d875d5123bdfd7643c46c11c3710ce0dcfb8bbc602",
+    "3617dfd07730a1fe7b681a2a9e81ade9e2741194032077e864bee2f711e59845",
+    "b7ccba023cf6044f66d58fb3fd1e4426c491f8cf8100cef61cb0ea0aac075918",
+    "37395495eeee3bbdaf4d111ef6ead9fd4a6c41487ab94e359694e55343712876",
+    "78ebe31def4f5b5dc9366662196adaebb73bb4494771486730969c340eb7c193"
+  ],
+  "uploaded": [],
+  "intent": null
+}

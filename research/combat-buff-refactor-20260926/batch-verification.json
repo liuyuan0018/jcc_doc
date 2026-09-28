@@ -1,0 +1,1018 @@
+{
+  "passed": true,
+  "configurations": 749490,
+  "battles": 3196989,
+  "elapsedSeconds": 40.8685,
+  "allSummaryAndStageResultsExact": true,
+  "files": [
+    {
+      "file": "scenario-102.runs.jsonl.gz",
+      "baselineSha256": "cefa526a0b6b41d10fae9c33ad282cd0d44c71d32ade744494ec32716a5b59cd",
+      "refactoredSha256": "cefa526a0b6b41d10fae9c33ad282cd0d44c71d32ade744494ec32716a5b59cd",
+      "exact": true
+    },
+    {
+      "file": "scenario-102.summary.jsonl.gz",
+      "baselineSha256": "3357003763303827e18f0d6da534a6e5cce3df5a10a287c94a9947b686d0075e",
+      "refactoredSha256": "3357003763303827e18f0d6da534a6e5cce3df5a10a287c94a9947b686d0075e",
+      "exact": true
+    },
+    {
+      "file": "scenario-103.runs.jsonl.gz",
+      "baselineSha256": "8ad69aa794e9982cb254e256105787e139ce10db0ea935e507f6da73947a73a5",
+      "refactoredSha256": "8ad69aa794e9982cb254e256105787e139ce10db0ea935e507f6da73947a73a5",
+      "exact": true
+    },
+    {
+      "file": "scenario-103.summary.jsonl.gz",
+      "baselineSha256": "6a522302345a309d4b43247ffe1a40fbb6ec8a8a65581ad3b38e413df15fff52",
+      "refactoredSha256": "6a522302345a309d4b43247ffe1a40fbb6ec8a8a65581ad3b38e413df15fff52",
+      "exact": true
+    },
+    {
+      "file": "scenario-104.runs.jsonl.gz",
+      "baselineSha256": "91666967a7d0ad1f2889af2253a8921e222ee48713021d47bed103d6458e92e2",
+      "refactoredSha256": "91666967a7d0ad1f2889af2253a8921e222ee48713021d47bed103d6458e92e2",
+      "exact": true
+    },
+    {
+      "file": "scenario-104.summary.jsonl.gz",
+      "baselineSha256": "f6c28f3e894ec986aafb15cc377f16ee64f0090c9ca2b7620c6d3d447574df64",
+      "refactoredSha256": "f6c28f3e894ec986aafb15cc377f16ee64f0090c9ca2b7620c6d3d447574df64",
+      "exact": true
+    },
+    {
+      "file": "scenario-111.runs.jsonl.gz",
+      "baselineSha256": "ed9649ed6bb8e39d70f93164457935a82ec94e9cf820bf98a65adce1c4cfb151",
+      "refactoredSha256": "ed9649ed6bb8e39d70f93164457935a82ec94e9cf820bf98a65adce1c4cfb151",
+      "exact": true
+    },
+    {
+      "file": "scenario-111.summary.jsonl.gz",
+      "baselineSha256": "cf56ad86ad883f4e4fb6bb7d2ea71370c8448f9dd888fef1561493355f13ff4f",
+      "refactoredSha256": "cf56ad86ad883f4e4fb6bb7d2ea71370c8448f9dd888fef1561493355f13ff4f",
+      "exact": true
+    },
+    {
+      "file": "scenario-112.runs.jsonl.gz",
+      "baselineSha256": "7a21b3fae38dc51d359e772dca952b5fbee228edbdf410b37c621765f59a4f83",
+      "refactoredSha256": "7a21b3fae38dc51d359e772dca952b5fbee228edbdf410b37c621765f59a4f83",
+      "exact": true
+    },
+    {
+      "file": "scenario-112.summary.jsonl.gz",
+      "baselineSha256": "4fd2cb2f67c193acdbb6d30eaa0cfb96aabf1ef3b37de503a4af84537e84ee63",
+      "refactoredSha256": "4fd2cb2f67c193acdbb6d30eaa0cfb96aabf1ef3b37de503a4af84537e84ee63",
+      "exact": true
+    },
+    {
+      "file": "scenario-113.runs.jsonl.gz",
+      "baselineSha256": "e9498e949ad549ec69c3cf47ba478b772eb3fda212bd301df177c2c063ab7cbc",
+      "refactoredSha256": "e9498e949ad549ec69c3cf47ba478b772eb3fda212bd301df177c2c063ab7cbc",
+      "exact": true
+    },
+    {
+      "file": "scenario-113.summary.jsonl.gz",
+      "baselineSha256": "7acced3c16a721f5df54554c8483c85499160601f3f6bb04a3e9283ff9e16ad3",
+      "refactoredSha256": "7acced3c16a721f5df54554c8483c85499160601f3f6bb04a3e9283ff9e16ad3",
+      "exact": true
+    },
+    {
+      "file": "scenario-120.runs.jsonl.gz",
+      "baselineSha256": "7ffbf55354a0656935abe22e14c6fbc29d20735429f67252ae61d186dca53b50",
+      "refactoredSha256": "7ffbf55354a0656935abe22e14c6fbc29d20735429f67252ae61d186dca53b50",
+      "exact": true
+    },
+    {
+      "file": "scenario-120.summary.jsonl.gz",
+      "baselineSha256": "b5ae1e0b5c2150d0878a1b3a913e481c5ed4ee1480f316fb201ed55b6840ca54",
+      "refactoredSha256": "b5ae1e0b5c2150d0878a1b3a913e481c5ed4ee1480f316fb201ed55b6840ca54",
+      "exact": true
+    },
+    {
+      "file": "scenario-121.runs.jsonl.gz",
+      "baselineSha256": "8799752242a5e0da40838372a446677aa4ccf4f36de0ede798d5bd70b3387cd1",
+      "refactoredSha256": "8799752242a5e0da40838372a446677aa4ccf4f36de0ede798d5bd70b3387cd1",
+      "exact": true
+    },
+    {
+      "file": "scenario-121.summary.jsonl.gz",
+      "baselineSha256": "59a612f241621c1625d934f847104d5f7b16908318b48dd789f3b3295257d391",
+      "refactoredSha256": "59a612f241621c1625d934f847104d5f7b16908318b48dd789f3b3295257d391",
+      "exact": true
+    },
+    {
+      "file": "scenario-122.runs.jsonl.gz",
+      "baselineSha256": "a4e7a34b2f5cff647a0147b3c5eb5844273af8eda5cb689d1c7e503100b1a3e3",
+      "refactoredSha256": "a4e7a34b2f5cff647a0147b3c5eb5844273af8eda5cb689d1c7e503100b1a3e3",
+      "exact": true
+    },
+    {
+      "file": "scenario-122.summary.jsonl.gz",
+      "baselineSha256": "695d2c7e0228c29d435a7ceffe42dfc8f73d49b81e344ee96660a258e20d0391",
+      "refactoredSha256": "695d2c7e0228c29d435a7ceffe42dfc8f73d49b81e344ee96660a258e20d0391",
+      "exact": true
+    },
+    {
+      "file": "scenario-129.runs.jsonl.gz",
+      "baselineSha256": "ba0b9931786474e596152a81a952048b7565e5373927bc55af05bbf79ebd90a4",
+      "refactoredSha256": "ba0b9931786474e596152a81a952048b7565e5373927bc55af05bbf79ebd90a4",
+      "exact": true
+    },
+    {
+      "file": "scenario-129.summary.jsonl.gz",
+      "baselineSha256": "7d9eac9e8442da981890de6ee095e8b16aecc36d9fd3d8294d2623f32bef7c46",
+      "refactoredSha256": "7d9eac9e8442da981890de6ee095e8b16aecc36d9fd3d8294d2623f32bef7c46",
+      "exact": true
+    },
+    {
+      "file": "scenario-130.runs.jsonl.gz",
+      "baselineSha256": "520217401d8ff82b7ef9e5ce910ec4da7fd57190e281e3a3ed6227064ff6d283",
+      "refactoredSha256": "520217401d8ff82b7ef9e5ce910ec4da7fd57190e281e3a3ed6227064ff6d283",
+      "exact": true
+    },
+    {
+      "file": "scenario-130.summary.jsonl.gz",
+      "baselineSha256": "14c296f61a5f25826396c68e6b33396db8c1ac15971d472722e3b58100c18c7e",
+      "refactoredSha256": "14c296f61a5f25826396c68e6b33396db8c1ac15971d472722e3b58100c18c7e",
+      "exact": true
+    },
+    {
+      "file": "scenario-131.runs.jsonl.gz",
+      "baselineSha256": "c236c593155b83de576258c741857af3af51ffccd4d1688ce1536d14de6c1cb1",
+      "refactoredSha256": "c236c593155b83de576258c741857af3af51ffccd4d1688ce1536d14de6c1cb1",
+      "exact": true
+    },
+    {
+      "file": "scenario-131.summary.jsonl.gz",
+      "baselineSha256": "75ec1cb5415fdc4cc467b59f964ff0e19e0099c22bcd6fbacc95256ab61f37d3",
+      "refactoredSha256": "75ec1cb5415fdc4cc467b59f964ff0e19e0099c22bcd6fbacc95256ab61f37d3",
+      "exact": true
+    },
+    {
+      "file": "scenario-138.runs.jsonl.gz",
+      "baselineSha256": "893290c7b9b67dd6ede0e62442d262814d4de8182e69ff4e18f7e510990c68ba",
+      "refactoredSha256": "893290c7b9b67dd6ede0e62442d262814d4de8182e69ff4e18f7e510990c68ba",
+      "exact": true
+    },
+    {
+      "file": "scenario-138.summary.jsonl.gz",
+      "baselineSha256": "1edfb90b56d3e73e63b58a474db47d294240bffc1d34a43c39e7ecda984983a9",
+      "refactoredSha256": "1edfb90b56d3e73e63b58a474db47d294240bffc1d34a43c39e7ecda984983a9",
+      "exact": true
+    },
+    {
+      "file": "scenario-139.runs.jsonl.gz",
+      "baselineSha256": "f3b4b7dbef845d595090fb8c838ebf9eee3045df3c62522b282c228ea06dfe03",
+      "refactoredSha256": "f3b4b7dbef845d595090fb8c838ebf9eee3045df3c62522b282c228ea06dfe03",
+      "exact": true
+    },
+    {
+      "file": "scenario-139.summary.jsonl.gz",
+      "baselineSha256": "1023d0527266591c2002619c6d2ec5103a460ab98ad2f3b170a8f8520a4ea9d6",
+      "refactoredSha256": "1023d0527266591c2002619c6d2ec5103a460ab98ad2f3b170a8f8520a4ea9d6",
+      "exact": true
+    },
+    {
+      "file": "scenario-140.runs.jsonl.gz",
+      "baselineSha256": "30263a55e44e369f40a76481a28f2acc9941fb022974a6b5fd6f3fb34e21d272",
+      "refactoredSha256": "30263a55e44e369f40a76481a28f2acc9941fb022974a6b5fd6f3fb34e21d272",
+      "exact": true
+    },
+    {
+      "file": "scenario-140.summary.jsonl.gz",
+      "baselineSha256": "5f25d2effec0e8286a39777a822f016dc2fa6fe5825eaba5c22d8923fc75634f",
+      "refactoredSha256": "5f25d2effec0e8286a39777a822f016dc2fa6fe5825eaba5c22d8923fc75634f",
+      "exact": true
+    },
+    {
+      "file": "scenario-147.runs.jsonl.gz",
+      "baselineSha256": "27b976626b168e4608d5d1aa70c360dcf63d1eca651a8c72400dd1c9bfb07b88",
+      "refactoredSha256": "27b976626b168e4608d5d1aa70c360dcf63d1eca651a8c72400dd1c9bfb07b88",
+      "exact": true
+    },
+    {
+      "file": "scenario-147.summary.jsonl.gz",
+      "baselineSha256": "d6e6c767d36e6e1e2327e1aa4a4e710edd14524a3bf5592e0d25d49f51c3f080",
+      "refactoredSha256": "d6e6c767d36e6e1e2327e1aa4a4e710edd14524a3bf5592e0d25d49f51c3f080",
+      "exact": true
+    },
+    {
+      "file": "scenario-148.runs.jsonl.gz",
+      "baselineSha256": "7c42d76bb3f2d494649b9227c4ccca7fbf78d81c937311e84d0d272464a23b29",
+      "refactoredSha256": "7c42d76bb3f2d494649b9227c4ccca7fbf78d81c937311e84d0d272464a23b29",
+      "exact": true
+    },
+    {
+      "file": "scenario-148.summary.jsonl.gz",
+      "baselineSha256": "5d6421bf685c2429541e10b19e11e8141c736df2ec066ee6f151323cf01bd619",
+      "refactoredSha256": "5d6421bf685c2429541e10b19e11e8141c736df2ec066ee6f151323cf01bd619",
+      "exact": true
+    },
+    {
+      "file": "scenario-149.runs.jsonl.gz",
+      "baselineSha256": "e83f66d5ae0f854fe8a92d8c5d89480243127bf601b2e969d59eaf8563787625",
+      "refactoredSha256": "e83f66d5ae0f854fe8a92d8c5d89480243127bf601b2e969d59eaf8563787625",
+      "exact": true
+    },
+    {
+      "file": "scenario-149.summary.jsonl.gz",
+      "baselineSha256": "8538355e96ad1becf32fd2179971bffe4be4f890556e72f2df9569e63c8c0be4",
+      "refactoredSha256": "8538355e96ad1becf32fd2179971bffe4be4f890556e72f2df9569e63c8c0be4",
+      "exact": true
+    },
+    {
+      "file": "scenario-156.runs.jsonl.gz",
+      "baselineSha256": "975b59b000cd18b7de5ffb8aca9559ef3ab36607043ab7e5104b5cc35d2f9fd8",
+      "refactoredSha256": "975b59b000cd18b7de5ffb8aca9559ef3ab36607043ab7e5104b5cc35d2f9fd8",
+      "exact": true
+    },
+    {
+      "file": "scenario-156.summary.jsonl.gz",
+      "baselineSha256": "f5cb8ec142a1893e29302dae8cb894b870251c4ebdd9532483540de7df95579a",
+      "refactoredSha256": "f5cb8ec142a1893e29302dae8cb894b870251c4ebdd9532483540de7df95579a",
+      "exact": true
+    },
+    {
+      "file": "scenario-157.runs.jsonl.gz",
+      "baselineSha256": "f8b725a8f4239b97e6e5b2ecaacaace52410b3459abc999c21bab8b759d397a7",
+      "refactoredSha256": "f8b725a8f4239b97e6e5b2ecaacaace52410b3459abc999c21bab8b759d397a7",
+      "exact": true
+    },
+    {
+      "file": "scenario-157.summary.jsonl.gz",
+      "baselineSha256": "c7bd2c026dfbac96d144fe50b473e3e538bb46cec1909b3d31143e048d173e9b",
+      "refactoredSha256": "c7bd2c026dfbac96d144fe50b473e3e538bb46cec1909b3d31143e048d173e9b",
+      "exact": true
+    },
+    {
+      "file": "scenario-158.runs.jsonl.gz",
+      "baselineSha256": "8d0d9215f0f265160f2f029969e8340187699a7ad860ef25865df648840a98f7",
+      "refactoredSha256": "8d0d9215f0f265160f2f029969e8340187699a7ad860ef25865df648840a98f7",
+      "exact": true
+    },
+    {
+      "file": "scenario-158.summary.jsonl.gz",
+      "baselineSha256": "656f666067a7b2e8171c747de1049c731fce96939e9d82f9df9d1f5e1a655c44",
+      "refactoredSha256": "656f666067a7b2e8171c747de1049c731fce96939e9d82f9df9d1f5e1a655c44",
+      "exact": true
+    },
+    {
+      "file": "scenario-165.runs.jsonl.gz",
+      "baselineSha256": "9cdfca7454748c09e17492154d9feb340714d55ef45291f52a8d50ddaaec6bb5",
+      "refactoredSha256": "9cdfca7454748c09e17492154d9feb340714d55ef45291f52a8d50ddaaec6bb5",
+      "exact": true
+    },
+    {
+      "file": "scenario-165.summary.jsonl.gz",
+      "baselineSha256": "8db3f61ddc565a5942c797dae802aa5db0fed870d8fa9db2c6ff9215e9bc4a3b",
+      "refactoredSha256": "8db3f61ddc565a5942c797dae802aa5db0fed870d8fa9db2c6ff9215e9bc4a3b",
+      "exact": true
+    },
+    {
+      "file": "scenario-166.runs.jsonl.gz",
+      "baselineSha256": "51f07a94494123f926980851d65d5e7bfeecc7fef5c949bfdb4e730294f2ac0f",
+      "refactoredSha256": "51f07a94494123f926980851d65d5e7bfeecc7fef5c949bfdb4e730294f2ac0f",
+      "exact": true
+    },
+    {
+      "file": "scenario-166.summary.jsonl.gz",
+      "baselineSha256": "ce0648f5e2c2b86c9f48c954616b3b2ae32f515ec929922e0728b8aee8f91e6f",
+      "refactoredSha256": "ce0648f5e2c2b86c9f48c954616b3b2ae32f515ec929922e0728b8aee8f91e6f",
+      "exact": true
+    },
+    {
+      "file": "scenario-167.runs.jsonl.gz",
+      "baselineSha256": "89cbd15e8745e02986ceb81997ce894723af380c91fec09f63db4b87aacecb40",
+      "refactoredSha256": "89cbd15e8745e02986ceb81997ce894723af380c91fec09f63db4b87aacecb40",
+      "exact": true
+    },
+    {
+      "file": "scenario-167.summary.jsonl.gz",
+      "baselineSha256": "9a8eb5e6baf1b6cc935bafb2c434f81bcb7b122b02668ef8b62c4c59fd18ff6c",
+      "refactoredSha256": "9a8eb5e6baf1b6cc935bafb2c434f81bcb7b122b02668ef8b62c4c59fd18ff6c",
+      "exact": true
+    },
+    {
+      "file": "scenario-174.runs.jsonl.gz",
+      "baselineSha256": "c9fcb688021355a8f342daef33685bff071d26c3e753a96a03212332ca1616e4",
+      "refactoredSha256": "c9fcb688021355a8f342daef33685bff071d26c3e753a96a03212332ca1616e4",
+      "exact": true
+    },
+    {
+      "file": "scenario-174.summary.jsonl.gz",
+      "baselineSha256": "16718d52ee19a5b7d8778e51e7f7482b8de6c067c07e601d17f28bf10d000c5e",
+      "refactoredSha256": "16718d52ee19a5b7d8778e51e7f7482b8de6c067c07e601d17f28bf10d000c5e",
+      "exact": true
+    },
+    {
+      "file": "scenario-175.runs.jsonl.gz",
+      "baselineSha256": "b666447acdf954ed4d04057336ed991c399eb4b6a356f5d745c7f2376a4cad16",
+      "refactoredSha256": "b666447acdf954ed4d04057336ed991c399eb4b6a356f5d745c7f2376a4cad16",
+      "exact": true
+    },
+    {
+      "file": "scenario-175.summary.jsonl.gz",
+      "baselineSha256": "57a64221b4fd5cda77e5b8076b4fb291f8be26752e9b36c9f4501e767643dec4",
+      "refactoredSha256": "57a64221b4fd5cda77e5b8076b4fb291f8be26752e9b36c9f4501e767643dec4",
+      "exact": true
+    },
+    {
+      "file": "scenario-176.runs.jsonl.gz",
+      "baselineSha256": "9b18ef5c4398c727eedcc2fd2a6c1cc60ce761348a44d455175c3ce4fc9f9136",
+      "refactoredSha256": "9b18ef5c4398c727eedcc2fd2a6c1cc60ce761348a44d455175c3ce4fc9f9136",
+      "exact": true
+    },
+    {
+      "file": "scenario-176.summary.jsonl.gz",
+      "baselineSha256": "4095d8261bb212301830f4fdc19bee44089593cf1d67dd6566eb29438368b816",
+      "refactoredSha256": "4095d8261bb212301830f4fdc19bee44089593cf1d67dd6566eb29438368b816",
+      "exact": true
+    },
+    {
+      "file": "scenario-183.runs.jsonl.gz",
+      "baselineSha256": "f13b8949cd150f748775edf8de965bb5e4034a4330c09dc48ea5928d9a6f9faa",
+      "refactoredSha256": "f13b8949cd150f748775edf8de965bb5e4034a4330c09dc48ea5928d9a6f9faa",
+      "exact": true
+    },
+    {
+      "file": "scenario-183.summary.jsonl.gz",
+      "baselineSha256": "937573353b20cf9908a2d4be1e4f9ae6c53e7021d9137fcb2e745358bf2266fb",
+      "refactoredSha256": "937573353b20cf9908a2d4be1e4f9ae6c53e7021d9137fcb2e745358bf2266fb",
+      "exact": true
+    },
+    {
+      "file": "scenario-184.runs.jsonl.gz",
+      "baselineSha256": "e255c109e6e0dbdbe908b603098e0c213b14032cfebd70e8da552bbaadfbb352",
+      "refactoredSha256": "e255c109e6e0dbdbe908b603098e0c213b14032cfebd70e8da552bbaadfbb352",
+      "exact": true
+    },
+    {
+      "file": "scenario-184.summary.jsonl.gz",
+      "baselineSha256": "226f646dbd2414c24ca3b32ee086f40e77439a732abe94f38ae148c5a279f402",
+      "refactoredSha256": "226f646dbd2414c24ca3b32ee086f40e77439a732abe94f38ae148c5a279f402",
+      "exact": true
+    },
+    {
+      "file": "scenario-185.runs.jsonl.gz",
+      "baselineSha256": "87afab02a7d8f34bcd398ef5b22a01ab2a5b1b8cba85d18600918294c5181cc7",
+      "refactoredSha256": "87afab02a7d8f34bcd398ef5b22a01ab2a5b1b8cba85d18600918294c5181cc7",
+      "exact": true
+    },
+    {
+      "file": "scenario-185.summary.jsonl.gz",
+      "baselineSha256": "05951160353eb653c77c7d136351765aeb8a358dd351d7ee44a303abc31ab9ab",
+      "refactoredSha256": "05951160353eb653c77c7d136351765aeb8a358dd351d7ee44a303abc31ab9ab",
+      "exact": true
+    },
+    {
+      "file": "scenario-189.runs.jsonl.gz",
+      "baselineSha256": "290d861655d4d96bf82becbfc42be5cc56d8b37504dfb65c8f30ef5f58fd29a6",
+      "refactoredSha256": "290d861655d4d96bf82becbfc42be5cc56d8b37504dfb65c8f30ef5f58fd29a6",
+      "exact": true
+    },
+    {
+      "file": "scenario-189.summary.jsonl.gz",
+      "baselineSha256": "53b4fd8273f7e3816cb0543503aed622b2fe4569581db75c512e13778956b971",
+      "refactoredSha256": "53b4fd8273f7e3816cb0543503aed622b2fe4569581db75c512e13778956b971",
+      "exact": true
+    },
+    {
+      "file": "scenario-190.runs.jsonl.gz",
+      "baselineSha256": "a47cce82fea3e77293be47db28024b14828ab96cafb904893bb3b5b6e4dbeef9",
+      "refactoredSha256": "a47cce82fea3e77293be47db28024b14828ab96cafb904893bb3b5b6e4dbeef9",
+      "exact": true
+    },
+    {
+      "file": "scenario-190.summary.jsonl.gz",
+      "baselineSha256": "f0c2823eadcd1d69d44e095af14b460f5cda9be7b2f82e631388bcb367118de5",
+      "refactoredSha256": "f0c2823eadcd1d69d44e095af14b460f5cda9be7b2f82e631388bcb367118de5",
+      "exact": true
+    },
+    {
+      "file": "scenario-191.runs.jsonl.gz",
+      "baselineSha256": "b51a9bd7df1bb56f08877cca53b6e0ece74f93a89070979d92f0901f90d8dbbc",
+      "refactoredSha256": "b51a9bd7df1bb56f08877cca53b6e0ece74f93a89070979d92f0901f90d8dbbc",
+      "exact": true
+    },
+    {
+      "file": "scenario-191.summary.jsonl.gz",
+      "baselineSha256": "5e5b9297e958c630557068815f3dd3b1f121e1b907fac1311126208455ea1369",
+      "refactoredSha256": "5e5b9297e958c630557068815f3dd3b1f121e1b907fac1311126208455ea1369",
+      "exact": true
+    },
+    {
+      "file": "scenario-198.runs.jsonl.gz",
+      "baselineSha256": "0fc72f3052435d693dc70e41e757ffc46102c68319972d3f1ddd82b59ccf32b8",
+      "refactoredSha256": "0fc72f3052435d693dc70e41e757ffc46102c68319972d3f1ddd82b59ccf32b8",
+      "exact": true
+    },
+    {
+      "file": "scenario-198.summary.jsonl.gz",
+      "baselineSha256": "3cb8a4dc82b9ac6972908ba5462ebc6f065647fc3bffd93f6257b73ad4b3465c",
+      "refactoredSha256": "3cb8a4dc82b9ac6972908ba5462ebc6f065647fc3bffd93f6257b73ad4b3465c",
+      "exact": true
+    },
+    {
+      "file": "scenario-199.runs.jsonl.gz",
+      "baselineSha256": "9647464ceef7d3f2e2c2f5bb4909e38f452f1385325b787f4427c0bb82959f53",
+      "refactoredSha256": "9647464ceef7d3f2e2c2f5bb4909e38f452f1385325b787f4427c0bb82959f53",
+      "exact": true
+    },
+    {
+      "file": "scenario-199.summary.jsonl.gz",
+      "baselineSha256": "2b7446a6cd77bb274865167e5e086c47bfdfce92c6964dec1ca64e37e243d85e",
+      "refactoredSha256": "2b7446a6cd77bb274865167e5e086c47bfdfce92c6964dec1ca64e37e243d85e",
+      "exact": true
+    },
+    {
+      "file": "scenario-200.runs.jsonl.gz",
+      "baselineSha256": "fb74fc26add9dea0999e55c53e53bd12c04a8e03264499b0c16a469adfb342da",
+      "refactoredSha256": "fb74fc26add9dea0999e55c53e53bd12c04a8e03264499b0c16a469adfb342da",
+      "exact": true
+    },
+    {
+      "file": "scenario-200.summary.jsonl.gz",
+      "baselineSha256": "3bcfe12933b825c71c82cfefc5cb584a6d56c7aea2b8e1290c5aa7d4b96d4eac",
+      "refactoredSha256": "3bcfe12933b825c71c82cfefc5cb584a6d56c7aea2b8e1290c5aa7d4b96d4eac",
+      "exact": true
+    },
+    {
+      "file": "scenario-207.runs.jsonl.gz",
+      "baselineSha256": "08559f13ab050e66ffbc5cf921dad6802cca35572f175fbed4d487b4d18c2012",
+      "refactoredSha256": "08559f13ab050e66ffbc5cf921dad6802cca35572f175fbed4d487b4d18c2012",
+      "exact": true
+    },
+    {
+      "file": "scenario-207.summary.jsonl.gz",
+      "baselineSha256": "dc88f2fa47c5abc24f9e568953f970006dc07e1872d6e80e7f95cb23fe5eb18c",
+      "refactoredSha256": "dc88f2fa47c5abc24f9e568953f970006dc07e1872d6e80e7f95cb23fe5eb18c",
+      "exact": true
+    },
+    {
+      "file": "scenario-208.runs.jsonl.gz",
+      "baselineSha256": "e7980aa4af9cde2e9c210ebcc8e5d8b4d16082ea488dbda248fe7db8fe18081f",
+      "refactoredSha256": "e7980aa4af9cde2e9c210ebcc8e5d8b4d16082ea488dbda248fe7db8fe18081f",
+      "exact": true
+    },
+    {
+      "file": "scenario-208.summary.jsonl.gz",
+      "baselineSha256": "10c415642b21729b82edf78abebc68851470fce18a87552013b38daa34ca8e52",
+      "refactoredSha256": "10c415642b21729b82edf78abebc68851470fce18a87552013b38daa34ca8e52",
+      "exact": true
+    },
+    {
+      "file": "scenario-209.runs.jsonl.gz",
+      "baselineSha256": "1cbce419d8fb49faec86f94028aff270948f4a0c7f416bef66c2c1e0f4e1e9c8",
+      "refactoredSha256": "1cbce419d8fb49faec86f94028aff270948f4a0c7f416bef66c2c1e0f4e1e9c8",
+      "exact": true
+    },
+    {
+      "file": "scenario-209.summary.jsonl.gz",
+      "baselineSha256": "896e3281644b5d0b759cfe5585c36b6c83badb2fc9f5a76891473cced8679521",
+      "refactoredSha256": "896e3281644b5d0b759cfe5585c36b6c83badb2fc9f5a76891473cced8679521",
+      "exact": true
+    },
+    {
+      "file": "scenario-216.runs.jsonl.gz",
+      "baselineSha256": "0602a11e6783edf2c522c535972267e46c7a829fb088302ef8fa7cd162a4137c",
+      "refactoredSha256": "0602a11e6783edf2c522c535972267e46c7a829fb088302ef8fa7cd162a4137c",
+      "exact": true
+    },
+    {
+      "file": "scenario-216.summary.jsonl.gz",
+      "baselineSha256": "d8e6679f03d7ae9618998e21555ec921de154d551406172cb2b668a8877b077e",
+      "refactoredSha256": "d8e6679f03d7ae9618998e21555ec921de154d551406172cb2b668a8877b077e",
+      "exact": true
+    },
+    {
+      "file": "scenario-217.runs.jsonl.gz",
+      "baselineSha256": "5ca3c5e115c48e50e6370b787b7707fd969e8209cc4060cd9c1037b3eaf808f5",
+      "refactoredSha256": "5ca3c5e115c48e50e6370b787b7707fd969e8209cc4060cd9c1037b3eaf808f5",
+      "exact": true
+    },
+    {
+      "file": "scenario-217.summary.jsonl.gz",
+      "baselineSha256": "a445fb205d678fe18274ce7a3df2623a00dd168790f3bf0b29b1b20f87c29471",
+      "refactoredSha256": "a445fb205d678fe18274ce7a3df2623a00dd168790f3bf0b29b1b20f87c29471",
+      "exact": true
+    },
+    {
+      "file": "scenario-218.runs.jsonl.gz",
+      "baselineSha256": "a5bbba2fccf36410eb34531b732765f3f79475985c7372748d5e2bb18f42797f",
+      "refactoredSha256": "a5bbba2fccf36410eb34531b732765f3f79475985c7372748d5e2bb18f42797f",
+      "exact": true
+    },
+    {
+      "file": "scenario-218.summary.jsonl.gz",
+      "baselineSha256": "b8d1d799548440741974507dc2d4728691af4bd12a750b351c0a6868e4c3a3f3",
+      "refactoredSha256": "b8d1d799548440741974507dc2d4728691af4bd12a750b351c0a6868e4c3a3f3",
+      "exact": true
+    },
+    {
+      "file": "scenario-225.runs.jsonl.gz",
+      "baselineSha256": "4dcad45368c6d4614385243ea92aed02132538d6e63c567e7a8e83cad5bbe74d",
+      "refactoredSha256": "4dcad45368c6d4614385243ea92aed02132538d6e63c567e7a8e83cad5bbe74d",
+      "exact": true
+    },
+    {
+      "file": "scenario-225.summary.jsonl.gz",
+      "baselineSha256": "6145a88a331935dcf405cf12e522d20cb3a5823d1ed3632c2e29a5e686f0be8a",
+      "refactoredSha256": "6145a88a331935dcf405cf12e522d20cb3a5823d1ed3632c2e29a5e686f0be8a",
+      "exact": true
+    },
+    {
+      "file": "scenario-226.runs.jsonl.gz",
+      "baselineSha256": "290ae0d0c7aeb2778f337068c6a97943aae0e2337d2722fe111d375780d6cfbb",
+      "refactoredSha256": "290ae0d0c7aeb2778f337068c6a97943aae0e2337d2722fe111d375780d6cfbb",
+      "exact": true
+    },
+    {
+      "file": "scenario-226.summary.jsonl.gz",
+      "baselineSha256": "b2b7073438ab6c5cff2b3017fa794713dd424c382aeded1cc3af040e89dd26f6",
+      "refactoredSha256": "b2b7073438ab6c5cff2b3017fa794713dd424c382aeded1cc3af040e89dd26f6",
+      "exact": true
+    },
+    {
+      "file": "scenario-227.runs.jsonl.gz",
+      "baselineSha256": "f582587092846f5f1dcccd60dbf06a09fccbfd36b6e6bee5ee45e8459f0b1297",
+      "refactoredSha256": "f582587092846f5f1dcccd60dbf06a09fccbfd36b6e6bee5ee45e8459f0b1297",
+      "exact": true
+    },
+    {
+      "file": "scenario-227.summary.jsonl.gz",
+      "baselineSha256": "9e6c43af20ba08631c23893f6fed3b9493f1497ab12e316a25c94dcdbc3f4682",
+      "refactoredSha256": "9e6c43af20ba08631c23893f6fed3b9493f1497ab12e316a25c94dcdbc3f4682",
+      "exact": true
+    },
+    {
+      "file": "scenario-234.runs.jsonl.gz",
+      "baselineSha256": "b683fd919a96259aba966f25866cee922924216f32bcdbcab3e3b003a2c36f1e",
+      "refactoredSha256": "b683fd919a96259aba966f25866cee922924216f32bcdbcab3e3b003a2c36f1e",
+      "exact": true
+    },
+    {
+      "file": "scenario-234.summary.jsonl.gz",
+      "baselineSha256": "8cb5cef13624903efea0c1d75bef40688f382ebebf4eee39cf379383aa34aa2b",
+      "refactoredSha256": "8cb5cef13624903efea0c1d75bef40688f382ebebf4eee39cf379383aa34aa2b",
+      "exact": true
+    },
+    {
+      "file": "scenario-235.runs.jsonl.gz",
+      "baselineSha256": "601a303abc74ddd8ddbe9d4626cc75ccf52c40e85f69ab39cd3b678ceab7b6bd",
+      "refactoredSha256": "601a303abc74ddd8ddbe9d4626cc75ccf52c40e85f69ab39cd3b678ceab7b6bd",
+      "exact": true
+    },
+    {
+      "file": "scenario-235.summary.jsonl.gz",
+      "baselineSha256": "0d7f2ea1a7945857965062a259d50485c020a7e989bf177870fd172ef6758ad4",
+      "refactoredSha256": "0d7f2ea1a7945857965062a259d50485c020a7e989bf177870fd172ef6758ad4",
+      "exact": true
+    },
+    {
+      "file": "scenario-236.runs.jsonl.gz",
+      "baselineSha256": "4851f8f3b7fa57e005e7e611a29dc54629f5d30153a1b1c65ada49b2e5d8fae1",
+      "refactoredSha256": "4851f8f3b7fa57e005e7e611a29dc54629f5d30153a1b1c65ada49b2e5d8fae1",
+      "exact": true
+    },
+    {
+      "file": "scenario-236.summary.jsonl.gz",
+      "baselineSha256": "3c58f518e66cf3039f5eb7bbd883ee180cc6ce65dc1f8b88b8521fa5a4235d76",
+      "refactoredSha256": "3c58f518e66cf3039f5eb7bbd883ee180cc6ce65dc1f8b88b8521fa5a4235d76",
+      "exact": true
+    },
+    {
+      "file": "scenario-243.runs.jsonl.gz",
+      "baselineSha256": "63dfec10e13ffff27b25ad933fb0ef9c2af3d511c05638b51d49a30b14364367",
+      "refactoredSha256": "63dfec10e13ffff27b25ad933fb0ef9c2af3d511c05638b51d49a30b14364367",
+      "exact": true
+    },
+    {
+      "file": "scenario-243.summary.jsonl.gz",
+      "baselineSha256": "3acb2a3609d15c2037bad9f77c8005a4effef92fd73381c9ed4d4da26b0c9488",
+      "refactoredSha256": "3acb2a3609d15c2037bad9f77c8005a4effef92fd73381c9ed4d4da26b0c9488",
+      "exact": true
+    },
+    {
+      "file": "scenario-244.runs.jsonl.gz",
+      "baselineSha256": "dbc1cbbd8e0183323628248403bd7b82a33f20dc10a09a370a804a58ee80aa47",
+      "refactoredSha256": "dbc1cbbd8e0183323628248403bd7b82a33f20dc10a09a370a804a58ee80aa47",
+      "exact": true
+    },
+    {
+      "file": "scenario-244.summary.jsonl.gz",
+      "baselineSha256": "0d2e0ba0431fcaeb4eeb5c0b54cf8c7b90f27116d530a58cf28faf7d4a877eec",
+      "refactoredSha256": "0d2e0ba0431fcaeb4eeb5c0b54cf8c7b90f27116d530a58cf28faf7d4a877eec",
+      "exact": true
+    },
+    {
+      "file": "scenario-245.runs.jsonl.gz",
+      "baselineSha256": "92d5dd0d5c4c7271fbdfecb70115907ccce97facc141403d6fcf6c4d987f784f",
+      "refactoredSha256": "92d5dd0d5c4c7271fbdfecb70115907ccce97facc141403d6fcf6c4d987f784f",
+      "exact": true
+    },
+    {
+      "file": "scenario-245.summary.jsonl.gz",
+      "baselineSha256": "4a8d10e77938ece643e9c8e99a406e21700bc5e8064a2571ef08bb3087e23210",
+      "refactoredSha256": "4a8d10e77938ece643e9c8e99a406e21700bc5e8064a2571ef08bb3087e23210",
+      "exact": true
+    },
+    {
+      "file": "scenario-37.runs.jsonl.gz",
+      "baselineSha256": "d4937ea09583d6c9213925b558bae6489e316449c66302731b75b8d91622ec0e",
+      "refactoredSha256": "d4937ea09583d6c9213925b558bae6489e316449c66302731b75b8d91622ec0e",
+      "exact": true
+    },
+    {
+      "file": "scenario-37.summary.jsonl.gz",
+      "baselineSha256": "fc10c5fedc46d166f7db0d6f8cd42c5ab045bf58c730dec9f6433c19e9caf539",
+      "refactoredSha256": "fc10c5fedc46d166f7db0d6f8cd42c5ab045bf58c730dec9f6433c19e9caf539",
+      "exact": true
+    },
+    {
+      "file": "scenario-38.runs.jsonl.gz",
+      "baselineSha256": "baee213c658d3d84be19cd687cd8541c3f1b2d71da47bf942dbe6e16845b3dd8",
+      "refactoredSha256": "baee213c658d3d84be19cd687cd8541c3f1b2d71da47bf942dbe6e16845b3dd8",
+      "exact": true
+    },
+    {
+      "file": "scenario-38.summary.jsonl.gz",
+      "baselineSha256": "57e388d12ae39adb5ab322037615f11c60f8a24eef26a741d2507e885cedc596",
+      "refactoredSha256": "57e388d12ae39adb5ab322037615f11c60f8a24eef26a741d2507e885cedc596",
+      "exact": true
+    },
+    {
+      "file": "scenario-39.runs.jsonl.gz",
+      "baselineSha256": "61209b00244bccea97c2ecf956b654444b93f084422646a9f9aff635f3e4e009",
+      "refactoredSha256": "61209b00244bccea97c2ecf956b654444b93f084422646a9f9aff635f3e4e009",
+      "exact": true
+    },
+    {
+      "file": "scenario-39.summary.jsonl.gz",
+      "baselineSha256": "9e8dc6db8812c713a5371f83d908d69eb7d633576ba38823baee49e418493909",
+      "refactoredSha256": "9e8dc6db8812c713a5371f83d908d69eb7d633576ba38823baee49e418493909",
+      "exact": true
+    },
+    {
+      "file": "scenario-40.runs.jsonl.gz",
+      "baselineSha256": "252f1911c01e87086750581cf41f06281f4d04b4b24579f74baa65659ab162cf",
+      "refactoredSha256": "252f1911c01e87086750581cf41f06281f4d04b4b24579f74baa65659ab162cf",
+      "exact": true
+    },
+    {
+      "file": "scenario-40.summary.jsonl.gz",
+      "baselineSha256": "ce73a97021e2298619f6a2189be8d3618108806f8835c775601414251d927b00",
+      "refactoredSha256": "ce73a97021e2298619f6a2189be8d3618108806f8835c775601414251d927b00",
+      "exact": true
+    },
+    {
+      "file": "scenario-41.runs.jsonl.gz",
+      "baselineSha256": "935c04c9d0d34cea27b3c9b1cc9a17e91b13f007c49e4e2d28c9a083028e17a8",
+      "refactoredSha256": "935c04c9d0d34cea27b3c9b1cc9a17e91b13f007c49e4e2d28c9a083028e17a8",
+      "exact": true
+    },
+    {
+      "file": "scenario-41.summary.jsonl.gz",
+      "baselineSha256": "a5ffe33b53277ea5ec0418ddc8749bbf17d550a0a68cf51bb06800148184be67",
+      "refactoredSha256": "a5ffe33b53277ea5ec0418ddc8749bbf17d550a0a68cf51bb06800148184be67",
+      "exact": true
+    },
+    {
+      "file": "scenario-42.runs.jsonl.gz",
+      "baselineSha256": "0f4de50c2f090d7a7336a61a5c2ed3e115ef70a1b297643992889d09c6886bde",
+      "refactoredSha256": "0f4de50c2f090d7a7336a61a5c2ed3e115ef70a1b297643992889d09c6886bde",
+      "exact": true
+    },
+    {
+      "file": "scenario-42.summary.jsonl.gz",
+      "baselineSha256": "1571c4efcb4a27f8c08e95a21fe749ea8ff7d835f3d77e777aa83deaafc49c96",
+      "refactoredSha256": "1571c4efcb4a27f8c08e95a21fe749ea8ff7d835f3d77e777aa83deaafc49c96",
+      "exact": true
+    },
+    {
+      "file": "scenario-43.runs.jsonl.gz",
+      "baselineSha256": "1fd36d4a32efc2ae931438f97186d35c139b0528a2c031b5e05c1bce45d5dda4",
+      "refactoredSha256": "1fd36d4a32efc2ae931438f97186d35c139b0528a2c031b5e05c1bce45d5dda4",
+      "exact": true
+    },
+    {
+      "file": "scenario-43.summary.jsonl.gz",
+      "baselineSha256": "a0fd7a9a304db8d950da8df89cbf68ed736f64f54d2414337de3f29195a45287",
+      "refactoredSha256": "a0fd7a9a304db8d950da8df89cbf68ed736f64f54d2414337de3f29195a45287",
+      "exact": true
+    },
+    {
+      "file": "scenario-44.runs.jsonl.gz",
+      "baselineSha256": "b84a1bcba72ac35c59a626211472a30002c5172914ed8aabe52086c786c84cd2",
+      "refactoredSha256": "b84a1bcba72ac35c59a626211472a30002c5172914ed8aabe52086c786c84cd2",
+      "exact": true
+    },
+    {
+      "file": "scenario-44.summary.jsonl.gz",
+      "baselineSha256": "42c45d917cef7cda918e361ae91f287634645e8093fa079c70f37c990675e3f9",
+      "refactoredSha256": "42c45d917cef7cda918e361ae91f287634645e8093fa079c70f37c990675e3f9",
+      "exact": true
+    },
+    {
+      "file": "scenario-45.runs.jsonl.gz",
+      "baselineSha256": "b7dc3682878330fe9920eef89b7b8968c17a6441d6b93e4f74fab2c62368efad",
+      "refactoredSha256": "b7dc3682878330fe9920eef89b7b8968c17a6441d6b93e4f74fab2c62368efad",
+      "exact": true
+    },
+    {
+      "file": "scenario-45.summary.jsonl.gz",
+      "baselineSha256": "5dd7195f3b2537a9bd01283db94bc79695f09a0dfddd6fa9f3d255187fb30448",
+      "refactoredSha256": "5dd7195f3b2537a9bd01283db94bc79695f09a0dfddd6fa9f3d255187fb30448",
+      "exact": true
+    },
+    {
+      "file": "scenario-46.runs.jsonl.gz",
+      "baselineSha256": "5eb266aed76c81de5d1a48aaeeaadd582875b57eef541417d1c68e7f4fc241b5",
+      "refactoredSha256": "5eb266aed76c81de5d1a48aaeeaadd582875b57eef541417d1c68e7f4fc241b5",
+      "exact": true
+    },
+    {
+      "file": "scenario-46.summary.jsonl.gz",
+      "baselineSha256": "c0ebf6f490a37eddc6a9b4349e669a9b8e0959409ecaf8999ea6328e208c80e6",
+      "refactoredSha256": "c0ebf6f490a37eddc6a9b4349e669a9b8e0959409ecaf8999ea6328e208c80e6",
+      "exact": true
+    },
+    {
+      "file": "scenario-47.runs.jsonl.gz",
+      "baselineSha256": "5cb8d99738160f161fc84d8ae239989541edf5b795ce0aef9df3f496f3d27bd1",
+      "refactoredSha256": "5cb8d99738160f161fc84d8ae239989541edf5b795ce0aef9df3f496f3d27bd1",
+      "exact": true
+    },
+    {
+      "file": "scenario-47.summary.jsonl.gz",
+      "baselineSha256": "71499da394ecc45ee2145d1a05e95e7a2ec07bd7d8f1f2b898aa1eca46bcdd60",
+      "refactoredSha256": "71499da394ecc45ee2145d1a05e95e7a2ec07bd7d8f1f2b898aa1eca46bcdd60",
+      "exact": true
+    },
+    {
+      "file": "scenario-48.runs.jsonl.gz",
+      "baselineSha256": "c0797ce81020a1e45da18d3045ff9787ce5d58c6d2094d619283289e367b6204",
+      "refactoredSha256": "c0797ce81020a1e45da18d3045ff9787ce5d58c6d2094d619283289e367b6204",
+      "exact": true
+    },
+    {
+      "file": "scenario-48.summary.jsonl.gz",
+      "baselineSha256": "c2fcb74b120efebe331253b290645a1e8fa89ef7623ab4a66a366b94da6cacc6",
+      "refactoredSha256": "c2fcb74b120efebe331253b290645a1e8fa89ef7623ab4a66a366b94da6cacc6",
+      "exact": true
+    },
+    {
+      "file": "scenario-49.runs.jsonl.gz",
+      "baselineSha256": "d248a786f78e354eeb629e2e24465d163b8853b9bdfb05e12dac98ed05f1be2d",
+      "refactoredSha256": "d248a786f78e354eeb629e2e24465d163b8853b9bdfb05e12dac98ed05f1be2d",
+      "exact": true
+    },
+    {
+      "file": "scenario-49.summary.jsonl.gz",
+      "baselineSha256": "2f3a10dbb4ac1881ead1aa0121d09c2c9572795211aca86168199a5b89691408",
+      "refactoredSha256": "2f3a10dbb4ac1881ead1aa0121d09c2c9572795211aca86168199a5b89691408",
+      "exact": true
+    },
+    {
+      "file": "scenario-50.runs.jsonl.gz",
+      "baselineSha256": "f559b37ae319a98983f2235190f00c64b2f5f7c875255e36697f8124bd544573",
+      "refactoredSha256": "f559b37ae319a98983f2235190f00c64b2f5f7c875255e36697f8124bd544573",
+      "exact": true
+    },
+    {
+      "file": "scenario-50.summary.jsonl.gz",
+      "baselineSha256": "52a9ab52ea4db2c605678f70e0e5813c740c537ab4ecc10cc6f0b5daabb25379",
+      "refactoredSha256": "52a9ab52ea4db2c605678f70e0e5813c740c537ab4ecc10cc6f0b5daabb25379",
+      "exact": true
+    },
+    {
+      "file": "scenario-57.runs.jsonl.gz",
+      "baselineSha256": "f2dc448cc66d121e9c08cec9a9132e1fb0a4f78d905d33f6b2fdd1bfc5eee718",
+      "refactoredSha256": "f2dc448cc66d121e9c08cec9a9132e1fb0a4f78d905d33f6b2fdd1bfc5eee718",
+      "exact": true
+    },
+    {
+      "file": "scenario-57.summary.jsonl.gz",
+      "baselineSha256": "d72d2ee51a5af433d79946d5c17b9416dcc086c918c706a2b2bff07849346983",
+      "refactoredSha256": "d72d2ee51a5af433d79946d5c17b9416dcc086c918c706a2b2bff07849346983",
+      "exact": true
+    },
+    {
+      "file": "scenario-58.runs.jsonl.gz",
+      "baselineSha256": "b8b813c06c2a5316e976cb5e16fae97f8505f8ad7d39d028d02369bc2067b0b6",
+      "refactoredSha256": "b8b813c06c2a5316e976cb5e16fae97f8505f8ad7d39d028d02369bc2067b0b6",
+      "exact": true
+    },
+    {
+      "file": "scenario-58.summary.jsonl.gz",
+      "baselineSha256": "8767359d63e115eadc652d13c6db7141343631a824c6375db1d902646e47604c",
+      "refactoredSha256": "8767359d63e115eadc652d13c6db7141343631a824c6375db1d902646e47604c",
+      "exact": true
+    },
+    {
+      "file": "scenario-59.runs.jsonl.gz",
+      "baselineSha256": "4e774e629e950370133d54470e486614df41b8e40bcc9d106b3e2db2ff8ebc01",
+      "refactoredSha256": "4e774e629e950370133d54470e486614df41b8e40bcc9d106b3e2db2ff8ebc01",
+      "exact": true
+    },
+    {
+      "file": "scenario-59.summary.jsonl.gz",
+      "baselineSha256": "e6035c3662955f0f6f8a53e12d2ec7e2975f7d2fe553afe8b3fe3f7826438fc4",
+      "refactoredSha256": "e6035c3662955f0f6f8a53e12d2ec7e2975f7d2fe553afe8b3fe3f7826438fc4",
+      "exact": true
+    },
+    {
+      "file": "scenario-6.runs.jsonl.gz",
+      "baselineSha256": "500bb318dcef38526080d8d549bc617dc0d28d874b4d79b632fef1ec75793274",
+      "refactoredSha256": "500bb318dcef38526080d8d549bc617dc0d28d874b4d79b632fef1ec75793274",
+      "exact": true
+    },
+    {
+      "file": "scenario-6.summary.jsonl.gz",
+      "baselineSha256": "db4d86461650ed1386bebc145474ac9883fb318bf1c0da13e2f0a869c8ac4dee",
+      "refactoredSha256": "db4d86461650ed1386bebc145474ac9883fb318bf1c0da13e2f0a869c8ac4dee",
+      "exact": true
+    },
+    {
+      "file": "scenario-66.runs.jsonl.gz",
+      "baselineSha256": "88ddd228c4890e6e161983308e094dae77a01249b30b868e1cdfda0b79978d9c",
+      "refactoredSha256": "88ddd228c4890e6e161983308e094dae77a01249b30b868e1cdfda0b79978d9c",
+      "exact": true
+    },
+    {
+      "file": "scenario-66.summary.jsonl.gz",
+      "baselineSha256": "f910b848cb424c544713d461128db97d76fa3dece261ab10d3a01e4185cd99bb",
+      "refactoredSha256": "f910b848cb424c544713d461128db97d76fa3dece261ab10d3a01e4185cd99bb",
+      "exact": true
+    },
+    {
+      "file": "scenario-67.runs.jsonl.gz",
+      "baselineSha256": "d47f7e611ae80a21b5b594bb8b7d4546ce1b544c28c6c951625c5829c35c4072",
+      "refactoredSha256": "d47f7e611ae80a21b5b594bb8b7d4546ce1b544c28c6c951625c5829c35c4072",
+      "exact": true
+    },
+    {
+      "file": "scenario-67.summary.jsonl.gz",
+      "baselineSha256": "fca86c9fdc52aa9f1ae56ba07aec1c61873d7af50b4054e00d8abd9f918c8674",
+      "refactoredSha256": "fca86c9fdc52aa9f1ae56ba07aec1c61873d7af50b4054e00d8abd9f918c8674",
+      "exact": true
+    },
+    {
+      "file": "scenario-68.runs.jsonl.gz",
+      "baselineSha256": "08084e36709b4c3f33feb25a7e9c3998d674cdf0a03af640e2f42d6f0dc4d66d",
+      "refactoredSha256": "08084e36709b4c3f33feb25a7e9c3998d674cdf0a03af640e2f42d6f0dc4d66d",
+      "exact": true
+    },
+    {
+      "file": "scenario-68.summary.jsonl.gz",
+      "baselineSha256": "41625708ae8c5f7b3d92fd1d46c6dc9d8c688859f8c510f92109bb2f753b4029",
+      "refactoredSha256": "41625708ae8c5f7b3d92fd1d46c6dc9d8c688859f8c510f92109bb2f753b4029",
+      "exact": true
+    },
+    {
+      "file": "scenario-7.runs.jsonl.gz",
+      "baselineSha256": "b77ea335e168401d9f0f1d8cff579c17a61222bbe01612bd999ab465dd8fbd11",
+      "refactoredSha256": "b77ea335e168401d9f0f1d8cff579c17a61222bbe01612bd999ab465dd8fbd11",
+      "exact": true
+    },
+    {
+      "file": "scenario-7.summary.jsonl.gz",
+      "baselineSha256": "9d35cf57ff6b3ba6e94f98fcf1b56a6d9f780d70b4f9d62c9fdc81381ff70227",
+      "refactoredSha256": "9d35cf57ff6b3ba6e94f98fcf1b56a6d9f780d70b4f9d62c9fdc81381ff70227",
+      "exact": true
+    },
+    {
+      "file": "scenario-75.runs.jsonl.gz",
+      "baselineSha256": "4a6b364ac6240378dece4715af3f89c9b4727cad4c380efad887872917db72f6",
+      "refactoredSha256": "4a6b364ac6240378dece4715af3f89c9b4727cad4c380efad887872917db72f6",
+      "exact": true
+    },
+    {
+      "file": "scenario-75.summary.jsonl.gz",
+      "baselineSha256": "9c7cebd9132559a4091cc34145fe68330f5ee6f5bd930a21711af03a88cc97a0",
+      "refactoredSha256": "9c7cebd9132559a4091cc34145fe68330f5ee6f5bd930a21711af03a88cc97a0",
+      "exact": true
+    },
+    {
+      "file": "scenario-76.runs.jsonl.gz",
+      "baselineSha256": "0e000e57b237f11dbd0d111129b44b7aeb145e6e11b1820f2a692368bb07c984",
+      "refactoredSha256": "0e000e57b237f11dbd0d111129b44b7aeb145e6e11b1820f2a692368bb07c984",
+      "exact": true
+    },
+    {
+      "file": "scenario-76.summary.jsonl.gz",
+      "baselineSha256": "485e60a971ade87e000bafd3fd9a25e6fbac613f1714e3ea25277a1f9684e7bd",
+      "refactoredSha256": "485e60a971ade87e000bafd3fd9a25e6fbac613f1714e3ea25277a1f9684e7bd",
+      "exact": true
+    },
+    {
+      "file": "scenario-77.runs.jsonl.gz",
+      "baselineSha256": "ff406c0a9db0a4be0a6925dbb603faecf38bd8b8c78b185ef492572578e09229",
+      "refactoredSha256": "ff406c0a9db0a4be0a6925dbb603faecf38bd8b8c78b185ef492572578e09229",
+      "exact": true
+    },
+    {
+      "file": "scenario-77.summary.jsonl.gz",
+      "baselineSha256": "d3ed4f0034eced8f3fa28789a268bfedb57afc46c9012373678ee9700a7f59a1",
+      "refactoredSha256": "d3ed4f0034eced8f3fa28789a268bfedb57afc46c9012373678ee9700a7f59a1",
+      "exact": true
+    },
+    {
+      "file": "scenario-8.runs.jsonl.gz",
+      "baselineSha256": "98a21e9e78b2fb7a63dc00c2f0474b17fa361a5842ccb9e0a279355c0e899c7e",
+      "refactoredSha256": "98a21e9e78b2fb7a63dc00c2f0474b17fa361a5842ccb9e0a279355c0e899c7e",
+      "exact": true
+    },
+    {
+      "file": "scenario-8.summary.jsonl.gz",
+      "baselineSha256": "d04b96a616deb427a91ab86427f7dd0324300a5f741f086f12dfb15492010aeb",
+      "refactoredSha256": "d04b96a616deb427a91ab86427f7dd0324300a5f741f086f12dfb15492010aeb",
+      "exact": true
+    },
+    {
+      "file": "scenario-84.runs.jsonl.gz",
+      "baselineSha256": "a8f226957a7f133767a477b6c1720c6ab22e9a6eed7915a3a723f465447c158d",
+      "refactoredSha256": "a8f226957a7f133767a477b6c1720c6ab22e9a6eed7915a3a723f465447c158d",
+      "exact": true
+    },
+    {
+      "file": "scenario-84.summary.jsonl.gz",
+      "baselineSha256": "551d424b2fa4857cbd67a3c88f671bc213d6e0bd2ee429c32fb66e1f4d78c8e2",
+      "refactoredSha256": "551d424b2fa4857cbd67a3c88f671bc213d6e0bd2ee429c32fb66e1f4d78c8e2",
+      "exact": true
+    },
+    {
+      "file": "scenario-85.runs.jsonl.gz",
+      "baselineSha256": "2b45e8471b6e929ff1677bb11d976d8facc8818e058bbaaf7114c1d95b867d7a",
+      "refactoredSha256": "2b45e8471b6e929ff1677bb11d976d8facc8818e058bbaaf7114c1d95b867d7a",
+      "exact": true
+    },
+    {
+      "file": "scenario-85.summary.jsonl.gz",
+      "baselineSha256": "c7907b42bfad13247c6000aa80ac8d3541b776699b006409ae59829e06324eee",
+      "refactoredSha256": "c7907b42bfad13247c6000aa80ac8d3541b776699b006409ae59829e06324eee",
+      "exact": true
+    },
+    {
+      "file": "scenario-86.runs.jsonl.gz",
+      "baselineSha256": "51e5999e6d8640607b8dd9c61c30181d2d0d152fdd58da4539104bf972ed939c",
+      "refactoredSha256": "51e5999e6d8640607b8dd9c61c30181d2d0d152fdd58da4539104bf972ed939c",
+      "exact": true
+    },
+    {
+      "file": "scenario-86.summary.jsonl.gz",
+      "baselineSha256": "77659d0c69479f8dfe5bfe57d13b1f9d43d2c3f0d241ccdbdf1b318503aeba57",
+      "refactoredSha256": "77659d0c69479f8dfe5bfe57d13b1f9d43d2c3f0d241ccdbdf1b318503aeba57",
+      "exact": true
+    },
+    {
+      "file": "scenario-93.runs.jsonl.gz",
+      "baselineSha256": "7e1f1ee88d73e3bc212f5f72a3b81b061a94c487caf9d367e4dad3786964d507",
+      "refactoredSha256": "7e1f1ee88d73e3bc212f5f72a3b81b061a94c487caf9d367e4dad3786964d507",
+      "exact": true
+    },
+    {
+      "file": "scenario-93.summary.jsonl.gz",
+      "baselineSha256": "a09cd9fe43870278ec405974b478b045e4bf9a45dc8343ee8f047627dbeb3208",
+      "refactoredSha256": "a09cd9fe43870278ec405974b478b045e4bf9a45dc8343ee8f047627dbeb3208",
+      "exact": true
+    },
+    {
+      "file": "scenario-94.runs.jsonl.gz",
+      "baselineSha256": "68f69a80e52f70db098014298363561b10033d9fd683a99e241e247010286967",
+      "refactoredSha256": "68f69a80e52f70db098014298363561b10033d9fd683a99e241e247010286967",
+      "exact": true
+    },
+    {
+      "file": "scenario-94.summary.jsonl.gz",
+      "baselineSha256": "0ece49e7022ed63292c353e4897bcf1853ed20326f964f6029865f4f34917a22",
+      "refactoredSha256": "0ece49e7022ed63292c353e4897bcf1853ed20326f964f6029865f4f34917a22",
+      "exact": true
+    },
+    {
+      "file": "scenario-95.runs.jsonl.gz",
+      "baselineSha256": "e3d55123eec95aeaf6b9076b8f31c9fd6be2abde096b031d62b1e616752d921e",
+      "refactoredSha256": "e3d55123eec95aeaf6b9076b8f31c9fd6be2abde096b031d62b1e616752d921e",
+      "exact": true
+    },
+    {
+      "file": "scenario-95.summary.jsonl.gz",
+      "baselineSha256": "3e01949a8f03f1c64ab9317bd02bcf08447bfb3436008f28244d822e8490a626",
+      "refactoredSha256": "3e01949a8f03f1c64ab9317bd02bcf08447bfb3436008f28244d822e8490a626",
+      "exact": true
+    }
+  ],
+  "sourceHashes": {
+    "equipment.inc": "b56203dcc52b057d14e44f7d726e6076cffdc37e43869695ae11a7547e9203f8",
+    "attributes.hpp": "583eca3c420845811b8c02c83911f05965737a34614a0cabea8e2c44ac65dd28",
+    "attributes.inc": "0d814cc4c9569c428c1173cad99bf5e6d1b830b3cffce8539ad3f4bc605e1465",
+    "prelude.hpp": "dc3b1329a39bb0003a3dd2583f4196640f5f8a04123343e7c1687a9514323229",
+    "simulation.inc": "878e4e268b371cc273dd8358425fc2bfb3a2ce9076f571711613f5b83a3af064",
+    "equipment.hpp": "908650b08d3df246e5d957f8246df0df5f1caec3e3db26ed2905266f7401b4c2",
+    "skills.inc": "a156a4d0619114d7373c9ad34d42b914a4697123fe217e47a25f3ba5405692b4",
+    "buffs.inc": "94b7cb12b6cd0fb305414f5e617d322825ba99c5b1346ef149110fccb99c0bd6",
+    "output.inc": "90db3ed420bc3a4c8ea53ce244d6413bc84db0316c8ff9b4e39d817dc2f74244",
+    "buffs.hpp": "b2e8aac5a400f408a7723e72b049b9e7324deaa3989cf70dd744d776382a3e63"
+  },
+  "engineHash": "76b3272e023e0be2655ae565f67024fd5fdb4f9bd78607cc221b0a042c756a78"
+}

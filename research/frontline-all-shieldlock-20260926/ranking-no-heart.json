@@ -1,0 +1,1068 @@
+{
+  "leaderboard": [
+    {
+      "id": "s149-b3239-a4",
+      "scenario": 149,
+      "heroId": 33501,
+      "items": [
+        5,
+        27,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 2200,
+      "failedDps": 2250,
+      "stageCount": 40,
+      "failedFrame": 870,
+      "remainingHpShield": 260.3054996010551,
+      "ceilingReached": false,
+      "hero": "蔚",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "主宰": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "饮血剑",
+        "石像鬼石板甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 1,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    },
+    {
+      "id": "s185-b3212-a4",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 1350,
+      "failedDps": 1400,
+      "stageCount": 23,
+      "failedFrame": 880,
+      "remainingHpShield": 129.5657818004896,
+      "ceilingReached": false,
+      "hero": "拉莫斯",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "饮血剑",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 2,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    },
+    {
+      "id": "s104-b3212-a4",
+      "scenario": 104,
+      "heroId": 32502,
+      "items": [
+        5,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 1250,
+      "failedDps": 1300,
+      "stageCount": 21,
+      "failedFrame": 880,
+      "remainingHpShield": 157.60982327853156,
+      "ceilingReached": false,
+      "hero": "瑟庄妮",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "主宰": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "饮血剑",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 3,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 3
+    },
+    {
+      "id": "s86-b7487-a4",
+      "scenario": 86,
+      "heroId": 32500,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 1200,
+      "failedDps": 1250,
+      "stageCount": 20,
+      "failedFrame": 820,
+      "remainingHpShield": 125.74793563306717,
+      "ceilingReached": false,
+      "hero": "峡谷迅捷蟹",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "主宰": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 4,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    },
+    {
+      "id": "s50-b7656-a4",
+      "scenario": 50,
+      "heroId": 31501,
+      "items": [
+        27,
+        27,
+        33
+      ],
+      "augment": 4,
+      "passedDps": 1150,
+      "failedDps": 1200,
+      "stageCount": 19,
+      "failedFrame": 890,
+      "remainingHpShield": 217.9061437908465,
+      "ceilingReached": false,
+      "hero": "洛",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 6,
+        "重装": 4
+      },
+      "slots": 9,
+      "itemNames": [
+        "石像鬼石板甲",
+        "石像鬼石板甲",
+        "狂徒铠甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 5,
+      "evaluatedConfigurations": 117600,
+      "equallyBestConfigurations": 2
+    },
+    {
+      "id": "s122-b4666-a4",
+      "scenario": 122,
+      "heroId": 32504,
+      "items": [
+        9,
+        16,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 1150,
+      "failedDps": 1200,
+      "stageCount": 19,
+      "failedFrame": 830,
+      "remainingHpShield": 903.0493333333288,
+      "ceilingReached": false,
+      "hero": "伊莉丝",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "重装": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "鬼索的狂暴之刃",
+        "大天使之杖",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 5,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    },
+    {
+      "id": "s167-b7487-a4",
+      "scenario": 167,
+      "heroId": 33503,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 1150,
+      "failedDps": 1200,
+      "stageCount": 19,
+      "failedFrame": 860,
+      "remainingHpShield": 886.6537920233523,
+      "ceilingReached": false,
+      "hero": "远古石甲虫",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "斗士": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 5,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 3
+    },
+    {
+      "id": "s158-b7487-a4",
+      "scenario": 158,
+      "heroId": 33502,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 1100,
+      "failedDps": 1150,
+      "stageCount": 18,
+      "failedFrame": 790,
+      "remainingHpShield": 51.416681804464645,
+      "ceilingReached": false,
+      "hero": "费德提克",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 8,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    },
+    {
+      "id": "s95-b7487-a4",
+      "scenario": 95,
+      "heroId": 32501,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 1050,
+      "failedDps": 1100,
+      "stageCount": 17,
+      "failedFrame": 860,
+      "remainingHpShield": 150.99755607649286,
+      "ceilingReached": false,
+      "hero": "阿利斯塔",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "斗士": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 9,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    },
+    {
+      "id": "s140-b3239-a4",
+      "scenario": 140,
+      "heroId": 33500,
+      "items": [
+        5,
+        27,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 1000,
+      "failedDps": 1050,
+      "stageCount": 16,
+      "failedFrame": 880,
+      "remainingHpShield": 150.5341352525163,
+      "ceilingReached": false,
+      "hero": "赫卡里姆",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "重装": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "饮血剑",
+        "石像鬼石板甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 10,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 4
+    },
+    {
+      "id": "s209-b7487-a4",
+      "scenario": 209,
+      "heroId": 24503,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 1000,
+      "failedDps": 1050,
+      "stageCount": 16,
+      "failedFrame": 860,
+      "remainingHpShield": 213.03147273300044,
+      "ceilingReached": false,
+      "hero": "阿木木",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "主宰": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 10,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 6
+    },
+    {
+      "id": "s113-b7487-a4",
+      "scenario": 113,
+      "heroId": 32503,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 950,
+      "failedDps": 1000,
+      "stageCount": 15,
+      "failedFrame": 830,
+      "remainingHpShield": 472.77132374455795,
+      "ceilingReached": false,
+      "hero": "慎",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 12,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 3
+    },
+    {
+      "id": "s227-b3212-a4",
+      "scenario": 227,
+      "heroId": 25450,
+      "items": [
+        5,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 950,
+      "failedDps": 1000,
+      "stageCount": 15,
+      "failedFrame": 880,
+      "remainingHpShield": 644.4329942099084,
+      "ceilingReached": false,
+      "hero": "茂凯",
+      "star": 2,
+      "cost": 5,
+      "traits": {
+        "主宰": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "饮血剑",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 12,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 3
+    },
+    {
+      "id": "s176-b2942-a4",
+      "scenario": 176,
+      "heroId": 33506,
+      "items": [
+        5,
+        9,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 900,
+      "failedDps": 950,
+      "stageCount": 14,
+      "failedFrame": 810,
+      "remainingHpShield": 848.755621624485,
+      "ceilingReached": false,
+      "hero": "黛安娜",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "重装": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "饮血剑",
+        "鬼索的狂暴之刃",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 14,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 5
+    },
+    {
+      "id": "s191-b7520-a4",
+      "scenario": 191,
+      "heroId": 24500,
+      "items": [
+        24,
+        27,
+        33
+      ],
+      "augment": 4,
+      "passedDps": 850,
+      "failedDps": 900,
+      "stageCount": 13,
+      "failedFrame": 820,
+      "remainingHpShield": 453.85058905184854,
+      "ceilingReached": false,
+      "hero": "苍蓝雕纹魔像",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "重装": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "石像鬼石板甲",
+        "狂徒铠甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 15,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 2
+    },
+    {
+      "id": "s236-b7656-a4",
+      "scenario": 236,
+      "heroId": 25451,
+      "items": [
+        27,
+        27,
+        33
+      ],
+      "augment": 4,
+      "passedDps": 850,
+      "failedDps": 900,
+      "stageCount": 13,
+      "failedFrame": 840,
+      "remainingHpShield": 33.1235196274164,
+      "ceilingReached": false,
+      "hero": "塔里克",
+      "star": 2,
+      "cost": 5,
+      "traits": {
+        "重装": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "石像鬼石板甲",
+        "石像鬼石板甲",
+        "狂徒铠甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 15,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    },
+    {
+      "id": "s218-b7487-a4",
+      "scenario": 218,
+      "heroId": 24505,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 800,
+      "failedDps": 850,
+      "stageCount": 12,
+      "failedFrame": 850,
+      "remainingHpShield": 129.95731034303384,
+      "ceilingReached": false,
+      "hero": "瑟提",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "斗士": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 17,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    },
+    {
+      "id": "s8-b7487-a4",
+      "scenario": 8,
+      "heroId": 31500,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 750,
+      "failedDps": 800,
+      "stageCount": 11,
+      "failedFrame": 830,
+      "remainingHpShield": 46.938889182980716,
+      "ceilingReached": false,
+      "hero": "奥恩",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 18,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 2
+    },
+    {
+      "id": "s68-b7487-a4",
+      "scenario": 68,
+      "heroId": 31503,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 750,
+      "failedDps": 800,
+      "stageCount": 11,
+      "failedFrame": 850,
+      "remainingHpShield": 84.70072527146561,
+      "ceilingReached": false,
+      "hero": "可酷伯",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "斗士": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 18,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    },
+    {
+      "id": "s77-b7487-a4",
+      "scenario": 77,
+      "heroId": 31504,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 750,
+      "failedDps": 800,
+      "stageCount": 11,
+      "failedFrame": 830,
+      "remainingHpShield": 459.1987962276832,
+      "ceilingReached": false,
+      "hero": "雷克塞",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "斗士": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 18,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    },
+    {
+      "id": "s131-b7487-a4",
+      "scenario": 131,
+      "heroId": 32505,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 750,
+      "failedDps": 800,
+      "stageCount": 11,
+      "failedFrame": 820,
+      "remainingHpShield": 268.620876659376,
+      "ceilingReached": false,
+      "hero": "约里克",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 18,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    },
+    {
+      "id": "s200-b7487-a4",
+      "scenario": 200,
+      "heroId": 24502,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 700,
+      "failedDps": 750,
+      "stageCount": 10,
+      "failedFrame": 770,
+      "remainingHpShield": 112.09627497267142,
+      "ceilingReached": false,
+      "hero": "莉莉娅",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 22,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    },
+    {
+      "id": "s59-b7487-a4",
+      "scenario": 59,
+      "heroId": 31502,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 550,
+      "failedDps": 600,
+      "stageCount": 7,
+      "failedFrame": 850,
+      "remainingHpShield": 181.942143580201,
+      "ceilingReached": false,
+      "hero": "蕾欧娜",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 23,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 2
+    },
+    {
+      "id": "s245-b7487-a4",
+      "scenario": 245,
+      "heroId": 25452,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 550,
+      "failedDps": 600,
+      "stageCount": 7,
+      "failedFrame": 860,
+      "remainingHpShield": 336.26553928121524,
+      "ceilingReached": false,
+      "hero": "纳尔",
+      "star": 2,
+      "cost": 5,
+      "traits": {
+        "斗士": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 23,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 2
+    }
+  ],
+  "topEight": [
+    {
+      "id": "s149-b3239-a4",
+      "scenario": 149,
+      "heroId": 33501,
+      "items": [
+        5,
+        27,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 2200,
+      "failedDps": 2250,
+      "stageCount": 40,
+      "failedFrame": 870,
+      "remainingHpShield": 260.3054996010551,
+      "ceilingReached": false,
+      "hero": "蔚",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "主宰": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "饮血剑",
+        "石像鬼石板甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 1,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    },
+    {
+      "id": "s185-b3212-a4",
+      "scenario": 185,
+      "heroId": 33515,
+      "items": [
+        5,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 1350,
+      "failedDps": 1400,
+      "stageCount": 23,
+      "failedFrame": 880,
+      "remainingHpShield": 129.5657818004896,
+      "ceilingReached": false,
+      "hero": "拉莫斯",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "饮血剑",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 2,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    },
+    {
+      "id": "s104-b3212-a4",
+      "scenario": 104,
+      "heroId": 32502,
+      "items": [
+        5,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 1250,
+      "failedDps": 1300,
+      "stageCount": 21,
+      "failedFrame": 880,
+      "remainingHpShield": 157.60982327853156,
+      "ceilingReached": false,
+      "hero": "瑟庄妮",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "主宰": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "饮血剑",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 3,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 3
+    },
+    {
+      "id": "s86-b7487-a4",
+      "scenario": 86,
+      "heroId": 32500,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 1200,
+      "failedDps": 1250,
+      "stageCount": 20,
+      "failedFrame": 820,
+      "remainingHpShield": 125.74793563306717,
+      "ceilingReached": false,
+      "hero": "峡谷迅捷蟹",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "主宰": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 4,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    },
+    {
+      "id": "s50-b7656-a4",
+      "scenario": 50,
+      "heroId": 31501,
+      "items": [
+        27,
+        27,
+        33
+      ],
+      "augment": 4,
+      "passedDps": 1150,
+      "failedDps": 1200,
+      "stageCount": 19,
+      "failedFrame": 890,
+      "remainingHpShield": 217.9061437908465,
+      "ceilingReached": false,
+      "hero": "洛",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 6,
+        "重装": 4
+      },
+      "slots": 9,
+      "itemNames": [
+        "石像鬼石板甲",
+        "石像鬼石板甲",
+        "狂徒铠甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 5,
+      "evaluatedConfigurations": 117600,
+      "equallyBestConfigurations": 2
+    },
+    {
+      "id": "s122-b4666-a4",
+      "scenario": 122,
+      "heroId": 32504,
+      "items": [
+        9,
+        16,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 1150,
+      "failedDps": 1200,
+      "stageCount": 19,
+      "failedFrame": 830,
+      "remainingHpShield": 903.0493333333288,
+      "ceilingReached": false,
+      "hero": "伊莉丝",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "重装": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "鬼索的狂暴之刃",
+        "大天使之杖",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 5,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    },
+    {
+      "id": "s167-b7487-a4",
+      "scenario": 167,
+      "heroId": 33503,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 1150,
+      "failedDps": 1200,
+      "stageCount": 19,
+      "failedFrame": 860,
+      "remainingHpShield": 886.6537920233523,
+      "ceilingReached": false,
+      "hero": "远古石甲虫",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "斗士": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 5,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 3
+    },
+    {
+      "id": "s158-b7487-a4",
+      "scenario": 158,
+      "heroId": 33502,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "passedDps": 1100,
+      "failedDps": 1150,
+      "stageCount": 18,
+      "failedFrame": 790,
+      "remainingHpShield": 51.416681804464645,
+      "ceilingReached": false,
+      "hero": "费德提克",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6,
+      "itemNames": [
+        "振奋盔甲",
+        "振奋盔甲",
+        "石像鬼石板甲"
+      ],
+      "augmentName": "单身板甲",
+      "rank": 8,
+      "evaluatedConfigurations": 25200,
+      "equallyBestConfigurations": 1
+    }
+  ],
+  "boundaryTies": [],
+  "heroCount": 24,
+  "totalConfigurations": 697200,
+  "excludedAugment": 1
+}

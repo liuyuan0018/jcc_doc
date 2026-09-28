@@ -1,0 +1,113 @@
+[
+  {
+    "card": "A",
+    "id": "s185-b3096-a0",
+    "equipment": [
+      "饮血",
+      "大天使",
+      "板甲"
+    ],
+    "coarsePass": 1650,
+    "firstFail": 1700,
+    "refinedScore": 1678,
+    "rank": 26,
+    "verifiedRuns": 16
+  },
+  {
+    "card": "B",
+    "id": "s185-b3245-a0",
+    "equipment": [
+      "饮血",
+      "板甲",
+      "狂徒"
+    ],
+    "coarsePass": 1250,
+    "firstFail": 1300,
+    "refinedScore": 1263,
+    "rank": 697,
+    "verifiedRuns": 8
+  },
+  {
+    "card": "C",
+    "id": "s185-b6600-a0",
+    "equipment": [
+      "大天使",
+      "板甲",
+      "狂徒"
+    ],
+    "coarsePass": 1250,
+    "firstFail": 1300,
+    "refinedScore": 1252,
+    "rank": 758,
+    "verifiedRuns": 8
+  },
+  {
+    "card": "D",
+    "id": "s185-b7520-a0",
+    "equipment": [
+      "振奋",
+      "板甲",
+      "狂徒"
+    ],
+    "coarsePass": 1100,
+    "firstFail": 1150,
+    "refinedScore": 1136,
+    "rank": 1469,
+    "verifiedRuns": 5
+  },
+  {
+    "card": "E",
+    "id": "s185-b3092-a0",
+    "equipment": [
+      "饮血",
+      "大天使",
+      "头盔"
+    ],
+    "coarsePass": 1850,
+    "firstFail": 1900,
+    "refinedScore": 1869,
+    "rank": 4,
+    "verifiedRuns": 20
+  },
+  {
+    "card": "F",
+    "id": "s185-b6447-a0",
+    "equipment": [
+      "大天使×2",
+      "头盔"
+    ],
+    "coarsePass": 1850,
+    "firstFail": 1900,
+    "refinedScore": 1892,
+    "rank": 2,
+    "verifiedRuns": 20
+  },
+  {
+    "card": "G",
+    "id": "s185-b7638-a0",
+    "equipment": [
+      "反甲",
+      "龙牙",
+      "狂徒"
+    ],
+    "coarsePass": 950,
+    "firstFail": 1000,
+    "refinedScore": 973,
+    "rank": 3123,
+    "verifiedRuns": 2
+  },
+  {
+    "card": "H",
+    "id": "s185-b7516-a0",
+    "equipment": [
+      "振奋",
+      "板甲",
+      "坚定"
+    ],
+    "coarsePass": 1050,
+    "firstFail": 1100,
+    "refinedScore": 1072,
+    "rank": 2007,
+    "verifiedRuns": 4
+  }
+]

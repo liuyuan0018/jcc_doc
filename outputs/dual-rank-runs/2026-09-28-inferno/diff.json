@@ -1,0 +1,535 @@
+{
+  "same_source": false,
+  "statistics": [
+    {
+      "scope": "regular",
+      "id": "112",
+      "fields": {
+        "sampleCount": {
+          "before": 36067,
+          "after": 49503
+        },
+        "avgPlacement": {
+          "before": 3.71,
+          "after": 3.73
+        },
+        "top4Rate": {
+          "before": 63.26,
+          "after": 62.95
+        },
+        "topRate": {
+          "before": 25.75,
+          "after": 25.54
+        }
+      }
+    },
+    {
+      "scope": "regular",
+      "id": "104",
+      "fields": {
+        "sampleCount": {
+          "before": 10528,
+          "after": 14048
+        },
+        "avgPlacement": {
+          "before": 3.89,
+          "after": 3.88
+        },
+        "top4Rate": {
+          "before": 61.47,
+          "after": 61.51
+        },
+        "topRate": {
+          "before": 15.41,
+          "after": 15.4
+        }
+      }
+    },
+    {
+      "scope": "regular",
+      "id": "89",
+      "fields": {
+        "sampleCount": {
+          "before": 9206,
+          "after": 11932
+        },
+        "avgPlacement": {
+          "before": 3.85,
+          "after": 3.83
+        },
+        "top4Rate": {
+          "before": 60.73,
+          "after": 61.05
+        },
+        "topRate": {
+          "before": 23.72,
+          "after": 23.89
+        }
+      }
+    },
+    {
+      "scope": "regular",
+      "id": "116",
+      "fields": {
+        "sampleCount": {
+          "before": 10150,
+          "after": 15484
+        },
+        "avgPlacement": {
+          "before": 4,
+          "after": 4.02
+        },
+        "top4Rate": {
+          "before": 59.9,
+          "after": 59.57
+        },
+        "topRate": {
+          "before": 14.4,
+          "after": 14.11
+        }
+      }
+    },
+    {
+      "scope": "regular",
+      "id": "100",
+      "fields": {
+        "sampleCount": {
+          "before": 3802,
+          "after": 4834
+        },
+        "avgPlacement": {
+          "before": 4.17,
+          "after": 4.18
+        },
+        "top4Rate": {
+          "before": 58.52,
+          "after": 58.32
+        },
+        "topRate": {
+          "before": 6.44,
+          "after": 6.47
+        }
+      }
+    },
+    {
+      "scope": "regular",
+      "id": "113",
+      "fields": {
+        "sampleCount": {
+          "before": 2402,
+          "after": 3153
+        },
+        "avgPlacement": {
+          "before": 4.04,
+          "after": 4.03
+        },
+        "top4Rate": {
+          "before": 58.66,
+          "after": 58.58
+        },
+        "topRate": {
+          "before": 17.74,
+          "after": 18.01
+        }
+      }
+    },
+    {
+      "scope": "regular",
+      "id": "99",
+      "fields": {
+        "sampleCount": {
+          "before": 14637,
+          "after": 23129
+        },
+        "avgPlacement": {
+          "before": 4.14,
+          "after": 4.17
+        },
+        "top4Rate": {
+          "before": 56.35,
+          "after": 55.7
+        },
+        "topRate": {
+          "before": 12.24,
+          "after": 12
+        }
+      }
+    },
+    {
+      "scope": "regular",
+      "id": "106",
+      "fields": {
+        "sampleCount": {
+          "before": 7199,
+          "after": 9166
+        },
+        "avgPlacement": {
+          "before": 4.38,
+          "after": 4.37
+        },
+        "top4Rate": {
+          "before": 53.91,
+          "after": 54.04
+        },
+        "topRate": {
+          "before": 5.79,
+          "after": 6.1
+        }
+      }
+    },
+    {
+      "scope": "regular",
+      "id": "109",
+      "fields": {
+        "sampleCount": {
+          "before": 1638,
+          "after": 2036
+        },
+        "avgPlacement": {
+          "before": 4.45,
+          "after": 4.52
+        },
+        "top4Rate": {
+          "before": 52.75,
+          "after": 51.08
+        },
+        "topRate": {
+          "before": 10.32,
+          "after": 9.92
+        }
+      }
+    },
+    {
+      "scope": "regular",
+      "id": "119",
+      "fields": {
+        "sampleCount": {
+          "before": 7859,
+          "after": 10954
+        },
+        "avgPlacement": {
+          "before": 4.54,
+          "after": 4.5
+        },
+        "top4Rate": {
+          "before": 49.32,
+          "after": 50.17
+        },
+        "topRate": {
+          "before": 9.11,
+          "after": 9.32
+        }
+      }
+    },
+    {
+      "scope": "regular",
+      "id": "115",
+      "fields": {
+        "sampleCount": {
+          "before": 3815,
+          "after": 4461
+        },
+        "avgPlacement": {
+          "before": 4.66,
+          "after": 4.63
+        },
+        "top4Rate": {
+          "before": 48.94,
+          "after": 49.45
+        },
+        "topRate": {
+          "before": 6.92,
+          "after": 7.22
+        }
+      }
+    },
+    {
+      "scope": "regular",
+      "id": "88",
+      "fields": {
+        "sampleCount": {
+          "before": 6848,
+          "after": 10356
+        },
+        "avgPlacement": {
+          "before": 4.41,
+          "after": 4.43
+        },
+        "top4Rate": {
+          "before": 52.26,
+          "after": 51.89
+        },
+        "topRate": {
+          "before": 11,
+          "after": 10.89
+        }
+      }
+    },
+    {
+      "scope": "cold",
+      "id": "kennen",
+      "fields": {
+        "sampleCount": {
+          "before": 1113,
+          "after": 1547
+        },
+        "avgPlacement": {
+          "before": 2.66,
+          "after": 2.71
+        },
+        "top4Rate": {
+          "before": 81.94,
+          "after": 81.32
+        },
+        "topRate": {
+          "before": 38.9,
+          "after": 37.94
+        }
+      }
+    },
+    {
+      "scope": "cold",
+      "id": "dragon",
+      "fields": {
+        "sampleCount": {
+          "before": 918,
+          "after": 1256
+        },
+        "avgPlacement": {
+          "before": 3.13,
+          "after": 3.21
+        },
+        "top4Rate": {
+          "before": 73.09,
+          "after": 71.89
+        },
+        "topRate": {
+          "before": 33.66,
+          "after": 32.17
+        }
+      }
+    },
+    {
+      "scope": "cold",
+      "id": "camille",
+      "fields": {
+        "sampleCount": {
+          "before": 626,
+          "after": 727
+        },
+        "avgPlacement": {
+          "before": 3.63,
+          "after": 3.61
+        },
+        "top4Rate": {
+          "before": 69.49,
+          "after": 70.29
+        },
+        "topRate": {
+          "before": 12.94,
+          "after": 12.52
+        }
+      }
+    },
+    {
+      "scope": "cold",
+      "id": "kayle",
+      "fields": {
+        "sampleCount": {
+          "before": 646,
+          "after": 1023
+        },
+        "avgPlacement": {
+          "before": 3.65,
+          "after": 3.73
+        },
+        "top4Rate": {
+          "before": 67.65,
+          "after": 65.49
+        },
+        "topRate": {
+          "before": 18.27,
+          "after": 17.3
+        }
+      }
+    },
+    {
+      "scope": "cold",
+      "id": "khazix",
+      "fields": {
+        "sampleCount": {
+          "before": 461,
+          "after": 657
+        },
+        "avgPlacement": {
+          "before": 4.7,
+          "after": 4.75
+        },
+        "top4Rate": {
+          "before": 48.59,
+          "after": 47.03
+        },
+        "topRate": {
+          "before": 9.54,
+          "after": 9.44
+        }
+      }
+    },
+    {
+      "scope": "cold",
+      "id": "kog",
+      "fields": {
+        "sampleCount": {
+          "before": 768,
+          "after": 1036
+        },
+        "avgPlacement": {
+          "before": 4.29,
+          "after": 4.25
+        },
+        "top4Rate": {
+          "before": 54.69,
+          "after": 55.69
+        },
+        "topRate": {
+          "before": 9.38,
+          "after": 8.98
+        }
+      }
+    },
+    {
+      "scope": "cold",
+      "id": "lich",
+      "fields": {
+        "sampleCount": {
+          "before": 342,
+          "after": 506
+        },
+        "avgPlacement": {
+          "before": 3.64,
+          "after": 3.65
+        },
+        "top4Rate": {
+          "before": 66.37,
+          "after": 66.21
+        },
+        "topRate": {
+          "before": 16.08,
+          "after": 16.6
+        }
+      }
+    },
+    {
+      "scope": "cold",
+      "id": "mithril",
+      "fields": {
+        "sampleCount": {
+          "before": 223,
+          "after": 350
+        },
+        "avgPlacement": {
+          "before": 4,
+          "after": 3.88
+        },
+        "top4Rate": {
+          "before": 57.85,
+          "after": 61.43
+        },
+        "topRate": {
+          "before": 18.39,
+          "after": 17.14
+        }
+      }
+    },
+    {
+      "scope": "extra",
+      "id": "ashe",
+      "fields": {
+        "sampleCount": {
+          "before": 7906,
+          "after": 10204
+        },
+        "avgPlacement": {
+          "before": 3.08,
+          "after": 3.09
+        },
+        "top4Rate": {
+          "before": 73.88,
+          "after": 73.74
+        },
+        "topRate": {
+          "before": 34.45,
+          "after": 34.56
+        }
+      }
+    },
+    {
+      "scope": "extra",
+      "id": "zyra",
+      "fields": {
+        "sampleCount": {
+          "before": 644,
+          "after": 812
+        },
+        "avgPlacement": {
+          "before": 4.88,
+          "after": 4.89
+        },
+        "top4Rate": {
+          "before": 42.86,
+          "after": 42.73
+        },
+        "topRate": {
+          "before": 6.21,
+          "after": 5.67
+        }
+      }
+    },
+    {
+      "scope": "extra",
+      "id": "dragon",
+      "fields": {
+        "sampleCount": {
+          "before": 1352,
+          "after": 1838
+        },
+        "avgPlacement": {
+          "before": 2.63,
+          "after": 2.6
+        },
+        "top4Rate": {
+          "before": 81.36,
+          "after": 82.15
+        },
+        "topRate": {
+          "before": 44.08,
+          "after": 43.42
+        }
+      }
+    }
+  ],
+  "ranking": [],
+  "tiers": [
+    {
+      "id": "106",
+      "before": "B",
+      "after": "A"
+    }
+  ],
+  "review_required": [],
+  "reviewed_alerts": [],
+  "review_receipt": null,
+  "new_candidates": [],
+  "order": [
+    "112",
+    "104",
+    "89",
+    "116",
+    "113",
+    "100",
+    "99",
+    "106",
+    "109",
+    "119"
+  ]
+}

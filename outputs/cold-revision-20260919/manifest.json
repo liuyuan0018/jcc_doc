@@ -1,0 +1,56 @@
+{
+  "status": "editor_ready_not_submitted",
+  "baseline": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260919",
+  "output": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260919-修订版",
+  "images": [
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260919-修订版/01-冷门构筑强度榜.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260919-修订版/02-花妖转凯南.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260919-修订版/03-猎人转巨龙.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260919-修订版/04-暗爪卡蜜尔.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260919-修订版/05-护臂天使.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260919-修订版/06-花妖转螳螂.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260919-修订版/07-神谕大嘴.png"
+  ],
+  "note_id": "6aacd475000000002b01f439",
+  "operation": "edit_existing",
+  "publish_permission": "USER_WILL_CLICK_DO_NOT_SUBMIT",
+  "body_length": 709,
+  "body_codes": 6,
+  "cover_rows": 6,
+  "kog_statistics": {
+    "system": {
+      "sampleCount": 966,
+      "top4Rate": 50.21,
+      "topRate": 10.25,
+      "avgPlacement": 4.5
+    },
+    "physical_triple": {
+      "equipIds": [
+        2001,
+        2045,
+        2046
+      ],
+      "sampleCount": 108,
+      "top4Rate": 59.26,
+      "topRate": 9.26,
+      "avgPlacement": 4.14
+    },
+    "cover_uses": "physical_triple",
+    "raw_system": "outputs/regular-revision-20260919/comp119.json",
+    "raw_equipment": "outputs/regular-revision-20260919/kog-ad-equips.json"
+  },
+  "source_updated_at": "2026-09-18T19:32:50.884Z",
+  "collection": "s18金铲铲阵容数据库",
+  "preservation": "Existing five detail cards differ only in total page count; seventh card reuses verified Kog card with new page number.",
+  "verified_at": "2026-09-19T12:06:19.737956+00:00",
+  "editor_tab_id": "1808207246",
+  "editor_readback": "editor-readback.json",
+  "bound_topic_count": 8,
+  "visual_QA": {
+    "cover": "passed, complete sixth God Kog row",
+    "god_kog_board": "passed, 07 / 07",
+    "previous_five_boards": "SVG comparison proves only page total changed"
+  },
+  "published_by_agent": false,
+  "user_visual_approval": "not received"
+}

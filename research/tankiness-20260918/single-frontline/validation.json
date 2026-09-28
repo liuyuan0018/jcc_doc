@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "scenario_runs": 483678,
+  "compressed_raw_rows": 483678,
+  "aligned_configurations": 161226,
+  "representative_convergence_pairs": 20,
+  "max_60_vs_120_survival_delta": 0.0,
+  "local_links": "valid",
+  "python_syntax": "valid",
+  "scope": "conditional simulation, not game engine validation"
+}

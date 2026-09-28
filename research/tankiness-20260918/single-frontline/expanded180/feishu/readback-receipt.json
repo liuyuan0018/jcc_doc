@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "bytes_written": 5954691,
+    "complete": true,
+    "output_path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/tankiness-20260918/single-frontline/expanded180/feishu/readback.json"
+  },
+  "_notice": {
+    "update": {
+      "command": "lark-cli update",
+      "current": "1.0.95",
+      "latest": "1.0.96",
+      "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+    }
+  }
+}

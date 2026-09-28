@@ -1,0 +1,13 @@
+{
+  "damage_inputs": 1800,
+  "snapshot_file_mtime_utc": "2026-09-18T06:23:44.742850+00:00",
+  "computed_at": "2026-09-18T06:30:48.759592+00:00",
+  "url": "https://www.dataj.cc/api/web/gamedata?setId=18",
+  "sha256": "0338c0734fc0faec4cbd8d34bc1ffed1d77fae49169855536b4630097730d9c2",
+  "controlled": 4536,
+  "native": 1944,
+  "sensitivity": 264,
+  "source_status": "Third-party live snapshot. Internal season=S19 conflicts with public S18 label; record version is not a certified patch.",
+  "horizon": 30,
+  "dt": 0.05
+}

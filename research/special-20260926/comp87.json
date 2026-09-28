@@ -1,0 +1,187 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "compId": "87",
+    "name": "献祭三狼",
+    "desc": null,
+    "gameCode": "【阵容码】#献祭三狼#MjIwMDY3MzAyODc5ODA4NTYxNzkwMjY0NzUwMjAw",
+    "heroes": [
+      {
+        "id": "1979",
+        "heroId": "2508",
+        "heroName": "沃里克",
+        "heroType": 0,
+        "isCarry": true,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 2,
+        "heroStarNum": 3,
+        "position": "1,7"
+      },
+      {
+        "id": "1985",
+        "heroId": "3510",
+        "heroName": "阿兹尔",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": true,
+        "isCore": true,
+        "price": 3,
+        "heroStarNum": 3,
+        "position": "4,7"
+      },
+      {
+        "id": "2368",
+        "heroId": "3505",
+        "heroName": "卡兹克",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 3,
+        "heroStarNum": 3,
+        "position": "2,6"
+      },
+      {
+        "id": "1981",
+        "heroId": "2507",
+        "heroName": "暗影狼",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 2,
+        "heroStarNum": 3,
+        "position": "3,4"
+      },
+      {
+        "id": "2367",
+        "heroId": "2504",
+        "heroName": "伊莉丝",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 2,
+        "heroStarNum": 3,
+        "position": "1,6"
+      },
+      {
+        "id": "2369",
+        "heroId": "4513",
+        "heroName": "索拉卡",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "4,6"
+      },
+      {
+        "id": "1984",
+        "heroId": "3506",
+        "heroName": "黛安娜",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 3,
+        "heroStarNum": null,
+        "position": "4,1"
+      }
+    ],
+    "traits": [
+      {
+        "id": "83900102",
+        "name": "狂战士"
+      },
+      {
+        "id": "83890101",
+        "name": "裁决使"
+      },
+      {
+        "id": "84510101",
+        "name": "黑荆棘"
+      },
+      {
+        "id": "83720101",
+        "name": "重装战士"
+      },
+      {
+        "id": "83730101",
+        "name": "绝命花妖"
+      },
+      {
+        "id": "84620101",
+        "name": "宿敌"
+      }
+    ],
+    "equips": [
+      {
+        "heroId": "3510",
+        "equipId": "2020",
+        "compHeroId": "1985"
+      },
+      {
+        "heroId": "2504",
+        "equipId": "2028",
+        "compHeroId": "2367"
+      },
+      {
+        "heroId": "2504",
+        "equipId": "2034",
+        "compHeroId": "2367"
+      },
+      {
+        "heroId": "2504",
+        "equipId": "2032",
+        "compHeroId": "2367"
+      },
+      {
+        "heroId": "3505",
+        "equipId": "2039",
+        "compHeroId": "2368"
+      },
+      {
+        "heroId": "3505",
+        "equipId": "2016",
+        "compHeroId": "2368"
+      },
+      {
+        "heroId": "3505",
+        "equipId": "2005",
+        "compHeroId": "2368"
+      },
+      {
+        "heroId": "3510",
+        "equipId": "2011",
+        "compHeroId": "1985"
+      },
+      {
+        "heroId": "2508",
+        "equipId": "2001",
+        "compHeroId": "1979"
+      },
+      {
+        "heroId": "2508",
+        "equipId": "2006",
+        "compHeroId": "1979"
+      },
+      {
+        "heroId": "2508",
+        "equipId": "2041",
+        "compHeroId": "1979"
+      }
+    ],
+    "top4Rate": 46.49,
+    "topRate": 3.23,
+    "pickRate": 0.02,
+    "avgPlacement": 4.74,
+    "sampleCount": 527,
+    "tier": "C",
+    "dataMode": "stats"
+  }
+}

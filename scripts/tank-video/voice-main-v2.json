@@ -1,0 +1,128 @@
+{
+  "version": 2,
+  "source": "exports/frontline-video-main-v2/01-hero-pressure.mp4",
+  "output": "exports/frontline-video-main-v2/narration-source/01-hero-pressure-voice.mp4",
+  "voice": "zh-CN-YunxiNeural",
+  "rate": "+4%",
+  "pitch": "+0Hz",
+  "pronunciation": {
+    "蔚": "魏"
+  },
+  "cues": [
+    {
+      "id": "opening",
+      "start": 0.2,
+      "end": 3.9,
+      "text": "各穿最优装备，谁才是最能扛的前排？"
+    },
+    {
+      "id": "rules",
+      "start": 4.15,
+      "end": 8.2,
+      "text": "重伤、减抗都挂上，每轮重新开打。"
+    },
+    {
+      "id": "elise",
+      "death": {
+        "round": 0,
+        "hero": "伊莉丝",
+        "offset": 0.1
+      },
+      "end": 12.1,
+      "text": "蜘蛛先倒了。"
+    },
+    {
+      "id": "round-two",
+      "start": 12.4,
+      "end": 16.8,
+      "text": "加点压力，再来。"
+    },
+    {
+      "id": "sejuani",
+      "death": {
+        "round": 1,
+        "hero": "瑟庄妮",
+        "offset": 0.08
+      },
+      "end": 20.48,
+      "text": "猪妹也倒了。"
+    },
+    {
+      "id": "rammus-watch",
+      "start": 20.75,
+      "end": 26.3,
+      "text": "接着看龙龟，它的护盾能撑多久？"
+    },
+    {
+      "id": "rammus",
+      "death": {
+        "round": 2,
+        "hero": "拉莫斯",
+        "offset": 0.1
+      },
+      "end": 28.63,
+      "text": "龙龟也倒了。"
+    },
+    {
+      "id": "last-round",
+      "start": 28.95,
+      "end": 34.6,
+      "text": "最后一档，就看蔚了。"
+    },
+    {
+      "id": "vi",
+      "death": {
+        "round": 3,
+        "hero": "蔚",
+        "offset": 0.1
+      },
+      "end": 37.12,
+      "text": "蔚，也没撑住。"
+    },
+    {
+      "id": "summary",
+      "start": 37.35,
+      "end": 41.65,
+      "text": "这组模拟，蔚第一，龙龟第二。"
+    }
+  ],
+  "kind": "hero-pressure",
+  "expectedBuilds": [
+    {
+      "hero": "蔚",
+      "equipment": [
+        "振奋盔甲",
+        "巨龙之爪",
+        "大亨之铠"
+      ],
+      "passedDps": 2150
+    },
+    {
+      "hero": "拉莫斯",
+      "equipment": [
+        "饮血剑",
+        "大天使之杖",
+        "大亨之铠"
+      ],
+      "passedDps": 2000
+    },
+    {
+      "hero": "瑟庄妮",
+      "equipment": [
+        "饮血剑",
+        "适应性头盔",
+        "大亨之铠"
+      ],
+      "passedDps": 1650
+    },
+    {
+      "hero": "伊莉丝",
+      "equipment": [
+        "鬼索的狂暴之刃",
+        "大天使之杖",
+        "大亨之铠"
+      ],
+      "passedDps": 1150
+    }
+  ]
+}

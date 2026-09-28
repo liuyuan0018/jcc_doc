@@ -1,0 +1,82 @@
+{
+  "main": {
+    "title": "S18常规阵容榜9.18｜附阵容码",
+    "images": [
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260918/01-常规阵容强度榜.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260918/02-今天怎么选.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260918/03-地狱火95.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260918/04-古纳拉95.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260918/05-7野怪鸡哥.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260918/06-野怪小红.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260918/07-巨龙95.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260918/08-重装女警.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260918/09-裁决螳螂.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260918/10-主宰女警.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260918/11-皎月螳螂.png"
+    ],
+    "state": "submitted_under_review",
+    "note_id": "6aa37e050000000029013c00",
+    "collection": "s18金铲铲阵容数据库",
+    "collection_verified_after_submission": true,
+    "readback": {
+      "title": true,
+      "images": 11,
+      "codes": 9,
+      "body": true,
+      "topic_binding": "not_verified"
+    },
+    "cover_style": "restored_existing_hero_equipment_stats"
+  },
+  "cold": {
+    "title": "S18冷门构筑榜9.18｜有条件再玩",
+    "images": [
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260918/01-冷门构筑强度榜.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260918/02-花妖转凯南.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260918/03-猎人转巨龙.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260918/04-暗爪卡蜜尔.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260918/05-护臂天使.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260918/06-花妖转螳螂.png"
+    ],
+    "state": "submitted_under_review",
+    "cover_style": "restored_existing_hero_equipment_stats",
+    "detail_local": "five_board_cards_rendered_visually_checked_uploaded",
+    "editor_details": "five_board_cards_saved_after_submission",
+    "note_id": "6aacd475000000002b01f439",
+    "collection": "s18金铲铲阵容数据库",
+    "collection_verified_after_submission": true,
+    "readback": {
+      "title": true,
+      "images": 6,
+      "codes": 5,
+      "body": true,
+      "dimensions": [
+        [
+          1080,
+          1851
+        ],
+        [
+          1080,
+          2040
+        ],
+        [
+          1080,
+          2040
+        ],
+        [
+          1080,
+          2040
+        ],
+        [
+          1080,
+          2040
+        ],
+        [
+          1080,
+          2040
+        ]
+      ],
+      "topic_binding": "not_verified"
+    }
+  },
+  "state": "both_submitted"
+}

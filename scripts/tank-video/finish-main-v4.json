@@ -1,0 +1,540 @@
+{
+  "provider": "edge-tts",
+  "voice": "zh-CN-YunxiNeural",
+  "rate": "+4%",
+  "pitch": "+0Hz",
+  "ttsVersion": "7.2.8",
+  "ttsOptions": {},
+  "pronunciation": {
+    "蔚": "魏"
+  },
+  "characters": [
+    "蔚",
+    "慎",
+    "龙龟",
+    "猪妹",
+    "蜘蛛"
+  ],
+  "version": 4,
+  "duration": 41.8,
+  "source": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v2/01-hero-pressure-voice-soft.mp4",
+  "sourceSha256": "06e858efa425c3decb1913906c66558a5055d57ebc3565c22a9efdd6fc9564f4",
+  "cues": [
+    {
+      "id": "opening",
+      "start": 0.2,
+      "end": 3.9,
+      "text": "各穿最优装备，谁才是最能扛的前排？",
+      "spoken": "各穿最优装备，谁才是最能扛的前排？",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-audio-cache/tts/89f9350da7f4c7c24773187a5584d56d33a6dc233bd05977969a3432bb300c23.mp3",
+      "clipSha256": "f1cef1ededd2ec8e004ecc52923f6cc2075425046671b636c2163e800cc2a92d",
+      "originalDuration": 3.29,
+      "duration": 3.29,
+      "actualEnd": 3.49,
+      "tempo": 1.0
+    },
+    {
+      "id": "rules",
+      "start": 4.15,
+      "end": 8.2,
+      "text": "重伤、减抗都挂上，每轮重新开打。",
+      "spoken": "重伤、减抗都挂上，每轮重新开打。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-audio-cache/tts/00a892135d112ea4153e1875b872c0952792a6d7276e9e25055c22fd57b59ec4.mp3",
+      "clipSha256": "e901dc2aadf7c68b5b2c53404b8886af9894e69592fe387d5c89cb2c54d94435",
+      "originalDuration": 3.6,
+      "duration": 3.6,
+      "actualEnd": 7.75,
+      "tempo": 1.0
+    },
+    {
+      "id": "elise",
+      "death": {
+        "round": 0,
+        "hero": "伊莉丝",
+        "offset": 0.1
+      },
+      "end": 12.1,
+      "text": "蜘蛛先倒了。",
+      "eventAt": 9.833333333333334,
+      "start": 9.933333333333334,
+      "spoken": "蜘蛛先倒了。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-audio-cache/tts/3091cfeeface2079e7b6d185db381d3d32918d18e13cb4785d5b1f60e4bbf5a6.mp3",
+      "clipSha256": "07d3e85f407e76f393474bf5c8dc80cad5482c76cec31c75c2e1f91515c1ebd8",
+      "originalDuration": 1.06,
+      "duration": 1.06,
+      "actualEnd": 10.993333333333334,
+      "tempo": 1.0,
+      "eventOffset": 0.1
+    },
+    {
+      "id": "round-two",
+      "start": 12.4,
+      "end": 16.8,
+      "text": "加点压力，再来。",
+      "spoken": "加点压力，再来。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-audio-cache/tts/2d4e90b6d291b498e07778380010492e8d21afed623c578159e12a6b8b713302.mp3",
+      "clipSha256": "f3e79e2cebb1feb67f522b79ad163ede45f95cbd542c56cddea684b40001600d",
+      "originalDuration": 1.59,
+      "duration": 1.59,
+      "actualEnd": 13.99,
+      "tempo": 1.0
+    },
+    {
+      "id": "sejuani",
+      "death": {
+        "round": 1,
+        "hero": "瑟庄妮",
+        "offset": 0.08
+      },
+      "end": 20.48,
+      "text": "猪妹也倒了。",
+      "eventAt": 18.655555555555555,
+      "start": 18.735555555555553,
+      "spoken": "猪妹也倒了。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-audio-cache/tts/f09c8e2eec8c1eeed839a4616562a38e096d28f1b02083461644ce635be704ca.mp3",
+      "clipSha256": "805aba926053b9942ad91a2ef5bfb742aaf5ff1769e8536d8dc837ef4f696491",
+      "originalDuration": 1.0,
+      "duration": 1.0,
+      "actualEnd": 19.735555555555553,
+      "tempo": 1.0,
+      "eventOffset": 0.08
+    },
+    {
+      "id": "rammus-watch",
+      "start": 20.75,
+      "end": 26.3,
+      "text": "接着看龙龟的护盾能撑多久。",
+      "spoken": "接着看龙龟的护盾能撑多久。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-audio-cache/tts/9cb164abe5f4800233ed19b7f0e3cda06e5f5522f469a94aa3de5e9f6bbd144a.mp3",
+      "clipSha256": "e84eb07aa30d7d64f1d9e1b64189a0461997e510b452f62e328dcc5290eeb881",
+      "originalDuration": 2.4,
+      "duration": 2.4,
+      "actualEnd": 23.15,
+      "tempo": 1.0
+    },
+    {
+      "id": "rammus",
+      "death": {
+        "round": 2,
+        "hero": "拉莫斯",
+        "offset": 0.1
+      },
+      "end": 28.63,
+      "text": "龙龟也倒了。",
+      "eventAt": 26.93333333333333,
+      "start": 27.03333333333333,
+      "spoken": "龙龟也倒了。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-audio-cache/tts/1d3d6068afab52c5d486787ab3d31ed2c5dc6c9e38b1a982a947185c26ae2bc3.mp3",
+      "clipSha256": "ec83504d2aa3b119c437df148123a5efdcf6d740deec055e4cbf0ebfdb579ea8",
+      "originalDuration": 1.01,
+      "duration": 1.01,
+      "actualEnd": 28.043333333333333,
+      "tempo": 1.0,
+      "eventOffset": 0.1
+    },
+    {
+      "id": "last-round",
+      "start": 28.95,
+      "end": 34.6,
+      "text": "最后一档，就看蔚了。",
+      "spoken": "最后一档，就看魏了。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-audio-cache/tts/f441f6d1dfb43100e8c7740ea18c7ed4429cc2b41d0b39ec5d2cda72b9e0319d.mp3",
+      "clipSha256": "63594e2a69f80c5629cffcc30b3af1348fa77dc61863eaf01daeeb6c1e641cec",
+      "originalDuration": 1.81,
+      "duration": 1.81,
+      "actualEnd": 30.759999999999998,
+      "tempo": 1.0
+    },
+    {
+      "id": "vi",
+      "death": {
+        "round": 3,
+        "hero": "蔚",
+        "offset": 0.1
+      },
+      "end": 37.12,
+      "text": "蔚也没撑住。",
+      "eventAt": 35.36666666666666,
+      "start": 35.46666666666666,
+      "spoken": "魏也没撑住。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-audio-cache/tts/073b00d34ff359369ca483d0b71417d43c8a89f75a2c738b919210750489f21d.mp3",
+      "clipSha256": "a5669ee8481626504a1d1c7cde83cfdc04325b6e7a019d007cb04d5b4ecf676b",
+      "originalDuration": 0.91,
+      "duration": 0.91,
+      "actualEnd": 36.37666666666666,
+      "tempo": 1.0,
+      "eventOffset": 0.1
+    },
+    {
+      "id": "summary",
+      "start": 37.35,
+      "end": 41.65,
+      "text": "这组模拟，蔚第一，龙龟第二。",
+      "spoken": "这组模拟，魏第一，龙龟第二。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-audio-cache/tts/fa5d5beea0862269a175b616d014048f3a221a1eb8d87d5ceb90c09224227416.mp3",
+      "clipSha256": "f81b4c970105327b0caa877fcf4aee1bf7e4b68a3dbf863e9ea7b506c0167ac8",
+      "originalDuration": 2.84,
+      "duration": 2.84,
+      "actualEnd": 40.19,
+      "tempo": 1.0
+    }
+  ],
+  "narrationGuidelines": [
+    "英雄名与后面的动作或判断写成完整短句，不在英雄名后直接接逗号。",
+    "有语法关系的词连起来念；只在完整意思之间安排停顿。",
+    "标点按口语节奏设置，不为突出英雄名而额外断句。",
+    "先检查实际朗读文本，再生成；字幕中的蔚保留原名，朗读用魏辅助读音。"
+  ],
+  "voiceProcessing": {
+    "filterChain": "highpass=f=85:p=2,equalizer=f=3500:t=o:w=1:g=-1.5,deesser=i=0.15:m=0.25:f=0.5,acompressor=threshold=0.1:ratio=3:attack=0.3:release=70:makeup=1:knee=2.82843:detection=peak",
+    "fixedGainDb": 7.460000000000001,
+    "fadeMs": 8,
+    "patchPadSeconds": 0.12
+  },
+  "music": {
+    "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-wallpaper-v2/wallpaper-steady.wav",
+    "sha256": "d69e4ca71d67e4e8cfbc12dd2c8bb52a8d5672742d6554d4a55b809ce4988a4f",
+    "title": "Wallpaper",
+    "mode": "fixed",
+    "gainDb": 3,
+    "newFadeOutSeconds": 0,
+    "sourceDuration": 41.8,
+    "credits": {
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-wallpaper-v5/CREDITS.txt",
+      "sha256": "16fe3013961f2a5c085e3f2e0a3b90a1ee31dbfcd89fcfcdd12113e506111a64"
+    },
+    "originalTrack": {
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-wallpaper-v1/assets/Wallpaper.mp3",
+      "sha256": "9fa810e5193c88f1b360537366f210f16c2588106d5292f0659e9957fa274f96"
+    },
+    "provenance": {
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-wallpaper-v1/assets/Wallpaper-source.json",
+      "sha256": "76900192bf291a04b6def570b2176890843180cd212ea1a365a75d5863e69c5f"
+    },
+    "processing": {
+      "sourceAlreadyProcessed": true,
+      "sourceFadeInSeconds": 0.6,
+      "sourceFadeOutSeconds": 1.5,
+      "gainExplanation": "Approved v5 uses this verified v2 steady bed with a fixed +3 dB adjustment; no speech-dependent gain."
+    }
+  },
+  "visual": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "crf": 18,
+    "cover": {
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-covers-v1/01-hero-pressure-cover-9x16.png",
+      "sha256": "61455a52bacc9f0f5236870727eb826831699f79d4f362c1d0df8593785ddbe4",
+      "mode": "replace-intro",
+      "seconds": 4,
+      "holdThroughCue": "opening",
+      "afterSpeechSeconds": 0.35
+    },
+    "replay": {
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v2/01-hero-pressure.json",
+      "sha256": "fa5301963c0807668fbefc91e4d1513a9ac7b0dad2e37e7ade940de8d0bcc3a4"
+    },
+    "timeline": {
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v2/01-hero-pressure.verification.json",
+      "sha256": "85da3bd285ee7dd495ea1df2168952b69b7c53257c15881d0770420e0cbbc3b3"
+    },
+    "expectedBuilds": [
+      {
+        "hero": "蔚",
+        "equipment": [
+          "振奋盔甲",
+          "巨龙之爪",
+          "大亨之铠"
+        ],
+        "passedDps": 2150
+      },
+      {
+        "hero": "拉莫斯",
+        "equipment": [
+          "饮血剑",
+          "大天使之杖",
+          "大亨之铠"
+        ],
+        "passedDps": 2000
+      },
+      {
+        "hero": "瑟庄妮",
+        "equipment": [
+          "饮血剑",
+          "适应性头盔",
+          "大亨之铠"
+        ],
+        "passedDps": 1650
+      },
+      {
+        "hero": "伊莉丝",
+        "equipment": [
+          "鬼索的狂暴之刃",
+          "大天使之杖",
+          "大亨之铠"
+        ],
+        "passedDps": 1150
+      }
+    ],
+    "introSeconds": 4
+  },
+  "mix": {
+    "outputName": "01-hero-pressure-final.mp4",
+    "cacheDirectory": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-audio-cache/tts",
+    "voiceStereoPerChannelGain": 0.7071067811865475,
+    "baseline": {
+      "kind": "mixed",
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-wallpaper-v5/wallpaper-mix.wav",
+      "sha256": "3d75241edd45460350bb246dda7dc57e12ed95d120c572e156f9d97c23871e7a",
+      "cues": [
+        {
+          "id": "opening",
+          "start": 0.2,
+          "end": 3.9,
+          "text": "各穿最优装备，谁才是最能扛的前排？",
+          "spoken": "各穿最优装备，谁才是最能扛的前排？",
+          "clip": "opening-7f27258846e74a.mp3",
+          "clipSha256": "f1cef1ededd2ec8e004ecc52923f6cc2075425046671b636c2163e800cc2a92d",
+          "originalDuration": 3.29,
+          "duration": 3.29,
+          "actualEnd": 3.49,
+          "tempo": 1.0
+        },
+        {
+          "id": "rules",
+          "start": 4.15,
+          "end": 8.2,
+          "text": "重伤、减抗都挂上，每轮重新开打。",
+          "spoken": "重伤、减抗都挂上，每轮重新开打。",
+          "clip": "rules-5a860890fd9991.mp3",
+          "clipSha256": "e901dc2aadf7c68b5b2c53404b8886af9894e69592fe387d5c89cb2c54d94435",
+          "originalDuration": 3.6,
+          "duration": 3.6,
+          "actualEnd": 7.75,
+          "tempo": 1.0
+        },
+        {
+          "id": "shen",
+          "death": {
+            "round": 0,
+            "hero": "慎",
+            "offset": 0.1
+          },
+          "end": 11.6,
+          "text": "慎先倒了。",
+          "eventAt": 8.277777777777779,
+          "start": 8.377777777777778,
+          "spoken": "慎先倒了。",
+          "clip": "shen-no-comma.mp3",
+          "clipSha256": "7d385ee3c8c0bcf8eb0b403eaf793bc687527fa69c27f30a3db886d2e2f98e91",
+          "originalDuration": 1.0,
+          "duration": 1.0,
+          "actualEnd": 9.377777777777778,
+          "tempo": 1.0
+        },
+        {
+          "id": "round-two",
+          "start": 12.4,
+          "end": 16.8,
+          "text": "加点压力，再来。",
+          "spoken": "加点压力，再来。",
+          "clip": "round-two-bb22710355d504.mp3",
+          "clipSha256": "f3e79e2cebb1feb67f522b79ad163ede45f95cbd542c56cddea684b40001600d",
+          "originalDuration": 1.59,
+          "duration": 1.59,
+          "actualEnd": 13.99,
+          "tempo": 1.0
+        },
+        {
+          "id": "sejuani",
+          "death": {
+            "round": 1,
+            "hero": "瑟庄妮",
+            "offset": 0.08
+          },
+          "end": 20.48,
+          "text": "猪妹也倒了。",
+          "eventAt": 18.655555555555555,
+          "start": 18.735555555555553,
+          "spoken": "猪妹也倒了。",
+          "clip": "sejuani-948249eaa5d481.mp3",
+          "clipSha256": "805aba926053b9942ad91a2ef5bfb742aaf5ff1769e8536d8dc837ef4f696491",
+          "originalDuration": 1.0,
+          "duration": 1.0,
+          "actualEnd": 19.735555555555553,
+          "tempo": 1.0
+        },
+        {
+          "id": "rammus-watch",
+          "start": 20.75,
+          "end": 26.3,
+          "text": "接着看龙龟的护盾能撑多久。",
+          "spoken": "接着看龙龟的护盾能撑多久。",
+          "clip": "rammus-watch-62a4512307f2ce.mp3",
+          "clipSha256": "e84eb07aa30d7d64f1d9e1b64189a0461997e510b452f62e328dcc5290eeb881",
+          "originalDuration": 2.4,
+          "duration": 2.4,
+          "actualEnd": 23.15,
+          "tempo": 1.0
+        },
+        {
+          "id": "rammus",
+          "death": {
+            "round": 2,
+            "hero": "拉莫斯",
+            "offset": 0.1
+          },
+          "end": 28.63,
+          "text": "龙龟也倒了。",
+          "eventAt": 26.93333333333333,
+          "start": 27.03333333333333,
+          "spoken": "龙龟也倒了。",
+          "clip": "rammus-06aba39b863c75.mp3",
+          "clipSha256": "ec83504d2aa3b119c437df148123a5efdcf6d740deec055e4cbf0ebfdb579ea8",
+          "originalDuration": 1.01,
+          "duration": 1.01,
+          "actualEnd": 28.043333333333333,
+          "tempo": 1.0
+        },
+        {
+          "id": "last-round",
+          "start": 28.95,
+          "end": 34.6,
+          "text": "最后一档，就看蔚了。",
+          "spoken": "最后一档，就看魏了。",
+          "clip": "last-round-a96806f9cac760.mp3",
+          "clipSha256": "63594e2a69f80c5629cffcc30b3af1348fa77dc61863eaf01daeeb6c1e641cec",
+          "originalDuration": 1.81,
+          "duration": 1.81,
+          "actualEnd": 30.759999999999998,
+          "tempo": 1.0
+        },
+        {
+          "id": "vi",
+          "death": {
+            "round": 3,
+            "hero": "蔚",
+            "offset": 0.1
+          },
+          "end": 37.12,
+          "text": "蔚也没撑住。",
+          "eventAt": 35.36666666666666,
+          "start": 35.46666666666666,
+          "spoken": "魏也没撑住。",
+          "clip": "vi-c09be970d790da.mp3",
+          "clipSha256": "a5669ee8481626504a1d1c7cde83cfdc04325b6e7a019d007cb04d5b4ecf676b",
+          "originalDuration": 0.91,
+          "duration": 0.91,
+          "actualEnd": 36.37666666666666,
+          "tempo": 1.0
+        },
+        {
+          "id": "summary",
+          "start": 37.35,
+          "end": 41.65,
+          "text": "这组模拟，蔚第一，龙龟第二。",
+          "spoken": "这组模拟，魏第一，龙龟第二。",
+          "clip": "summary-e11de22dae11fe.mp3",
+          "clipSha256": "f81b4c970105327b0caa877fcf4aee1bf7e4b68a3dbf863e9ea7b506c0167ac8",
+          "originalDuration": 2.84,
+          "duration": 2.84,
+          "actualEnd": 40.19,
+          "tempo": 1.0
+        }
+      ]
+    },
+    "patches": [
+      {
+        "oldCue": "shen",
+        "newCue": "elise"
+      }
+    ],
+    "referenceAssets": [
+      {
+        "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-wallpaper-v5/01-hero-pressure-voice-natural.mp4",
+        "sha256": "27a80bf25f8a486bddfefa2727b8f213ba7bb1966629fc6c95dfeb75d9113ead"
+      },
+      {
+        "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-wallpaper-v5/recipe.json",
+        "sha256": "849ff3fba005e409e71c9bd355463bef618215da2e3ddb9aec60b66fdef51db7"
+      },
+      {
+        "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-voice-v2/01-hero-pressure-voice-soft.verification.json",
+        "sha256": "facf8540cde269d891d917c762d4b823636b5f25c72a7e15111df40f15ffe6cc"
+      },
+      {
+        "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-wallpaper-v1/assets/Wallpaper.mp3",
+        "sha256": "9fa810e5193c88f1b360537366f210f16c2588106d5292f0659e9957fa274f96"
+      },
+      {
+        "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-wallpaper-v1/assets/Wallpaper-source.json",
+        "sha256": "76900192bf291a04b6def570b2176890843180cd212ea1a365a75d5863e69c5f"
+      }
+    ],
+    "inspector": {
+      "path": "/Users/lyu/.codex/skills/programmatic-video-production/scripts/inspect_recipe.py",
+      "sha256": "e0956b8955ccefa0f2df9d8e42439f3b525ec1d1efad036102e26ab4c0e03224"
+    },
+    "previousRecipe": {
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v3/recipe.json",
+      "sha256": "8e67e0fbdb11070f64102fba0fd26b48d699531f81e0ac521958e36164345c63"
+    },
+    "reviewSnippets": [
+      {
+        "name": "review-opening",
+        "start": 0,
+        "seconds": 6
+      },
+      {
+        "name": "review-event",
+        "start": 8,
+        "seconds": 4.5
+      },
+      {
+        "name": "review-voice",
+        "start": 20.2,
+        "seconds": 4.5
+      }
+    ],
+    "audioReuse": {
+      "video": {
+        "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v3/01-hero-pressure-final.mp4",
+        "sha256": "cdc14655b1690e488325f62ea9bf797531f301b39203191b8174bec7030ac506"
+      },
+      "recipe": {
+        "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v3/recipe.json",
+        "sha256": "8e67e0fbdb11070f64102fba0fd26b48d699531f81e0ac521958e36164345c63"
+      },
+      "verification": {
+        "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v3/01-hero-pressure-final.verification.json",
+        "sha256": "bdc2f10f78681c4a3535de4753223e9cf95f5cbab27544bbcf72a03177e32667"
+      },
+      "master": {
+        "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v3/mix-master.wav",
+        "sha256": "fd0eea58dacb7faa3b78f31398fbd395fbc1c78721f6da5038cf1ff5d9c656f9"
+      },
+      "voiceStem": {
+        "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v3/voice-processed.wav",
+        "sha256": "c3230ba040685f1818d793ffa80b332c9bca2839b8d40d2e9a2f9acee4188760"
+      },
+      "musicStem": {
+        "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v3/music-bed.wav",
+        "sha256": "ad99b2eb9cdc8d405b8eadeaa08d12391e9ae5c1111d962c257747bd9ecb0274"
+      }
+    }
+  },
+  "accepted": {
+    "reference": {
+      "path": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-wallpaper-v5/01-hero-pressure-voice-natural.mp4",
+      "sha256": "27a80bf25f8a486bddfefa2727b8f213ba7bb1966629fc6c95dfeb75d9113ead"
+    },
+    "scope": "Reference sound only: steady Wallpaper level and natural phrasing. This new output awaits review.",
+    "evidence": "programmatic-video-production/references/verified-example.md, verified against the exact local video hash."
+  },
+  "notes": [
+    "The cover fills the four-second existing intro, remaining on screen through the measured opening narration plus at least 0.35 seconds.",
+    "The audio stream, lossless master, narration and music are reused unchanged from the immediately previous delivery.",
+    "At 4 seconds the existing first comparison round starts; later replay and narration events keep their original video times."
+  ]
+}

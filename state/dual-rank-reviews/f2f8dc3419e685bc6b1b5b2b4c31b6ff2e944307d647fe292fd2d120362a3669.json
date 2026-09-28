@@ -1,0 +1,36 @@
+{
+  "review_key": "f2f8dc3419e685bc6b1b5b2b4c31b6ff2e944307d647fe292fd2d120362a3669",
+  "accepted_alerts": [
+    {
+      "type": "large_rate_change",
+      "scope": "cold",
+      "id": "khazix"
+    }
+  ],
+  "reason": "9.21花妖转螳螂英雄携装样本172→218，前四59.30→53.67，均排4.12→4.38；同18.2a、同英雄3505/装备41810，12套配置字段不变，无样本回落或口径变化。维持观察定位，更新真实数值，不提高推荐强度。",
+  "reviewed_at": "2026-09-21",
+  "before": {
+    "comp_id": "116",
+    "hero_id": "3505",
+    "equip": 41810,
+    "name": "花妖转螳螂",
+    "scope": "hero_item",
+    "source_key": "khazix-gear",
+    "sampleCount": 172,
+    "avgPlacement": 4.12,
+    "top4Rate": 59.3,
+    "topRate": 15.12
+  },
+  "after": {
+    "comp_id": "116",
+    "hero_id": "3505",
+    "equip": 41810,
+    "name": "花妖转螳螂",
+    "scope": "hero_item",
+    "source_key": "khazix-gear",
+    "sampleCount": 218,
+    "avgPlacement": 4.38,
+    "top4Rate": 53.67,
+    "topRate": 12.84
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "revision": 464,
+    "sheets": [
+      {
+        "filters": [
+          {
+            "details": {
+              "filtered_columns": [],
+              "filtered_out_rows_count": 0,
+              "range": "A1:J1297",
+              "rules": [],
+              "total_data_rows": 1296,
+              "visible_rows_count": 1296
+            },
+            "filter_id": "l3GGxH"
+          }
+        ],
+        "sheet_id": "l3GGxH",
+        "sheet_name": "180秒_同配置敏感性"
+      }
+    ],
+    "total": 1
+  },
+  "_notice": {
+    "update": {
+      "command": "lark-cli update",
+      "current": "1.0.95",
+      "latest": "1.0.96",
+      "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+    }
+  }
+}

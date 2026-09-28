@@ -1,0 +1,22 @@
+{
+  "scenario": {
+    "index": 6,
+    "hero_index": 2,
+    "hero": "奥恩",
+    "star": 3,
+    "cost": 1,
+    "traits": {
+      "护卫": 2
+    },
+    "slots": 2
+  },
+  "pool": 8365,
+  "source": "/Users/lyu/Documents/ChatGPT/金铲铲/research/ornn-two-warden-eight-20260923/input",
+  "sourceHashes": {
+    "engine-web.hpp": "f476fd9f561189c41d446c525b47ec268e997fe64cfcbd7c7138b077d5301faa",
+    "web.cpp": "62bf18cdf292557225b5fd20c15ee8fdd418a9ca0df26fa847b8bcb9a14912df",
+    "generated.hpp": "9f153b1105b950cce6b733a9f01ec2370ed0e0d6a6a5d7981ae9fb2309fbc3df"
+  },
+  "rules": "Own skill shield tag0 blocks all mana sources while present. Existing 1s cast lock retained. Item shields do not extend lock. 50 DPS start, +50 until first failure, then +1 from last coarse pass to first failure.",
+  "artifactProgress": false
+}

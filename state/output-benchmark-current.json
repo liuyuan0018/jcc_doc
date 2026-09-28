@@ -1,0 +1,11 @@
+{
+  "archive": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/output-carries-ordinary-v1",
+  "stage": "carry-computed-and-checked",
+  "notFullHeroRanking": true,
+  "candidates": 61880,
+  "tankPilotOnly": false,
+  "previousTankPilot": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/output-pilot-v3",
+  "activeScope": "/Users/lyu/Documents/project/game/projects/jcc/tank-lab/tests/output/carry-scope.json",
+  "formalDpsResults": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/output-carries-ordinary-v1/测算结果.md",
+  "xayahEmpowerManaLock": true
+}

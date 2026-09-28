@@ -1,0 +1,415 @@
+{
+  "configurations": 128,
+  "selected64": 64,
+  "seed": 20260925,
+  "gridCalls": 6528,
+  "binaryCalls": 733,
+  "gridSeconds": 0.324874038,
+  "binarySeconds": 0.03521375299999998,
+  "compileSeconds": 2.1650435,
+  "reversals": [
+    {
+      "id": "s185-b3245-a0",
+      "lo": 1250,
+      "hi": 1300,
+      "highestPass": 1283,
+      "firstFail": 1264,
+      "binaryPass": 1263,
+      "reversals": [
+        1280,
+        1281,
+        1282,
+        1283
+      ]
+    },
+    {
+      "id": "s185-b6600-a0",
+      "lo": 1250,
+      "hi": 1300,
+      "highestPass": 1268,
+      "firstFail": 1253,
+      "binaryPass": 1260,
+      "reversals": [
+        1256,
+        1257,
+        1258,
+        1259,
+        1260,
+        1266,
+        1267,
+        1268
+      ]
+    },
+    {
+      "id": "s185-b7343-a4",
+      "lo": 1200,
+      "hi": 1250,
+      "highestPass": 1249,
+      "firstFail": 1218,
+      "binaryPass": 1249,
+      "reversals": [
+        1220,
+        1221,
+        1222,
+        1223,
+        1224,
+        1225,
+        1226,
+        1227,
+        1228,
+        1229,
+        1230,
+        1231,
+        1232,
+        1233,
+        1234,
+        1235,
+        1236,
+        1237,
+        1238,
+        1239,
+        1240,
+        1241,
+        1242,
+        1243,
+        1244,
+        1245,
+        1246,
+        1247,
+        1248,
+        1249
+      ]
+    },
+    {
+      "id": "s185-b7506-a0",
+      "lo": 1000,
+      "hi": 1050,
+      "highestPass": 1022,
+      "firstFail": 1008,
+      "binaryPass": 1022,
+      "reversals": [
+        1011,
+        1012,
+        1013,
+        1014,
+        1015,
+        1016,
+        1017,
+        1018,
+        1019,
+        1020,
+        1021,
+        1022
+      ]
+    },
+    {
+      "id": "s185-b7533-a0",
+      "lo": 1000,
+      "hi": 1050,
+      "highestPass": 1046,
+      "firstFail": 1020,
+      "binaryPass": 1019,
+      "reversals": [
+        1026,
+        1027,
+        1028,
+        1029,
+        1030,
+        1031,
+        1032,
+        1033,
+        1034,
+        1035,
+        1036,
+        1037,
+        1038,
+        1039,
+        1040,
+        1041,
+        1042,
+        1043,
+        1044,
+        1045,
+        1046
+      ]
+    },
+    {
+      "id": "s185-b7616-a0",
+      "lo": 800,
+      "hi": 850,
+      "highestPass": 841,
+      "firstFail": 835,
+      "binaryPass": 841,
+      "reversals": [
+        836,
+        837,
+        838,
+        839,
+        840,
+        841
+      ]
+    },
+    {
+      "id": "s185-b6053-a0",
+      "lo": 950,
+      "hi": 1000,
+      "highestPass": 988,
+      "firstFail": 978,
+      "binaryPass": 988,
+      "reversals": [
+        985,
+        986,
+        987,
+        988
+      ]
+    },
+    {
+      "id": "s185-b4570-a0",
+      "lo": 700,
+      "hi": 750,
+      "highestPass": 738,
+      "firstFail": 721,
+      "binaryPass": 720,
+      "reversals": [
+        730,
+        731,
+        732,
+        733,
+        734,
+        735,
+        736,
+        737,
+        738
+      ]
+    },
+    {
+      "id": "s185-b73-a0",
+      "lo": 700,
+      "hi": 750,
+      "highestPass": 738,
+      "firstFail": 718,
+      "binaryPass": 717,
+      "reversals": [
+        730,
+        731,
+        732,
+        733,
+        734,
+        735,
+        736,
+        737,
+        738
+      ]
+    },
+    {
+      "id": "s185-b1721-a0",
+      "lo": 1200,
+      "hi": 1250,
+      "highestPass": 1232,
+      "firstFail": 1215,
+      "binaryPass": 1232,
+      "reversals": [
+        1216,
+        1217,
+        1218,
+        1219,
+        1220,
+        1221,
+        1222,
+        1223,
+        1224,
+        1225,
+        1226,
+        1227,
+        1228,
+        1229,
+        1230,
+        1231,
+        1232
+      ]
+    },
+    {
+      "id": "s185-b2950-a0",
+      "lo": 1300,
+      "hi": 1350,
+      "highestPass": 1319,
+      "firstFail": 1303,
+      "binaryPass": 1302,
+      "reversals": [
+        1315,
+        1316,
+        1317,
+        1318,
+        1319
+      ]
+    },
+    {
+      "id": "s185-b5019-a0",
+      "lo": 900,
+      "hi": 950,
+      "highestPass": 942,
+      "firstFail": 907,
+      "binaryPass": 906,
+      "reversals": [
+        926,
+        927,
+        928,
+        929,
+        930,
+        931,
+        932,
+        933,
+        934,
+        935,
+        936,
+        937,
+        938,
+        939,
+        940,
+        941,
+        942
+      ]
+    },
+    {
+      "id": "s185-b3607-a0",
+      "lo": 1000,
+      "hi": 1050,
+      "highestPass": 1023,
+      "firstFail": 1012,
+      "binaryPass": 1011,
+      "reversals": [
+        1016,
+        1017,
+        1018,
+        1019,
+        1020,
+        1021,
+        1022,
+        1023
+      ]
+    },
+    {
+      "id": "s185-b1377-a0",
+      "lo": 800,
+      "hi": 850,
+      "highestPass": 837,
+      "firstFail": 822,
+      "binaryPass": 821,
+      "reversals": [
+        836,
+        837
+      ]
+    },
+    {
+      "id": "s185-b7065-a0",
+      "lo": 700,
+      "hi": 750,
+      "highestPass": 724,
+      "firstFail": 704,
+      "binaryPass": 724,
+      "reversals": [
+        707,
+        708,
+        709,
+        710,
+        711,
+        712,
+        713,
+        714,
+        715,
+        716,
+        717,
+        718,
+        719,
+        720,
+        721,
+        722,
+        723,
+        724
+      ]
+    },
+    {
+      "id": "s185-b6526-a0",
+      "lo": 1400,
+      "hi": 1450,
+      "highestPass": 1442,
+      "firstFail": 1411,
+      "binaryPass": 1410,
+      "reversals": [
+        1441,
+        1442
+      ]
+    },
+    {
+      "id": "s185-b5613-a0",
+      "lo": 750,
+      "hi": 800,
+      "highestPass": 798,
+      "firstFail": 789,
+      "binaryPass": 788,
+      "reversals": [
+        797,
+        798
+      ]
+    },
+    {
+      "id": "s185-b596-a4",
+      "lo": 850,
+      "hi": 900,
+      "highestPass": 872,
+      "firstFail": 856,
+      "binaryPass": 855,
+      "reversals": [
+        869,
+        870,
+        871,
+        872
+      ]
+    },
+    {
+      "id": "s185-b7254-a0",
+      "lo": 1050,
+      "hi": 1100,
+      "highestPass": 1078,
+      "firstFail": 1063,
+      "binaryPass": 1062,
+      "reversals": [
+        1076,
+        1077,
+        1078
+      ]
+    }
+  ],
+  "binaryMismatches": [
+    "s185-b3245-a0",
+    "s185-b6600-a0",
+    "s185-b7533-a0",
+    "s185-b4570-a0",
+    "s185-b73-a0",
+    "s185-b2950-a0",
+    "s185-b5019-a0",
+    "s185-b3607-a0",
+    "s185-b1377-a0",
+    "s185-b6526-a0",
+    "s185-b5613-a0",
+    "s185-b596-a4",
+    "s185-b7254-a0"
+  ],
+  "boundaryMismatches": [],
+  "sourceHashes": {
+    "/Users/lyu/Documents/ChatGPT/金铲铲/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/web.cpp": "62bf18cdf292557225b5fd20c15ee8fdd418a9ca0df26fa847b8bcb9a14912df",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/engine-web.hpp": "f476fd9f561189c41d446c525b47ec268e997fe64cfcbd7c7138b077d5301faa",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/generated.hpp": "9f153b1105b950cce6b733a9f01ec2370ed0e0d6a6a5d7981ae9fb2309fbc3df",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/replay-native": "89f153456035771b5d41dea3bc628578342343907c9c917d2908f7de252d2e01"
+  },
+  "nativeReplayParityChecks": [
+    "s185-b3096-a4",
+    "s185-b3092-a0",
+    "s185-b6447-a0",
+    "s185-b3085-a0",
+    "s185-b3096-a0",
+    "s185-b6556-a4",
+    "s185-b6567-a4",
+    "s185-b3212-a4"
+  ]
+}

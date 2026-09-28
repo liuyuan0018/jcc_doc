@@ -1,0 +1,191 @@
+{
+  "summary": {
+    "setId": 18,
+    "gameVersion": "18.2a",
+    "gamesAnalyzed": 88056,
+    "playersAnalyzed": 11007,
+    "threeStarUnits": 80931,
+    "itemsEquipped": 1000713,
+    "totalDamageDealt": 8913349,
+    "dataUpdatedAt": "2026-09-19T19:26:03.412Z"
+  },
+  "regular": [
+    {
+      "compId": "112",
+      "name": "地狱火95",
+      "top4Rate": 64.36,
+      "topRate": 26.74,
+      "avgPlacement": 3.65,
+      "sampleCount": 13485
+    },
+    {
+      "compId": "104",
+      "name": "野怪小红",
+      "top4Rate": 61.23,
+      "topRate": 15.9,
+      "avgPlacement": 3.88,
+      "sampleCount": 4215
+    },
+    {
+      "compId": "89",
+      "name": "巨龙95",
+      "top4Rate": 60.8,
+      "topRate": 24.53,
+      "avgPlacement": 3.83,
+      "sampleCount": 3995
+    },
+    {
+      "compId": "116",
+      "name": "裁决螳螂",
+      "top4Rate": 60.76,
+      "topRate": 14.52,
+      "avgPlacement": 3.96,
+      "sampleCount": 3058
+    },
+    {
+      "compId": "100",
+      "name": "重装女警",
+      "top4Rate": 60.4,
+      "topRate": 6.73,
+      "avgPlacement": 4.08,
+      "sampleCount": 1649
+    },
+    {
+      "compId": "113",
+      "name": "古纳拉95",
+      "top4Rate": 59.94,
+      "topRate": 20.5,
+      "avgPlacement": 3.94,
+      "sampleCount": 966
+    },
+    {
+      "compId": "99",
+      "name": "7野怪鸡哥",
+      "top4Rate": 58,
+      "topRate": 12.95,
+      "avgPlacement": 4.08,
+      "sampleCount": 4233
+    },
+    {
+      "compId": "106",
+      "name": "主宰女警",
+      "top4Rate": 54.32,
+      "topRate": 5.31,
+      "avgPlacement": 4.38,
+      "sampleCount": 3089
+    },
+    {
+      "compId": "109",
+      "name": "皎月螳螂",
+      "top4Rate": 53.54,
+      "topRate": 11.19,
+      "avgPlacement": 4.4,
+      "sampleCount": 706
+    },
+    {
+      "compId": "119",
+      "name": "神谕大嘴",
+      "top4Rate": 49.21,
+      "topRate": 9.76,
+      "avgPlacement": 4.51,
+      "sampleCount": 2223
+    }
+  ],
+  "cold": {
+    "花妖转凯南": {
+      "heroId": "5453",
+      "heroName": "凯南",
+      "equipIds": [
+        2005,
+        2038,
+        41810
+      ],
+      "sampleCount": 401,
+      "avgPlacement": 2.59,
+      "top4Rate": 84.79,
+      "topRate": 37.16
+    },
+    "猎人转巨龙": {
+      "heroId": "5458",
+      "heroName": "远古巨龙",
+      "equipIds": [
+        2001,
+        2037,
+        41816
+      ],
+      "sampleCount": 365,
+      "avgPlacement": 2.94,
+      "top4Rate": 75.34,
+      "topRate": 36.71
+    },
+    "暗爪卡蜜尔": {
+      "heroId": "1505",
+      "heroName": "卡蜜尔",
+      "equipIds": [
+        2001,
+        2007,
+        6073
+      ],
+      "sampleCount": 357,
+      "avgPlacement": 3.55,
+      "top4Rate": 69.75,
+      "topRate": 14.01
+    },
+    "护臂天使": {
+      "equipId": 6084,
+      "name": "探索者的护臂",
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/seeker_s_armguard.png",
+      "sampleCount": 184,
+      "playRate": 2.22,
+      "avgPlacement": 3.48,
+      "top4Rate": 70.65,
+      "topRate": 20.65,
+      "tier": "S",
+      "placementDelta": -1.1
+    },
+    "花妖转螳螂": {
+      "equipId": 41810,
+      "name": "绝命花妖纹章",
+      "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41810.png",
+      "sampleCount": 172,
+      "playRate": 1.07,
+      "avgPlacement": 4.12,
+      "top4Rate": 59.3,
+      "topRate": 15.12,
+      "tier": "A",
+      "placementDelta": -0.18
+    },
+    "神谕大嘴物理三件套": {
+      "id": "2001-2045-2046",
+      "equipIds": [
+        2001,
+        2045,
+        2046
+      ],
+      "equips": [
+        {
+          "id": 2001,
+          "name": "无尽之刃",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+        },
+        {
+          "id": 2045,
+          "name": "锐利之刃",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2045.png"
+        },
+        {
+          "id": 2046,
+          "name": "巨人捕手",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2046.png"
+        }
+      ],
+      "sampleCount": 253,
+      "playRate": 28.36,
+      "top4Rate": 57.71,
+      "topRate": 11.46,
+      "avgPlacement": 4.08,
+      "tier": "S",
+      "placementDelta": -0.43
+    }
+  }
+}

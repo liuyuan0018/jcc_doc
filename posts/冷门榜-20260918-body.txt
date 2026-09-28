@@ -1,0 +1,25 @@
+纹章、神器到了手，才考虑转这几套。
+花妖转凯南、猎人转巨龙、暗爪卡蜜尔，是这次优先看的3个分支。护臂天使、花妖转螳螂只有46/44个样本，放观察区，不当稳分答案。
+
+图2—6都有完整站位、主C装备、开局、搜牌和翻车点。五费分支要有经济和血量，一费分支要看来牌。没有核心装备，回主页常规榜选阵容；两篇封面互相指路。
+
+下面是基础框架码，导入后按图手动换装备，未游戏导入验证：
+
+地狱火95
+MjIwMDY3MzAyODc5ODA4NTYxNzg5MjQwODA3MzIw
+
+巨龙95
+MjIwMDY3MzAyODc5ODA4NTYxNzg3MTgyMDgwODEz
+
+卡丽蜜儿
+MjIwMDY3MzAyODc5ODA4NTYxNzg5MTEwOTYxNDE2
+
+森林天使
+MjIwMDY3MzAyODc5ODA4NTYxNzg3MTgxOTg4MDM0
+
+裁决螳螂
+MjIwMDY3MzAyODc5ODA4NTYxNzg5MjE4MDI5MTQ5
+
+前3套为所属体系内携带者分项；后2套为英雄携装分项，未锁定完整阵容。不能混排，也不是图上三件套的独立胜率。
+来源：DataJ高分段样本，18.2a，截至9/18 03:25。运营与补装是整理建议，尚无逐局实战复核。
+#金铲铲之战 #金铲铲S18 #冷门阵容 #神器 #阵容码

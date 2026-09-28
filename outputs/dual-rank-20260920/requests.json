@@ -1,0 +1,122 @@
+[
+  {
+    "key": "summary",
+    "url": "https://www.dataj.cc/api/web/stats/summary?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:05:09.499147+00:00",
+    "ok": true
+  },
+  {
+    "key": "rank",
+    "url": "https://www.dataj.cc/api/web/comp/rank?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:05:09.570921+00:00",
+    "ok": true
+  },
+  {
+    "key": "special",
+    "url": "https://www.dataj.cc/api/web/stats/special-equip?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:05:09.529825+00:00",
+    "ok": true
+  },
+  {
+    "key": "comp119",
+    "url": "https://www.dataj.cc/api/web/comp/119?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:05:09.494632+00:00",
+    "ok": true
+  },
+  {
+    "key": "kog-ad-equips",
+    "url": "https://www.dataj.cc/api/web/comp/119/hero-equips?heroId=3512&setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:05:09.602536+00:00",
+    "ok": true
+  },
+  {
+    "key": "kayle-gear",
+    "url": "https://www.dataj.cc/api/web/stats/hero/2512/equips?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:05:09.709246+00:00",
+    "ok": true
+  },
+  {
+    "key": "khazix-gear",
+    "url": "https://www.dataj.cc/api/web/stats/hero/3505/equips?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:05:09.701426+00:00",
+    "ok": true
+  },
+  {
+    "key": "ashe-emblem",
+    "url": "https://www.dataj.cc/api/web/comp/112/hero-equips?setId=18&gameVersion=18.2a&heroId=5454",
+    "fetched_at": "2026-09-20T11:26:00.884022+00:00",
+    "ok": true
+  },
+  {
+    "key": "comp-112",
+    "url": "https://www.dataj.cc/api/web/comp/112?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:26:00.749202+00:00",
+    "ok": true
+  },
+  {
+    "key": "comp-113",
+    "url": "https://www.dataj.cc/api/web/comp/113?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:26:00.768064+00:00",
+    "ok": true
+  },
+  {
+    "key": "comp-99",
+    "url": "https://www.dataj.cc/api/web/comp/99?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:26:00.749037+00:00",
+    "ok": true
+  },
+  {
+    "key": "comp-104",
+    "url": "https://www.dataj.cc/api/web/comp/104?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:26:00.775835+00:00",
+    "ok": true
+  },
+  {
+    "key": "comp-89",
+    "url": "https://www.dataj.cc/api/web/comp/89?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:26:00.767178+00:00",
+    "ok": true
+  },
+  {
+    "key": "comp-100",
+    "url": "https://www.dataj.cc/api/web/comp/100?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:26:00.849343+00:00",
+    "ok": true
+  },
+  {
+    "key": "comp-116",
+    "url": "https://www.dataj.cc/api/web/comp/116?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:26:00.847762+00:00",
+    "ok": true
+  },
+  {
+    "key": "comp-106",
+    "url": "https://www.dataj.cc/api/web/comp/106?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:26:00.884420+00:00",
+    "ok": true
+  },
+  {
+    "key": "comp-109",
+    "url": "https://www.dataj.cc/api/web/comp/109?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:26:00.884384+00:00",
+    "ok": true
+  },
+  {
+    "key": "comp-115",
+    "url": "https://www.dataj.cc/api/web/comp/115?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:26:00.884499+00:00",
+    "ok": true
+  },
+  {
+    "key": "comp-88",
+    "url": "https://www.dataj.cc/api/web/comp/88?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:26:00.987666+00:00",
+    "ok": true
+  },
+  {
+    "key": "zyra-equips",
+    "url": "https://www.dataj.cc/api/web/comp/90/hero-equips?heroId=4512&setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-20T11:26:01.101440+00:00",
+    "ok": true
+  }
+]

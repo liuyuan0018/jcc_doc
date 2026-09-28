@@ -1,0 +1,4408 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "compId": "112",
+    "heroId": "5454",
+    "heroEquips": [
+      {
+        "id": "41806",
+        "equipIds": [
+          41806
+        ],
+        "equips": [
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 713,
+        "playRate": 33.32,
+        "top4Rate": 77.7,
+        "topRate": 37.17,
+        "avgPlacement": 2.92,
+        "tier": "S"
+      },
+      {
+        "id": "2004",
+        "equipIds": [
+          2004
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          }
+        ],
+        "sampleCount": 505,
+        "playRate": 23.6,
+        "top4Rate": 77.82,
+        "topRate": 38.22,
+        "avgPlacement": 2.87,
+        "tier": "S",
+        "placementDelta": -0.15
+      },
+      {
+        "id": "2009",
+        "equipIds": [
+          2009
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          }
+        ],
+        "sampleCount": 343,
+        "playRate": 16.03,
+        "top4Rate": 80.17,
+        "topRate": 38.78,
+        "avgPlacement": 2.8,
+        "tier": "A",
+        "placementDelta": -0.24
+      },
+      {
+        "id": "2020",
+        "equipIds": [
+          2020
+        ],
+        "equips": [
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          }
+        ],
+        "sampleCount": 188,
+        "playRate": 8.79,
+        "top4Rate": 77.66,
+        "topRate": 36.17,
+        "avgPlacement": 2.94,
+        "tier": "B",
+        "placementDelta": 0.02
+      },
+      {
+        "id": "2001",
+        "equipIds": [
+          2001
+        ],
+        "equips": [
+          {
+            "id": 2001,
+            "name": "无尽之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+          }
+        ],
+        "sampleCount": 105,
+        "playRate": 4.91,
+        "top4Rate": 72.38,
+        "topRate": 33.33,
+        "avgPlacement": 3.32,
+        "tier": "C",
+        "placementDelta": 0.46
+      },
+      {
+        "id": "2022",
+        "equipIds": [
+          2022
+        ],
+        "equips": [
+          {
+            "id": 2022,
+            "name": "蓝霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2222.png"
+          }
+        ],
+        "sampleCount": 62,
+        "playRate": 2.9,
+        "top4Rate": 85.48,
+        "topRate": 40.32,
+        "avgPlacement": 2.52,
+        "tier": "C",
+        "placementDelta": -0.44
+      },
+      {
+        "id": "2010",
+        "equipIds": [
+          2010
+        ],
+        "equips": [
+          {
+            "id": 2010,
+            "name": "鬼索的狂暴之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2010.png"
+          }
+        ],
+        "sampleCount": 45,
+        "playRate": 2.1,
+        "top4Rate": 73.33,
+        "topRate": 33.33,
+        "avgPlacement": 3.36,
+        "tier": "D",
+        "placementDelta": 0.5
+      },
+      {
+        "id": "2037",
+        "equipIds": [
+          2037
+        ],
+        "equips": [
+          {
+            "id": 2037,
+            "name": "最后的轻语",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2053.png"
+          }
+        ],
+        "sampleCount": 26,
+        "playRate": 1.21,
+        "top4Rate": 73.08,
+        "topRate": 42.31,
+        "avgPlacement": 2.88,
+        "tier": "C",
+        "placementDelta": -0.05
+      },
+      {
+        "id": "2045",
+        "equipIds": [
+          2045
+        ],
+        "equips": [
+          {
+            "id": 2045,
+            "name": "锐利之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2045.png"
+          }
+        ],
+        "sampleCount": 21,
+        "playRate": 0.98,
+        "top4Rate": 61.9,
+        "topRate": 33.33,
+        "avgPlacement": 3.38,
+        "tier": "D",
+        "placementDelta": 0.47
+      },
+      {
+        "id": "41818",
+        "equipIds": [
+          41818
+        ],
+        "equips": [
+          {
+            "id": 41818,
+            "name": "裁决使纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41818.png"
+          }
+        ],
+        "sampleCount": 14,
+        "playRate": 0.65,
+        "top4Rate": 71.43,
+        "topRate": 42.86,
+        "avgPlacement": 3.29,
+        "tier": "D",
+        "placementDelta": 0.37
+      },
+      {
+        "id": "2024",
+        "equipIds": [
+          2024
+        ],
+        "equips": [
+          {
+            "id": 2024,
+            "name": "适应性头盔",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/adaptivehelm.png"
+          }
+        ],
+        "sampleCount": 11,
+        "playRate": 0.51,
+        "top4Rate": 63.64,
+        "topRate": 0,
+        "avgPlacement": 4.18,
+        "tier": "D",
+        "placementDelta": 1.28
+      },
+      {
+        "id": "2014",
+        "equipIds": [
+          2014
+        ],
+        "equips": [
+          {
+            "id": 2014,
+            "name": "纳什之牙",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/nashorstooth.png"
+          }
+        ],
+        "sampleCount": 8,
+        "playRate": 0.37,
+        "top4Rate": 87.5,
+        "topRate": 37.5,
+        "avgPlacement": 2.5,
+        "tier": null,
+        "placementDelta": -0.43
+      },
+      {
+        "id": "2046",
+        "equipIds": [
+          2046
+        ],
+        "equips": [
+          {
+            "id": 2046,
+            "name": "巨人捕手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2046.png"
+          }
+        ],
+        "sampleCount": 8,
+        "playRate": 0.37,
+        "top4Rate": 62.5,
+        "topRate": 12.5,
+        "avgPlacement": 3.75,
+        "tier": null,
+        "placementDelta": 0.84
+      },
+      {
+        "id": "2065",
+        "equipIds": [
+          2065
+        ],
+        "equips": [
+          {
+            "id": 2065,
+            "name": "光明版红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2554.png"
+          }
+        ],
+        "sampleCount": 8,
+        "playRate": 0.37,
+        "top4Rate": 100,
+        "topRate": 50,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "41807",
+        "equipIds": [
+          41807
+        ],
+        "equips": [
+          {
+            "id": 41807,
+            "name": "野兽之灵纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41807.png"
+          }
+        ],
+        "sampleCount": 8,
+        "playRate": 0.37,
+        "top4Rate": 100,
+        "topRate": 25,
+        "avgPlacement": 2.5,
+        "tier": null,
+        "placementDelta": -0.43
+      },
+      {
+        "id": "2039",
+        "equipIds": [
+          2039
+        ],
+        "equips": [
+          {
+            "id": 2039,
+            "name": "正义之手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2039.png"
+          }
+        ],
+        "sampleCount": 7,
+        "playRate": 0.33,
+        "top4Rate": 85.71,
+        "topRate": 14.29,
+        "avgPlacement": 2.57,
+        "tier": null,
+        "placementDelta": -0.36
+      },
+      {
+        "id": "2042",
+        "equipIds": [
+          2042
+        ],
+        "equips": [
+          {
+            "id": 2042,
+            "name": "强袭者的链枷",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/strikersflail.png"
+          }
+        ],
+        "sampleCount": 6,
+        "playRate": 0.28,
+        "top4Rate": 66.67,
+        "topRate": 16.67,
+        "avgPlacement": 3.67,
+        "tier": null,
+        "placementDelta": 0.75
+      },
+      {
+        "id": "41815",
+        "equipIds": [
+          41815
+        ],
+        "equips": [
+          {
+            "id": 41815,
+            "name": "迅捷射手纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41815.png"
+          }
+        ],
+        "sampleCount": 6,
+        "playRate": 0.28,
+        "top4Rate": 100,
+        "topRate": 50,
+        "avgPlacement": 1.67,
+        "tier": null,
+        "placementDelta": -1.26
+      },
+      {
+        "id": "2003",
+        "equipIds": [
+          2003
+        ],
+        "equips": [
+          {
+            "id": 2003,
+            "name": "海克斯科技枪刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2003.png"
+          }
+        ],
+        "sampleCount": 5,
+        "playRate": 0.23,
+        "top4Rate": 80,
+        "topRate": 20,
+        "avgPlacement": 2.6,
+        "tier": null,
+        "placementDelta": -0.33
+      },
+      {
+        "id": "2013",
+        "equipIds": [
+          2013
+        ],
+        "equips": [
+          {
+            "id": 2013,
+            "name": "海妖之怒",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/krakensfury.png"
+          }
+        ],
+        "sampleCount": 5,
+        "playRate": 0.23,
+        "top4Rate": 60,
+        "topRate": 60,
+        "avgPlacement": 3.4,
+        "tier": null,
+        "placementDelta": 0.48
+      },
+      {
+        "id": "41810",
+        "equipIds": [
+          41810
+        ],
+        "equips": [
+          {
+            "id": 41810,
+            "name": "绝命花妖纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41810.png"
+          }
+        ],
+        "sampleCount": 5,
+        "playRate": 0.23,
+        "top4Rate": 80,
+        "topRate": 40,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "6058",
+        "equipIds": [
+          6058
+        ],
+        "equips": [
+          {
+            "id": 6058,
+            "name": "魔蕴",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/3604.png"
+          }
+        ],
+        "sampleCount": 4,
+        "playRate": 0.19,
+        "top4Rate": 75,
+        "topRate": 25,
+        "avgPlacement": 3.75,
+        "tier": null,
+        "placementDelta": 0.83
+      },
+      {
+        "id": "2005",
+        "equipIds": [
+          2005
+        ],
+        "equips": [
+          {
+            "id": 2005,
+            "name": "夜之锋刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2005.png"
+          }
+        ],
+        "sampleCount": 3,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 33.33,
+        "avgPlacement": 1.67,
+        "tier": null,
+        "placementDelta": -1.26
+      },
+      {
+        "id": "2036",
+        "equipIds": [
+          2036
+        ],
+        "equips": [
+          {
+            "id": 2036,
+            "name": "金铲铲冠冕",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2036.png"
+          }
+        ],
+        "sampleCount": 3,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2041",
+        "equipIds": [
+          2041
+        ],
+        "equips": [
+          {
+            "id": 2041,
+            "name": "水银",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2041.png"
+          }
+        ],
+        "sampleCount": 3,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "1002",
+        "equipIds": [
+          1002
+        ],
+        "equips": [
+          {
+            "id": 1002,
+            "name": "反曲之弓",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/1002.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.09,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 7.5,
+        "tier": null,
+        "placementDelta": 4.59
+      },
+      {
+        "id": "2017",
+        "equipIds": [
+          2017
+        ],
+        "equips": [
+          {
+            "id": 2017,
+            "name": "大天使之杖",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2017.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.09,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 6.5,
+        "tier": null,
+        "placementDelta": 3.59
+      },
+      {
+        "id": "2038",
+        "equipIds": [
+          2038
+        ],
+        "equips": [
+          {
+            "id": 2038,
+            "name": "珠光护手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2038.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.09,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "2061",
+        "equipIds": [
+          2061
+        ],
+        "equips": [
+          {
+            "id": 2061,
+            "name": "光明版朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2550.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.09,
+        "top4Rate": 100,
+        "topRate": 50,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2076",
+        "equipIds": [
+          2076
+        ],
+        "equips": [
+          {
+            "id": 2076,
+            "name": "光明版蓝霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2565.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.09,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "6091",
+        "equipIds": [
+          6091
+        ],
+        "equips": [
+          {
+            "id": 6091,
+            "name": "黎明核心",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/dawncore.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.09,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 7.5,
+        "tier": null,
+        "placementDelta": 4.59
+      },
+      {
+        "id": "1003",
+        "equipIds": [
+          1003
+        ],
+        "equips": [
+          {
+            "id": 1003,
+            "name": "无用大棒",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/1003.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.05,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 8,
+        "tier": null,
+        "placementDelta": 5.08
+      },
+      {
+        "id": "1009",
+        "equipIds": [
+          1009
+        ],
+        "equips": [
+          {
+            "id": 1009,
+            "name": "拳套",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/1009.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.05,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "2007",
+        "equipIds": [
+          2007
+        ],
+        "equips": [
+          {
+            "id": 2007,
+            "name": "斯特拉克的挑战护手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/steraksgage.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.05,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2011",
+        "equipIds": [
+          2011
+        ],
+        "equips": [
+          {
+            "id": 2011,
+            "name": "虚空之杖",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/voidstaff.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.05,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2016",
+        "equipIds": [
+          2016
+        ],
+        "equips": [
+          {
+            "id": 2016,
+            "name": "班克斯的魔法帽",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2016.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.05,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 6,
+        "tier": null,
+        "placementDelta": 3.08
+      },
+      {
+        "id": "2094",
+        "equipIds": [
+          2094
+        ],
+        "equips": [
+          {
+            "id": 2094,
+            "name": "光明版巨人捕手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2583.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.05,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "6059",
+        "equipIds": [
+          6059
+        ],
+        "equips": [
+          {
+            "id": 6059,
+            "name": "金币收集者",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/3603.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.05,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 8,
+        "tier": null,
+        "placementDelta": 5.08
+      },
+      {
+        "id": "6065",
+        "equipIds": [
+          6065
+        ],
+        "equips": [
+          {
+            "id": 6065,
+            "name": "投机者之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/5008.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.05,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "6070",
+        "equipIds": [
+          6070
+        ],
+        "equips": [
+          {
+            "id": 6070,
+            "name": "连指手套",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/mittens.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.05,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "6071",
+        "equipIds": [
+          6071
+        ],
+        "equips": [
+          {
+            "id": 6071,
+            "name": "卢登的激荡",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/luden_s_tempest.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.05,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "6080",
+        "equipIds": [
+          6080
+        ],
+        "equips": [
+          {
+            "id": 6080,
+            "name": "疾射火炮",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/rapid_firecannon.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.05,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "6088",
+        "equipIds": [
+          6088
+        ],
+        "equips": [
+          {
+            "id": 6088,
+            "name": "斯塔缇克电刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/statikkshiv.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.05,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "41804",
+        "equipIds": [
+          41804
+        ],
+        "equips": [
+          {
+            "id": 41804,
+            "name": "花仙子纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41804.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.05,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 4,
+        "tier": null,
+        "placementDelta": 1.08
+      },
+      {
+        "id": "41808",
+        "equipIds": [
+          41808
+        ],
+        "equips": [
+          {
+            "id": 41808,
+            "name": "月蚀骑士纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41808.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.05,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 7,
+        "tier": null,
+        "placementDelta": 4.08
+      },
+      {
+        "id": "41817",
+        "equipIds": [
+          41817
+        ],
+        "equips": [
+          {
+            "id": 41817,
+            "name": "狂战士纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41817.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.05,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 5,
+        "tier": null,
+        "placementDelta": 2.08
+      },
+      {
+        "id": "41820",
+        "equipIds": [
+          41820
+        ],
+        "equips": [
+          {
+            "id": 41820,
+            "name": "神谕纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41820.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.05,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      }
+    ],
+    "hero3Equips": [
+      {
+        "id": "2004-2009-41806",
+        "equipIds": [
+          2004,
+          2009,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 250,
+        "playRate": 35.31,
+        "top4Rate": 80,
+        "topRate": 41.2,
+        "avgPlacement": 2.76,
+        "tier": "S",
+        "placementDelta": -0.26
+      },
+      {
+        "id": "2004-2020-41806",
+        "equipIds": [
+          2004,
+          2020,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 138,
+        "playRate": 19.49,
+        "top4Rate": 78.99,
+        "topRate": 36.96,
+        "avgPlacement": 2.78,
+        "tier": "S",
+        "placementDelta": -0.18
+      },
+      {
+        "id": "2001-2004-41806",
+        "equipIds": [
+          2001,
+          2004,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2001,
+            "name": "无尽之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+          },
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 47,
+        "playRate": 6.64,
+        "top4Rate": 63.83,
+        "topRate": 27.66,
+        "avgPlacement": 3.7,
+        "tier": "C",
+        "placementDelta": 0.83
+      },
+      {
+        "id": "2009-2022-41806",
+        "equipIds": [
+          2009,
+          2022,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 2022,
+            "name": "蓝霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2222.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 28,
+        "playRate": 3.95,
+        "top4Rate": 78.57,
+        "topRate": 28.57,
+        "avgPlacement": 3.14,
+        "tier": "C",
+        "placementDelta": 0.22
+      },
+      {
+        "id": "2001-2009-41806",
+        "equipIds": [
+          2001,
+          2009,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2001,
+            "name": "无尽之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+          },
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 21,
+        "playRate": 2.97,
+        "top4Rate": 85.71,
+        "topRate": 42.86,
+        "avgPlacement": 2.62,
+        "tier": "C",
+        "placementDelta": -0.31
+      },
+      {
+        "id": "2020-2022-41806",
+        "equipIds": [
+          2020,
+          2022,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 2022,
+            "name": "蓝霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2222.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 16,
+        "playRate": 2.26,
+        "top4Rate": 87.5,
+        "topRate": 37.5,
+        "avgPlacement": 2.44,
+        "tier": "C",
+        "placementDelta": -0.5
+      },
+      {
+        "id": "2009-2010-41806",
+        "equipIds": [
+          2009,
+          2010,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 2010,
+            "name": "鬼索的狂暴之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2010.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 10,
+        "playRate": 1.41,
+        "top4Rate": 90,
+        "topRate": 40,
+        "avgPlacement": 2.7,
+        "tier": "C",
+        "placementDelta": -0.23
+      },
+      {
+        "id": "2001-2022-41806",
+        "equipIds": [
+          2001,
+          2022,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2001,
+            "name": "无尽之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+          },
+          {
+            "id": 2022,
+            "name": "蓝霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2222.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 8,
+        "playRate": 1.13,
+        "top4Rate": 100,
+        "topRate": 50,
+        "avgPlacement": 1.63,
+        "tier": null,
+        "placementDelta": -1.31
+      },
+      {
+        "id": "2004-2010-41806",
+        "equipIds": [
+          2004,
+          2010,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 2010,
+            "name": "鬼索的狂暴之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2010.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 8,
+        "playRate": 1.13,
+        "top4Rate": 62.5,
+        "topRate": 37.5,
+        "avgPlacement": 3.38,
+        "tier": null,
+        "placementDelta": 0.46
+      },
+      {
+        "id": "2004-2037-41806",
+        "equipIds": [
+          2004,
+          2037,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 2037,
+            "name": "最后的轻语",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2053.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 8,
+        "playRate": 1.13,
+        "top4Rate": 62.5,
+        "topRate": 37.5,
+        "avgPlacement": 3.38,
+        "tier": null,
+        "placementDelta": 0.46
+      },
+      {
+        "id": "2001-2010-41806",
+        "equipIds": [
+          2001,
+          2010,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2001,
+            "name": "无尽之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+          },
+          {
+            "id": 2010,
+            "name": "鬼索的狂暴之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2010.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 8,
+        "playRate": 1.13,
+        "top4Rate": 37.5,
+        "topRate": 25,
+        "avgPlacement": 5.38,
+        "tier": null,
+        "placementDelta": 2.48
+      },
+      {
+        "id": "2004-2045-41806",
+        "equipIds": [
+          2004,
+          2045,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 2045,
+            "name": "锐利之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2045.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 7,
+        "playRate": 0.99,
+        "top4Rate": 71.43,
+        "topRate": 28.57,
+        "avgPlacement": 2.71,
+        "tier": null,
+        "placementDelta": -0.22
+      },
+      {
+        "id": "2001-2020-41806",
+        "equipIds": [
+          2001,
+          2020,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2001,
+            "name": "无尽之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+          },
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 6,
+        "playRate": 0.85,
+        "top4Rate": 100,
+        "topRate": 50,
+        "avgPlacement": 2.33,
+        "tier": null,
+        "placementDelta": -0.6
+      },
+      {
+        "id": "2001-2014-41806",
+        "equipIds": [
+          2001,
+          2014,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2001,
+            "name": "无尽之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+          },
+          {
+            "id": 2014,
+            "name": "纳什之牙",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/nashorstooth.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 5,
+        "playRate": 0.71,
+        "top4Rate": 80,
+        "topRate": 40,
+        "avgPlacement": 2.6,
+        "tier": null,
+        "placementDelta": -0.33
+      },
+      {
+        "id": "2020-2024-41806",
+        "equipIds": [
+          2020,
+          2024,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 2024,
+            "name": "适应性头盔",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/adaptivehelm.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 5,
+        "playRate": 0.71,
+        "top4Rate": 40,
+        "topRate": 0,
+        "avgPlacement": 5.6,
+        "tier": null,
+        "placementDelta": 2.69
+      },
+      {
+        "id": "2004-41806-41807",
+        "equipIds": [
+          2004,
+          41806,
+          41807
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41807,
+            "name": "野兽之灵纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41807.png"
+          }
+        ],
+        "sampleCount": 4,
+        "playRate": 0.56,
+        "top4Rate": 100,
+        "topRate": 50,
+        "avgPlacement": 1.75,
+        "tier": null,
+        "placementDelta": -1.18
+      },
+      {
+        "id": "2004-2065-41806",
+        "equipIds": [
+          2004,
+          2065,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 2065,
+            "name": "光明版红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2554.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 4,
+        "playRate": 0.56,
+        "top4Rate": 100,
+        "topRate": 50,
+        "avgPlacement": 1.75,
+        "tier": null,
+        "placementDelta": -1.18
+      },
+      {
+        "id": "2009-2037-41806",
+        "equipIds": [
+          2009,
+          2037,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 2037,
+            "name": "最后的轻语",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2053.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 4,
+        "playRate": 0.56,
+        "top4Rate": 75,
+        "topRate": 25,
+        "avgPlacement": 2.5,
+        "tier": null,
+        "placementDelta": -0.43
+      },
+      {
+        "id": "2010-2020-41806",
+        "equipIds": [
+          2010,
+          2020,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2010,
+            "name": "鬼索的狂暴之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2010.png"
+          },
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 4,
+        "playRate": 0.56,
+        "top4Rate": 75,
+        "topRate": 25,
+        "avgPlacement": 3.75,
+        "tier": null,
+        "placementDelta": 0.83
+      },
+      {
+        "id": "2001-2037-41806",
+        "equipIds": [
+          2001,
+          2037,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2001,
+            "name": "无尽之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+          },
+          {
+            "id": 2037,
+            "name": "最后的轻语",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2053.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 4,
+        "playRate": 0.56,
+        "top4Rate": 50,
+        "topRate": 25,
+        "avgPlacement": 4.5,
+        "tier": null,
+        "placementDelta": 1.58
+      },
+      {
+        "id": "2009-2045-41806",
+        "equipIds": [
+          2009,
+          2045,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 2045,
+            "name": "锐利之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2045.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 4,
+        "playRate": 0.56,
+        "top4Rate": 25,
+        "topRate": 25,
+        "avgPlacement": 4.5,
+        "tier": null,
+        "placementDelta": 1.58
+      },
+      {
+        "id": "2004-2005-41806",
+        "equipIds": [
+          2004,
+          2005,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 2005,
+            "name": "夜之锋刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2005.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 3,
+        "playRate": 0.42,
+        "top4Rate": 100,
+        "topRate": 33.33,
+        "avgPlacement": 1.67,
+        "tier": null,
+        "placementDelta": -1.26
+      },
+      {
+        "id": "2010-2039-41806",
+        "equipIds": [
+          2010,
+          2039,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2010,
+            "name": "鬼索的狂暴之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2010.png"
+          },
+          {
+            "id": 2039,
+            "name": "正义之手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2039.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 3,
+        "playRate": 0.42,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2004-2046-41806",
+        "equipIds": [
+          2004,
+          2046,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 2046,
+            "name": "巨人捕手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2046.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 3,
+        "playRate": 0.42,
+        "top4Rate": 100,
+        "topRate": 33.33,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2004-2042-41806",
+        "equipIds": [
+          2004,
+          2042,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 2042,
+            "name": "强袭者的链枷",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/strikersflail.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 3,
+        "playRate": 0.42,
+        "top4Rate": 66.67,
+        "topRate": 0,
+        "avgPlacement": 4,
+        "tier": null,
+        "placementDelta": 1.08
+      },
+      {
+        "id": "2020-2036-41806",
+        "equipIds": [
+          2020,
+          2036,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 2036,
+            "name": "金铲铲冠冕",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2036.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2010-2037-41806",
+        "equipIds": [
+          2010,
+          2037,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2010,
+            "name": "鬼索的狂暴之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2010.png"
+          },
+          {
+            "id": 2037,
+            "name": "最后的轻语",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2053.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2022-2037-41806",
+        "equipIds": [
+          2022,
+          2037,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2022,
+            "name": "蓝霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2222.png"
+          },
+          {
+            "id": 2037,
+            "name": "最后的轻语",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2053.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2004-41806-41818",
+        "equipIds": [
+          2004,
+          41806,
+          41818
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41818,
+            "name": "裁决使纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41818.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 100,
+        "topRate": 50,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2009-2061-41806",
+        "equipIds": [
+          2009,
+          2061,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 2061,
+            "name": "光明版朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2550.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 100,
+        "topRate": 50,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2014-41806-41818",
+        "equipIds": [
+          2014,
+          41806,
+          41818
+        ],
+        "equips": [
+          {
+            "id": 2014,
+            "name": "纳什之牙",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/nashorstooth.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41818,
+            "name": "裁决使纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41818.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 100,
+        "topRate": 50,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2020-2045-41806",
+        "equipIds": [
+          2020,
+          2045,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 2045,
+            "name": "锐利之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2045.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 100,
+        "topRate": 50,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2009-2024-41806",
+        "equipIds": [
+          2009,
+          2024,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 2024,
+            "name": "适应性头盔",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/adaptivehelm.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2004-2024-41806",
+        "equipIds": [
+          2004,
+          2024,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 2024,
+            "name": "适应性头盔",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/adaptivehelm.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2003-2004-41806",
+        "equipIds": [
+          2003,
+          2004,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2003,
+            "name": "海克斯科技枪刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2003.png"
+          },
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 2.5,
+        "tier": null,
+        "placementDelta": -0.43
+      },
+      {
+        "id": "2009-2038-41806",
+        "equipIds": [
+          2009,
+          2038,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 2038,
+            "name": "珠光护手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2038.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "2020-6058-41806",
+        "equipIds": [
+          2020,
+          6058,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 6058,
+            "name": "魔蕴",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/3604.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "2010-2045-41806",
+        "equipIds": [
+          2010,
+          2045,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2010,
+            "name": "鬼索的狂暴之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2010.png"
+          },
+          {
+            "id": 2045,
+            "name": "锐利之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2045.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 50,
+        "topRate": 50,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "2009-41806-41810",
+        "equipIds": [
+          2009,
+          41806,
+          41810
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41810,
+            "name": "绝命花妖纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41810.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "2009-41806-41818",
+        "equipIds": [
+          2009,
+          41806,
+          41818
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41818,
+            "name": "裁决使纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41818.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 50,
+        "topRate": 0,
+        "avgPlacement": 4,
+        "tier": null,
+        "placementDelta": 1.08
+      },
+      {
+        "id": "2020-41806-41810",
+        "equipIds": [
+          2020,
+          41806,
+          41810
+        ],
+        "equips": [
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41810,
+            "name": "绝命花妖纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41810.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 50,
+        "topRate": 50,
+        "avgPlacement": 4,
+        "tier": null,
+        "placementDelta": 1.08
+      },
+      {
+        "id": "2004-2039-41806",
+        "equipIds": [
+          2004,
+          2039,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 2039,
+            "name": "正义之手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2039.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 50,
+        "topRate": 0,
+        "avgPlacement": 4.5,
+        "tier": null,
+        "placementDelta": 1.58
+      },
+      {
+        "id": "2009-2013-41806",
+        "equipIds": [
+          2009,
+          2013,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 2013,
+            "name": "海妖之怒",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/krakensfury.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 50,
+        "topRate": 50,
+        "avgPlacement": 4.5,
+        "tier": null,
+        "placementDelta": 1.58
+      },
+      {
+        "id": "2020-2037-41806",
+        "equipIds": [
+          2020,
+          2037,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 2037,
+            "name": "最后的轻语",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2053.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 50,
+        "topRate": 0,
+        "avgPlacement": 4.5,
+        "tier": null,
+        "placementDelta": 1.58
+      },
+      {
+        "id": "2009-2046-41806",
+        "equipIds": [
+          2009,
+          2046,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 2046,
+            "name": "巨人捕手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2046.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 50,
+        "topRate": 0,
+        "avgPlacement": 5,
+        "tier": null,
+        "placementDelta": 2.08
+      },
+      {
+        "id": "2001-2045-41806",
+        "equipIds": [
+          2001,
+          2045,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2001,
+            "name": "无尽之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+          },
+          {
+            "id": 2045,
+            "name": "锐利之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2045.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 50,
+        "topRate": 0,
+        "avgPlacement": 5.5,
+        "tier": null,
+        "placementDelta": 2.58
+      },
+      {
+        "id": "2010-41806-41818",
+        "equipIds": [
+          2010,
+          41806,
+          41818
+        ],
+        "equips": [
+          {
+            "id": 2010,
+            "name": "鬼索的狂暴之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2010.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41818,
+            "name": "裁决使纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41818.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 50,
+        "topRate": 0,
+        "avgPlacement": 5.5,
+        "tier": null,
+        "placementDelta": 2.58
+      },
+      {
+        "id": "1002-2004-41806",
+        "equipIds": [
+          1002,
+          2004,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 1002,
+            "name": "反曲之弓",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/1002.png"
+          },
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 7.5,
+        "tier": null,
+        "placementDelta": 4.59
+      },
+      {
+        "id": "2020-41806-41818",
+        "equipIds": [
+          2020,
+          41806,
+          41818
+        ],
+        "equips": [
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41818,
+            "name": "裁决使纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41818.png"
+          }
+        ],
+        "sampleCount": 2,
+        "playRate": 0.28,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 7.5,
+        "tier": null,
+        "placementDelta": 4.59
+      },
+      {
+        "id": "2037-41806-41818",
+        "equipIds": [
+          2037,
+          41806,
+          41818
+        ],
+        "equips": [
+          {
+            "id": 2037,
+            "name": "最后的轻语",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2053.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41818,
+            "name": "裁决使纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41818.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2009-6065-41806",
+        "equipIds": [
+          2009,
+          6065,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 6065,
+            "name": "投机者之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/5008.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2004-41806-41810",
+        "equipIds": [
+          2004,
+          41806,
+          41810
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41810,
+            "name": "绝命花妖纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41810.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2020-2041-41806",
+        "equipIds": [
+          2020,
+          2041,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 2041,
+            "name": "水银",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2041.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2009-6071-41806",
+        "equipIds": [
+          2009,
+          6071,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 6071,
+            "name": "卢登的激荡",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/luden_s_tempest.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2013-2045-41806",
+        "equipIds": [
+          2013,
+          2045,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2013,
+            "name": "海妖之怒",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/krakensfury.png"
+          },
+          {
+            "id": 2045,
+            "name": "锐利之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2045.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2037-2076-41806",
+        "equipIds": [
+          2037,
+          2076,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2037,
+            "name": "最后的轻语",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2053.png"
+          },
+          {
+            "id": 2076,
+            "name": "光明版蓝霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2565.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2004-2094-41806",
+        "equipIds": [
+          2004,
+          2094,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 2094,
+            "name": "光明版巨人捕手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2583.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2020-41806-41815",
+        "equipIds": [
+          2020,
+          41806,
+          41815
+        ],
+        "equips": [
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41815,
+            "name": "迅捷射手纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41815.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2022-2065-41806",
+        "equipIds": [
+          2022,
+          2065,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2022,
+            "name": "蓝霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2222.png"
+          },
+          {
+            "id": 2065,
+            "name": "光明版红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2554.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2009-6058-41806",
+        "equipIds": [
+          2009,
+          6058,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 6058,
+            "name": "魔蕴",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/3604.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2065-41806-41818",
+        "equipIds": [
+          2065,
+          41806,
+          41818
+        ],
+        "equips": [
+          {
+            "id": 2065,
+            "name": "光明版红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2554.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41818,
+            "name": "裁决使纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41818.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2004-2007-41806",
+        "equipIds": [
+          2004,
+          2007,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 2007,
+            "name": "斯特拉克的挑战护手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/steraksgage.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2010-2013-41806",
+        "equipIds": [
+          2010,
+          2013,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2010,
+            "name": "鬼索的狂暴之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2010.png"
+          },
+          {
+            "id": 2013,
+            "name": "海妖之怒",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/krakensfury.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2010-2022-41806",
+        "equipIds": [
+          2010,
+          2022,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2010,
+            "name": "鬼索的狂暴之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2010.png"
+          },
+          {
+            "id": 2022,
+            "name": "蓝霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2222.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2020-2039-41806",
+        "equipIds": [
+          2020,
+          2039,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 2039,
+            "name": "正义之手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2039.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2003-41806-41815",
+        "equipIds": [
+          2003,
+          41806,
+          41815
+        ],
+        "equips": [
+          {
+            "id": 2003,
+            "name": "海克斯科技枪刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2003.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41815,
+            "name": "迅捷射手纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41815.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2022-2045-41806",
+        "equipIds": [
+          2022,
+          2045,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2022,
+            "name": "蓝霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2222.png"
+          },
+          {
+            "id": 2045,
+            "name": "锐利之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2045.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2036-41806-41818",
+        "equipIds": [
+          2036,
+          41806,
+          41818
+        ],
+        "equips": [
+          {
+            "id": 2036,
+            "name": "金铲铲冠冕",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2036.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41818,
+            "name": "裁决使纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41818.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2004-6080-41806",
+        "equipIds": [
+          2004,
+          6080,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 6080,
+            "name": "疾射火炮",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/rapid_firecannon.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2009-2041-41806",
+        "equipIds": [
+          2009,
+          2041,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 2041,
+            "name": "水银",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2041.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2004-2076-41806",
+        "equipIds": [
+          2004,
+          2076,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 2076,
+            "name": "光明版蓝霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2565.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2001-2041-41806",
+        "equipIds": [
+          2001,
+          2041,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2001,
+            "name": "无尽之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+          },
+          {
+            "id": 2041,
+            "name": "水银",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2041.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2022-2042-41806",
+        "equipIds": [
+          2022,
+          2042,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2022,
+            "name": "蓝霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2222.png"
+          },
+          {
+            "id": 2042,
+            "name": "强袭者的链枷",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/strikersflail.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2022-41806-41818",
+        "equipIds": [
+          2022,
+          41806,
+          41818
+        ],
+        "equips": [
+          {
+            "id": 2022,
+            "name": "蓝霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2222.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41818,
+            "name": "裁决使纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41818.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2009-41806-41815",
+        "equipIds": [
+          2009,
+          41806,
+          41815
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41815,
+            "name": "迅捷射手纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41815.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 100,
+        "avgPlacement": 1,
+        "tier": null,
+        "placementDelta": -1.93
+      },
+      {
+        "id": "2022-2046-41806",
+        "equipIds": [
+          2022,
+          2046,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2022,
+            "name": "蓝霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2222.png"
+          },
+          {
+            "id": 2046,
+            "name": "巨人捕手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2046.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2001-2024-41806",
+        "equipIds": [
+          2001,
+          2024,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2001,
+            "name": "无尽之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+          },
+          {
+            "id": 2024,
+            "name": "适应性头盔",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/adaptivehelm.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2037-41806-41815",
+        "equipIds": [
+          2037,
+          41806,
+          41815
+        ],
+        "equips": [
+          {
+            "id": 2037,
+            "name": "最后的轻语",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2053.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41815,
+            "name": "迅捷射手纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41815.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2009-2011-41806",
+        "equipIds": [
+          2009,
+          2011,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 2011,
+            "name": "虚空之杖",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/voidstaff.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2003-2009-41806",
+        "equipIds": [
+          2003,
+          2009,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2003,
+            "name": "海克斯科技枪刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2003.png"
+          },
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2022-41806-41815",
+        "equipIds": [
+          2022,
+          41806,
+          41815
+        ],
+        "equips": [
+          {
+            "id": 2022,
+            "name": "蓝霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2222.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41815,
+            "name": "迅捷射手纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41815.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2009-2039-41806",
+        "equipIds": [
+          2009,
+          2039,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 2039,
+            "name": "正义之手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2039.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2001-6070-41806",
+        "equipIds": [
+          2001,
+          6070,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2001,
+            "name": "无尽之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+          },
+          {
+            "id": 6070,
+            "name": "连指手套",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/mittens.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 2,
+        "tier": null,
+        "placementDelta": -0.93
+      },
+      {
+        "id": "2001-2065-41806",
+        "equipIds": [
+          2001,
+          2065,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2001,
+            "name": "无尽之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+          },
+          {
+            "id": 2065,
+            "name": "光明版红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2554.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "6088-41806-41815",
+        "equipIds": [
+          6088,
+          41806,
+          41815
+        ],
+        "equips": [
+          {
+            "id": 6088,
+            "name": "斯塔缇克电刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/statikkshiv.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41815,
+            "name": "迅捷射手纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41815.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "2020-41806-41807",
+        "equipIds": [
+          2020,
+          41806,
+          41807
+        ],
+        "equips": [
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41807,
+            "name": "野兽之灵纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41807.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "2042-41806-41807",
+        "equipIds": [
+          2042,
+          41806,
+          41807
+        ],
+        "equips": [
+          {
+            "id": 2042,
+            "name": "强袭者的链枷",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/strikersflail.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41807,
+            "name": "野兽之灵纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41807.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "2037-2045-41806",
+        "equipIds": [
+          2037,
+          2045,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2037,
+            "name": "最后的轻语",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2053.png"
+          },
+          {
+            "id": 2045,
+            "name": "锐利之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2045.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "2004-2014-41806",
+        "equipIds": [
+          2004,
+          2014,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 2014,
+            "name": "纳什之牙",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/nashorstooth.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "2009-41806-41807",
+        "equipIds": [
+          2009,
+          41806,
+          41807
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41807,
+            "name": "野兽之灵纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41807.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "1009-2009-41806",
+        "equipIds": [
+          1009,
+          2009,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 1009,
+            "name": "拳套",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/1009.png"
+          },
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "2004-41806-41820",
+        "equipIds": [
+          2004,
+          41806,
+          41820
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41820,
+            "name": "神谕纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41820.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 3,
+        "tier": null,
+        "placementDelta": 0.08
+      },
+      {
+        "id": "2010-2065-41806",
+        "equipIds": [
+          2010,
+          2065,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2010,
+            "name": "鬼索的狂暴之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2010.png"
+          },
+          {
+            "id": 2065,
+            "name": "光明版红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2554.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 4,
+        "tier": null,
+        "placementDelta": 1.08
+      },
+      {
+        "id": "2009-41804-41806",
+        "equipIds": [
+          2009,
+          41804,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 41804,
+            "name": "花仙子纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41804.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 4,
+        "tier": null,
+        "placementDelta": 1.08
+      },
+      {
+        "id": "2010-41806-41807",
+        "equipIds": [
+          2010,
+          41806,
+          41807
+        ],
+        "equips": [
+          {
+            "id": 2010,
+            "name": "鬼索的狂暴之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2010.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41807,
+            "name": "野兽之灵纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41807.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 100,
+        "topRate": 0,
+        "avgPlacement": 4,
+        "tier": null,
+        "placementDelta": 1.08
+      },
+      {
+        "id": "2004-41806-41817",
+        "equipIds": [
+          2004,
+          41806,
+          41817
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41817,
+            "name": "狂战士纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41817.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 5,
+        "tier": null,
+        "placementDelta": 2.08
+      },
+      {
+        "id": "2017-2046-41806",
+        "equipIds": [
+          2017,
+          2046,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2017,
+            "name": "大天使之杖",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2017.png"
+          },
+          {
+            "id": 2046,
+            "name": "巨人捕手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2046.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 5,
+        "tier": null,
+        "placementDelta": 2.08
+      },
+      {
+        "id": "2003-2022-41806",
+        "equipIds": [
+          2003,
+          2022,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2003,
+            "name": "海克斯科技枪刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2003.png"
+          },
+          {
+            "id": 2022,
+            "name": "蓝霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2222.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 5,
+        "tier": null,
+        "placementDelta": 2.08
+      },
+      {
+        "id": "2013-2042-41806",
+        "equipIds": [
+          2013,
+          2042,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2013,
+            "name": "海妖之怒",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/krakensfury.png"
+          },
+          {
+            "id": 2042,
+            "name": "强袭者的链枷",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/strikersflail.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 6,
+        "tier": null,
+        "placementDelta": 3.08
+      },
+      {
+        "id": "2016-2020-41806",
+        "equipIds": [
+          2016,
+          2020,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2016,
+            "name": "班克斯的魔法帽",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2016.png"
+          },
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 6,
+        "tier": null,
+        "placementDelta": 3.08
+      },
+      {
+        "id": "2046-41806-41808",
+        "equipIds": [
+          2046,
+          41806,
+          41808
+        ],
+        "equips": [
+          {
+            "id": 2046,
+            "name": "巨人捕手",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2046.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          },
+          {
+            "id": 41808,
+            "name": "月蚀骑士纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41808.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 7,
+        "tier": null,
+        "placementDelta": 4.08
+      },
+      {
+        "id": "2009-6091-41806",
+        "equipIds": [
+          2009,
+          6091,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2009,
+            "name": "红霸符",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+          },
+          {
+            "id": 6091,
+            "name": "黎明核心",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/dawncore.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 7,
+        "tier": null,
+        "placementDelta": 4.08
+      },
+      {
+        "id": "1003-2004-41806",
+        "equipIds": [
+          1003,
+          2004,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 1003,
+            "name": "无用大棒",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/1003.png"
+          },
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 8,
+        "tier": null,
+        "placementDelta": 5.08
+      },
+      {
+        "id": "2024-2045-41806",
+        "equipIds": [
+          2024,
+          2045,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2024,
+            "name": "适应性头盔",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/adaptivehelm.png"
+          },
+          {
+            "id": 2045,
+            "name": "锐利之刃",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2045.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 8,
+        "tier": null,
+        "placementDelta": 5.08
+      },
+      {
+        "id": "2020-6059-41806",
+        "equipIds": [
+          2020,
+          6059,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 6059,
+            "name": "金币收集者",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/3603.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 8,
+        "tier": null,
+        "placementDelta": 5.08
+      },
+      {
+        "id": "2020-6091-41806",
+        "equipIds": [
+          2020,
+          6091,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2020,
+            "name": "莫雷洛秘典",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2020.png"
+          },
+          {
+            "id": 6091,
+            "name": "黎明核心",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/dawncore.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 8,
+        "tier": null,
+        "placementDelta": 5.08
+      },
+      {
+        "id": "2004-6058-41806",
+        "equipIds": [
+          2004,
+          6058,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 6058,
+            "name": "魔蕴",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/3604.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 8,
+        "tier": null,
+        "placementDelta": 5.08
+      },
+      {
+        "id": "2004-2017-41806",
+        "equipIds": [
+          2004,
+          2017,
+          41806
+        ],
+        "equips": [
+          {
+            "id": 2004,
+            "name": "朔极之矛",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+          },
+          {
+            "id": 2017,
+            "name": "大天使之杖",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2017.png"
+          },
+          {
+            "id": 41806,
+            "name": "地狱火纹章",
+            "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+          }
+        ],
+        "sampleCount": 1,
+        "playRate": 0.14,
+        "top4Rate": 0,
+        "topRate": 0,
+        "avgPlacement": 8,
+        "tier": null,
+        "placementDelta": 5.08
+      }
+    ]
+  }
+}

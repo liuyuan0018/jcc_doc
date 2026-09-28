@@ -1,0 +1,27 @@
+[
+  {
+    "key": "gamedata",
+    "url": "https://www.dataj.cc/api/web/gamedata?setId=18",
+    "fetched_at": "2026-09-24T13:39:56.349177+00:00"
+  },
+  {
+    "key": "hex",
+    "url": "https://www.dataj.cc/api/web/stats/hex?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-24T13:39:56.680228+00:00"
+  },
+  {
+    "key": "dark-ritual-comps",
+    "url": "https://www.dataj.cc/api/web/stats/hex/20778/comps?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-24T13:39:56.914785+00:00"
+  },
+  {
+    "key": "comp120",
+    "url": "https://www.dataj.cc/api/web/comp/120?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-24T13:39:57.057963+00:00"
+  },
+  {
+    "key": "comp120-hexes",
+    "url": "https://www.dataj.cc/api/web/comp/120/hexes?setId=18&gameVersion=18.2a",
+    "fetched_at": "2026-09-24T13:39:57.257152+00:00"
+  }
+]

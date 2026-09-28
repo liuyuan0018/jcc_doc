@@ -1,0 +1,212 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "compId": "89",
+    "name": "巨龙95",
+    "desc": null,
+    "gameCode": "【阵容码】#巨龙95#MjIwMDY3MzAyODc5ODA4NTYxNzg3MTgyMDgwODEz",
+    "heroes": [
+      {
+        "id": "1931",
+        "heroId": "5458",
+        "heroName": "远古巨龙",
+        "heroType": 0,
+        "isCarry": true,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 5,
+        "heroStarNum": null,
+        "position": "4,5"
+      },
+      {
+        "id": "1930",
+        "heroId": "5455",
+        "heroName": "德莱文",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": true,
+        "isCore": true,
+        "price": 5,
+        "heroStarNum": null,
+        "position": "4,7"
+      },
+      {
+        "id": "1933",
+        "heroId": "5450",
+        "heroName": "茂凯",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 5,
+        "heroStarNum": null,
+        "position": "1,3"
+      },
+      {
+        "id": "1937",
+        "heroId": "4500",
+        "heroName": "苍蓝雕纹魔像",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "1,5"
+      },
+      {
+        "id": "1932",
+        "heroId": "5457",
+        "heroName": "艾翁",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 5,
+        "heroStarNum": null,
+        "position": "4,1"
+      },
+      {
+        "id": "1934",
+        "heroId": "5451",
+        "heroName": "塔里克",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 5,
+        "heroStarNum": null,
+        "position": "1,2"
+      },
+      {
+        "id": "1936",
+        "heroId": "5453",
+        "heroName": "凯南",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 5,
+        "heroStarNum": null,
+        "position": "2,4"
+      },
+      {
+        "id": "1935",
+        "heroId": "4503",
+        "heroName": "阿木木",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "1,4"
+      }
+    ],
+    "traits": [
+      {
+        "id": "84700101",
+        "name": "地狱火"
+      },
+      {
+        "id": "83720101",
+        "name": "重装战士"
+      },
+      {
+        "id": "83710101",
+        "name": "主宰"
+      },
+      {
+        "id": "83840101",
+        "name": "宝石骑士"
+      },
+      {
+        "id": "84610101",
+        "name": "翠神"
+      },
+      {
+        "id": "83850101",
+        "name": "顶级掠食者"
+      },
+      {
+        "id": "84650101",
+        "name": "赏金猎人"
+      },
+      {
+        "id": "84600101",
+        "name": "远古树精"
+      }
+    ],
+    "equips": [
+      {
+        "heroId": "5455",
+        "equipId": "2010",
+        "compHeroId": "1930"
+      },
+      {
+        "heroId": "5455",
+        "equipId": "2013",
+        "compHeroId": "1930"
+      },
+      {
+        "heroId": "5455",
+        "equipId": "2013",
+        "compHeroId": "1930"
+      },
+      {
+        "heroId": "5458",
+        "equipId": "2001",
+        "compHeroId": "1931"
+      },
+      {
+        "heroId": "5458",
+        "equipId": "2042",
+        "compHeroId": "1931"
+      },
+      {
+        "heroId": "5458",
+        "equipId": "2037",
+        "compHeroId": "1931"
+      },
+      {
+        "heroId": "5450",
+        "equipId": "2034",
+        "compHeroId": "1933"
+      },
+      {
+        "heroId": "5450",
+        "equipId": "2028",
+        "compHeroId": "1933"
+      },
+      {
+        "heroId": "5450",
+        "equipId": "2025",
+        "compHeroId": "1933"
+      },
+      {
+        "heroId": "4500",
+        "equipId": "2034",
+        "compHeroId": "1937"
+      },
+      {
+        "heroId": "4500",
+        "equipId": "2028",
+        "compHeroId": "1937"
+      },
+      {
+        "heroId": "4500",
+        "equipId": "2023",
+        "compHeroId": "1937"
+      }
+    ],
+    "top4Rate": 59.3,
+    "topRate": 24.06,
+    "pickRate": 0.38,
+    "avgPlacement": 3.91,
+    "sampleCount": 1226,
+    "tier": "S",
+    "dataMode": "stats"
+  }
+}

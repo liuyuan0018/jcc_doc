@@ -1,0 +1,733 @@
+{
+  "schema_version": 1,
+  "source": {
+    "base_url": "https://www.dataj.cc",
+    "set_id": 18,
+    "version": "18.2a",
+    "versions_path": "/api/web/gamedata/gameVersion",
+    "endpoints": {
+      "summary": {
+        "path": "/api/web/stats/summary",
+        "query": {}
+      },
+      "rank": {
+        "path": "/api/web/comp/rank",
+        "query": {}
+      },
+      "special": {
+        "path": "/api/web/stats/special-equip",
+        "query": {}
+      },
+      "comp119": {
+        "path": "/api/web/comp/119",
+        "query": {}
+      },
+      "kog-ad-equips": {
+        "path": "/api/web/comp/119/hero-equips",
+        "query": {
+          "heroId": "3512"
+        }
+      },
+      "kayle-gear": {
+        "path": "/api/web/stats/hero/2512/equips",
+        "query": {}
+      },
+      "khazix-gear": {
+        "path": "/api/web/stats/hero/3505/equips",
+        "query": {}
+      },
+      "ashe-emblem": {
+        "path": "/api/web/comp/112/hero-equips",
+        "query": {
+          "heroId": "5454"
+        }
+      },
+      "comp-112": {
+        "path": "/api/web/comp/112",
+        "query": {}
+      },
+      "comp-113": {
+        "path": "/api/web/comp/113",
+        "query": {}
+      },
+      "comp-99": {
+        "path": "/api/web/comp/99",
+        "query": {}
+      },
+      "comp-104": {
+        "path": "/api/web/comp/104",
+        "query": {}
+      },
+      "comp-89": {
+        "path": "/api/web/comp/89",
+        "query": {}
+      },
+      "comp-100": {
+        "path": "/api/web/comp/100",
+        "query": {}
+      },
+      "comp-116": {
+        "path": "/api/web/comp/116",
+        "query": {}
+      },
+      "comp-106": {
+        "path": "/api/web/comp/106",
+        "query": {}
+      },
+      "comp-109": {
+        "path": "/api/web/comp/109",
+        "query": {}
+      },
+      "comp-115": {
+        "path": "/api/web/comp/115",
+        "query": {}
+      },
+      "comp-88": {
+        "path": "/api/web/comp/88",
+        "query": {}
+      },
+      "zyra-equips": {
+        "path": "/api/web/comp/90/hero-equips",
+        "query": {
+          "heroId": "4512"
+        }
+      }
+    }
+  },
+  "baseline": {
+    "snapshot": "outputs/dual-rank-20260920",
+    "manifest": "outputs/dual-rank-20260920/manifest.json",
+    "accepted_date": "2026-09-20",
+    "user_feedback": "看起来好了"
+  },
+  "dated_observations": {
+    "2026-09-24": {
+      "source_updated_at": "2026-09-23T19:17:45.837Z",
+      "source_comp_file": "research/special-20260924/comp120.json",
+      "source_comp_sha256": "6ed370e18cb4dae44d5ee630395ddcacc3c2c8dcf9758a1fd3f4586e35a68083",
+      "cold_cover_template": "templates/dual-rank/cold/冷门构筑强度榜-蜘蛛.svg",
+      "cold_cover_height": 2040,
+      "cold_card": {
+        "track": "cold",
+        "kind": "detail",
+        "name": "黑暗仪式蜘蛛",
+        "comp_id": "120",
+        "cold_id": "spider",
+        "template": "templates/dual-rank/cold/黑暗仪式蜘蛛.svg",
+        "baseline_png": null,
+        "width": 1080,
+        "height": 2040
+      },
+      "cold": {
+        "cover_head": "黑暗仪式蜘蛛：2-1见强化，再看蜘蛛来牌",
+        "cover_detail": "魔女精粹兑换转法强｜站位、装备与运营看图8",
+        "body_section_template": "\n黑暗仪式蜘蛛看图8：2-1拿到强化、蜘蛛来牌顺才考虑。6级追蜘蛛三星，鬼索＋泰坦＋板甲；蛇女接法装。阵容统计{{cold_observation.row.sampleCount}}样本，前四{{cold_observation.row.top4Rate:.2f}}%、登顶{{cold_observation.row.topRate:.2f}}%。没强化别硬转。\n"
+      }
+    },
+    "2026-09-25": {
+      "source_updated_at": "2026-09-24T19:11:57.179Z",
+      "source_comp_file": "research/special-20260925/comp120.json",
+      "source_comp_sha256": "9f381915b4e3a8e3dd10e4a3884d6565bbbe996d2ed26bd10dc09c83251eb446",
+      "cold_cover_template": "templates/dual-rank/cold/冷门构筑强度榜-蜘蛛.svg",
+      "cold_cover_height": 2040,
+      "cold_card": {
+        "track": "cold",
+        "kind": "detail",
+        "name": "黑暗仪式蜘蛛",
+        "comp_id": "120",
+        "cold_id": "spider",
+        "template": "templates/dual-rank/cold/黑暗仪式蜘蛛.svg",
+        "baseline_png": null,
+        "width": 1080,
+        "height": 2040
+      },
+      "cold": {
+        "cover_head": "黑暗仪式蜘蛛：2-1见强化，再看蜘蛛来牌",
+        "cover_detail": "魔女精粹兑换转法强｜站位、装备与运营看图8",
+        "body_section_template": "\n黑暗仪式蜘蛛看图8：2-1拿到强化、蜘蛛来牌顺才考虑。6级追蜘蛛三星，鬼索＋泰坦＋板甲；蛇女接法装。阵容统计{{cold_observation.row.sampleCount}}样本，前四{{cold_observation.row.top4Rate:.2f}}%、登顶{{cold_observation.row.topRate:.2f}}%。没强化别硬转。\n"
+      }
+    },
+    "2026-09-26": {
+      "source_updated_at": "2026-09-25T19:29:42.597Z",
+      "source_comp_file": "research/special-20260926/comp120.json",
+      "source_comp_sha256": "9113d08440f64de2a8ac1b155bcc5c762023128ba660e7cd7947b45aab3a6ccb",
+      "cold_cover_template": "templates/dual-rank/cold/冷门构筑强度榜-蜘蛛-献祭沙皇.svg",
+      "cold_cover_height": 2040,
+      "cold_card": {
+        "track": "cold",
+        "kind": "detail",
+        "name": "黑暗仪式蜘蛛",
+        "comp_id": "120",
+        "cold_id": "spider",
+        "template": "templates/dual-rank/cold/黑暗仪式蜘蛛.svg",
+        "baseline_png": null,
+        "width": 1080,
+        "height": 2040
+      },
+      "cold": {
+        "cover_head": "黑暗仪式蜘蛛＋献祭沙皇，条件齐了再玩",
+        "cover_detail": "蜘蛛看图8｜三星螳螂献祭阿兹尔看图9",
+        "body_section_template": "\n图8蜘蛛：有强化且顺牌再玩。6级追三，鬼索＋泰坦＋板甲，蛇女接法装。{{cold_observation.row.sampleCount}}样本，前四{{cold_observation.row.top4Rate:.2f}}%、登顶{{cold_observation.row.topRate:.2f}}%。没强化别转。\n",
+        "bonus_section": "\n图9献祭沙皇：螳螂进化裁决并追三星献祭；阿兹尔两星、前排稳再玩。暂无同条件数据。\n"
+      },
+      "bonus_card": {
+        "track": "cold",
+        "kind": "observation",
+        "name": "献祭螳螂阿兹尔",
+        "comp_id": null,
+        "cold_id": "azir_sacrifice",
+        "template": "templates/dual-rank/cold/献祭螳螂阿兹尔.svg",
+        "baseline_png": null,
+        "width": 1080,
+        "height": 2040
+      }
+    },
+    "2026-09-28": {
+      "source_updated_at": "2026-09-27T19:31:29.674Z",
+      "source_comp_file": "research/special-20260928/comp120-0331.json",
+      "source_comp_sha256": "e3085e5d710bf3496a3876d045ae9d630b76a3af51a8ea66f85b1345f09e98bf",
+      "cold_cover_template": "templates/dual-rank/cold/冷门构筑强度榜-九构筑0928.svg",
+      "cold_cover_height": 2218,
+      "cold_card": {
+        "track": "cold",
+        "kind": "detail",
+        "name": "黑暗仪式蜘蛛",
+        "comp_id": "120",
+        "cold_id": "spider",
+        "template": "templates/dual-rank/cold/黑暗仪式蜘蛛.svg",
+        "baseline_png": null,
+        "width": 1080,
+        "height": 2040
+      },
+      "cold": {
+        "cover_head": "献祭三星螳螂 → 阿兹尔主C（图9）",
+        "cover_detail": "阿兹尔两星、前排稳再玩｜暂无同条件战绩",
+        "body_section_template": "\n图8蜘蛛：有强化且顺牌再玩。6级追三，鬼索＋泰坦＋板甲，蛇女接法装。{{cold_observation.row.sampleCount}}样本，前四{{cold_observation.row.top4Rate:.2f}}%、登顶{{cold_observation.row.topRate:.2f}}%。没强化别转。\n",
+        "bonus_section": "\n图9献祭沙皇：螳螂进化裁决并追三星献祭；阿兹尔两星、前排稳再玩。暂无同条件数据。\n",
+        "additional_section": "\n图10地狱火巨龙：先有地狱火转，配慎、韦鲁斯、阿木木、凯南开5地狱火。稳血上9，龙占2人口；沿用巨龙框架码按图换人。暂无同条件数据。\n"
+      },
+      "bonus_card": {
+        "track": "cold",
+        "kind": "observation",
+        "name": "献祭螳螂阿兹尔",
+        "comp_id": null,
+        "cold_id": "azir_sacrifice",
+        "template": "templates/dual-rank/cold/献祭螳螂阿兹尔.svg",
+        "baseline_png": null,
+        "width": 1080,
+        "height": 2040
+      },
+      "additional_cards": [
+        {
+          "track": "cold",
+          "kind": "observation",
+          "name": "地狱火巨龙",
+          "comp_id": null,
+          "cold_id": "inferno_dragon",
+          "template": "templates/dual-rank/cold/地狱火巨龙.svg",
+          "baseline_png": null,
+          "width": 1080,
+          "height": 2040
+        }
+      ]
+    }
+  },
+  "regular": {
+    "ids": [
+      "112",
+      "104",
+      "89",
+      "116",
+      "100",
+      "113",
+      "99",
+      "106",
+      "109"
+    ],
+    "reserve_ids": [
+      "119"
+    ],
+    "sort": "top4Rate",
+    "row_y": 309,
+    "row_step": 123,
+    "labels": {
+      "112": {
+        "base_name": "地狱火95",
+        "baseline_tier": "S",
+        "show_tier": false
+      },
+      "104": {
+        "base_name": "野怪小红",
+        "baseline_tier": "S",
+        "show_tier": false
+      },
+      "89": {
+        "base_name": "巨龙95",
+        "baseline_tier": "S",
+        "show_tier": false
+      },
+      "116": {
+        "base_name": "裁决螳螂",
+        "baseline_tier": "S",
+        "show_tier": false
+      },
+      "100": {
+        "base_name": "重装女警",
+        "baseline_tier": "S",
+        "show_tier": false
+      },
+      "113": {
+        "base_name": "古纳拉95",
+        "baseline_tier": "S",
+        "show_tier": false
+      },
+      "99": {
+        "base_name": "7野怪鸡哥",
+        "baseline_tier": "S",
+        "show_tier": false
+      },
+      "106": {
+        "base_name": "主宰女警",
+        "baseline_tier": "B",
+        "show_tier": true
+      },
+      "109": {
+        "base_name": "皎月螳螂",
+        "baseline_tier": "A",
+        "show_tier": true
+      }
+    }
+  },
+  "cold": [
+    {
+      "id": "kennen",
+      "name": "花妖转凯南",
+      "comp_id": "112",
+      "scope": "carrier",
+      "source_key": "special",
+      "equip": 41810,
+      "hero_id": "5453"
+    },
+    {
+      "id": "dragon",
+      "name": "猎人转巨龙",
+      "comp_id": "89",
+      "scope": "carrier",
+      "source_key": "special",
+      "equip": 41816,
+      "hero_id": "5458"
+    },
+    {
+      "id": "camille",
+      "name": "暗爪卡蜜尔",
+      "comp_id": "115",
+      "scope": "carrier",
+      "source_key": "special",
+      "equip": 6073,
+      "hero_id": "1505"
+    },
+    {
+      "id": "kayle",
+      "name": "护臂天使",
+      "comp_id": "88",
+      "scope": "hero_item",
+      "source_key": "kayle-gear",
+      "equip": 6084,
+      "hero_id": "2512"
+    },
+    {
+      "id": "khazix",
+      "name": "花妖转螳螂",
+      "comp_id": "116",
+      "scope": "hero_item",
+      "source_key": "khazix-gear",
+      "equip": 41810,
+      "hero_id": "3505"
+    },
+    {
+      "id": "kog",
+      "name": "神谕大嘴",
+      "comp_id": "119",
+      "scope": "hero_triple",
+      "source_key": "kog-ad-equips",
+      "equip": [
+        2001,
+        2045,
+        2046
+      ],
+      "hero_id": "3512"
+    },
+    {
+      "id": "lich",
+      "name": "巫妖螳螂",
+      "equip": 6086,
+      "comp_id": "116",
+      "hero_id": "3505",
+      "scope": "carrier",
+      "source_key": "special"
+    },
+    {
+      "id": "mithril",
+      "name": "密银大嘴",
+      "equip": 6072,
+      "comp_id": "119",
+      "hero_id": "3512",
+      "scope": "carrier",
+      "source_key": "special"
+    }
+  ],
+  "review": {
+    "large_top4_change_pp": 5,
+    "description": "Change detector only; not an evidence/sample-size threshold for recommending a build."
+  },
+  "notes": {
+    "cold": {
+      "note_id": "6ab95e5e000000001b030e09",
+      "title_template": "金铲铲S18 冷门榜{{date.short}}｜附阵容码",
+      "topics": [
+        {
+          "name": "金铲铲之战",
+          "id": "610b9c5b000000000101e01b"
+        },
+        {
+          "name": "金铲铲阵容",
+          "id": "612790e600000000010009d6"
+        },
+        {
+          "name": "金铲铲",
+          "id": "60f51be5000000000100ad43"
+        },
+        {
+          "name": "金铲铲攻略",
+          "id": "612e0fc70000000001003ee1"
+        },
+        {
+          "name": "金铲铲推荐阵容",
+          "id": "6128e7500000000001003081"
+        },
+        {
+          "name": "金铲铲之战S18",
+          "id": "6a4c9dd5000000000301ea0b"
+        },
+        {
+          "name": "金铲铲自然之力",
+          "id": "6a51d40d000000000301f0d5"
+        },
+        {
+          "name": "金铲铲冷门阵容",
+          "id": "62f35c7100000000010096fc"
+        }
+      ],
+      "collection": "s18金铲铲阵容数据库",
+      "preserve_live_topics_and_settings": true
+    },
+    "regular": {
+      "note_id": "6aae77650000000029014a10",
+      "title_template": "金铲铲S18阵容榜{{date.short}}｜附阵容码",
+      "topics": [
+        {
+          "name": "金铲铲之战",
+          "id": "610b9c5b000000000101e01b"
+        },
+        {
+          "name": "金铲铲S18",
+          "id": "6a54ea3100000000060129a0"
+        },
+        {
+          "name": "金铲铲自然之力",
+          "id": "6a51d40d000000000301f0d5"
+        },
+        {
+          "name": "金铲铲阵容",
+          "id": "612790e600000000010009d6"
+        },
+        {
+          "name": "金铲铲阵容码",
+          "id": "658bcaf4000000003f03ec9c"
+        },
+        {
+          "name": "金铲铲",
+          "id": "60f51be5000000000100ad43"
+        },
+        {
+          "name": "金铲铲攻略",
+          "id": "612e0fc70000000001003ee1"
+        },
+        {
+          "name": "金铲铲推荐阵容",
+          "id": "6128e7500000000001003081"
+        }
+      ],
+      "collection": "s18金铲铲阵容数据库",
+      "preserve_live_topics_and_settings": true
+    }
+  },
+  "cards": [
+    {
+      "track": "regular",
+      "kind": "cover",
+      "name": "常规阵容强度榜",
+      "comp_id": null,
+      "cold_id": null,
+      "template": "templates/dual-rank/regular/常规阵容强度榜.svg",
+      "baseline_svg": "exports/S18常规榜-20260920/01-常规阵容强度榜.svg",
+      "baseline_png": "exports/S18常规榜-20260920/01-常规阵容强度榜.png",
+      "baseline_svg_sha256": "20c2cbb6c9dbee4a60499da33f67c154ada4318a87e01362a87b868e6a48e2bf",
+      "baseline_png_sha256": "23dee1935e86203a8009d3fb3fcb69dd5ac076cfd342232cb84a65f47933bdea",
+      "width": 1080,
+      "height": 1851
+    },
+    {
+      "track": "regular",
+      "kind": "guide",
+      "name": "今天怎么选",
+      "comp_id": null,
+      "cold_id": null,
+      "template": "templates/dual-rank/regular/今天怎么选.svg",
+      "baseline_svg": "exports/S18常规榜-20260920/02-今天怎么选.svg",
+      "baseline_png": "exports/S18常规榜-20260920/02-今天怎么选.png",
+      "baseline_svg_sha256": "bf60a37ba76a535bcbeb7f166b640412e282023235dc525b0845f52407cc226a",
+      "baseline_png_sha256": "f9a65b6f5a326c09cdf3cdbd979b51d3e744fcd83e96256ff1e0ede6fe96b272",
+      "width": 1080,
+      "height": 1653
+    },
+    {
+      "track": "regular",
+      "kind": "detail",
+      "name": "地狱火95",
+      "comp_id": "112",
+      "cold_id": null,
+      "template": "templates/dual-rank/regular/地狱火95.svg",
+      "baseline_svg": "exports/S18常规榜-20260920/03-地狱火95.svg",
+      "baseline_png": "exports/S18常规榜-20260920/03-地狱火95.png",
+      "baseline_svg_sha256": "4ef0cd41b1ffc7f9821178f40b55351155aafda54c70ad807f325e4de9a531db",
+      "baseline_png_sha256": "1efba7b2adad5273055fc6ad3f9a730c6ccd811fef1c0b0f117164d4a5e158d0",
+      "width": 1080,
+      "height": 1653
+    },
+    {
+      "track": "regular",
+      "kind": "detail",
+      "name": "野怪小红",
+      "comp_id": "104",
+      "cold_id": null,
+      "template": "templates/dual-rank/regular/野怪小红.svg",
+      "baseline_svg": "exports/S18常规榜-20260920/04-野怪小红.svg",
+      "baseline_png": "exports/S18常规榜-20260920/04-野怪小红.png",
+      "baseline_svg_sha256": "73388e978aab0565a37b56dc7506af53553c6a32335fb1d2c03984f8aa647473",
+      "baseline_png_sha256": "8d3a02c1f633cc8190c0ea60e113a971291b7812ef156cfb73a019c00446c781",
+      "width": 1080,
+      "height": 1653
+    },
+    {
+      "track": "regular",
+      "kind": "detail",
+      "name": "巨龙95",
+      "comp_id": "89",
+      "cold_id": null,
+      "template": "templates/dual-rank/regular/巨龙95.svg",
+      "baseline_svg": "exports/S18常规榜-20260920/05-巨龙95.svg",
+      "baseline_png": "exports/S18常规榜-20260920/05-巨龙95.png",
+      "baseline_svg_sha256": "a3faa1942b1348f005ccd9c7a051b43efb539b6ab02355ec7abd42b164277cc0",
+      "baseline_png_sha256": "164aa5d4b5e915fb4425ccfccd4141537253f3bc4c9bb0933ef143c30ba4dd7e",
+      "width": 1080,
+      "height": 1653
+    },
+    {
+      "track": "regular",
+      "kind": "detail",
+      "name": "裁决螳螂",
+      "comp_id": "116",
+      "cold_id": null,
+      "template": "templates/dual-rank/regular/裁决螳螂.svg",
+      "baseline_svg": "exports/S18常规榜-20260920/06-裁决螳螂.svg",
+      "baseline_png": "exports/S18常规榜-20260920/06-裁决螳螂.png",
+      "baseline_svg_sha256": "ef3de5754fdd38941a10131875a72d2d8d57d5c8b4ded72f1edc7b5c9b20ce00",
+      "baseline_png_sha256": "b85b658657e7e374ddce1ef1aa3048c2bf473135c7a75e6f4b9a53bff5cbcceb",
+      "width": 1080,
+      "height": 1653
+    },
+    {
+      "track": "regular",
+      "kind": "detail",
+      "name": "重装女警",
+      "comp_id": "100",
+      "cold_id": null,
+      "template": "templates/dual-rank/regular/重装女警.svg",
+      "baseline_svg": "exports/S18常规榜-20260920/07-重装女警.svg",
+      "baseline_png": "exports/S18常规榜-20260920/07-重装女警.png",
+      "baseline_svg_sha256": "06def7ccdb0756c5b1363e81d13ce54e278fd74cbe1c747b922c331101a50336",
+      "baseline_png_sha256": "e4f6770df11512d543f49f41bbed9a5064680c0537f4b9dd790f2c3ad626b4b9",
+      "width": 1080,
+      "height": 1653
+    },
+    {
+      "track": "regular",
+      "kind": "detail",
+      "name": "古纳拉95",
+      "comp_id": "113",
+      "cold_id": null,
+      "template": "templates/dual-rank/regular/古纳拉95.svg",
+      "baseline_svg": "exports/S18常规榜-20260920/08-古纳拉95.svg",
+      "baseline_png": "exports/S18常规榜-20260920/08-古纳拉95.png",
+      "baseline_svg_sha256": "d4a4ae28b1834c2a727361d1a0027a6005e0c0c7ecc575baa3c819a74f6e0b1d",
+      "baseline_png_sha256": "5bcbf240af0f6cbe8e6c5267602c2443b42759c10eecc1b5977d2dd5dbd529bd",
+      "width": 1080,
+      "height": 1653
+    },
+    {
+      "track": "regular",
+      "kind": "detail",
+      "name": "7野怪鸡哥",
+      "comp_id": "99",
+      "cold_id": null,
+      "template": "templates/dual-rank/regular/7野怪鸡哥.svg",
+      "baseline_svg": "exports/S18常规榜-20260920/09-7野怪鸡哥.svg",
+      "baseline_png": "exports/S18常规榜-20260920/09-7野怪鸡哥.png",
+      "baseline_svg_sha256": "0d56c74a3db8701e6a28b05aa9c726080ebf904f2d6b0d9f9b5e635d25c93222",
+      "baseline_png_sha256": "8ef711e07ee8117dba13c9f0995206bf9ed653a78ea994ba90a832aa83382bf7",
+      "width": 1080,
+      "height": 1653
+    },
+    {
+      "track": "regular",
+      "kind": "detail",
+      "name": "主宰女警",
+      "comp_id": "106",
+      "cold_id": null,
+      "template": "templates/dual-rank/regular/主宰女警.svg",
+      "baseline_svg": "exports/S18常规榜-20260920/10-主宰女警.svg",
+      "baseline_png": "exports/S18常规榜-20260920/10-主宰女警.png",
+      "baseline_svg_sha256": "bd28f88b8811b6643f907e64d3e4ecd59d89ea310d57c6455c411024b6fe6a1e",
+      "baseline_png_sha256": "1ff36cf0d8c9decc03ba086991d9cbbdefc9fa3867b2c1f16aae36bb3b7ca26e",
+      "width": 1080,
+      "height": 1653
+    },
+    {
+      "track": "regular",
+      "kind": "detail",
+      "name": "皎月螳螂",
+      "comp_id": "109",
+      "cold_id": null,
+      "template": "templates/dual-rank/regular/皎月螳螂.svg",
+      "baseline_svg": "exports/S18常规榜-20260920/11-皎月螳螂.svg",
+      "baseline_png": "exports/S18常规榜-20260920/11-皎月螳螂.png",
+      "baseline_svg_sha256": "e0bf5d22ac2fea47e875c824ffa64065c188e92c0854fce1c1db8eed2f7838ce",
+      "baseline_png_sha256": "d10a9153bd9b2be95889ccc843da312b69c1c5b09c30f958856cf348dbe29aec",
+      "width": 1080,
+      "height": 1653
+    },
+    {
+      "track": "regular",
+      "kind": "detail",
+      "name": "神谕大嘴",
+      "comp_id": "119",
+      "cold_id": null,
+      "template": "templates/dual-rank/regular/神谕大嘴.svg",
+      "baseline_svg": "exports/S18常规榜-20260920/12-神谕大嘴.svg",
+      "baseline_png": "exports/S18常规榜-20260920/12-神谕大嘴.png",
+      "baseline_svg_sha256": "cf646a50289cefdb114d34bfa8490d0213fd9ac532bc6f12e86f83203dadc106",
+      "baseline_png_sha256": "4535dd72dcfd94cd68d394f6a93065fed394088e0d7c06195dc5d4d887246cb7",
+      "width": 1080,
+      "height": 1851
+    },
+    {
+      "track": "cold",
+      "kind": "cover",
+      "name": "冷门构筑强度榜",
+      "comp_id": null,
+      "cold_id": null,
+      "template": "templates/dual-rank/cold/冷门构筑强度榜.svg",
+      "baseline_svg": "exports/S18冷门榜-20260920/01-冷门构筑强度榜.svg",
+      "baseline_png": "exports/S18冷门榜-20260920/01-冷门构筑强度榜.png",
+      "baseline_svg_sha256": "484ac47cad5f3f79d1c0d170bd2a3b1d5d9e4e57d5b927a5bd79ab337a5d9f5c",
+      "baseline_png_sha256": "7120c5457af4584e0a6b2933758c808499bdc5debccd818f44b96c3a395d89ba",
+      "width": 1080,
+      "height": 1851
+    },
+    {
+      "track": "cold",
+      "kind": "detail",
+      "name": "花妖转凯南",
+      "comp_id": "112",
+      "cold_id": "kennen",
+      "template": "templates/dual-rank/cold/花妖转凯南.svg",
+      "baseline_svg": "exports/S18冷门榜-20260920/02-花妖转凯南.svg",
+      "baseline_png": "exports/S18冷门榜-20260920/02-花妖转凯南.png",
+      "baseline_svg_sha256": "f87db79a952a68c99232bcc16f8e542e4b260b39697cd00e058984fe869d275f",
+      "baseline_png_sha256": "91af1facb07ba8e825eb9d05484d4892c5bca57fa11119dae7ae0281840fb851",
+      "width": 1080,
+      "height": 2040
+    },
+    {
+      "track": "cold",
+      "kind": "detail",
+      "name": "猎人转巨龙",
+      "comp_id": "89",
+      "cold_id": "dragon",
+      "template": "templates/dual-rank/cold/猎人转巨龙.svg",
+      "baseline_svg": "exports/S18冷门榜-20260920/03-猎人转巨龙.svg",
+      "baseline_png": "exports/S18冷门榜-20260920/03-猎人转巨龙.png",
+      "baseline_svg_sha256": "17e9582702f1c70ac91d49248e2d6f64dea5eeaee501d169d3c579147073b0e9",
+      "baseline_png_sha256": "b9c4350e5b0255273caf84d875d5123bdfd7643c46c11c3710ce0dcfb8bbc602",
+      "width": 1080,
+      "height": 2040
+    },
+    {
+      "track": "cold",
+      "kind": "detail",
+      "name": "暗爪卡蜜尔",
+      "comp_id": "115",
+      "cold_id": "camille",
+      "template": "templates/dual-rank/cold/暗爪卡蜜尔.svg",
+      "baseline_svg": "exports/S18冷门榜-20260920/04-暗爪卡蜜尔.svg",
+      "baseline_png": "exports/S18冷门榜-20260920/04-暗爪卡蜜尔.png",
+      "baseline_svg_sha256": "3780472a2cfd93d65705133df6ea4d703fab65ac945d196fc85347d341223bd5",
+      "baseline_png_sha256": "3617dfd07730a1fe7b681a2a9e81ade9e2741194032077e864bee2f711e59845",
+      "width": 1080,
+      "height": 2040
+    },
+    {
+      "track": "cold",
+      "kind": "detail",
+      "name": "护臂天使",
+      "comp_id": "88",
+      "cold_id": "kayle",
+      "template": "templates/dual-rank/cold/护臂天使.svg",
+      "baseline_svg": "exports/S18冷门榜-20260920/05-护臂天使.svg",
+      "baseline_png": "exports/S18冷门榜-20260920/05-护臂天使.png",
+      "baseline_svg_sha256": "7ec4da97205a3006e4aadf968a2ae22eb195cb6a6754d5b3af6791258bd68ce2",
+      "baseline_png_sha256": "b7ccba023cf6044f66d58fb3fd1e4426c491f8cf8100cef61cb0ea0aac075918",
+      "width": 1080,
+      "height": 2040
+    },
+    {
+      "track": "cold",
+      "kind": "detail",
+      "name": "巫妖螳螂",
+      "comp_id": "116",
+      "cold_id": "lich",
+      "template": "templates/dual-rank/cold/巫妖螳螂.svg",
+      "baseline_svg": "exports/S18冷门榜-20260920/06-花妖转螳螂.svg",
+      "baseline_png": null,
+      "baseline_svg_sha256": "6943effb8cd64135788f210288c0a58b7fbed2f98fd3b686c04a78a66f6f136b",
+      "baseline_png_sha256": "37395495eeee3bbdaf4d111ef6ead9fd4a6c41487ab94e359694e55343712876",
+      "width": 1080,
+      "height": 2040
+    },
+    {
+      "track": "cold",
+      "kind": "detail",
+      "name": "密银大嘴",
+      "comp_id": "119",
+      "cold_id": "mithril",
+      "template": "templates/dual-rank/cold/密银大嘴.svg",
+      "baseline_svg": "exports/S18冷门榜-20260920/07-神谕大嘴.svg",
+      "baseline_png": null,
+      "baseline_svg_sha256": "a6d2c3a891480312952283358ac8ad086edd341568a80ce00d32075b678e4a21",
+      "baseline_png_sha256": "78ebe31def4f5b5dc9366662196adaebb73bb4494771486730969c340eb7c193",
+      "width": 1080,
+      "height": 1851
+    }
+  ]
+}

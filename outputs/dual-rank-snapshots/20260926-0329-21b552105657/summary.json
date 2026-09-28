@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "setId": 18,
+    "gameVersion": "18.2a",
+    "gamesAnalyzed": 261072,
+    "playersAnalyzed": 32634,
+    "threeStarUnits": 249011,
+    "itemsEquipped": 2961923,
+    "totalDamageDealt": 26448582,
+    "dataUpdatedAt": "2026-09-25T19:29:42.597Z"
+  }
+}

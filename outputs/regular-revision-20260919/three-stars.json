@@ -1,0 +1,787 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": [
+    {
+      "heroId": 4503,
+      "name": "阿木木",
+      "price": 4,
+      "sampleCount": 35,
+      "avgPlacement": 1.17,
+      "coreEquips": [
+        {
+          "equipId": 2018,
+          "name": "冕卫",
+          "sampleCount": 2,
+          "playRate": 7.41
+        },
+        {
+          "equipId": 2025,
+          "name": "振奋盔甲",
+          "sampleCount": 2,
+          "playRate": 7.41
+        },
+        {
+          "equipId": 2040,
+          "name": "坚定之心",
+          "sampleCount": 2,
+          "playRate": 7.41
+        }
+      ]
+    },
+    {
+      "heroId": 4509,
+      "name": "厄斐琉斯",
+      "price": 4,
+      "sampleCount": 94,
+      "avgPlacement": 1.24,
+      "coreEquips": [
+        {
+          "equipId": 2001,
+          "name": "无尽之刃",
+          "sampleCount": 15,
+          "playRate": 16.48
+        },
+        {
+          "equipId": 2010,
+          "name": "鬼索的狂暴之刃",
+          "sampleCount": 15,
+          "playRate": 16.48
+        },
+        {
+          "equipId": 2013,
+          "name": "海妖之怒",
+          "sampleCount": 15,
+          "playRate": 16.48
+        }
+      ]
+    },
+    {
+      "heroId": 4500,
+      "name": "苍蓝雕纹魔像",
+      "price": 4,
+      "sampleCount": 14,
+      "avgPlacement": 1.29,
+      "coreEquips": [
+        {
+          "equipId": 1004,
+          "name": "女神之泪",
+          "sampleCount": 1,
+          "playRate": 11.11
+        },
+        {
+          "equipId": 2023,
+          "name": "圣盾使的誓约",
+          "sampleCount": 1,
+          "playRate": 11.11
+        },
+        {
+          "equipId": 2039,
+          "name": "正义之手",
+          "sampleCount": 1,
+          "playRate": 11.11
+        }
+      ]
+    },
+    {
+      "heroId": 4510,
+      "name": "希维尔",
+      "price": 4,
+      "sampleCount": 37,
+      "avgPlacement": 1.3,
+      "coreEquips": [
+        {
+          "equipId": 2001,
+          "name": "无尽之刃",
+          "sampleCount": 8,
+          "playRate": 22.22
+        },
+        {
+          "equipId": 2004,
+          "name": "朔极之矛",
+          "sampleCount": 8,
+          "playRate": 22.22
+        },
+        {
+          "equipId": 41806,
+          "name": "地狱火纹章",
+          "sampleCount": 8,
+          "playRate": 22.22
+        }
+      ]
+    },
+    {
+      "heroId": 4504,
+      "name": "墨菲特",
+      "price": 4,
+      "sampleCount": 62,
+      "avgPlacement": 1.32,
+      "coreEquips": [
+        {
+          "equipId": 2018,
+          "name": "冕卫",
+          "sampleCount": 2,
+          "playRate": 4.35
+        },
+        {
+          "equipId": 2023,
+          "name": "圣盾使的誓约",
+          "sampleCount": 2,
+          "playRate": 4.35
+        },
+        {
+          "equipId": 2028,
+          "name": "石像鬼石板甲",
+          "sampleCount": 2,
+          "playRate": 4.35
+        }
+      ]
+    },
+    {
+      "heroId": 4505,
+      "name": "瑟提",
+      "price": 4,
+      "sampleCount": 157,
+      "avgPlacement": 1.33,
+      "coreEquips": [
+        {
+          "equipId": 2025,
+          "name": "振奋盔甲",
+          "sampleCount": 4,
+          "playRate": 3.1
+        },
+        {
+          "equipId": 2028,
+          "name": "石像鬼石板甲",
+          "sampleCount": 4,
+          "playRate": 3.1
+        },
+        {
+          "equipId": 2034,
+          "name": "狂徒铠甲",
+          "sampleCount": 4,
+          "playRate": 3.1
+        }
+      ]
+    },
+    {
+      "heroId": 4512,
+      "name": "婕拉",
+      "price": 4,
+      "sampleCount": 60,
+      "avgPlacement": 1.47,
+      "coreEquips": [
+        {
+          "equipId": 2004,
+          "name": "朔极之矛",
+          "sampleCount": 3,
+          "playRate": 5.66
+        },
+        {
+          "equipId": 2014,
+          "name": "纳什之牙",
+          "sampleCount": 3,
+          "playRate": 5.66
+        },
+        {
+          "equipId": 2038,
+          "name": "珠光护手",
+          "sampleCount": 3,
+          "playRate": 5.66
+        }
+      ]
+    },
+    {
+      "heroId": 4502,
+      "name": "莉莉娅",
+      "price": 4,
+      "sampleCount": 47,
+      "avgPlacement": 1.68,
+      "coreEquips": [
+        {
+          "equipId": 2018,
+          "name": "冕卫",
+          "sampleCount": 3,
+          "playRate": 6.82
+        },
+        {
+          "equipId": 2028,
+          "name": "石像鬼石板甲",
+          "sampleCount": 3,
+          "playRate": 6.82
+        },
+        {
+          "equipId": 2034,
+          "name": "狂徒铠甲",
+          "sampleCount": 3,
+          "playRate": 6.82
+        }
+      ]
+    },
+    {
+      "heroId": 4501,
+      "name": "莫甘娜",
+      "price": 4,
+      "sampleCount": 74,
+      "avgPlacement": 1.82,
+      "coreEquips": [
+        {
+          "equipId": 2004,
+          "name": "朔极之矛",
+          "sampleCount": 3,
+          "playRate": 4.35
+        },
+        {
+          "equipId": 2038,
+          "name": "珠光护手",
+          "sampleCount": 3,
+          "playRate": 4.35
+        },
+        {
+          "equipId": 2042,
+          "name": "强袭者的链枷",
+          "sampleCount": 3,
+          "playRate": 4.35
+        }
+      ]
+    },
+    {
+      "heroId": 4515,
+      "name": "奈德丽",
+      "price": 4,
+      "sampleCount": 11,
+      "avgPlacement": 1.82,
+      "coreEquips": [
+        {
+          "equipId": 2001,
+          "name": "无尽之刃",
+          "sampleCount": 1,
+          "playRate": 9.09
+        },
+        {
+          "equipId": 2004,
+          "name": "朔极之矛",
+          "sampleCount": 1,
+          "playRate": 9.09
+        },
+        {
+          "equipId": 2005,
+          "name": "夜之锋刃",
+          "sampleCount": 1,
+          "playRate": 9.09
+        }
+      ]
+    },
+    {
+      "heroId": 4506,
+      "name": "绯红印记树怪",
+      "price": 4,
+      "sampleCount": 75,
+      "avgPlacement": 1.83,
+      "coreEquips": [
+        {
+          "equipId": 2001,
+          "name": "无尽之刃",
+          "sampleCount": 3,
+          "playRate": 4.84
+        },
+        {
+          "equipId": 2039,
+          "name": "正义之手",
+          "sampleCount": 3,
+          "playRate": 4.84
+        },
+        {
+          "equipId": 2041,
+          "name": "水银",
+          "sampleCount": 3,
+          "playRate": 4.84
+        }
+      ]
+    },
+    {
+      "heroId": 4513,
+      "name": "索拉卡",
+      "price": 4,
+      "sampleCount": 52,
+      "avgPlacement": 1.96,
+      "coreEquips": [
+        {
+          "equipId": 2003,
+          "name": "海克斯科技枪刃",
+          "sampleCount": 2,
+          "playRate": 5.13
+        },
+        {
+          "equipId": 2004,
+          "name": "朔极之矛",
+          "sampleCount": 2,
+          "playRate": 5.13
+        },
+        {
+          "equipId": 2014,
+          "name": "纳什之牙",
+          "sampleCount": 2,
+          "playRate": 5.13
+        }
+      ]
+    },
+    {
+      "heroId": 4507,
+      "name": "奈德丽",
+      "price": 4,
+      "sampleCount": 76,
+      "avgPlacement": 2.04,
+      "coreEquips": [
+        {
+          "equipId": 2004,
+          "name": "朔极之矛",
+          "sampleCount": 6,
+          "playRate": 9.23
+        },
+        {
+          "equipId": 2010,
+          "name": "鬼索的狂暴之刃",
+          "sampleCount": 6,
+          "playRate": 9.23
+        },
+        {
+          "equipId": 2038,
+          "name": "珠光护手",
+          "sampleCount": 6,
+          "playRate": 9.23
+        }
+      ]
+    },
+    {
+      "heroId": 4511,
+      "name": "阿狸",
+      "price": 4,
+      "sampleCount": 200,
+      "avgPlacement": 2.04,
+      "coreEquips": [
+        {
+          "equipId": 2004,
+          "name": "朔极之矛",
+          "sampleCount": 22,
+          "playRate": 12.94
+        },
+        {
+          "equipId": 2014,
+          "name": "纳什之牙",
+          "sampleCount": 22,
+          "playRate": 12.94
+        },
+        {
+          "equipId": 2038,
+          "name": "珠光护手",
+          "sampleCount": 22,
+          "playRate": 12.94
+        }
+      ]
+    },
+    {
+      "heroId": 4508,
+      "name": "伊泽瑞尔",
+      "price": 4,
+      "sampleCount": 38,
+      "avgPlacement": 2.16,
+      "coreEquips": [
+        {
+          "equipId": 2001,
+          "name": "无尽之刃",
+          "sampleCount": 3,
+          "playRate": 8.82
+        },
+        {
+          "equipId": 2004,
+          "name": "朔极之矛",
+          "sampleCount": 3,
+          "playRate": 8.82
+        },
+        {
+          "equipId": 2045,
+          "name": "锐利之刃",
+          "sampleCount": 3,
+          "playRate": 8.82
+        }
+      ]
+    },
+    {
+      "heroId": 5468,
+      "name": "拉克丝",
+      "price": 5,
+      "sampleCount": 2,
+      "avgPlacement": 1,
+      "coreEquips": [
+        {
+          "equipId": 2011,
+          "name": "虚空之杖",
+          "sampleCount": 1,
+          "playRate": 100
+        },
+        {
+          "equipId": 2022,
+          "name": "蓝霸符",
+          "sampleCount": 1,
+          "playRate": 100
+        },
+        {
+          "equipId": 2023,
+          "name": "圣盾使的誓约",
+          "sampleCount": 1,
+          "playRate": 100
+        }
+      ]
+    },
+    {
+      "heroId": 5450,
+      "name": "茂凯",
+      "price": 5,
+      "sampleCount": 10,
+      "avgPlacement": 1,
+      "coreEquips": [
+        {
+          "equipId": 2003,
+          "name": "海克斯科技枪刃",
+          "sampleCount": 1,
+          "playRate": 12.5
+        },
+        {
+          "equipId": 2023,
+          "name": "圣盾使的誓约",
+          "sampleCount": 1,
+          "playRate": 12.5
+        },
+        {
+          "equipId": 2034,
+          "name": "狂徒铠甲",
+          "sampleCount": 1,
+          "playRate": 12.5
+        }
+      ]
+    },
+    {
+      "heroId": 5451,
+      "name": "塔里克",
+      "price": 5,
+      "sampleCount": 15,
+      "avgPlacement": 1,
+      "coreEquips": [
+        {
+          "equipId": 2004,
+          "name": "朔极之矛",
+          "sampleCount": 1,
+          "playRate": 10
+        },
+        {
+          "equipId": 2011,
+          "name": "虚空之杖",
+          "sampleCount": 1,
+          "playRate": 10
+        },
+        {
+          "equipId": 2016,
+          "name": "班克斯的魔法帽",
+          "sampleCount": 1,
+          "playRate": 10
+        }
+      ]
+    },
+    {
+      "heroId": 5453,
+      "name": "凯南",
+      "price": 5,
+      "sampleCount": 17,
+      "avgPlacement": 1,
+      "coreEquips": [
+        {
+          "equipId": 2001,
+          "name": "无尽之刃",
+          "sampleCount": 1,
+          "playRate": 6.25
+        },
+        {
+          "equipId": 2005,
+          "name": "夜之锋刃",
+          "sampleCount": 1,
+          "playRate": 6.25
+        },
+        {
+          "equipId": 2046,
+          "name": "巨人捕手",
+          "sampleCount": 1,
+          "playRate": 6.25
+        }
+      ]
+    },
+    {
+      "heroId": 5454,
+      "name": "艾希",
+      "price": 5,
+      "sampleCount": 15,
+      "avgPlacement": 1,
+      "coreEquips": [
+        {
+          "equipId": 2001,
+          "name": "无尽之刃",
+          "sampleCount": 1,
+          "playRate": 9.09
+        },
+        {
+          "equipId": 2004,
+          "name": "朔极之矛",
+          "sampleCount": 1,
+          "playRate": 9.09
+        },
+        {
+          "equipId": 41806,
+          "name": "地狱火纹章",
+          "sampleCount": 1,
+          "playRate": 9.09
+        }
+      ]
+    },
+    {
+      "heroId": 5455,
+      "name": "德莱文",
+      "price": 5,
+      "sampleCount": 13,
+      "avgPlacement": 1,
+      "coreEquips": [
+        {
+          "equipId": 2001,
+          "name": "无尽之刃",
+          "sampleCount": 1,
+          "playRate": 11.11
+        },
+        {
+          "equipId": 2004,
+          "name": "朔极之矛",
+          "sampleCount": 1,
+          "playRate": 11.11
+        },
+        {
+          "equipId": 2042,
+          "name": "强袭者的链枷",
+          "sampleCount": 1,
+          "playRate": 11.11
+        }
+      ]
+    },
+    {
+      "heroId": 5465,
+      "name": "拉克丝",
+      "price": 5,
+      "sampleCount": 1,
+      "avgPlacement": 1,
+      "coreEquips": []
+    },
+    {
+      "heroId": 5466,
+      "name": "拉克丝",
+      "price": 5,
+      "sampleCount": 3,
+      "avgPlacement": 1,
+      "coreEquips": [
+        {
+          "equipId": 2003,
+          "name": "海克斯科技枪刃",
+          "sampleCount": 1,
+          "playRate": 100
+        },
+        {
+          "equipId": 2006,
+          "name": "汲取剑",
+          "sampleCount": 1,
+          "playRate": 100
+        },
+        {
+          "equipId": 41813,
+          "name": "重装战士纹章",
+          "sampleCount": 1,
+          "playRate": 100
+        }
+      ]
+    },
+    {
+      "heroId": 5467,
+      "name": "拉克丝",
+      "price": 5,
+      "sampleCount": 2,
+      "avgPlacement": 1,
+      "coreEquips": [
+        {
+          "equipId": 2001,
+          "name": "无尽之刃",
+          "sampleCount": 1,
+          "playRate": 50
+        },
+        {
+          "equipId": 2003,
+          "name": "海克斯科技枪刃",
+          "sampleCount": 1,
+          "playRate": 50
+        },
+        {
+          "equipId": 2010,
+          "name": "鬼索的狂暴之刃",
+          "sampleCount": 1,
+          "playRate": 50
+        }
+      ]
+    },
+    {
+      "heroId": 5457,
+      "name": "艾翁",
+      "price": 5,
+      "sampleCount": 14,
+      "avgPlacement": 1,
+      "coreEquips": [
+        {
+          "equipId": 2001,
+          "name": "无尽之刃",
+          "sampleCount": 1,
+          "playRate": 14.29
+        },
+        {
+          "equipId": 2005,
+          "name": "夜之锋刃",
+          "sampleCount": 1,
+          "playRate": 14.29
+        },
+        {
+          "equipId": 2041,
+          "name": "水银",
+          "sampleCount": 1,
+          "playRate": 14.29
+        }
+      ]
+    },
+    {
+      "heroId": 5461,
+      "name": "拉克丝",
+      "price": 5,
+      "sampleCount": 1,
+      "avgPlacement": 1,
+      "coreEquips": []
+    },
+    {
+      "heroId": 5462,
+      "name": "拉克丝",
+      "price": 5,
+      "sampleCount": 2,
+      "avgPlacement": 1,
+      "coreEquips": []
+    },
+    {
+      "heroId": 5464,
+      "name": "拉克丝",
+      "price": 5,
+      "sampleCount": 2,
+      "avgPlacement": 1,
+      "coreEquips": [
+        {
+          "equipId": 2004,
+          "name": "朔极之矛",
+          "sampleCount": 1,
+          "playRate": 50
+        },
+        {
+          "equipId": 2022,
+          "name": "蓝霸符",
+          "sampleCount": 1,
+          "playRate": 50
+        },
+        {
+          "equipId": 41806,
+          "name": "地狱火纹章",
+          "sampleCount": 1,
+          "playRate": 50
+        }
+      ]
+    },
+    {
+      "heroId": 5456,
+      "name": "拉露恩",
+      "price": 5,
+      "sampleCount": 20,
+      "avgPlacement": 1.05,
+      "coreEquips": [
+        {
+          "equipId": 2006,
+          "name": "汲取剑",
+          "sampleCount": 2,
+          "playRate": 15.38
+        },
+        {
+          "equipId": 2022,
+          "name": "蓝霸符",
+          "sampleCount": 2,
+          "playRate": 15.38
+        },
+        {
+          "equipId": 2038,
+          "name": "珠光护手",
+          "sampleCount": 2,
+          "playRate": 15.38
+        }
+      ]
+    },
+    {
+      "heroId": 5452,
+      "name": "纳尔",
+      "price": 5,
+      "sampleCount": 11,
+      "avgPlacement": 1.09,
+      "coreEquips": [
+        {
+          "equipId": 2001,
+          "name": "无尽之刃",
+          "sampleCount": 1,
+          "playRate": 20
+        },
+        {
+          "equipId": 2012,
+          "name": "泰坦的坚决",
+          "sampleCount": 1,
+          "playRate": 20
+        },
+        {
+          "equipId": 41809,
+          "name": "灵魂莲华纹章",
+          "sampleCount": 1,
+          "playRate": 20
+        }
+      ]
+    },
+    {
+      "heroId": 5458,
+      "name": "远古巨龙",
+      "price": 5,
+      "sampleCount": 18,
+      "avgPlacement": 1.11,
+      "coreEquips": [
+        {
+          "equipId": 2001,
+          "name": "无尽之刃",
+          "sampleCount": 1,
+          "playRate": 6.67
+        },
+        {
+          "equipId": 2004,
+          "name": "朔极之矛",
+          "sampleCount": 1,
+          "playRate": 6.67
+        },
+        {
+          "equipId": 41806,
+          "name": "地狱火纹章",
+          "sampleCount": 1,
+          "playRate": 6.67
+        }
+      ]
+    }
+  ]
+}

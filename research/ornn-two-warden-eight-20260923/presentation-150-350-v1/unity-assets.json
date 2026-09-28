@@ -1,0 +1,33 @@
+{
+  "added": [
+    {
+      "key": "item/2031",
+      "path": "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2031.png",
+      "sha256": "847a155bcaf4136e9cd652245684f47c212f52ef45d14ff712128e633e2f650c",
+      "guid": "5584dd6d884448da8e6844e941846649",
+      "origin": "https://img.dataj.cc/images/equip/2031.png"
+    },
+    {
+      "key": "item/2054",
+      "path": "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/2054.png",
+      "sha256": "bf32a73bc84954814d7c41700045dbd886c29d60a93a11cd40254a41397e1211",
+      "guid": "b99009d27af94b149c5782577bdd2412",
+      "origin": "https://img.dataj.cc/images/equip/2054.png"
+    },
+    {
+      "key": "item/nightharvester",
+      "path": "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Equip/nightharvester.png",
+      "sha256": "b577006055f148046361bb9a104189b2d70ae97cb37814f355b4a5467ccea585",
+      "guid": "3ff6c9da6075404bbc19b8c1aafdeeee",
+      "origin": "https://img.dataj.cc/images/equip/nightharvester.png"
+    },
+    {
+      "key": "cover/ornn-two-warden-eight-v1",
+      "path": "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/GUI/Image/Cover/ornn-two-warden-eight-v1.png",
+      "sha256": "1472b98a88b6f67569794ef92e78e54284b84a6cff9dcbbed9a1c56f2b87b153",
+      "guid": "cbfede7620b7483d85ec1e77a613a282",
+      "origin": "策划封面v1"
+    }
+  ],
+  "catalog": "/Users/lyu/Documents/project/game/projects/jcc/client/Assets/Res/Replay/ReplayAssets.asset"
+}

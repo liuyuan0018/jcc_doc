@@ -1,0 +1,5 @@
+UnityEditor.AssetDatabase.ImportAsset("Assets/Res/GUI/Image/Cover/vi-eight-revised-v3.png",UnityEditor.ImportAssetOptions.ForceSynchronousImport);
+var catalog=UnityEditor.AssetDatabase.LoadAssetAtPath<Jcc.Presentation.ReplayAssetCatalog>("Assets/Res/Replay/ReplayAssets.asset");
+var list=new System.Collections.Generic.List<Jcc.Presentation.ReplayAssetCatalog.Entry>(catalog.entries);
+if(!list.Exists(x=>x.key=="cover/vi-eight-revised-v3")){var sprite=UnityEditor.AssetDatabase.LoadAssetAtPath<UnityEngine.Sprite>("Assets/Res/GUI/Image/Cover/vi-eight-revised-v3.png");if(!sprite)throw new System.Exception("Missing cover/vi-eight-revised-v3");list.Add(new Jcc.Presentation.ReplayAssetCatalog.Entry{key="cover/vi-eight-revised-v3",sprite=sprite});}
+catalog.entries=list.ToArray();UnityEditor.EditorUtility.SetDirty(catalog);UnityEditor.AssetDatabase.SaveAssetIfDirty(catalog);return "Vi cover registered";

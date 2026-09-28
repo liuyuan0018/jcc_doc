@@ -1,0 +1,10 @@
+typeof(Jcc.Presentation.ReplayAssetCatalog).GetField("lookup",System.Reflection.BindingFlags.Instance|System.Reflection.BindingFlags.NonPublic).SetValue(UnityEditor.AssetDatabase.LoadAssetAtPath<Jcc.Presentation.ReplayAssetCatalog>("Assets/Res/Replay/ReplayAssets.asset"),null);
+var p=UnityEngine.Object.FindFirstObjectByType<Jcc.Presentation.ReplayPlayer>();
+var json=System.IO.File.ReadAllText("/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-vi-eight-v3/replay.json");
+var doc=UnityEngine.JsonUtility.FromJson<Jcc.Presentation.ReplayDocument>(json);
+UnityEditor.AssetDatabase.LoadAssetAtPath<Jcc.Presentation.ReplayAssetCatalog>("Assets/Res/Replay/ReplayAssets.asset").Validate(doc);
+if(!p.LoadJson(json,false))throw new System.Exception(p.LastError);
+UnityEngine.Application.runInBackground=true;
+foreach(var c in p.GetComponentsInChildren<Jcc.Presentation.ReplayControls>(true))c.gameObject.SetActive(false);
+var view=UnityEditor.EditorWindow.GetWindow(typeof(UnityEditor.Editor).Assembly.GetType("UnityEditor.GameView"));view.Show();view.Focus();
+p.Seek(1); UnityEngine.Canvas.ForceUpdateCanvases(); await GameFramework.MediaCapture.Unity.UnityScreenshot.CaptureAsync("/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-vi-eight-v3/preview-cover.png");p.Seek(0); return "New cover ready";

@@ -1,0 +1,42 @@
+{
+  "scope": "三星费德提克，6护卫，6人口，三件普通装备",
+  "model": "冻结 S18 数据及修正普通双冰甲护盾后的 C++ 模型；外部 DataJ 字段 season 标 S19，内部本系列冻结为 S18，不宣称为最新客户端数据",
+  "skill": "基础生命3240，双抗55，攻速0.65，初始/上限法力30/90；技能两秒总基础治疗850乘法强，重伤按环境应用；技能期间两秒停普攻及锁蓝；对三目标伤害、目标减魔抗使用现有固定模型",
+  "environment": {
+    "seconds": 30,
+    "fps": 30,
+    "startDps": 300,
+    "step": 50,
+    "maxDps": 20000,
+    "targetRes": 50,
+    "physicalShare": 0.5,
+    "attackers": 5,
+    "wound": 0.33,
+    "woundStart": 0,
+    "woundEnd": 5401,
+    "resistanceMode": 3,
+    "lockFrames": 30,
+    "pauseFrames": 9,
+    "control": false,
+    "fixedDamagePacketsPerSecond": 3
+  },
+  "scoring": "300 +50 first failure, then +1 from last passed coarse tier until first failure; ties preserved",
+  "poolSize": 8365,
+  "augmentCounts": {
+    "0": 7770,
+    "4": 595
+  },
+  "selected": 64,
+  "selectedPureDefensive": 50,
+  "augments": "无；单身板甲（恰好一件普通板甲且独占一排）。心之钢按用户要求排除。",
+  "correctedDoubleVowConfigurations": 37,
+  "sourceHashes": {
+    "/Users/lyu/Documents/ChatGPT/金铲铲/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/web.cpp": "62bf18cdf292557225b5fd20c15ee8fdd418a9ca0df26fa847b8bcb9a14912df",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/engine-web.hpp": "f476fd9f561189c41d446c525b47ec268e997fe64cfcbd7c7138b077d5301faa",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/generated.hpp": "9f153b1105b950cce6b733a9f01ec2370ed0e0d6a6a5d7981ae9fb2309fbc3df",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/replay-native": "89f153456035771b5d41dea3bc628578342343907c9c917d2908f7de252d2e01",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-01-rerun-v3/raw/scenario-158.runs.jsonl.gz": "377d2bb0a008171aa37f89f41f1caafc3667095db2efcd158eec7d4cc4575ba6",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-01-rerun-v3/raw/scenario-158.summary.jsonl.gz": "5d097368e04fc3701236fec145fb86189f4b34e2768a2894d7705848a70396ca"
+  },
+  "noClientSource": true
+}

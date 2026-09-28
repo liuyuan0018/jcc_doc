@@ -1,0 +1,27 @@
+{
+  "id": "s18-executioner-zyra-sample",
+  "season": "S18",
+  "patch": "18.1c",
+  "reference_date": "2026-09-07",
+  "title_keywords": ["裁决使纹章", "青龙刀", "虚空之杖", "裁决奶妈"],
+  "variant_label": "婕拉携带转职版本",
+  "status": "素材与模板样板；未获用户最终视觉认可；当前版本玩法与站位未全面核验",
+  "heroes": [
+    {"name":"墨菲特","row":0,"col":3,"role":"主T","color":"#58e5f0"},
+    {"name":"阿木木","row":0,"col":4},
+    {"name":"凯南","row":1,"col":2},
+    {"name":"约里克","row":2,"col":1},
+    {"name":"费德提克","row":2,"col":4},
+    {"name":"婕拉","row":3,"col":0,"role":"主C","color":"#ffe170"},
+    {"name":"索拉卡","row":3,"col":2,"role":"副C","color":"#e798ef"},
+    {"name":"阿兹尔","row":3,"col":5}
+  ],
+  "equipment_rows": [
+    {"hero":"婕拉","role":"主C","color":"#ffe170","items":[{"asset":"裁决使纹章","label":"裁决使纹章"},{"asset":"朔极之矛","label":"青龙刀"},{"asset":"虚空之杖","label":"虚空之杖"}]},
+    {"hero":"墨菲特","role":"主T","color":"#58e5f0","items":[{"asset":"石像鬼石板甲","label":"板甲"},{"asset":"狂徒铠甲","label":"狂徒"},{"label":"防御装"}]},
+    {"hero":"索拉卡","role":"副C","color":"#e798ef","note":"剩余回蓝、法强装"}
+  ],
+  "footer": "凯南未到 → 慎暂代　 |　 9人口 → 补拉露恩",
+  "source_refs": ["references/6a943d800000000020032819/6a943d800000000020032819_2.jpg"],
+  "position_status": "沿用既有样稿位置，非攻略站位复刻，未验证最优"
+}

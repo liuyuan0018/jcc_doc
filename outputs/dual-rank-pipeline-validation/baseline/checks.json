@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "checks": [
+    {
+      "track": "regular",
+      "images": 12,
+      "codes": 10,
+      "body_chars": 888,
+      "title_chars": 18
+    },
+    {
+      "track": "cold",
+      "images": 7,
+      "codes": 6,
+      "body_chars": 795,
+      "title_chars": 18
+    }
+  ],
+  "source_date": "2026-09-19T19:26:03.412Z",
+  "visual_status": "checks_passed_visual_reused"
+}

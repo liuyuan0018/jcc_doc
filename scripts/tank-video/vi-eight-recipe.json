@@ -1,0 +1,344 @@
+{
+  "id": "frontline-vi-eight",
+  "version": 1,
+  "outputDir": "exports/frontline-vi-eight-v1",
+  "outputName": "vi-eight-final-v1.mp4",
+  "replayData": "vi-eight-data.json",
+  "coverPath": "cover/cover-9x16-v2.png",
+  "tts": {
+    "provider": "edge-tts",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+4%",
+    "pitch": "+0Hz",
+    "ttsVersion": "7.2.8",
+    "ttsOptions": {}
+  },
+  "voiceProcessing": {
+    "filterChain": "highpass=f=85:p=2,equalizer=f=3500:t=o:w=1:g=-1.5,deesser=i=0.15:m=0.25:f=0.5,acompressor=threshold=0.1:ratio=3:attack=0.3:release=70:makeup=1:knee=2.82843:detection=peak",
+    "fixedGainDb": 7.460000000000001,
+    "fadeMs": 8
+  },
+  "music": {
+    "path": "exports/frontline-video-wallpaper-v1/assets/Wallpaper.mp3",
+    "sha256": "9fa810e5193c88f1b360537366f210f16c2588106d5292f0659e9957fa274f96",
+    "gains": {
+      "wallpaperV2RecipeGainDb": -19.84,
+      "approvedV5AddDb": 3
+    },
+    "fadeInSeconds": 0.6,
+    "fadeOutSeconds": 1.5
+  },
+  "timeline": {
+    "coverLeadSeconds": 0.3,
+    "coverTailSeconds": 0.35,
+    "introMinSeconds": 0.65,
+    "cueGapSeconds": 0.35,
+    "normalSimRate": 3.5,
+    "fastBattleSeconds": 2.0,
+    "fastHoldSeconds": 0.55,
+    "normalHoldMinSeconds": 1.2,
+    "resultMinSeconds": 9.0
+  },
+  "effects": {
+    "path": "scripts/tank-video/effects-elimination.json"
+  },
+  "credits": {
+    "path": "exports/frontline-video-wallpaper-v5/CREDITS.txt",
+    "sha256": "16fe3013961f2a5c085e3f2e0a3b90a1ee31dbfcd89fcfcdd12113e506111a64"
+  },
+  "ui": {
+    "brand": "蔚 · 8套配装 · 模拟测试",
+    "legend": "先记住你常用的那套 · A—H固定位置",
+    "footnote": "机制模拟 · 非实机录像 · 单身板甲并独占一排",
+    "resultFootnote": "固定条件下参测配装的持续承压 · 实战还要看对手和站位",
+    "heroName": "蔚",
+    "traitLine": "3星 · 6主宰 · 单身板甲 · 独占一排",
+    "resultHeader": "蔚 · 8套配装 · 模拟测试",
+    "resultCondition": "3星 · 6主宰 · 6人口 · 单身板甲 · 独占一排",
+    "titleAux": "蔚 · 8套",
+    "conditions": "5人集火 / 33%重伤 / 双抗各降30% / 物理魔法各半",
+    "hexLabel": "单身板甲",
+    "soloTraitLine": "3星 · 6主宰 · 6人口"
+  },
+  "cues": [
+    {
+      "id": "V01",
+      "text": "蔚的八套出装，你平时用哪套？",
+      "spoken": "魏的八套出装，你平时用哪套？"
+    },
+    {
+      "id": "V02",
+      "text": "这次做固定条件模拟。每档满血，撑满三十秒，再加五十来伤。",
+      "spoken": "这次做固定条件模拟。每档满血，撑满三十秒，再加五十来伤。",
+      "displayLines": [
+        "这次做固定条件模拟。",
+        "每档满血，撑满三十秒，再加五十来伤。"
+      ]
+    },
+    {
+      "id": "V03",
+      "text": "这档八套全过，继续加。",
+      "spoken": "这档八套全过，继续加。"
+    },
+    {
+      "id": "V04",
+      "text": "一千九，羊刀泰坦和泰坦狂徒都没过，并列第七。",
+      "spoken": "一千九，羊刀泰坦和泰坦狂徒都没过，并列第七。",
+      "displayLines": [
+        "一千九，羊刀泰坦和泰坦狂徒都没过，",
+        "并列第七。"
+      ]
+    },
+    {
+      "id": "V05",
+      "text": "羊刀狂徒在两千这档停下，比羊刀泰坦多通过两档。",
+      "spoken": "羊刀狂徒在两千这档停下，比羊刀泰坦多通过两档。",
+      "displayLines": [
+        "羊刀狂徒在两千这档停下，",
+        "比羊刀泰坦多通过两档。"
+      ]
+    },
+    {
+      "id": "V06",
+      "text": "羊刀饮血也倒了，还剩四套。",
+      "spoken": "羊刀饮血也倒了，还剩四套。"
+    },
+    {
+      "id": "V07",
+      "text": "饮血狂徒和饮血振奋都没过，最高通过两千零五十，并列第三。",
+      "spoken": "饮血狂徒和饮血振奋都没过，最高通过两千零五十，并列第三。",
+      "displayLines": [
+        "饮血狂徒和饮血振奋都没过，",
+        "最高通过两千零五十，并列第三。"
+      ]
+    },
+    {
+      "id": "V08",
+      "text": "大天使双板也到头了，只剩饮血双板。",
+      "spoken": "大天使双板也到头了，只剩饮血双板。"
+    },
+    {
+      "id": "V09",
+      "text": "两千一百五通过，继续测上限。",
+      "spoken": "两千一百五通过，继续测上限。"
+    },
+    {
+      "id": "V10",
+      "text": "再加到两千二。",
+      "spoken": "再加到两千二。"
+    },
+    {
+      "id": "V11",
+      "text": "三十秒，这一档还是站住了。",
+      "spoken": "三十秒，这一档还是站住了。"
+    },
+    {
+      "id": "V12",
+      "text": "再加五十。",
+      "spoken": "再加五十。"
+    },
+    {
+      "id": "V13",
+      "text": "两千二百五，二十九秒倒下。最高通过两千二。",
+      "spoken": "两千二百五，二十九秒倒下。最高通过两千二。",
+      "displayLines": [
+        "两千二百五，二十九秒倒下。",
+        "最高通过两千二。"
+      ]
+    },
+    {
+      "id": "V14",
+      "text": "这组条件下，饮血双板比羊刀泰坦高三百五十。",
+      "spoken": "这组条件下，饮血双板比羊刀泰坦高三百五十。",
+      "displayLines": [
+        "这组条件下，",
+        "饮血双板比羊刀泰坦高三百五十。"
+      ]
+    },
+    {
+      "id": "V15",
+      "text": "还有哪套你想看？评论留下三件装备。",
+      "spoken": "还有哪套你想看？评论留下三件装备。"
+    }
+  ],
+  "program": {
+    "tiers": [
+      {
+        "dps": 1850,
+        "speed": "fast",
+        "layout": "eight"
+      },
+      {
+        "dps": 1900,
+        "speed": "normal",
+        "layout": "eight"
+      },
+      {
+        "dps": 1950,
+        "speed": "fast",
+        "layout": "eight"
+      },
+      {
+        "dps": 2000,
+        "speed": "normal",
+        "layout": "eight"
+      },
+      {
+        "dps": 2050,
+        "speed": "normal",
+        "layout": "eight"
+      },
+      {
+        "dps": 2100,
+        "speed": "normal",
+        "layout": "eight"
+      },
+      {
+        "dps": 2150,
+        "speed": "normal",
+        "layout": "eight"
+      },
+      {
+        "dps": 2200,
+        "speed": "normal",
+        "layout": "solo"
+      },
+      {
+        "dps": 2250,
+        "speed": "normal",
+        "layout": "solo"
+      }
+    ],
+    "soloLane": 0,
+    "anchors": {
+      "V01": {
+        "type": "cover"
+      },
+      "V02": {
+        "type": "tierStart",
+        "tier": 0,
+        "offset": 0.1
+      },
+      "V03": {
+        "type": "tierPassed",
+        "tier": 0,
+        "offset": 0.25
+      },
+      "V04": {
+        "type": "death",
+        "tier": 1,
+        "build": "D",
+        "offset": 0.25
+      },
+      "V05": {
+        "type": "death",
+        "tier": 3,
+        "build": "C",
+        "offset": 0.25
+      },
+      "V06": {
+        "type": "death",
+        "tier": 4,
+        "build": "H",
+        "offset": 0.25
+      },
+      "V07": {
+        "type": "death",
+        "tier": 5,
+        "build": "F",
+        "offset": 0.25
+      },
+      "V08": {
+        "type": "death",
+        "tier": 6,
+        "build": "G",
+        "offset": 0.25
+      },
+      "V09": {
+        "type": "tierPassed",
+        "tier": 6,
+        "offset": 0.25
+      },
+      "V10": {
+        "type": "tierStart",
+        "tier": 7,
+        "offset": 0.1
+      },
+      "V11": {
+        "type": "tierPassed",
+        "tier": 7,
+        "offset": 0.25
+      },
+      "V12": {
+        "type": "tierStart",
+        "tier": 8,
+        "offset": 0.1
+      },
+      "V13": {
+        "type": "death",
+        "tier": 8,
+        "build": "A",
+        "offset": 0.25
+      },
+      "V14": {
+        "type": "result",
+        "offset": 0.2
+      },
+      "V15": {
+        "type": "result",
+        "offset": 6.6
+      }
+    }
+  },
+  "densityOffsets": {
+    "left_text": 10,
+    "conditions": 22,
+    "right_text": 14,
+    "corner_text": 42,
+    "bottom_text": 42,
+    "result_rank": 20
+  },
+  "immutable": [
+    {
+      "path": "exports/frontline-episode-01-video-v3/frontline-episode-01.mp4",
+      "sha256": "ef8fe386ff96e275c83fc9eb79bb005163763605f1ffc659a30b6fe92f9e3ef1"
+    },
+    {
+      "path": "exports/frontline-episode-01-video-v5/frontline-episode-01.mp4",
+      "sha256": "a1154e0407d7cca90e6ce0b0a7c7dc5785812762f061a95595db3b418c8becd4"
+    },
+    {
+      "path": "exports/frontline-ornn-eight-v1/ornn-eight-final-v2.mp4",
+      "sha256": "f8bfa9bb09eef3a12daa9e67b6918d586f825173575802b6f3e9fd900498b172"
+    },
+    {
+      "path": "exports/frontline-spider-eight-v1/spider-eight-final-v1.mp4",
+      "sha256": "edbd0fbe347b9c693aa2fdd64f43705d354187fd66be69162d8dd4f11c5c0367"
+    },
+    {
+      "path": "exports/frontline-vi-eight-source-v1/cover/cover-3x4-v1.png",
+      "sha256": "ccb5f2b0c8ef16c9e7e3860348f93513fd86c4bb21ad5432eea931257f3a8048"
+    }
+  ],
+  "sourceDir": "exports/frontline-vi-eight-source-v1",
+  "themePath": "exports/frontline-episode-01-design-v3/design-v3-theme.json",
+  "protectedOutputDirs": [
+    "exports/frontline-ornn-eight-v1",
+    "exports/frontline-episode-01-video-v3",
+    "exports/frontline-episode-01-video-v5",
+    "exports/frontline-spider-eight-v1"
+  ],
+  "castDefaults": {
+    "hero": "蔚",
+    "cost": 3,
+    "star": 3,
+    "traits": {
+      "主宰": 6
+    },
+    "slots": 6,
+    "aug": 4,
+    "_traitText": "6主宰 · 6人口",
+    "_qualityText": "蔚 · 3费 · 3星",
+    "avatar": "assets/ranking/s18_head_vi.png"
+  }
+}

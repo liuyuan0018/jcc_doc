@@ -1,0 +1,432 @@
+[
+  {
+    "name": "地狱火艾希",
+    "compId": "112",
+    "hero": "艾希",
+    "equipIds": [
+      "2004",
+      "2009",
+      "41806"
+    ],
+    "stats": {
+      "id": "2004-2009-41806",
+      "equipIds": [
+        2004,
+        2009,
+        41806
+      ],
+      "equips": [
+        {
+          "id": 2004,
+          "name": "朔极之矛",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+        },
+        {
+          "id": 2009,
+          "name": "红霸符",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2009.png"
+        },
+        {
+          "id": 41806,
+          "name": "地狱火纹章",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41806.png"
+        }
+      ],
+      "sampleCount": 1227,
+      "playRate": 36.45,
+      "top4Rate": 77.26,
+      "topRate": 39.2,
+      "avgPlacement": 2.83,
+      "tier": "S",
+      "placementDelta": -0.55
+    },
+    "url": "https://www.dataj.cc/api/web/comp/112/hero-equips?setId=18&gameVersion=18.1.c&heroId=5454"
+  },
+  {
+    "name": "巨龙95",
+    "compId": "89",
+    "hero": "远古巨龙",
+    "equipIds": [
+      "2001",
+      "2037",
+      "2042"
+    ],
+    "stats": {
+      "id": "2001-2037-2042",
+      "equipIds": [
+        2001,
+        2037,
+        2042
+      ],
+      "equips": [
+        {
+          "id": 2001,
+          "name": "无尽之刃",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+        },
+        {
+          "id": 2037,
+          "name": "最后的轻语",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2053.png"
+        },
+        {
+          "id": 2042,
+          "name": "强袭者的链枷",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/strikersflail.png"
+        }
+      ],
+      "sampleCount": 16,
+      "playRate": 1.39,
+      "top4Rate": 75,
+      "topRate": 43.75,
+      "avgPlacement": 2.88,
+      "tier": "C",
+      "placementDelta": -0.86
+    },
+    "url": "https://www.dataj.cc/api/web/comp/89/hero-equips?setId=18&gameVersion=18.1.c&heroId=5458"
+  },
+  {
+    "name": "重装女警",
+    "compId": "100",
+    "hero": "凯特琳",
+    "equipIds": [
+      "2010",
+      "2013",
+      "2045"
+    ],
+    "stats": {
+      "id": "2010-2013-2045",
+      "equipIds": [
+        2010,
+        2013,
+        2045
+      ],
+      "equips": [
+        {
+          "id": 2010,
+          "name": "鬼索的狂暴之刃",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2010.png"
+        },
+        {
+          "id": 2013,
+          "name": "海妖之怒",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/krakensfury.png"
+        },
+        {
+          "id": 2045,
+          "name": "锐利之刃",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2045.png"
+        }
+      ],
+      "sampleCount": 752,
+      "playRate": 13.88,
+      "top4Rate": 63.7,
+      "topRate": 4.65,
+      "avgPlacement": 4.09,
+      "tier": "B",
+      "placementDelta": 0.04
+    },
+    "url": "https://www.dataj.cc/api/web/comp/100/hero-equips?setId=18&gameVersion=18.1.c&heroId=2510"
+  },
+  {
+    "name": "野怪小红",
+    "compId": "104",
+    "hero": "绯红树怪",
+    "equipIds": [
+      "2001",
+      "2004",
+      "2037"
+    ],
+    "stats": {
+      "id": "2001-2004-2037",
+      "equipIds": [
+        2001,
+        2004,
+        2037
+      ],
+      "equips": [
+        {
+          "id": 2001,
+          "name": "无尽之刃",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+        },
+        {
+          "id": 2004,
+          "name": "朔极之矛",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+        },
+        {
+          "id": 2037,
+          "name": "最后的轻语",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2053.png"
+        }
+      ],
+      "sampleCount": 222,
+      "playRate": 6.42,
+      "top4Rate": 49.1,
+      "topRate": 8.56,
+      "avgPlacement": 4.45,
+      "tier": "D",
+      "placementDelta": 0.4
+    },
+    "url": "https://www.dataj.cc/api/web/comp/104/hero-equips?setId=18&gameVersion=18.1.c&heroId=1508"
+  },
+  {
+    "name": "7野怪鸡哥",
+    "compId": "99",
+    "hero": "深红锋喙鸟",
+    "equipIds": [
+      "2010",
+      "2013",
+      "2045"
+    ],
+    "stats": {
+      "id": "2010-2013-2045",
+      "equipIds": [
+        2010,
+        2013,
+        2045
+      ],
+      "equips": [
+        {
+          "id": 2010,
+          "name": "鬼索的狂暴之刃",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2010.png"
+        },
+        {
+          "id": 2013,
+          "name": "海妖之怒",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/krakensfury.png"
+        },
+        {
+          "id": 2045,
+          "name": "锐利之刃",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2045.png"
+        }
+      ],
+      "sampleCount": 59,
+      "playRate": 5.51,
+      "top4Rate": 66.1,
+      "topRate": 13.56,
+      "avgPlacement": 3.71,
+      "tier": "C",
+      "placementDelta": -0.39
+    },
+    "url": "https://www.dataj.cc/api/web/comp/99/hero-equips?setId=18&gameVersion=18.1.c&heroId=3509"
+  },
+  {
+    "name": "永森95",
+    "compId": "91",
+    "hero": "伊泽瑞尔",
+    "equipIds": [
+      "2004",
+      "2042",
+      "2045"
+    ],
+    "stats": {
+      "id": "2004-2042-2045",
+      "equipIds": [
+        2004,
+        2042,
+        2045
+      ],
+      "equips": [
+        {
+          "id": 2004,
+          "name": "朔极之矛",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+        },
+        {
+          "id": 2042,
+          "name": "强袭者的链枷",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/strikersflail.png"
+        },
+        {
+          "id": 2045,
+          "name": "锐利之刃",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2045.png"
+        }
+      ],
+      "sampleCount": 2,
+      "playRate": 1.77,
+      "top4Rate": 100,
+      "topRate": 50,
+      "avgPlacement": 1.5,
+      "tier": null,
+      "placementDelta": -2.4
+    },
+    "url": "https://www.dataj.cc/api/web/comp/91/hero-equips?setId=18&gameVersion=18.1.c&heroId=4508"
+  },
+  {
+    "name": "5迅射月男",
+    "compId": "114",
+    "hero": "厄斐琉斯",
+    "equipIds": [
+      "2001",
+      "2013",
+      "2045"
+    ],
+    "stats": {
+      "id": "2001-2013-2045",
+      "equipIds": [
+        2001,
+        2013,
+        2045
+      ],
+      "equips": [
+        {
+          "id": 2001,
+          "name": "无尽之刃",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2001.png"
+        },
+        {
+          "id": 2013,
+          "name": "海妖之怒",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/krakensfury.png"
+        },
+        {
+          "id": 2045,
+          "name": "锐利之刃",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2045.png"
+        }
+      ],
+      "sampleCount": 15,
+      "playRate": 14.29,
+      "top4Rate": 73.33,
+      "topRate": 13.33,
+      "avgPlacement": 3.8,
+      "tier": "C",
+      "placementDelta": -0.2
+    },
+    "url": "https://www.dataj.cc/api/web/comp/114/hero-equips?setId=18&gameVersion=18.1.c&heroId=4509"
+  },
+  {
+    "name": "古纳拉95",
+    "compId": "113",
+    "hero": "拉露恩",
+    "equipIds": [
+      "2004",
+      "2014",
+      "2038"
+    ],
+    "stats": {
+      "id": "2004-2014-2038",
+      "equipIds": [
+        2004,
+        2014,
+        2038
+      ],
+      "equips": [
+        {
+          "id": 2004,
+          "name": "朔极之矛",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+        },
+        {
+          "id": 2014,
+          "name": "纳什之牙",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/nashorstooth.png"
+        },
+        {
+          "id": 2038,
+          "name": "珠光护手",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2038.png"
+        }
+      ],
+      "sampleCount": 21,
+      "playRate": 9.72,
+      "top4Rate": 47.62,
+      "topRate": 19.05,
+      "avgPlacement": 4.57,
+      "tier": "C",
+      "placementDelta": 0.34
+    },
+    "url": "https://www.dataj.cc/api/web/comp/113/hero-equips?setId=18&gameVersion=18.1.c&heroId=5456"
+  },
+  {
+    "name": "皎月螳螂",
+    "compId": "109",
+    "hero": "黛安娜",
+    "equipIds": [
+      "2014",
+      "2038",
+      "2041"
+    ],
+    "stats": {
+      "id": "2014-2038-2041",
+      "equipIds": [
+        2014,
+        2038,
+        2041
+      ],
+      "equips": [
+        {
+          "id": 2014,
+          "name": "纳什之牙",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/nashorstooth.png"
+        },
+        {
+          "id": 2038,
+          "name": "珠光护手",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2038.png"
+        },
+        {
+          "id": 2041,
+          "name": "水银",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2041.png"
+        }
+      ],
+      "sampleCount": 3019,
+      "playRate": 30.06,
+      "top4Rate": 59.69,
+      "topRate": 16.4,
+      "avgPlacement": 3.91,
+      "tier": "S",
+      "placementDelta": -0.32
+    },
+    "url": "https://www.dataj.cc/api/web/comp/109/hero-equips?setId=18&gameVersion=18.1.c&heroId=3506"
+  },
+  {
+    "name": "裁决奶妈",
+    "compId": "90",
+    "hero": "婕拉",
+    "equipIds": [
+      "2004",
+      "2011",
+      "41818"
+    ],
+    "stats": {
+      "id": "2004-2011-41818",
+      "equipIds": [
+        2004,
+        2011,
+        41818
+      ],
+      "equips": [
+        {
+          "id": 2004,
+          "name": "朔极之矛",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/2004.png"
+        },
+        {
+          "id": 2011,
+          "name": "虚空之杖",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/voidstaff.png"
+        },
+        {
+          "id": 41818,
+          "name": "裁决使纹章",
+          "picture": "https://game.gtimg.cn/images/lol/act/jkzlk/gamedata/equip/41818.png"
+        }
+      ],
+      "sampleCount": 3020,
+      "playRate": 15.99,
+      "top4Rate": 65.07,
+      "topRate": 22.45,
+      "avgPlacement": 3.66,
+      "tier": "A",
+      "placementDelta": -0.71
+    },
+    "url": "https://www.dataj.cc/api/web/comp/90/hero-equips?setId=18&gameVersion=18.1.c&heroId=4512"
+  }
+]

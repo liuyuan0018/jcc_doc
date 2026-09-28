@@ -1,0 +1,2 @@
+#include "web.cpp"
+int main(){string id;int lo,hi;while(cin>>id>>lo>>hi){double p[35];for(double&v:p)cin>>v;Hero h;Scenario sc;Build b;int aug;Options o;auto err=configure(p,35,h,sc,b,aug,o);if(!err.empty()){cerr<<err;return 1;}cout<<"{\"id\":\""<<id<<"\",\"stages\":[";bool first=true;for(int d=lo;d<=hi;d++){o.dps=d;Sim sim(h,sc,b,aug,o);sim.capture=false;auto r=sim.run();if(!first)cout<<',';first=false;cout<<"{\"dps\":"<<d<<",\"result\":";outputResult(cout,r,17);cout<<'}';if(!r.alive)break;}cout<<"]}"<<endl;}}

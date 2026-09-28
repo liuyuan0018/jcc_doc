@@ -1,0 +1,10 @@
+{
+  "date": "2026-09-07",
+  "files": 4,
+  "visual_review": "all four PNGs inspected; no clipping or overlap",
+  "trait_checks": "passed for four vanguards, two juggernauts, nine distinct monsters and remaining invoker",
+  "body_chars": 466,
+  "gameplay_tested": false,
+  "published": false,
+  "user_approved": false
+}

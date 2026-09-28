@@ -1,0 +1,148 @@
+{
+  "source": "research/special-20260924/gamedata.json",
+  "rows": [
+    {
+      "cost": 3,
+      "star": 2,
+      "purchaseGold": 9,
+      "sellPriceValues": [
+        8,
+        11
+      ],
+      "tankExamples": [
+        {
+          "id": "23504",
+          "name": "雷恩加尔",
+          "sellPrice": 8
+        },
+        {
+          "id": "23505",
+          "name": "卡兹克",
+          "sellPrice": 8
+        },
+        {
+          "id": "28442",
+          "name": "沙兵",
+          "sellPrice": 11
+        }
+      ]
+    },
+    {
+      "cost": 3,
+      "star": 3,
+      "purchaseGold": 27,
+      "sellPriceValues": [
+        26,
+        35
+      ],
+      "tankExamples": [
+        {
+          "id": "33504",
+          "name": "雷恩加尔",
+          "sellPrice": 26
+        },
+        {
+          "id": "33505",
+          "name": "卡兹克",
+          "sellPrice": 26
+        },
+        {
+          "id": "38442",
+          "name": "沙兵",
+          "sellPrice": 35
+        }
+      ]
+    },
+    {
+      "cost": 4,
+      "star": 2,
+      "purchaseGold": 12,
+      "sellPriceValues": [
+        11
+      ],
+      "tankExamples": [
+        {
+          "id": "24504",
+          "name": "墨菲特",
+          "sellPrice": 11
+        }
+      ]
+    },
+    {
+      "cost": 5,
+      "star": 2,
+      "purchaseGold": 15,
+      "sellPriceValues": [
+        14
+      ],
+      "tankExamples": [
+        {
+          "id": "25455",
+          "name": "德莱文",
+          "sellPrice": 14
+        },
+        {
+          "id": "25457",
+          "name": "艾翁",
+          "sellPrice": 14
+        },
+        {
+          "id": "25458",
+          "name": "远古巨龙",
+          "sellPrice": 14
+        },
+        {
+          "id": "25459",
+          "name": "拉克丝",
+          "sellPrice": 14
+        },
+        {
+          "id": "25461",
+          "name": "拉克丝",
+          "sellPrice": 14
+        },
+        {
+          "id": "25462",
+          "name": "拉克丝",
+          "sellPrice": 14
+        },
+        {
+          "id": "25463",
+          "name": "拉克丝",
+          "sellPrice": 14
+        },
+        {
+          "id": "25464",
+          "name": "拉克丝",
+          "sellPrice": 14
+        },
+        {
+          "id": "25465",
+          "name": "拉克丝",
+          "sellPrice": 14
+        },
+        {
+          "id": "25466",
+          "name": "拉克丝",
+          "sellPrice": 14
+        },
+        {
+          "id": "25467",
+          "name": "拉克丝",
+          "sellPrice": 14
+        },
+        {
+          "id": "25468",
+          "name": "拉克丝",
+          "sellPrice": 14
+        },
+        {
+          "id": "25469",
+          "name": "拉克丝",
+          "sellPrice": 14
+        }
+      ]
+    }
+  ],
+  "note": "purchase cost excludes rerolls and opportunity cost; sell values extracted from tank-role objects only"
+}

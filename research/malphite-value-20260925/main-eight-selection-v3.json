@@ -1,0 +1,171 @@
+{
+  "status": "reviewable_video_delivered",
+  "supersedes": "production-v2 four-act editorial structure",
+  "source": "exports/frontline-malphite-rerun-v1/full-ranking.csv",
+  "simulationCount": 250950,
+  "mainCount": 8,
+  "resultsCount": 72,
+  "main": [
+    {
+      "id": "m-t2-s32-b8068",
+      "key": "M01",
+      "tier": 2,
+      "cost": 3,
+      "star": 2,
+      "items": [
+        24,
+        27,
+        33
+      ],
+      "augment": 0,
+      "score": 946,
+      "rank": 38593,
+      "passedDps": 900,
+      "failedDps": 950,
+      "reason": "同装备、同献祭，比较两黑"
+    },
+    {
+      "id": "m-t4-s32-b8068",
+      "key": "M02",
+      "tier": 4,
+      "cost": 3,
+      "star": 2,
+      "items": [
+        24,
+        27,
+        33
+      ],
+      "augment": 0,
+      "score": 1090,
+      "rank": 17333,
+      "passedDps": 1050,
+      "failedDps": 1100,
+      "reason": "四黑共同基准"
+    },
+    {
+      "id": "m-t6-s32-b8068",
+      "key": "M03",
+      "tier": 6,
+      "cost": 3,
+      "star": 2,
+      "items": [
+        24,
+        27,
+        33
+      ],
+      "augment": 0,
+      "score": 1244,
+      "rank": 6609,
+      "passedDps": 1200,
+      "failedDps": 1250,
+      "reason": "同装备、同献祭，比较六黑"
+    },
+    {
+      "id": "m-t4-s33-b8068",
+      "key": "M04",
+      "tier": 4,
+      "cost": 3,
+      "star": 3,
+      "items": [
+        24,
+        27,
+        33
+      ],
+      "augment": 0,
+      "score": 1413,
+      "rank": 2074,
+      "passedDps": 1400,
+      "failedDps": 1450,
+      "reason": "只改变献祭：3费3星"
+    },
+    {
+      "id": "m-t4-s42-b8068",
+      "key": "M05",
+      "tier": 4,
+      "cost": 4,
+      "star": 2,
+      "items": [
+        24,
+        27,
+        33
+      ],
+      "augment": 0,
+      "score": 1158,
+      "rank": 11343,
+      "passedDps": 1150,
+      "failedDps": 1200,
+      "reason": "只改变献祭：4费2星"
+    },
+    {
+      "id": "m-t4-s32-b7187",
+      "key": "M06",
+      "tier": 4,
+      "cost": 3,
+      "star": 2,
+      "items": [
+        17,
+        24,
+        27
+      ],
+      "augment": 0,
+      "score": 1146,
+      "rank": 12386,
+      "passedDps": 1100,
+      "failedDps": 1150,
+      "reason": "狂徒换冕卫"
+    },
+    {
+      "id": "m-t4-s32-b8205",
+      "key": "M07",
+      "tier": 4,
+      "cost": 3,
+      "star": 2,
+      "items": [
+        26,
+        30,
+        33
+      ],
+      "augment": 0,
+      "score": 907,
+      "rank": 46432,
+      "passedDps": 900,
+      "failedDps": 950,
+      "reason": "无绿甲的反甲龙牙狂徒对照"
+    },
+    {
+      "id": "m-t4-s32-b8069",
+      "key": "M08",
+      "tier": 4,
+      "cost": 3,
+      "star": 2,
+      "items": [
+        24,
+        27,
+        33
+      ],
+      "augment": 4,
+      "score": 1208,
+      "rank": 8216,
+      "passedDps": 1200,
+      "failedDps": 1250,
+      "reason": "只增加单身板甲"
+    }
+  ],
+  "resultsPolicy": [
+    "Main 8 plus 64 unique extras",
+    "Include global top eight and all 30 condition-best configurations",
+    "Include multi-Spirit-Visage configurations at their actual global ranks",
+    "Fill remaining slots with varied ordinary defensive equipment",
+    "Sort by existing score, preserve global rank and ties, tag Main 01-08"
+  ],
+  "narrative": "固定条件斗蛐蛐，口播仅跟随战况和成绩；不推导羁绊、献祭或出装建议。",
+  "preserve": [
+    "neutrality",
+    "no gold labels",
+    "existing model and full scan",
+    "safeArea 0.9",
+    "Unity continuous media-capture",
+    "voice and BGM style"
+  ],
+  "production": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-malphite-rerun-v1/production-v3"
+}

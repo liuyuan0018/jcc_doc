@@ -1,0 +1,26 @@
+{
+  "observed_at": "2026-09-28T13:21:53.602368+00:00",
+  "status": "submitted_under_review",
+  "evidence_method": "native_chrome_cua_success_and_manager",
+  "cold": {
+    "note_id": "6ab95e5e000000001b030e09",
+    "title": "金铲铲S18 冷门榜9.28｜附阵容码",
+    "image_count": 10,
+    "body_platform_count": 956,
+    "success_prompt": "更新成功",
+    "manager_status": "审核中",
+    "topics_and_settings_preserved": true
+  },
+  "regular": {
+    "status": "unchanged_from_previous_submission",
+    "package": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-28-conditional"
+  },
+  "public_visibility_verified": false,
+  "delivery_path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc",
+  "validation": {
+    "pipeline": "passed",
+    "current_observation_test": "passed",
+    "legacy_suite_fixture": "baseline snapshot lacks equip6086; existing fixture incompatibility",
+    "visual": "2 full review; 6 pagination-only SVG diffs; 14 identical PNGs"
+  }
+}

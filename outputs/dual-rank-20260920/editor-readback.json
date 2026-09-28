@@ -1,0 +1,229 @@
+{
+  "verified_at": "2026-09-20T11:40:27.260865+00:00",
+  "notes": [
+    {
+      "key": "cold",
+      "note_id": "6aacd475000000002b01f439",
+      "title": "金铲铲S18冷门榜9.20｜附阵容码",
+      "edit_url": "https://creator.xiaohongshu.com/publish/update?source=&id=6aacd475000000002b01f439&noteType=normal",
+      "operation": "edit_existing_title_date_images_and_body",
+      "status": "published",
+      "body_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-20260920/cold-body.txt",
+      "image_count": 7,
+      "code_count": 6,
+      "topics": [
+        {
+          "name": "金铲铲之战",
+          "id": "610b9c5b000000000101e01b"
+        },
+        {
+          "name": "金铲铲阵容",
+          "id": "612790e600000000010009d6"
+        },
+        {
+          "name": "金铲铲",
+          "id": "60f51be5000000000100ad43"
+        },
+        {
+          "name": "金铲铲攻略",
+          "id": "612e0fc70000000001003ee1"
+        },
+        {
+          "name": "金铲铲推荐阵容",
+          "id": "6128e7500000000001003081"
+        },
+        {
+          "name": "金铲铲之战S18",
+          "id": "6a4c9dd5000000000301ea0b"
+        },
+        {
+          "name": "金铲铲自然之力",
+          "id": "6a51d40d000000000301f0d5"
+        },
+        {
+          "name": "金铲铲冷门阵容",
+          "id": "62f35c7100000000010096fc"
+        }
+      ],
+      "saved_readback": {
+        "body_matches_submitted": true,
+        "title_date": "9.20",
+        "title_style_preserved": true,
+        "topic_ids_names_order_match_before": true,
+        "all_images_are_new_saved_assets": true,
+        "all_images_loaded": true,
+        "image_order": "Order of the explicitly supplied ascending file list, checked in editor thumbnails and saved page.",
+        "code_name_pairs_preserved": true,
+        "original_declaration": true,
+        "allow_copy": true,
+        "visibility": "公开可见",
+        "collection": "s18金铲铲阵容数据库",
+        "activity": "金铲铲激励活动来袭",
+        "cross_reference_to_other_rank_preserved": true
+      },
+      "submission_evidence": "Each full image/date update was submitted once, returned with 审核中, then its original edit page was reopened. New title/body and every saved image asset were read back. Final active 已发布 filter contained both 9.20 titles without review badges.",
+      "images": [
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260920/01-冷门构筑强度榜.png",
+          "sha256": "7120c5457af4584e0a6b2933758c808499bdc5debccd818f44b96c3a395d89ba",
+          "saved_spectrum_asset_id": "1040g0k0325baugfs58005nggdsjg90itdea3hrg"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260920/02-花妖转凯南.png",
+          "sha256": "91af1facb07ba8e825eb9d05484d4892c5bca57fa11119dae7ae0281840fb851",
+          "saved_spectrum_asset_id": "1040g0k0325baugfs580g5nggdsjg90itrco4mhg"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260920/03-猎人转巨龙.png",
+          "sha256": "b9c4350e5b0255273caf84d875d5123bdfd7643c46c11c3710ce0dcfb8bbc602",
+          "saved_spectrum_asset_id": "1040g0k0325baugfs58105nggdsjg90it086jcr0"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260920/04-暗爪卡蜜尔.png",
+          "sha256": "3617dfd07730a1fe7b681a2a9e81ade9e2741194032077e864bee2f711e59845",
+          "saved_spectrum_asset_id": "1040g0k0325baugfs581g5nggdsjg90it81n50t8"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260920/05-护臂天使.png",
+          "sha256": "b7ccba023cf6044f66d58fb3fd1e4426c491f8cf8100cef61cb0ea0aac075918",
+          "saved_spectrum_asset_id": "1040g0k0325baugfs58205nggdsjg90itc440gb8"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260920/06-花妖转螳螂.png",
+          "sha256": "37395495eeee3bbdaf4d111ef6ead9fd4a6c41487ab94e359694e55343712876",
+          "saved_spectrum_asset_id": "1040g0k0325baugfs582g5nggdsjg90itu324jqg"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18冷门榜-20260920/07-神谕大嘴.png",
+          "sha256": "78ebe31def4f5b5dc9366662196adaebb73bb4494771486730969c340eb7c193",
+          "saved_spectrum_asset_id": "1040g0k0325baugfs58305nggdsjg90itudohejg"
+        }
+      ]
+    },
+    {
+      "key": "regular",
+      "note_id": "6aae77650000000029014a10",
+      "title": "金铲铲S18阵容榜9.20｜附阵容码",
+      "edit_url": "https://creator.xiaohongshu.com/publish/update?source=&id=6aae77650000000029014a10&noteType=normal",
+      "operation": "edit_existing_title_date_images_and_body",
+      "status": "published",
+      "body_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-20260920/regular-body.txt",
+      "image_count": 12,
+      "code_count": 10,
+      "topics": [
+        {
+          "name": "金铲铲之战",
+          "id": "610b9c5b000000000101e01b"
+        },
+        {
+          "name": "金铲铲S18",
+          "id": "6a54ea3100000000060129a0"
+        },
+        {
+          "name": "金铲铲自然之力",
+          "id": "6a51d40d000000000301f0d5"
+        },
+        {
+          "name": "金铲铲阵容",
+          "id": "612790e600000000010009d6"
+        },
+        {
+          "name": "金铲铲阵容码",
+          "id": "658bcaf4000000003f03ec9c"
+        },
+        {
+          "name": "金铲铲",
+          "id": "60f51be5000000000100ad43"
+        },
+        {
+          "name": "金铲铲攻略",
+          "id": "612e0fc70000000001003ee1"
+        },
+        {
+          "name": "金铲铲推荐阵容",
+          "id": "6128e7500000000001003081"
+        }
+      ],
+      "saved_readback": {
+        "body_matches_submitted": true,
+        "title_date": "9.20",
+        "title_style_preserved": true,
+        "topic_ids_names_order_match_before": true,
+        "all_images_are_new_saved_assets": true,
+        "all_images_loaded": true,
+        "image_order": "Order of the explicitly supplied ascending file list, checked in editor thumbnails and saved page.",
+        "code_name_pairs_preserved": true,
+        "original_declaration": true,
+        "allow_copy": true,
+        "visibility": "公开可见",
+        "collection": "s18金铲铲阵容数据库",
+        "activity": "金铲铲激励活动来袭",
+        "cross_reference_to_other_rank_preserved": true
+      },
+      "submission_evidence": "Each full image/date update was submitted once, returned with 审核中, then its original edit page was reopened. New title/body and every saved image asset were read back. Final active 已发布 filter contained both 9.20 titles without review badges.",
+      "images": [
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260920/01-常规阵容强度榜.png",
+          "sha256": "23dee1935e86203a8009d3fb3fcb69dd5ac076cfd342232cb84a65f47933bdea",
+          "saved_spectrum_asset_id": "1040g34o325bb1ujgl8c05nggdsjg90itfh127e8"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260920/02-今天怎么选.png",
+          "sha256": "f9a65b6f5a326c09cdf3cdbd979b51d3e744fcd83e96256ff1e0ede6fe96b272",
+          "saved_spectrum_asset_id": "1040g34o325bb1ujgl8cg5nggdsjg90its8oo8q0"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260920/03-地狱火95.png",
+          "sha256": "1efba7b2adad5273055fc6ad3f9a730c6ccd811fef1c0b0f117164d4a5e158d0",
+          "saved_spectrum_asset_id": "1040g34o325bb1ujgl8d05nggdsjg90itim5nb30"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260920/04-野怪小红.png",
+          "sha256": "8d3a02c1f633cc8190c0ea60e113a971291b7812ef156cfb73a019c00446c781",
+          "saved_spectrum_asset_id": "1040g34o325bb1ujgl8dg5nggdsjg90itg4vb6v0"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260920/05-巨龙95.png",
+          "sha256": "164aa5d4b5e915fb4425ccfccd4141537253f3bc4c9bb0933ef143c30ba4dd7e",
+          "saved_spectrum_asset_id": "1040g34o325bb1ujgl8e05nggdsjg90itgnoek68"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260920/06-裁决螳螂.png",
+          "sha256": "b85b658657e7e374ddce1ef1aa3048c2bf473135c7a75e6f4b9a53bff5cbcceb",
+          "saved_spectrum_asset_id": "1040g34o325bb1ujgl8eg5nggdsjg90itrmf0ibg"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260920/07-重装女警.png",
+          "sha256": "e4f6770df11512d543f49f41bbed9a5064680c0537f4b9dd790f2c3ad626b4b9",
+          "saved_spectrum_asset_id": "1040g34o325bb1ujgl8f05nggdsjg90it5hputgo"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260920/08-古纳拉95.png",
+          "sha256": "5bcbf240af0f6cbe8e6c5267602c2443b42759c10eecc1b5977d2dd5dbd529bd",
+          "saved_spectrum_asset_id": "1040g34o325bb1ujgl8fg5nggdsjg90it1lmq3m8"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260920/09-7野怪鸡哥.png",
+          "sha256": "8ef711e07ee8117dba13c9f0995206bf9ed653a78ea994ba90a832aa83382bf7",
+          "saved_spectrum_asset_id": "1040g34o325bb1ujgl8g05nggdsjg90itonsnf38"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260920/10-主宰女警.png",
+          "sha256": "1ff36cf0d8c9decc03ba086991d9cbbdefc9fa3867b2c1f16aae36bb3b7ca26e",
+          "saved_spectrum_asset_id": "1040g34o325bb1ujgl8gg5nggdsjg90it05ojo3o"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260920/11-皎月螳螂.png",
+          "sha256": "d10a9153bd9b2be95889ccc843da312b69c1c5b09c30f958856cf348dbe29aec",
+          "saved_spectrum_asset_id": "1040g34o325bb1ujgl8h05nggdsjg90itomajpb8"
+        },
+        {
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260920/12-神谕大嘴.png",
+          "sha256": "4535dd72dcfd94cd68d394f6a93065fed394088e0d7c06195dc5d4d887246cb7",
+          "saved_spectrum_asset_id": "1040g34o325bb1ujgl8hg5nggdsjg90itrs68jeo"
+        }
+      ]
+    }
+  ],
+  "verification": "Live Creator editor and preview checked before submit; reopened original notes after submission and verified normalized body, topic IDs/names/order, new CDN image asset IDs, complete image loading and expected dimensions. Both updated covers visibly show 9.20 and current statistics. Final .tab-item--active text was 已发布 and both 9.20 titles were listed."
+}

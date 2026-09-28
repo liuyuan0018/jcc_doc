@@ -1,0 +1,1 @@
+{"code": "var p=UnityEditor.AssetDatabase.LoadAssetAtPath<UnityEngine.GameObject>(\"Assets/Res/GUI/Prefabs/ScopeExplainer.prefab\"); return string.Join(\"\\n\",System.Linq.Enumerable.Select(p.GetComponentsInChildren<TMPro.TMP_Text>(true),t=>UnityEditor.AnimationUtility.CalculateTransformPath(t.transform,p.transform)+\" | \"+t.text));"}

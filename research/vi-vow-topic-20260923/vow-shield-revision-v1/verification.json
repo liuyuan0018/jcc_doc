@@ -1,0 +1,401 @@
+{
+  "passed": true,
+  "modelRevision": "dataj-s18-vow-single-normal-shield-20260923",
+  "oldArchiveUntouched": true,
+  "oldSourceSha256": "a2d368720524a319ed7db21b9034e9337088ce68ce05d80f8031400e8dc23033",
+  "sourceSha256": "69cfce2f851f09fddf1965e8fe0b20301060d895968f70314fddb3a9a3e0af2e",
+  "stageCount": 53,
+  "hStageCount": 31,
+  "exactAGReplayComparisons": 51,
+  "originalBloodCountMax": 1,
+  "originalVowCountOutsideHMax": 1,
+  "hResult": {
+    "passedDps": 1750,
+    "failedDps": 1800,
+    "failedFrame": 880,
+    "frame0Mana": 40,
+    "lowHealthShield": 857.3760000000001
+  },
+  "hashes": {
+    "engine-original.cpp": "c65649b7bd761a1c1fd90db203d4843220f2e071fd0aa1113cf008cf0e0666b4",
+    "prepare_engine.py": "41d8453298497dfddd997af33ec519518bb62d02fffbfffb62d771544eb84f6c",
+    "replay_telemetry.py": "b7c21999279f5925d3348be9364841f504e2260b033521a6ab4ddefafc1faa88",
+    "engine-web.hpp": "f476fd9f561189c41d446c525b47ec268e997fe64cfcbd7c7138b077d5301faa",
+    "web.cpp": "62bf18cdf292557225b5fd20c15ee8fdd418a9ca0df26fa847b8bcb9a14912df",
+    "generated.hpp": "9f153b1105b950cce6b733a9f01ec2370ed0e0d6a6a5d7981ae9fb2309fbc3df",
+    "replay-native": "89f153456035771b5d41dea3bc628578342343907c9c917d2908f7de252d2e01"
+  },
+  "stages": [
+    {
+      "build": "A",
+      "dps": 1750,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 201
+    },
+    {
+      "build": "A",
+      "dps": 1800,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 201
+    },
+    {
+      "build": "A",
+      "dps": 1850,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 201
+    },
+    {
+      "build": "A",
+      "dps": 1900,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 201
+    },
+    {
+      "build": "A",
+      "dps": 1950,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 202
+    },
+    {
+      "build": "A",
+      "dps": 2000,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 204
+    },
+    {
+      "build": "A",
+      "dps": 2050,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 204
+    },
+    {
+      "build": "A",
+      "dps": 2100,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 204
+    },
+    {
+      "build": "A",
+      "dps": 2150,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 204
+    },
+    {
+      "build": "A",
+      "dps": 2200,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 204
+    },
+    {
+      "build": "A",
+      "dps": 2250,
+      "frame": 870,
+      "alive": false,
+      "presentationEvents": 196
+    },
+    {
+      "build": "B",
+      "dps": 1750,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 154
+    },
+    {
+      "build": "B",
+      "dps": 1800,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 154
+    },
+    {
+      "build": "B",
+      "dps": 1850,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 154
+    },
+    {
+      "build": "B",
+      "dps": 1900,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 155
+    },
+    {
+      "build": "B",
+      "dps": 1950,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 155
+    },
+    {
+      "build": "B",
+      "dps": 2000,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 155
+    },
+    {
+      "build": "B",
+      "dps": 2050,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 155
+    },
+    {
+      "build": "B",
+      "dps": 2100,
+      "frame": 860,
+      "alive": false,
+      "presentationEvents": 148
+    },
+    {
+      "build": "C",
+      "dps": 1750,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 202
+    },
+    {
+      "build": "C",
+      "dps": 1800,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 204
+    },
+    {
+      "build": "C",
+      "dps": 1850,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 204
+    },
+    {
+      "build": "C",
+      "dps": 1900,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 204
+    },
+    {
+      "build": "C",
+      "dps": 1950,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 204
+    },
+    {
+      "build": "C",
+      "dps": 2000,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 204
+    },
+    {
+      "build": "C",
+      "dps": 2050,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 204
+    },
+    {
+      "build": "C",
+      "dps": 2100,
+      "frame": 880,
+      "alive": false,
+      "presentationEvents": 197
+    },
+    {
+      "build": "D",
+      "dps": 1750,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 252
+    },
+    {
+      "build": "D",
+      "dps": 1800,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 254
+    },
+    {
+      "build": "D",
+      "dps": 1850,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 254
+    },
+    {
+      "build": "D",
+      "dps": 1900,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 254
+    },
+    {
+      "build": "D",
+      "dps": 1950,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 254
+    },
+    {
+      "build": "D",
+      "dps": 2000,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 255
+    },
+    {
+      "build": "D",
+      "dps": 2050,
+      "frame": 870,
+      "alive": false,
+      "presentationEvents": 243
+    },
+    {
+      "build": "E",
+      "dps": 1750,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 155
+    },
+    {
+      "build": "E",
+      "dps": 1800,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 155
+    },
+    {
+      "build": "E",
+      "dps": 1850,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 155
+    },
+    {
+      "build": "E",
+      "dps": 1900,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 155
+    },
+    {
+      "build": "E",
+      "dps": 1950,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 155
+    },
+    {
+      "build": "E",
+      "dps": 2000,
+      "frame": 870,
+      "alive": false,
+      "presentationEvents": 149
+    },
+    {
+      "build": "F",
+      "dps": 1750,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 180
+    },
+    {
+      "build": "F",
+      "dps": 1800,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 180
+    },
+    {
+      "build": "F",
+      "dps": 1850,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 180
+    },
+    {
+      "build": "F",
+      "dps": 1900,
+      "frame": 850,
+      "alive": false,
+      "presentationEvents": 169
+    },
+    {
+      "build": "G",
+      "dps": 1750,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 206
+    },
+    {
+      "build": "G",
+      "dps": 1800,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 207
+    },
+    {
+      "build": "G",
+      "dps": 1850,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 207
+    },
+    {
+      "build": "G",
+      "dps": 1900,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 207
+    },
+    {
+      "build": "G",
+      "dps": 1950,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 207
+    },
+    {
+      "build": "G",
+      "dps": 2000,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 207
+    },
+    {
+      "build": "G",
+      "dps": 2050,
+      "frame": 870,
+      "alive": false,
+      "presentationEvents": 199
+    },
+    {
+      "build": "H",
+      "dps": 1750,
+      "frame": 900,
+      "alive": true,
+      "presentationEvents": 156
+    },
+    {
+      "build": "H",
+      "dps": 1800,
+      "frame": 880,
+      "alive": false,
+      "presentationEvents": 152
+    }
+  ]
+}

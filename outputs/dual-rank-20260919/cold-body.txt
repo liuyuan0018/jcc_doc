@@ -1,0 +1,26 @@
+9.19更新｜先有关键纹章、神器，再考虑这几套。
+花妖转凯南273样本、前四87.18%；猎人转巨龙245样本、76.33%；暗爪卡蜜尔246样本、71.54%。
+
+护臂天使116样本、前四68.10%；花妖螳螂117样本、61.54%，都比昨天回落，继续放观察区，不当稳分答案。
+
+图2—6都有完整站位、主C装备、搜牌与翻车点。五费要经济血量，一费要看来牌。没有关键装备，去主页《常规阵容榜》选阵容，两篇封面互相指路。
+
+基础框架码，导入后按图手动换装备：
+
+地狱火95
+MjIwMDY3MzAyODc5ODA4NTYxNzg5MjQwODA3MzIw
+
+巨龙95
+MjIwMDY3MzAyODc5ODA4NTYxNzg3MTgyMDgwODEz
+
+卡丽蜜儿
+MjIwMDY3MzAyODc5ODA4NTYxNzg5MTEwOTYxNDE2
+
+森林天使
+MjIwMDY3MzAyODc5ODA4NTYxNzg3MTgxOTg4MDM0
+
+裁决螳螂
+MjIwMDY3MzAyODc5ODA4NTYxNzg5MjE4MDI5MTQ5
+
+前3套为所属体系内携带者分项；后2套为英雄携装分项，未锁定完整阵容。统计不是图示三件套的独立胜率。
+DataJ非官方高分段样本，18.2a，截至9/19 03:32。运营补装为建议，未逐局实战或游戏导入验证。

@@ -1,0 +1,116 @@
+{
+  "stage": "local_ready_browser_paused",
+  "source": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-28-evening",
+  "destination": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc",
+  "images": [
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/阵容榜9.28/01-常规阵容强度榜.png",
+      "sha256": "d061a25a772fa3d79330f2adfc902484aa7c6d94f8f9a8ae77d0f45e348a0066",
+      "previous_sha256": "2f74b1744b0756d9d1b3ce4f6b6e9adca4461315ca7bd3a472db31d043994ce7"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/阵容榜9.28/02-今天怎么选.png",
+      "sha256": "abe651f9059650396383650c4dcf6f8512015f961724fcdcf8bb1bb87bd5066a",
+      "previous_sha256": "7fc9f41eb4cc0a2f3e25861936c9be03c4bc15bd4278b59267d2bfbb27e605f8"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/阵容榜9.28/03-地狱火95.png",
+      "sha256": "436b01ac74c90f3dc7ca6db0592821837e88c06d6f5b5211b8a87453d13d02a3",
+      "previous_sha256": "5ccf985e35bdcd06b30ce4f0fc1819b6f6a03eecb576ecaf749d4b10581e31de"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/阵容榜9.28/04-野怪小红.png",
+      "sha256": "c0ac9804ebf5888df3491d2d6a37576fca35a10f3cd94a05093f2af19efaa671",
+      "previous_sha256": "c0ac9804ebf5888df3491d2d6a37576fca35a10f3cd94a05093f2af19efaa671"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/阵容榜9.28/05-巨龙95.png",
+      "sha256": "7351f15aca5bf534c118de48c008403468b57022ebf572bca20daeb24a86aae5",
+      "previous_sha256": "7351f15aca5bf534c118de48c008403468b57022ebf572bca20daeb24a86aae5"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/阵容榜9.28/06-裁决螳螂.png",
+      "sha256": "5aa4ba81e61005d2e2428a8d7394b4b1d20fbecbd95bfda682193f9dc879ba4d",
+      "previous_sha256": "5aa4ba81e61005d2e2428a8d7394b4b1d20fbecbd95bfda682193f9dc879ba4d"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/阵容榜9.28/07-古纳拉95.png",
+      "sha256": "c14c10031d35c304ab7ddbf4eebc08d768679d42013abddf4f512d0eca2c23ab",
+      "previous_sha256": "489b4fcb0fd09b70da62a50c9490304e51d8cb4329c88c59c15980c8c26fc6a0"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/阵容榜9.28/08-重装女警.png",
+      "sha256": "d223816dbaff8cb5f01a9eb9dd54f270807f87d5b9c57bd2c85a02d2c49df815",
+      "previous_sha256": "d223816dbaff8cb5f01a9eb9dd54f270807f87d5b9c57bd2c85a02d2c49df815"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/阵容榜9.28/09-7野怪鸡哥.png",
+      "sha256": "90dc62382a1e6ed19376fa7db013c671c7046e7a45f0bd6b92d5e8e6e62390a6",
+      "previous_sha256": "90dc62382a1e6ed19376fa7db013c671c7046e7a45f0bd6b92d5e8e6e62390a6"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/阵容榜9.28/10-主宰女警.png",
+      "sha256": "71a1af8b14756eb5991b875944a865c0df29a6d6ec94bf220a042f9456d4d4f6",
+      "previous_sha256": "71a1af8b14756eb5991b875944a865c0df29a6d6ec94bf220a042f9456d4d4f6"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/阵容榜9.28/11-皎月螳螂.png",
+      "sha256": "05e26227afc8ac050f67075ae8b2e3adb6b3518466a73a9b001f2cb2e2253761",
+      "previous_sha256": "05e26227afc8ac050f67075ae8b2e3adb6b3518466a73a9b001f2cb2e2253761"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/阵容榜9.28/12-神谕大嘴.png",
+      "sha256": "5b00bbbc13f77b200ecfc8b0078c29d299a96588381ba095924874fa1babdb41",
+      "previous_sha256": "1a4ebaf977af646f7650f3559ecb95f82ca7698ecb1950d660061154335f0676"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/冷门榜9.28/01-冷门构筑强度榜.png",
+      "sha256": "fe607da1e52d0130c6096c26bcb58f9e8472a355f5d95744573d7c33088ac48c",
+      "previous_sha256": "5451aba53e4a09ed63fa8f6ae55aafda667871ab9052f8e0ce983150a7d0220e"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/冷门榜9.28/02-花妖转凯南.png",
+      "sha256": "35a14a5b9c009a5f1e8c86eaea60b71badbf051e844b03c5ee4eef9ba2f8660c",
+      "previous_sha256": "6555663c85f5848b49cdc625ba1cf06f4e3724b67504a28e6e7b9cd34394c77d"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/冷门榜9.28/03-猎人转巨龙.png",
+      "sha256": "2f47540833566c299ab6c4cf6eced59eaa40afb670b303b60919cf1775ce73b2",
+      "previous_sha256": "36fdd6bdd254b14ad7efdf097a45b930e582dd958b239b131d5c9454af0f37f2"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/冷门榜9.28/04-暗爪卡蜜尔.png",
+      "sha256": "91714d3b2682298a53cdcd4dce8b51fd7534f5669a0d2e164d8d75044301b7d6",
+      "previous_sha256": "687e8f11e17db71e326e6f587652e1df5c8c71581f29a14808d3862cf28db084"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/冷门榜9.28/05-护臂天使.png",
+      "sha256": "a0afb6ab476f1b29a80448ba23c38e80a37c99049d0b40223d60ac70ce7b3217",
+      "previous_sha256": "2ec57c3b8c379933e257c914ef731f5138e9b063411a0798fd035d7c0ac2c582"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/冷门榜9.28/06-花妖转螳螂.png",
+      "sha256": "9a78612ffbcfad45aac285a3ac0de0d35120723c6507e52a013fd9c81757bdc7",
+      "previous_sha256": "0faf961800d0a386fd8f8c667686e31af73b9e47a087b59eb1b21860164ab88d"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/冷门榜9.28/07-神谕大嘴.png",
+      "sha256": "06a9e6490b31a39789b47355aae9f87ea78aec2ad62ff701ddbbace028acc5dc",
+      "previous_sha256": "9a8e788cf8368ad78082503d36c37371712f568ff1755e76683557384208518d"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/冷门榜9.28/08-黑暗仪式蜘蛛.png",
+      "sha256": "45c1c4ea5e7dc745b929792ae1f5c262c03be73629f001d805946a7759a5d24f",
+      "previous_sha256": "d76d7518ed695bc72593bd7178ec3238ed48d387b12b5aa9ba88fe7e26c160b7"
+    },
+    {
+      "path": "/Volumes/Apple/Codex/art-assets/金铲铲/publish/doc/冷门榜9.28/09-献祭螳螂阿兹尔.png",
+      "sha256": "76c088669b8ea47cc0970ba1717debc7ac1f162d0b06e3a6733312b0f250d042",
+      "previous_sha256": "5190f68975fa70079b740a5a81cf968122f334d56f993dd533151996068b70be"
+    }
+  ],
+  "note_ids": {
+    "regular": "6aae77650000000029014a10",
+    "cold": "6ab95e5e000000001b030e09"
+  }
+}

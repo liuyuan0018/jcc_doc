@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "revision": 218,
+    "sheets": [
+      {
+        "filters": [
+          {
+            "details": {
+              "filtered_columns": [],
+              "filtered_out_rows_count": 0,
+              "range": "A1:F108",
+              "rules": [],
+              "total_data_rows": 107,
+              "visible_rows_count": 107
+            },
+            "filter_id": "fHVEAt"
+          }
+        ],
+        "sheet_id": "fHVEAt",
+        "sheet_name": "装备覆盖"
+      }
+    ],
+    "total": 1
+  },
+  "_notice": {
+    "update": {
+      "command": "lark-cli update",
+      "current": "1.0.95",
+      "latest": "1.0.96",
+      "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+    }
+  }
+}

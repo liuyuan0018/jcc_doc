@@ -1,0 +1,964 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-25T14:17:33.261109+00:00",
+  "date": "2026-09-25",
+  "test_fixture": false,
+  "status": "checks_passed_needs_visual_check",
+  "source": {
+    "snapshot": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-snapshots/20260925-0311-a1477f1d58f9",
+    "version": "18.2a",
+    "updated_at": "2026-09-24T19:11:57.179Z",
+    "source_hashes": {
+      "versions": "c894933cce102d566e8a10b22cc28751326356b301182ea84b263f04c7ab5c75",
+      "summary": "55935a2096df5c36a4cd6bab18f276a48082bd726445f86aa07fd8feef9b380d",
+      "rank": "cf2448e115a578e26864bc2891f52d2edfdf1817f4d2dde9ee22fe4e89f8c33a",
+      "special": "59f06c2db0bcfd053dfe5e9d5858c5cd989dd4fc4118ed2a70edf0c54ef22e26",
+      "comp119": "4b9429b3f09695049fce93730725b122427335c5b5a18abad2639e1028fae2d1",
+      "kog-ad-equips": "d187b9065c2ff2c32b61a957a2211187b0a7594d03c26d6d34c7a61ad4071eb5",
+      "kayle-gear": "9cdbbd08d8659041d154a11dddfe7a94eeda4969336b0069c9df4c20f4c9ad99",
+      "khazix-gear": "d6f3346a7245c84bbff30e281ed8ce5f64b053fd37c3756b170890887cb09119",
+      "ashe-emblem": "1f07621bf9f28ea1876f32895cecb570695c9abe2d47b92ba7adc2d3493f7343",
+      "comp-112": "f2ccf01106746a2358dff28954504e089ef4a3e730c4acd3c21e6f10d1063658",
+      "comp-113": "6bb9ce8d2bf44e20f673119a2e61689d4a0fb6bed9c00aea36c0b5d8fd448f7c",
+      "comp-99": "f844912ca1b06c9c35888348b893fb8d5556bb35f28405306cc12a35c5ee5199",
+      "comp-104": "595f1c99af51f5a7980395244bfb4902fd5603c8c0a79ee02e7e0ae1a578117e",
+      "comp-89": "80ef202862d468b2fd11690118702ae088b0892f6945af8ba2e7ee60643fe7b5",
+      "comp-100": "c024c44b601551070d5fc6283cd1055bbe2066b4c40183389ead5d924d6ef120",
+      "comp-116": "31380d20bdcbdc15f468254723c831864022ac93b80c51b714d79a52487b928d",
+      "comp-106": "ac394d61c409db45d6e5069c475b979f1149a9ce70edd017d59193799359c5c8",
+      "comp-109": "cfd302422d8189a1bb65e66228c342e73a7a03a087c9418208302f2d707c2c48",
+      "comp-115": "7613c8211e48b8032bcebe78e24f509318efcf0e20468cf283c889f0b84ccb99",
+      "comp-88": "3f2cd7f1f3c581ea7aa0d4febd373d5b20781b69f47356b3865d5f721ac498df",
+      "zyra-equips": "9841b248f0d0cc47f4b18a3853d8da98995db6e90a34e1cd6874d51f06ac9b12"
+    }
+  },
+  "configuration_sha256": "7c31536f20629eb2fa62d775385db222109a74b20bda5d53c5ff95eebf0ebcd8",
+  "notes": [
+    {
+      "note_id": "6aae77650000000029014a10",
+      "title_template": "金铲铲S18阵容榜{{date.short}}｜附阵容码",
+      "topics": [
+        {
+          "name": "金铲铲之战",
+          "id": "610b9c5b000000000101e01b"
+        },
+        {
+          "name": "金铲铲S18",
+          "id": "6a54ea3100000000060129a0"
+        },
+        {
+          "name": "金铲铲自然之力",
+          "id": "6a51d40d000000000301f0d5"
+        },
+        {
+          "name": "金铲铲阵容",
+          "id": "612790e600000000010009d6"
+        },
+        {
+          "name": "金铲铲阵容码",
+          "id": "658bcaf4000000003f03ec9c"
+        },
+        {
+          "name": "金铲铲",
+          "id": "60f51be5000000000100ad43"
+        },
+        {
+          "name": "金铲铲攻略",
+          "id": "612e0fc70000000001003ee1"
+        },
+        {
+          "name": "金铲铲推荐阵容",
+          "id": "6128e7500000000001003081"
+        }
+      ],
+      "collection": "s18金铲铲阵容数据库",
+      "preserve_live_topics_and_settings": true,
+      "key": "regular",
+      "title": "金铲铲S18阵容榜9.25｜附阵容码",
+      "body_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular-body.txt",
+      "body_sha256": "92fb628f276726a1fc413a93a57470bce5893ec65b15cdcc4bdaa0443c1b6782",
+      "images": [
+        {
+          "track": "regular",
+          "index": 1,
+          "name": "常规阵容强度榜",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/01-常规阵容强度榜.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/01-常规阵容强度榜.png",
+          "width": 1080,
+          "height": 1851,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/962577a3de0b493c66b2c50a94aa585c7236cdbca8f4a368f3b8d08810e30023.png",
+          "cache_key": "962577a3de0b493c66b2c50a94aa585c7236cdbca8f4a368f3b8d08810e30023",
+          "svg_sha256": "5843df8ee08c89c7e6cb57b78f2292b44d34b5cc2eef853b1c7f8aa75d6a2fae",
+          "baseline_png": "exports/S18常规榜-20260920/01-常规阵容强度榜.png",
+          "template": "templates/dual-rank/regular/常规阵容强度榜.svg",
+          "png_sha256": "8800b026d32d3cd0b8519e6c3ffdb947c86c32209718e110beff95652af32241",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "regular",
+          "index": 2,
+          "name": "今天怎么选",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/02-今天怎么选.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/02-今天怎么选.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/a6626597657f13963e5261b1ba4df97ad898fb14c5d33498a495ecd658946843.png",
+          "cache_key": "a6626597657f13963e5261b1ba4df97ad898fb14c5d33498a495ecd658946843",
+          "svg_sha256": "3b35fcbb14fce5e7b4be7d17ef36cf00b029241115a16f6bc37637abd3c4a3af",
+          "baseline_png": "exports/S18常规榜-20260920/02-今天怎么选.png",
+          "template": "templates/dual-rank/regular/今天怎么选.svg",
+          "png_sha256": "74482ee41fa0031e56388a78f6c0a4828507dcc509bc58c7a20089f892830670",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "regular",
+          "index": 3,
+          "name": "地狱火95",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/03-地狱火95.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/03-地狱火95.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/b9172c4951b434af54b2a2649e0041e566b5d209c22b2b72be2f52b90caa544c.png",
+          "cache_key": "b9172c4951b434af54b2a2649e0041e566b5d209c22b2b72be2f52b90caa544c",
+          "svg_sha256": "bd2dc1a39106098b786d771ee8b29811afe5660168723eacc75436d26ce74464",
+          "baseline_png": "exports/S18常规榜-20260920/03-地狱火95.png",
+          "template": "templates/dual-rank/regular/地狱火95.svg",
+          "png_sha256": "1b3b4e26f0cb7441d4c84630ddff1e412cf0bef132990fe539948094c1f6c6ea",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "regular",
+          "index": 4,
+          "name": "野怪小红",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/04-野怪小红.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/04-野怪小红.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/cb9dfb9ba680f3a0727c200209aa5a9da36ec429cd4f6dfe964d88d915c013e2.png",
+          "cache_key": "cb9dfb9ba680f3a0727c200209aa5a9da36ec429cd4f6dfe964d88d915c013e2",
+          "svg_sha256": "feaadaddcc005ddc371ab1e5327f0ba79be0ad162394e131c6023ea6f9d6d22e",
+          "baseline_png": "exports/S18常规榜-20260920/04-野怪小红.png",
+          "template": "templates/dual-rank/regular/野怪小红.svg",
+          "png_sha256": "023525f7ae6f0d4862ea6008648d90cbaee25b130cfe50a1e018fc3a54b1f26e",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "regular",
+          "index": 5,
+          "name": "巨龙95",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/05-巨龙95.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/05-巨龙95.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/01cdc03eabf3a7e323bd1e17ad546ecdfffe265d44c179b245a37fde67aae7bd.png",
+          "cache_key": "01cdc03eabf3a7e323bd1e17ad546ecdfffe265d44c179b245a37fde67aae7bd",
+          "svg_sha256": "034ac57bce12386fbe4d889b399814d69c2d43f2026c42f6d38d60f91c51ea51",
+          "baseline_png": "exports/S18常规榜-20260920/05-巨龙95.png",
+          "template": "templates/dual-rank/regular/巨龙95.svg",
+          "png_sha256": "88e845fc8ac809876a5d27650b80ca9f738b34b38706587dea307ccc6d3ed1eb",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "regular",
+          "index": 6,
+          "name": "裁决螳螂",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/06-裁决螳螂.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/06-裁决螳螂.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/c443041407738b9b05bae180cf9e6a19e27acbbdc5b4e87cf054b7110a7aa4e7.png",
+          "cache_key": "c443041407738b9b05bae180cf9e6a19e27acbbdc5b4e87cf054b7110a7aa4e7",
+          "svg_sha256": "1af52088106bd72e79091f86ef4edf76077cf1cf3e0ed015917bf8cc1d44c838",
+          "baseline_png": "exports/S18常规榜-20260920/06-裁决螳螂.png",
+          "template": "templates/dual-rank/regular/裁决螳螂.svg",
+          "png_sha256": "411ff1ec1ccadb6265b1a815aebb152019090682735719082f283ff44c76f0f4",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "regular",
+          "index": 7,
+          "name": "古纳拉95",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/07-古纳拉95.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/07-古纳拉95.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/3d79e232a12ce1a1cde0e8b67d5482299185dd8d54653b34ae3de8e30dff282a.png",
+          "cache_key": "3d79e232a12ce1a1cde0e8b67d5482299185dd8d54653b34ae3de8e30dff282a",
+          "svg_sha256": "4abb558810f562a8c307c07fccd2334d1b36522a8c742e8023c30c6a1a8f4b47",
+          "baseline_png": "exports/S18常规榜-20260920/08-古纳拉95.png",
+          "template": "templates/dual-rank/regular/古纳拉95.svg",
+          "png_sha256": "17feff2de2a0decf2767b90e94e222d261f51ab19b4b0c35bdd894a4e20fa611",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "regular",
+          "index": 8,
+          "name": "重装女警",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/08-重装女警.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/08-重装女警.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/5e1aae0bdb4e9116aa07945491ea9ef641c5a663338d86d7d66054ebfb09c31d.png",
+          "cache_key": "5e1aae0bdb4e9116aa07945491ea9ef641c5a663338d86d7d66054ebfb09c31d",
+          "svg_sha256": "cb67b6a21133bbb42bfea70e3509905530e39c18b3a57f144c4fefcaab408d61",
+          "baseline_png": "exports/S18常规榜-20260920/07-重装女警.png",
+          "template": "templates/dual-rank/regular/重装女警.svg",
+          "png_sha256": "a1954adb6334f80b68b51a7d06bbd92c8a73569e8a6f815235044874a3bbc1d3",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "regular",
+          "index": 9,
+          "name": "7野怪鸡哥",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/09-7野怪鸡哥.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/09-7野怪鸡哥.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/40754e82b4ae7d5e7d6e9526a4de4735369e9c1e55385376dc62e59c42e27f1e.png",
+          "cache_key": "40754e82b4ae7d5e7d6e9526a4de4735369e9c1e55385376dc62e59c42e27f1e",
+          "svg_sha256": "e449e11de1814695051363699fa9045fb6a29bde72e1ffe7719f3187c115747b",
+          "baseline_png": "exports/S18常规榜-20260920/09-7野怪鸡哥.png",
+          "template": "templates/dual-rank/regular/7野怪鸡哥.svg",
+          "png_sha256": "0675eb61e8527456dcdd6dffbdae96ad10732f558ac251eebad2406472bf4647",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "regular",
+          "index": 10,
+          "name": "主宰女警",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/10-主宰女警.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/10-主宰女警.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/5def76037cc75fab2fb29146b9004f02cef59a2a857891ee4279572d19482ba8.png",
+          "cache_key": "5def76037cc75fab2fb29146b9004f02cef59a2a857891ee4279572d19482ba8",
+          "svg_sha256": "4a8367bae2509200cf23d6929980853b2b7aa091ea587b2b386d9909972c4928",
+          "baseline_png": "exports/S18常规榜-20260920/10-主宰女警.png",
+          "template": "templates/dual-rank/regular/主宰女警.svg",
+          "png_sha256": "f1b50a7b487af0cb6a701779e422eae6c7a46dd52a1015a78ea8ce145bec74bc",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "regular",
+          "index": 11,
+          "name": "皎月螳螂",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/11-皎月螳螂.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/11-皎月螳螂.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/c2e0e0acc57cf11115228b690d236f1145017845d712d2c5684dfed3148bc20d.png",
+          "cache_key": "c2e0e0acc57cf11115228b690d236f1145017845d712d2c5684dfed3148bc20d",
+          "svg_sha256": "bddae0e71496fc17f3f30b4bbdfc60e0e3a1ffb2a5ae23ce0f516a167d4b486a",
+          "baseline_png": "exports/S18常规榜-20260920/11-皎月螳螂.png",
+          "template": "templates/dual-rank/regular/皎月螳螂.svg",
+          "png_sha256": "ddf023e31f410dbcc2462892305be6d4be836ec9c1a6e9a7c4ab804ced5f2e79",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "regular",
+          "index": 12,
+          "name": "神谕大嘴",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/12-神谕大嘴.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/12-神谕大嘴.png",
+          "width": 1080,
+          "height": 1851,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/d9cdea8cca61b239c7ff7ed47501766dee53c822816c544980edd634bc01a739.png",
+          "cache_key": "d9cdea8cca61b239c7ff7ed47501766dee53c822816c544980edd634bc01a739",
+          "svg_sha256": "8edfd1cce15487edda2f4044119eddd6afe1f646c33e817813076423f0548760",
+          "baseline_png": "exports/S18常规榜-20260920/12-神谕大嘴.png",
+          "template": "templates/dual-rank/regular/神谕大嘴.svg",
+          "png_sha256": "16ffe823d57acfdee0e22fa83279ddf844b3b923dd5657fe3e23e59037977934",
+          "pixel_identical_to_accepted": false
+        }
+      ],
+      "code_count": 10,
+      "status": "prepared"
+    },
+    {
+      "note_id": "6aacd475000000002b01f439",
+      "title_template": "金铲铲S18冷门榜{{date.short}}｜附阵容码",
+      "topics": [
+        {
+          "name": "金铲铲之战",
+          "id": "610b9c5b000000000101e01b"
+        },
+        {
+          "name": "金铲铲阵容",
+          "id": "612790e600000000010009d6"
+        },
+        {
+          "name": "金铲铲",
+          "id": "60f51be5000000000100ad43"
+        },
+        {
+          "name": "金铲铲攻略",
+          "id": "612e0fc70000000001003ee1"
+        },
+        {
+          "name": "金铲铲推荐阵容",
+          "id": "6128e7500000000001003081"
+        },
+        {
+          "name": "金铲铲之战S18",
+          "id": "6a4c9dd5000000000301ea0b"
+        },
+        {
+          "name": "金铲铲自然之力",
+          "id": "6a51d40d000000000301f0d5"
+        },
+        {
+          "name": "金铲铲冷门阵容",
+          "id": "62f35c7100000000010096fc"
+        }
+      ],
+      "collection": "s18金铲铲阵容数据库",
+      "preserve_live_topics_and_settings": true,
+      "key": "cold",
+      "title": "金铲铲S18冷门榜9.25｜附阵容码",
+      "body_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold-body.txt",
+      "body_sha256": "4e980a1f6a62aa084196d4f59ffb4608a1122a447e01df22b490bb546e008196",
+      "images": [
+        {
+          "track": "cold",
+          "index": 1,
+          "name": "冷门构筑强度榜",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/01-冷门构筑强度榜.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/01-冷门构筑强度榜.png",
+          "width": 1080,
+          "height": 2040,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/f129735f7a4b12e67bb0555beaff8fcacb8a19f9aac0177fe1f9c15588404072.png",
+          "cache_key": "f129735f7a4b12e67bb0555beaff8fcacb8a19f9aac0177fe1f9c15588404072",
+          "svg_sha256": "da6914886c6bbced4fee2d8281b592f4dc0d9582670f4ffa859e449f14b3642c",
+          "baseline_png": "exports/S18冷门榜-20260920/01-冷门构筑强度榜.png",
+          "template": "templates/dual-rank/cold/冷门构筑强度榜-蜘蛛.svg",
+          "png_sha256": "26805b8b9bb2ad4a418917206e0219a118cc7c7912cc1ad243753e723ab7d119",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "cold",
+          "index": 2,
+          "name": "花妖转凯南",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/02-花妖转凯南.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/02-花妖转凯南.png",
+          "width": 1080,
+          "height": 2040,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/5672f984881c3fc9f9fb7049814e08ba6acf37b3b11379debc9b4fd16833347a.png",
+          "cache_key": "5672f984881c3fc9f9fb7049814e08ba6acf37b3b11379debc9b4fd16833347a",
+          "svg_sha256": "cebf3e7d76f69de9767f0c9316652a25469c079edb5bda8e63e1c9056a51b889",
+          "baseline_png": "exports/S18冷门榜-20260920/02-花妖转凯南.png",
+          "template": "templates/dual-rank/cold/花妖转凯南.svg",
+          "png_sha256": "5614155dd51f57ba6c124580a445e6eb55d9802d7d4b7ee6948cba7c84b71210",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "cold",
+          "index": 3,
+          "name": "猎人转巨龙",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/03-猎人转巨龙.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/03-猎人转巨龙.png",
+          "width": 1080,
+          "height": 2040,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/3758e38bd4ff43b7bfdd64bddacb6fb2f3a16c742239e300248449a0ad4b0c38.png",
+          "cache_key": "3758e38bd4ff43b7bfdd64bddacb6fb2f3a16c742239e300248449a0ad4b0c38",
+          "svg_sha256": "fdd1933e2d7036e6f7788824a63ad2352e58ae66e639dbec0a911c613e6ab431",
+          "baseline_png": "exports/S18冷门榜-20260920/03-猎人转巨龙.png",
+          "template": "templates/dual-rank/cold/猎人转巨龙.svg",
+          "png_sha256": "81b9c2e81acd2ab739c73e1a3883b992257d8fe9a32a99d0cff4eb4b65852e13",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "cold",
+          "index": 4,
+          "name": "暗爪卡蜜尔",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/04-暗爪卡蜜尔.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/04-暗爪卡蜜尔.png",
+          "width": 1080,
+          "height": 2040,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/de3e02bde9a41b2b8ed48319ec871d0f5daf70b78b47b92898f4e97b0459a3ff.png",
+          "cache_key": "de3e02bde9a41b2b8ed48319ec871d0f5daf70b78b47b92898f4e97b0459a3ff",
+          "svg_sha256": "6f1ea7063408431b3fb68914f7bf138018dcde587ed5dcc16994b4d9b3e09758",
+          "baseline_png": "exports/S18冷门榜-20260920/04-暗爪卡蜜尔.png",
+          "template": "templates/dual-rank/cold/暗爪卡蜜尔.svg",
+          "png_sha256": "ab66b316f58230b9ea95630e3b2a5626df0f1a9bbe9374f24becf3ca4291b4e0",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "cold",
+          "index": 5,
+          "name": "护臂天使",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/05-护臂天使.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/05-护臂天使.png",
+          "width": 1080,
+          "height": 2040,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/a05755aa3551ecc1651f9a094f1c9b3399bb3c48bea5695d717f2f97c213cd3e.png",
+          "cache_key": "a05755aa3551ecc1651f9a094f1c9b3399bb3c48bea5695d717f2f97c213cd3e",
+          "svg_sha256": "f228c5f7050bf95be5484a533b6ac2bf85b10d13c6030cacb4dab8c06758b726",
+          "baseline_png": "exports/S18冷门榜-20260920/05-护臂天使.png",
+          "template": "templates/dual-rank/cold/护臂天使.svg",
+          "png_sha256": "c67eb879d23c8bf54487c5a003cd3b355ea018411b3b0d1ff27f5e60e7794040",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "cold",
+          "index": 6,
+          "name": "花妖转螳螂",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/06-花妖转螳螂.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/06-花妖转螳螂.png",
+          "width": 1080,
+          "height": 2040,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/33e5dc1878a19a734cfbe80271816d333b6c38dc049f96a05b032b8c7a3d8cb9.png",
+          "cache_key": "33e5dc1878a19a734cfbe80271816d333b6c38dc049f96a05b032b8c7a3d8cb9",
+          "svg_sha256": "f8304f4e52c6508ff1c50f0b3174dd6d0b1030cffb312fd664c593a13de0fa63",
+          "baseline_png": "exports/S18冷门榜-20260920/06-花妖转螳螂.png",
+          "template": "templates/dual-rank/cold/花妖转螳螂.svg",
+          "png_sha256": "3c3808f2b38adfc74583c35629cc236ab64a408555cc32b94a3c2565c00da8fa",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "cold",
+          "index": 7,
+          "name": "神谕大嘴",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/07-神谕大嘴.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/07-神谕大嘴.png",
+          "width": 1080,
+          "height": 1851,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/daefe1ecbaafff7f57de9d33844f2af4d8534b7ea6e24f892bab38ca6ce7a925.png",
+          "cache_key": "daefe1ecbaafff7f57de9d33844f2af4d8534b7ea6e24f892bab38ca6ce7a925",
+          "svg_sha256": "1c98511eb0b20e6955f4267e8f4c768fee6900ef0951f478dcc456331071c5aa",
+          "baseline_png": "exports/S18冷门榜-20260920/07-神谕大嘴.png",
+          "template": "templates/dual-rank/cold/神谕大嘴.svg",
+          "png_sha256": "75d2b14994f61c451d88645b3e05f87d135b6da3f0b5b3deacd6ac355c58f50c",
+          "pixel_identical_to_accepted": false
+        },
+        {
+          "track": "cold",
+          "index": 8,
+          "name": "黑暗仪式蜘蛛",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/08-黑暗仪式蜘蛛.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/08-黑暗仪式蜘蛛.png",
+          "width": 1080,
+          "height": 2040,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/c3777b92337bcc67b0d42925521f24800db6d2814354f8828e2eca00a8a1c78c.png",
+          "cache_key": "c3777b92337bcc67b0d42925521f24800db6d2814354f8828e2eca00a8a1c78c",
+          "svg_sha256": "7f650dcd41ab56388e26606e194733dd03b5fa98a4f407a9cbd98918b82dccda",
+          "baseline_png": null,
+          "template": "templates/dual-rank/cold/黑暗仪式蜘蛛.svg",
+          "png_sha256": "067d3b1437ac5593a5585af455b1ef251b6daa854a7ee4ddf01ddcb42ba18ce5",
+          "pixel_identical_to_accepted": false
+        }
+      ],
+      "code_count": 7,
+      "status": "prepared"
+    }
+  ],
+  "diff": {
+    "same_source": false,
+    "statistics": [
+      {
+        "scope": "regular",
+        "id": "112",
+        "fields": {
+          "sampleCount": {
+            "before": 27620,
+            "after": 36067
+          },
+          "avgPlacement": {
+            "before": 3.7,
+            "after": 3.71
+          },
+          "top4Rate": {
+            "before": 63.46,
+            "after": 63.26
+          },
+          "topRate": {
+            "before": 25.87,
+            "after": 25.75
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "104",
+        "fields": {
+          "sampleCount": {
+            "before": 8272,
+            "after": 10528
+          },
+          "avgPlacement": {
+            "before": 3.87,
+            "after": 3.89
+          },
+          "top4Rate": {
+            "before": 61.71,
+            "after": 61.47
+          },
+          "topRate": {
+            "before": 15.7,
+            "after": 15.41
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "89",
+        "fields": {
+          "sampleCount": {
+            "before": 7369,
+            "after": 9206
+          },
+          "avgPlacement": {
+            "before": 3.84,
+            "after": 3.85
+          },
+          "top4Rate": {
+            "before": 60.8,
+            "after": 60.73
+          },
+          "topRate": {
+            "before": 24.17,
+            "after": 23.72
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "116",
+        "fields": {
+          "sampleCount": {
+            "before": 7077,
+            "after": 10150
+          },
+          "avgPlacement": {
+            "before": 3.99,
+            "after": 4
+          },
+          "top4Rate": {
+            "before": 60,
+            "after": 59.9
+          },
+          "topRate": {
+            "before": 14.43,
+            "after": 14.4
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "100",
+        "fields": {
+          "sampleCount": {
+            "before": 3104,
+            "after": 3802
+          },
+          "top4Rate": {
+            "before": 58.63,
+            "after": 58.52
+          },
+          "topRate": {
+            "before": 6.09,
+            "after": 6.44
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "113",
+        "fields": {
+          "sampleCount": {
+            "before": 1923,
+            "after": 2402
+          },
+          "avgPlacement": {
+            "before": 4.01,
+            "after": 4.04
+          },
+          "top4Rate": {
+            "before": 58.92,
+            "after": 58.66
+          },
+          "topRate": {
+            "before": 18.15,
+            "after": 17.74
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "99",
+        "fields": {
+          "sampleCount": {
+            "before": 9931,
+            "after": 14637
+          },
+          "avgPlacement": {
+            "before": 4.13,
+            "after": 4.14
+          },
+          "top4Rate": {
+            "before": 56.58,
+            "after": 56.35
+          },
+          "topRate": {
+            "before": 12.54,
+            "after": 12.24
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "106",
+        "fields": {
+          "sampleCount": {
+            "before": 5771,
+            "after": 7199
+          },
+          "avgPlacement": {
+            "before": 4.37,
+            "after": 4.38
+          },
+          "top4Rate": {
+            "before": 54.58,
+            "after": 53.91
+          },
+          "topRate": {
+            "before": 5.77,
+            "after": 5.79
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "109",
+        "fields": {
+          "sampleCount": {
+            "before": 1317,
+            "after": 1638
+          },
+          "avgPlacement": {
+            "before": 4.44,
+            "after": 4.45
+          },
+          "top4Rate": {
+            "before": 52.62,
+            "after": 52.75
+          },
+          "topRate": {
+            "before": 10.55,
+            "after": 10.32
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "119",
+        "fields": {
+          "sampleCount": {
+            "before": 5751,
+            "after": 7859
+          },
+          "avgPlacement": {
+            "before": 4.51,
+            "after": 4.54
+          },
+          "top4Rate": {
+            "before": 50.01,
+            "after": 49.32
+          },
+          "topRate": {
+            "before": 9.41,
+            "after": 9.11
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "115",
+        "fields": {
+          "sampleCount": {
+            "before": 3319,
+            "after": 3815
+          },
+          "avgPlacement": {
+            "before": 4.68,
+            "after": 4.66
+          },
+          "top4Rate": {
+            "before": 48.69,
+            "after": 48.94
+          },
+          "topRate": {
+            "before": 6.81,
+            "after": 6.92
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "88",
+        "fields": {
+          "sampleCount": {
+            "before": 4880,
+            "after": 6848
+          },
+          "avgPlacement": {
+            "before": 4.42,
+            "after": 4.41
+          },
+          "top4Rate": {
+            "before": 52.21,
+            "after": 52.26
+          },
+          "topRate": {
+            "before": 10.88,
+            "after": 11
+          }
+        }
+      },
+      {
+        "scope": "cold",
+        "id": "kennen",
+        "fields": {
+          "sampleCount": {
+            "before": 828,
+            "after": 1113
+          },
+          "avgPlacement": {
+            "before": 2.7,
+            "after": 2.66
+          },
+          "top4Rate": {
+            "before": 81.64,
+            "after": 81.94
+          },
+          "topRate": {
+            "before": 37.68,
+            "after": 38.9
+          }
+        }
+      },
+      {
+        "scope": "cold",
+        "id": "dragon",
+        "fields": {
+          "sampleCount": {
+            "before": 700,
+            "after": 918
+          },
+          "avgPlacement": {
+            "before": 3.12,
+            "after": 3.13
+          },
+          "top4Rate": {
+            "before": 72.57,
+            "after": 73.09
+          },
+          "topRate": {
+            "before": 34.57,
+            "after": 33.66
+          }
+        }
+      },
+      {
+        "scope": "cold",
+        "id": "camille",
+        "fields": {
+          "sampleCount": {
+            "before": 540,
+            "after": 626
+          },
+          "avgPlacement": {
+            "before": 3.59,
+            "after": 3.63
+          },
+          "top4Rate": {
+            "before": 69.81,
+            "after": 69.49
+          },
+          "topRate": {
+            "before": 13.15,
+            "after": 12.94
+          }
+        }
+      },
+      {
+        "scope": "cold",
+        "id": "kayle",
+        "fields": {
+          "sampleCount": {
+            "before": 472,
+            "after": 646
+          },
+          "avgPlacement": {
+            "before": 3.66,
+            "after": 3.65
+          },
+          "top4Rate": {
+            "before": 68.01,
+            "after": 67.65
+          },
+          "topRate": {
+            "before": 18.22,
+            "after": 18.27
+          }
+        }
+      },
+      {
+        "scope": "cold",
+        "id": "khazix",
+        "fields": {
+          "sampleCount": {
+            "before": 325,
+            "after": 461
+          },
+          "avgPlacement": {
+            "before": 4.5,
+            "after": 4.7
+          },
+          "top4Rate": {
+            "before": 52,
+            "after": 48.59
+          },
+          "topRate": {
+            "before": 10.77,
+            "after": 9.54
+          }
+        }
+      },
+      {
+        "scope": "cold",
+        "id": "kog",
+        "fields": {
+          "sampleCount": {
+            "before": 574,
+            "after": 768
+          },
+          "top4Rate": {
+            "before": 54.53,
+            "after": 54.69
+          },
+          "topRate": {
+            "before": 9.76,
+            "after": 9.38
+          }
+        }
+      },
+      {
+        "scope": "extra",
+        "id": "ashe",
+        "fields": {
+          "sampleCount": {
+            "before": 6362,
+            "after": 7906
+          },
+          "top4Rate": {
+            "before": 74.1,
+            "after": 73.88
+          },
+          "topRate": {
+            "before": 34.28,
+            "after": 34.45
+          }
+        }
+      },
+      {
+        "scope": "extra",
+        "id": "zyra",
+        "fields": {
+          "sampleCount": {
+            "before": 526,
+            "after": 644
+          },
+          "avgPlacement": {
+            "before": 4.79,
+            "after": 4.88
+          },
+          "top4Rate": {
+            "before": 44.68,
+            "after": 42.86
+          },
+          "topRate": {
+            "before": 6.46,
+            "after": 6.21
+          }
+        }
+      },
+      {
+        "scope": "extra",
+        "id": "dragon",
+        "fields": {
+          "sampleCount": {
+            "before": 1074,
+            "after": 1352
+          },
+          "avgPlacement": {
+            "before": 2.61,
+            "after": 2.63
+          },
+          "top4Rate": {
+            "before": 81.19,
+            "after": 81.36
+          },
+          "topRate": {
+            "before": 44.79,
+            "after": 44.08
+          }
+        }
+      }
+    ],
+    "ranking": [],
+    "tiers": [
+      {
+        "id": "106",
+        "before": "A",
+        "after": "B"
+      }
+    ],
+    "review_required": [],
+    "reviewed_alerts": [],
+    "review_receipt": null,
+    "new_candidates": [],
+    "order": [
+      "112",
+      "104",
+      "89",
+      "116",
+      "113",
+      "100",
+      "99",
+      "106",
+      "109",
+      "119"
+    ]
+  },
+  "visual": {
+    "method": "pixel comparison against accepted 2026-09-20 PNGs",
+    "identical": [],
+    "needs_inspection": [
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/01-常规阵容强度榜.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/02-今天怎么选.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/03-地狱火95.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/04-野怪小红.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/05-巨龙95.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/06-裁决螳螂.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/07-古纳拉95.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/08-重装女警.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/09-7野怪鸡哥.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/10-主宰女警.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/11-皎月螳螂.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/regular/12-神谕大嘴.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/01-冷门构筑强度榜.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/02-花妖转凯南.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/03-猎人转巨龙.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/04-暗爪卡蜜尔.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/05-护臂天使.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/06-花妖转螳螂.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/07-神谕大嘴.png",
+      "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/cold/08-黑暗仪式蜘蛛.png"
+    ],
+    "overview": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/review.jpg",
+    "changed_detail_regions": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-25-a1477f1d58f9-spider-full-v2/changed-details.jpg"
+  },
+  "rendered": 0,
+  "cache_hits": 20,
+  "model_calls": 0
+}

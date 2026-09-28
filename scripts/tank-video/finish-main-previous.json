@@ -1,0 +1,190 @@
+{
+  "provider": "edge-tts",
+  "voice": "zh-CN-YunxiNeural",
+  "rate": "+4%",
+  "pitch": "+0Hz",
+  "ttsVersion": "7.2.8",
+  "ttsOptions": {},
+  "pronunciation": {
+    "蔚": "魏"
+  },
+  "characters": [
+    "蔚",
+    "慎",
+    "龙龟",
+    "猪妹",
+    "蜘蛛"
+  ],
+  "duration": 41.8,
+  "source": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v2/01-hero-pressure-voice-soft.mp4",
+  "sourceSha256": "06e858efa425c3decb1913906c66558a5055d57ebc3565c22a9efdd6fc9564f4",
+  "cues": [
+    {
+      "id": "opening",
+      "start": 0.2,
+      "end": 3.9,
+      "text": "各穿最优装备，谁才是最能扛的前排？",
+      "spoken": "各穿最优装备，谁才是最能扛的前排？",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v2/narration-source/speech-clips/opening-7f27258846e74a.mp3",
+      "clipSha256": "f1cef1ededd2ec8e004ecc52923f6cc2075425046671b636c2163e800cc2a92d",
+      "originalDuration": 3.29,
+      "duration": 3.29,
+      "actualEnd": 3.49,
+      "tempo": 1.0
+    },
+    {
+      "id": "rules",
+      "start": 4.15,
+      "end": 8.2,
+      "text": "重伤、减抗都挂上，每轮重新开打。",
+      "spoken": "重伤、减抗都挂上，每轮重新开打。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v2/narration-source/speech-clips/rules-5a860890fd9991.mp3",
+      "clipSha256": "e901dc2aadf7c68b5b2c53404b8886af9894e69592fe387d5c89cb2c54d94435",
+      "originalDuration": 3.6,
+      "duration": 3.6,
+      "actualEnd": 7.75,
+      "tempo": 1.0
+    },
+    {
+      "id": "elise",
+      "death": {
+        "round": 0,
+        "hero": "伊莉丝",
+        "offset": 0.1
+      },
+      "end": 12.1,
+      "text": "蜘蛛先倒了。",
+      "eventAt": 9.833333333333334,
+      "start": 9.933333333333334,
+      "spoken": "蜘蛛先倒了。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v2/narration-source/speech-clips/elise-5dc8ab7583ccf0.mp3",
+      "clipSha256": "07d3e85f407e76f393474bf5c8dc80cad5482c76cec31c75c2e1f91515c1ebd8",
+      "originalDuration": 1.06,
+      "duration": 1.06,
+      "actualEnd": 10.993333333333334,
+      "tempo": 1.0,
+      "eventOffset": 0.1
+    },
+    {
+      "id": "round-two",
+      "start": 12.4,
+      "end": 16.8,
+      "text": "加点压力，再来。",
+      "spoken": "加点压力，再来。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v2/narration-source/speech-clips/round-two-bb22710355d504.mp3",
+      "clipSha256": "f3e79e2cebb1feb67f522b79ad163ede45f95cbd542c56cddea684b40001600d",
+      "originalDuration": 1.59,
+      "duration": 1.59,
+      "actualEnd": 13.99,
+      "tempo": 1.0
+    },
+    {
+      "id": "sejuani",
+      "death": {
+        "round": 1,
+        "hero": "瑟庄妮",
+        "offset": 0.08
+      },
+      "end": 20.48,
+      "text": "猪妹也倒了。",
+      "eventAt": 18.655555555555555,
+      "start": 18.735555555555553,
+      "spoken": "猪妹也倒了。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v2/narration-source/speech-clips/sejuani-948249eaa5d481.mp3",
+      "clipSha256": "805aba926053b9942ad91a2ef5bfb742aaf5ff1769e8536d8dc837ef4f696491",
+      "originalDuration": 1.0,
+      "duration": 1.0,
+      "actualEnd": 19.735555555555553,
+      "tempo": 1.0,
+      "eventOffset": 0.08
+    },
+    {
+      "id": "rammus-watch",
+      "start": 20.75,
+      "end": 26.3,
+      "text": "接着看龙龟，它的护盾能撑多久？",
+      "spoken": "接着看龙龟，它的护盾能撑多久？",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v2/narration-source/speech-clips/rammus-watch-064b7de4d66b0d.mp3",
+      "clipSha256": "fbe4c26892439446b1bf111709256444647244268eed91f4c622daa1cf7f3130",
+      "originalDuration": 2.77,
+      "duration": 2.77,
+      "actualEnd": 23.52,
+      "tempo": 1.0
+    },
+    {
+      "id": "rammus",
+      "death": {
+        "round": 2,
+        "hero": "拉莫斯",
+        "offset": 0.1
+      },
+      "end": 28.63,
+      "text": "龙龟也倒了。",
+      "eventAt": 26.93333333333333,
+      "start": 27.03333333333333,
+      "spoken": "龙龟也倒了。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v2/narration-source/speech-clips/rammus-06aba39b863c75.mp3",
+      "clipSha256": "ec83504d2aa3b119c437df148123a5efdcf6d740deec055e4cbf0ebfdb579ea8",
+      "originalDuration": 1.01,
+      "duration": 1.01,
+      "actualEnd": 28.043333333333333,
+      "tempo": 1.0,
+      "eventOffset": 0.1
+    },
+    {
+      "id": "last-round",
+      "start": 28.95,
+      "end": 34.6,
+      "text": "最后一档，就看蔚了。",
+      "spoken": "最后一档，就看魏了。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v2/narration-source/speech-clips/last-round-a96806f9cac760.mp3",
+      "clipSha256": "63594e2a69f80c5629cffcc30b3af1348fa77dc61863eaf01daeeb6c1e641cec",
+      "originalDuration": 1.81,
+      "duration": 1.81,
+      "actualEnd": 30.759999999999998,
+      "tempo": 1.0
+    },
+    {
+      "id": "vi",
+      "death": {
+        "round": 3,
+        "hero": "蔚",
+        "offset": 0.1
+      },
+      "end": 37.12,
+      "text": "蔚，也没撑住。",
+      "eventAt": 35.36666666666666,
+      "start": 35.46666666666666,
+      "spoken": "魏，也没撑住。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v2/narration-source/speech-clips/vi-1e298af6e655c2.mp3",
+      "clipSha256": "057c641ceffc92212d8df94e360521dc34b0d79f3dc43b8bfde394f478844c3d",
+      "originalDuration": 1.52,
+      "duration": 1.52,
+      "actualEnd": 36.986666666666665,
+      "tempo": 1.0,
+      "eventOffset": 0.1
+    },
+    {
+      "id": "summary",
+      "start": 37.35,
+      "end": 41.65,
+      "text": "这组模拟，蔚第一，龙龟第二。",
+      "spoken": "这组模拟，魏第一，龙龟第二。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-main-v2/narration-source/speech-clips/summary-e11de22dae11fe.mp3",
+      "clipSha256": "f81b4c970105327b0caa877fcf4aee1bf7e4b68a3dbf863e9ea7b506c0167ac8",
+      "originalDuration": 2.84,
+      "duration": 2.84,
+      "actualEnd": 40.19,
+      "tempo": 1.0
+    }
+  ],
+  "voiceProcessing": {
+    "filterChain": "highpass=f=85:p=2,equalizer=f=3500:t=o:w=1:g=-1.5,deesser=i=0.15:m=0.25:f=0.5,acompressor=threshold=0.1:ratio=3:attack=0.3:release=70:makeup=1:knee=2.82843:detection=peak",
+    "fixedGainDb": 7.329999999999998,
+    "fadeMs": 8,
+    "patchPadSeconds": 0.12
+  },
+  "notes": [
+    "Normalized copy of the previous recipe; the original files are unchanged."
+  ]
+}

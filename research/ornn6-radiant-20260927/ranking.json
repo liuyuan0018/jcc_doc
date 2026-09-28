@@ -1,0 +1,3642 @@
+[
+  {
+    "radiant": "光明版正义之手",
+    "augment": 0,
+    "passedDps": 1200,
+    "failedDps": 1250,
+    "winners": [
+      {
+        "id": "s8-b18050-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          20,
+          25,
+          60
+        ],
+        "augment": 0,
+        "passedDps": 1200,
+        "failedDps": 1250,
+        "stageCount": 20,
+        "failedFrame": 480,
+        "remainingHpShield": 508.16987452829915,
+        "ceilingReached": false,
+        "itemNames": [
+          "珠光护手",
+          "正义之手",
+          "光明版正义之手"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版饮血剑",
+    "augment": 0,
+    "passedDps": 1150,
+    "failedDps": 1200,
+    "winners": [
+      {
+        "id": "s8-b20130-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          25,
+          40
+        ],
+        "augment": 0,
+        "passedDps": 1150,
+        "failedDps": 1200,
+        "stageCount": 19,
+        "failedFrame": 820,
+        "remainingHpShield": 1187.976280587003,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "正义之手",
+          "光明版饮血剑"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版振奋盔甲",
+    "augment": 0,
+    "passedDps": 1000,
+    "failedDps": 1050,
+    "winners": [
+      {
+        "id": "s8-b6219-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          17,
+          59
+        ],
+        "augment": 0,
+        "passedDps": 1000,
+        "failedDps": 1050,
+        "stageCount": 16,
+        "failedFrame": 740,
+        "remainingHpShield": 59.52367793440351,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "冕卫",
+          "光明版振奋盔甲"
+        ]
+      },
+      {
+        "id": "s8-b6464-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          24,
+          59
+        ],
+        "augment": 0,
+        "passedDps": 1000,
+        "failedDps": 1050,
+        "stageCount": 16,
+        "failedFrame": 820,
+        "remainingHpShield": 584.6143424193804,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "振奋盔甲",
+          "光明版振奋盔甲"
+        ]
+      },
+      {
+        "id": "s8-b19764-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          24,
+          59
+        ],
+        "augment": 0,
+        "passedDps": 1000,
+        "failedDps": 1050,
+        "stageCount": 16,
+        "failedFrame": 860,
+        "remainingHpShield": 711.7521423132687,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "振奋盔甲",
+          "光明版振奋盔甲"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版适应性头盔",
+    "augment": 0,
+    "passedDps": 950,
+    "failedDps": 1000,
+    "winners": [
+      {
+        "id": "s8-b6498-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          25,
+          58
+        ],
+        "augment": 0,
+        "passedDps": 950,
+        "failedDps": 1000,
+        "stageCount": 15,
+        "failedFrame": 790,
+        "remainingHpShield": 410.7230753471323,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "正义之手",
+          "光明版适应性头盔"
+        ]
+      },
+      {
+        "id": "s8-b20148-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          25,
+          58
+        ],
+        "augment": 0,
+        "passedDps": 950,
+        "failedDps": 1000,
+        "stageCount": 15,
+        "failedFrame": 870,
+        "remainingHpShield": 110.20637570632809,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "正义之手",
+          "光明版适应性头盔"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版巨龙之爪",
+    "augment": 0,
+    "passedDps": 950,
+    "failedDps": 1000,
+    "winners": [
+      {
+        "id": "s8-b6470-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          24,
+          65
+        ],
+        "augment": 0,
+        "passedDps": 950,
+        "failedDps": 1000,
+        "stageCount": 15,
+        "failedFrame": 880,
+        "remainingHpShield": 304.4968796727926,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "振奋盔甲",
+          "光明版巨龙之爪"
+        ]
+      },
+      {
+        "id": "s8-b6785-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          33,
+          65
+        ],
+        "augment": 0,
+        "passedDps": 950,
+        "failedDps": 1000,
+        "stageCount": 15,
+        "failedFrame": 770,
+        "remainingHpShield": 99.88553324406823,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "狂徒铠甲",
+          "光明版巨龙之爪"
+        ]
+      },
+      {
+        "id": "s8-b19770-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          24,
+          65
+        ],
+        "augment": 0,
+        "passedDps": 950,
+        "failedDps": 1000,
+        "stageCount": 15,
+        "failedFrame": 860,
+        "remainingHpShield": 696.9547254863514,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "振奋盔甲",
+          "光明版巨龙之爪"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版狂徒铠甲",
+    "augment": 0,
+    "passedDps": 950,
+    "failedDps": 1000,
+    "winners": [
+      {
+        "id": "s8-b19773-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          24,
+          68
+        ],
+        "augment": 0,
+        "passedDps": 950,
+        "failedDps": 1000,
+        "stageCount": 15,
+        "failedFrame": 790,
+        "remainingHpShield": 62.55116745851534,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "振奋盔甲",
+          "光明版狂徒铠甲"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版泰坦的坚决",
+    "augment": 0,
+    "passedDps": 900,
+    "failedDps": 950,
+    "winners": [
+      {
+        "id": "s8-b20136-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          25,
+          46
+        ],
+        "augment": 0,
+        "passedDps": 900,
+        "failedDps": 950,
+        "stageCount": 14,
+        "failedFrame": 660,
+        "remainingHpShield": 21.760646098110158,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "正义之手",
+          "光明版泰坦的坚决"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版石像鬼石板甲",
+    "augment": 0,
+    "passedDps": 900,
+    "failedDps": 950,
+    "winners": [
+      {
+        "id": "s8-b6222-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          17,
+          62
+        ],
+        "augment": 0,
+        "passedDps": 900,
+        "failedDps": 950,
+        "stageCount": 14,
+        "failedFrame": 790,
+        "remainingHpShield": 441.3471519033236,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "冕卫",
+          "光明版石像鬼石板甲"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版海克斯科技枪刃",
+    "augment": 0,
+    "passedDps": 850,
+    "failedDps": 900,
+    "winners": [
+      {
+        "id": "s8-b6477-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          25,
+          37
+        ],
+        "augment": 0,
+        "passedDps": 850,
+        "failedDps": 900,
+        "stageCount": 13,
+        "failedFrame": 800,
+        "remainingHpShield": 1194.354596319255,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "正义之手",
+          "光明版海克斯科技枪刃"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版鬼索的狂暴之刃",
+    "augment": 0,
+    "passedDps": 850,
+    "failedDps": 900,
+    "winners": [
+      {
+        "id": "s8-b6484-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          25,
+          44
+        ],
+        "augment": 0,
+        "passedDps": 850,
+        "failedDps": 900,
+        "stageCount": 13,
+        "failedFrame": 560,
+        "remainingHpShield": 1006.2652722497908,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "正义之手",
+          "光明版鬼索的狂暴之刃"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版冕卫",
+    "augment": 0,
+    "passedDps": 850,
+    "failedDps": 900,
+    "winners": [
+      {
+        "id": "s8-b6457-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          24,
+          52
+        ],
+        "augment": 0,
+        "passedDps": 850,
+        "failedDps": 900,
+        "stageCount": 13,
+        "failedFrame": 900,
+        "remainingHpShield": 337.37364348176044,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "振奋盔甲",
+          "光明版冕卫"
+        ]
+      },
+      {
+        "id": "s8-b6667-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          30,
+          52
+        ],
+        "augment": 0,
+        "passedDps": 850,
+        "failedDps": 900,
+        "stageCount": 13,
+        "failedFrame": 880,
+        "remainingHpShield": 364.4602734328355,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "巨龙之爪",
+          "光明版冕卫"
+        ]
+      },
+      {
+        "id": "s8-b6772-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          33,
+          52
+        ],
+        "augment": 0,
+        "passedDps": 850,
+        "failedDps": 900,
+        "stageCount": 13,
+        "failedFrame": 890,
+        "remainingHpShield": 291.8723365978377,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "狂徒铠甲",
+          "光明版冕卫"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版蓝霸符",
+    "augment": 0,
+    "passedDps": 850,
+    "failedDps": 900,
+    "winners": [
+      {
+        "id": "s8-b6496-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          25,
+          56
+        ],
+        "augment": 0,
+        "passedDps": 850,
+        "failedDps": 900,
+        "stageCount": 13,
+        "failedFrame": 870,
+        "remainingHpShield": 298.0331058497935,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "正义之手",
+          "光明版蓝霸符"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版圣盾使的誓约",
+    "augment": 0,
+    "passedDps": 850,
+    "failedDps": 900,
+    "winners": [
+      {
+        "id": "s8-b5797-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          5,
+          57
+        ],
+        "augment": 0,
+        "passedDps": 850,
+        "failedDps": 900,
+        "stageCount": 13,
+        "failedFrame": 760,
+        "remainingHpShield": 37.7570167096069,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "饮血剑",
+          "光明版圣盾使的誓约"
+        ]
+      },
+      {
+        "id": "s8-b6462-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          24,
+          57
+        ],
+        "augment": 0,
+        "passedDps": 850,
+        "failedDps": 900,
+        "stageCount": 13,
+        "failedFrame": 850,
+        "remainingHpShield": 24.805251431312797,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "振奋盔甲",
+          "光明版圣盾使的誓约"
+        ]
+      },
+      {
+        "id": "s8-b6497-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          25,
+          57
+        ],
+        "augment": 0,
+        "passedDps": 850,
+        "failedDps": 900,
+        "stageCount": 13,
+        "failedFrame": 870,
+        "remainingHpShield": 150.6981992676549,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "正义之手",
+          "光明版圣盾使的誓约"
+        ]
+      },
+      {
+        "id": "s8-b19762-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          24,
+          57
+        ],
+        "augment": 0,
+        "passedDps": 850,
+        "failedDps": 900,
+        "stageCount": 13,
+        "failedFrame": 790,
+        "remainingHpShield": 139.99226348777265,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "振奋盔甲",
+          "光明版圣盾使的誓约"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版坚定之心",
+    "augment": 0,
+    "passedDps": 850,
+    "failedDps": 900,
+    "winners": [
+      {
+        "id": "s8-b6224-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          17,
+          64
+        ],
+        "augment": 0,
+        "passedDps": 850,
+        "failedDps": 900,
+        "stageCount": 13,
+        "failedFrame": 790,
+        "remainingHpShield": 684.3191953876408,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "冕卫",
+          "光明版坚定之心"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版夜之锋刃",
+    "augment": 0,
+    "passedDps": 800,
+    "failedDps": 850,
+    "winners": [
+      {
+        "id": "s8-b6479-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          25,
+          39
+        ],
+        "augment": 0,
+        "passedDps": 800,
+        "failedDps": 850,
+        "stageCount": 12,
+        "failedFrame": 840,
+        "remainingHpShield": 68.68142779665617,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "正义之手",
+          "光明版夜之锋刃"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版珠光护手",
+    "augment": 0,
+    "passedDps": 800,
+    "failedDps": 850,
+    "winners": [
+      {
+        "id": "s8-b20145-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          25,
+          55
+        ],
+        "augment": 0,
+        "passedDps": 800,
+        "failedDps": 850,
+        "stageCount": 12,
+        "failedFrame": 900,
+        "remainingHpShield": 439.3179230188659,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "正义之手",
+          "光明版珠光护手"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版斯特拉克的挑战护手",
+    "augment": 0,
+    "passedDps": 700,
+    "failedDps": 750,
+    "winners": [
+      {
+        "id": "s8-b5781-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          5,
+          41
+        ],
+        "augment": 0,
+        "passedDps": 700,
+        "failedDps": 750,
+        "stageCount": 10,
+        "failedFrame": 880,
+        "remainingHpShield": 404.00410465409027,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "饮血剑",
+          "光明版斯特拉克的挑战护手"
+        ]
+      },
+      {
+        "id": "s8-b5991-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          11,
+          41
+        ],
+        "augment": 0,
+        "passedDps": 700,
+        "failedDps": 750,
+        "stageCount": 10,
+        "failedFrame": 760,
+        "remainingHpShield": 308.7558951032474,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "泰坦的坚决",
+          "光明版斯特拉克的挑战护手"
+        ]
+      },
+      {
+        "id": "s8-b6166-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          16,
+          41
+        ],
+        "augment": 0,
+        "passedDps": 700,
+        "failedDps": 750,
+        "stageCount": 10,
+        "failedFrame": 760,
+        "remainingHpShield": 773.1612855390432,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "大天使之杖",
+          "光明版斯特拉克的挑战护手"
+        ]
+      },
+      {
+        "id": "s8-b6201-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          17,
+          41
+        ],
+        "augment": 0,
+        "passedDps": 700,
+        "failedDps": 750,
+        "stageCount": 10,
+        "failedFrame": 870,
+        "remainingHpShield": 334.9993662143587,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "冕卫",
+          "光明版斯特拉克的挑战护手"
+        ]
+      },
+      {
+        "id": "s8-b6446-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          24,
+          41
+        ],
+        "augment": 0,
+        "passedDps": 700,
+        "failedDps": 750,
+        "stageCount": 10,
+        "failedFrame": 880,
+        "remainingHpShield": 329.26846563478597,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "振奋盔甲",
+          "光明版斯特拉克的挑战护手"
+        ]
+      },
+      {
+        "id": "s8-b6481-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          25,
+          41
+        ],
+        "augment": 0,
+        "passedDps": 700,
+        "failedDps": 750,
+        "stageCount": 10,
+        "failedFrame": 900,
+        "remainingHpShield": 590.6063095390408,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "正义之手",
+          "光明版斯特拉克的挑战护手"
+        ]
+      },
+      {
+        "id": "s8-b6551-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          41
+        ],
+        "augment": 0,
+        "passedDps": 700,
+        "failedDps": 750,
+        "stageCount": 10,
+        "failedFrame": 810,
+        "remainingHpShield": 519.781877934643,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版斯特拉克的挑战护手"
+        ]
+      },
+      {
+        "id": "s8-b6621-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          29,
+          41
+        ],
+        "augment": 0,
+        "passedDps": 700,
+        "failedDps": 750,
+        "stageCount": 10,
+        "failedFrame": 870,
+        "remainingHpShield": 394.06989347492834,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "坚定之心",
+          "光明版斯特拉克的挑战护手"
+        ]
+      },
+      {
+        "id": "s8-b6656-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          30,
+          41
+        ],
+        "augment": 0,
+        "passedDps": 700,
+        "failedDps": 750,
+        "stageCount": 10,
+        "failedFrame": 870,
+        "remainingHpShield": 308.77715205294066,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "巨龙之爪",
+          "光明版斯特拉克的挑战护手"
+        ]
+      },
+      {
+        "id": "s8-b6761-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          33,
+          41
+        ],
+        "augment": 0,
+        "passedDps": 700,
+        "failedDps": 750,
+        "stageCount": 10,
+        "failedFrame": 870,
+        "remainingHpShield": 218.81247182501062,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "狂徒铠甲",
+          "光明版斯特拉克的挑战护手"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版大天使之杖",
+    "augment": 0,
+    "passedDps": 700,
+    "failedDps": 750,
+    "winners": [
+      {
+        "id": "s8-b6491-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          25,
+          51
+        ],
+        "augment": 0,
+        "passedDps": 700,
+        "failedDps": 750,
+        "stageCount": 10,
+        "failedFrame": 800,
+        "remainingHpShield": 2838.7557010031696,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "正义之手",
+          "光明版大天使之杖"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版离子火花",
+    "augment": 0,
+    "passedDps": 700,
+    "failedDps": 750,
+    "winners": [
+      {
+        "id": "s8-b19758-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          24,
+          53
+        ],
+        "augment": 0,
+        "passedDps": 700,
+        "failedDps": 750,
+        "stageCount": 10,
+        "failedFrame": 860,
+        "remainingHpShield": 159.52099432637863,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "振奋盔甲",
+          "光明版离子火花"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版巨人杀手",
+    "augment": 0,
+    "passedDps": 650,
+    "failedDps": 700,
+    "winners": [
+      {
+        "id": "s8-b20126-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          25,
+          36
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 740,
+        "remainingHpShield": 741.7818356528298,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "正义之手",
+          "光明版巨人杀手"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版朔极之矛",
+    "augment": 0,
+    "passedDps": 650,
+    "failedDps": 700,
+    "winners": [
+      {
+        "id": "s8-b6198-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          17,
+          38
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 860,
+        "remainingHpShield": 193.20929061947112,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "冕卫",
+          "光明版朔极之矛"
+        ]
+      },
+      {
+        "id": "s8-b20128-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          25,
+          38
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 660,
+        "remainingHpShield": 1100.0662164528308,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "正义之手",
+          "光明版朔极之矛"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版虚空之杖",
+    "augment": 0,
+    "passedDps": 650,
+    "failedDps": 700,
+    "winners": [
+      {
+        "id": "s8-b20135-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          25,
+          45
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 770,
+        "remainingHpShield": 1199.354605886793,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "正义之手",
+          "光明版虚空之杖"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版纳什之牙",
+    "augment": 0,
+    "passedDps": 650,
+    "failedDps": 700,
+    "winners": [
+      {
+        "id": "s8-b6488-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          25,
+          48
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 730,
+        "remainingHpShield": 305.98388665019166,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "正义之手",
+          "光明版纳什之牙"
+        ]
+      },
+      {
+        "id": "s8-b6768-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          33,
+          48
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 800,
+        "remainingHpShield": 2.1255441910173545,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "狂徒铠甲",
+          "光明版纳什之牙"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版灭世者的死亡之帽",
+    "augment": 0,
+    "passedDps": 650,
+    "failedDps": 700,
+    "winners": [
+      {
+        "id": "s8-b5790-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          5,
+          50
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 880,
+        "remainingHpShield": 15.18040137526404,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "饮血剑",
+          "光明版灭世者的死亡之帽"
+        ]
+      },
+      {
+        "id": "s8-b6490-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          25,
+          50
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 870,
+        "remainingHpShield": 79.86559046592163,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "正义之手",
+          "光明版灭世者的死亡之帽"
+        ]
+      },
+      {
+        "id": "s8-b20140-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          25,
+          50
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 610,
+        "remainingHpShield": 2323.539586948428,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "正义之手",
+          "光明版灭世者的死亡之帽"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版棘刺背心",
+    "augment": 0,
+    "passedDps": 650,
+    "failedDps": 700,
+    "winners": [
+      {
+        "id": "s8-b19766-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          24,
+          61
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 880,
+        "remainingHpShield": 273.35730590506245,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "振奋盔甲",
+          "光明版棘刺背心"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版日炎斗篷",
+    "augment": 0,
+    "passedDps": 650,
+    "failedDps": 700,
+    "winners": [
+      {
+        "id": "s8-b6468-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          24,
+          63
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 870,
+        "remainingHpShield": 213.09700305294427,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "振奋盔甲",
+          "光明版日炎斗篷"
+        ]
+      },
+      {
+        "id": "s8-b19768-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          24,
+          63
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 860,
+        "remainingHpShield": 159.22503966788855,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "振奋盔甲",
+          "光明版日炎斗篷"
+        ]
+      },
+      {
+        "id": "s8-b19978-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          30,
+          63
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 740,
+        "remainingHpShield": 95.75604596156155,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "巨龙之爪",
+          "光明版日炎斗篷"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版薄暮法袍",
+    "augment": 0,
+    "passedDps": 650,
+    "failedDps": 700,
+    "winners": [
+      {
+        "id": "s8-b19771-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          24,
+          66
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 880,
+        "remainingHpShield": 277.54375290071744,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "振奋盔甲",
+          "光明版薄暮法袍"
+        ]
+      },
+      {
+        "id": "s8-b19981-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          30,
+          66
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 770,
+        "remainingHpShield": 176.21939525830408,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "巨龙之爪",
+          "光明版薄暮法袍"
+        ]
+      },
+      {
+        "id": "s8-b20086-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          33,
+          66
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 850,
+        "remainingHpShield": 45.5675258793833,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "狂徒铠甲",
+          "光明版薄暮法袍"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版水银",
+    "augment": 0,
+    "passedDps": 650,
+    "failedDps": 700,
+    "winners": [
+      {
+        "id": "s8-b6507-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          25,
+          67
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 890,
+        "remainingHpShield": 477.9278710610599,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "正义之手",
+          "光明版水银"
+        ]
+      },
+      {
+        "id": "s8-b20157-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          25,
+          67
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 680,
+        "remainingHpShield": 1423.409736226415,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "正义之手",
+          "光明版水银"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版强袭者的链枷",
+    "augment": 0,
+    "passedDps": 650,
+    "failedDps": 700,
+    "winners": [
+      {
+        "id": "s8-b6509-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          25,
+          69
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 770,
+        "remainingHpShield": 852.730459601504,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "正义之手",
+          "光明版强袭者的链枷"
+        ]
+      },
+      {
+        "id": "s8-b20159-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          25,
+          69
+        ],
+        "augment": 0,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 860,
+        "remainingHpShield": 444.9072524528308,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "正义之手",
+          "光明版强袭者的链枷"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版莫雷洛秘典",
+    "augment": 0,
+    "passedDps": 600,
+    "failedDps": 650,
+    "winners": [
+      {
+        "id": "s8-b19759-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          24,
+          54
+        ],
+        "augment": 0,
+        "passedDps": 600,
+        "failedDps": 650,
+        "stageCount": 8,
+        "failedFrame": 880,
+        "remainingHpShield": 366.8785316700997,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "振奋盔甲",
+          "光明版莫雷洛秘典"
+        ]
+      },
+      {
+        "id": "s8-b19969-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          30,
+          54
+        ],
+        "augment": 0,
+        "passedDps": 600,
+        "failedDps": 650,
+        "stageCount": 8,
+        "failedFrame": 740,
+        "remainingHpShield": 287.206936511603,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "巨龙之爪",
+          "光明版莫雷洛秘典"
+        ]
+      },
+      {
+        "id": "s8-b20074-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          33,
+          54
+        ],
+        "augment": 0,
+        "passedDps": 600,
+        "failedDps": 650,
+        "stageCount": 8,
+        "failedFrame": 830,
+        "remainingHpShield": 32.119448861990904,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "狂徒铠甲",
+          "光明版莫雷洛秘典"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版死亡之刃",
+    "augment": 0,
+    "passedDps": 550,
+    "failedDps": 600,
+    "winners": [
+      {
+        "id": "s8-b6475-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          25,
+          35
+        ],
+        "augment": 0,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 840,
+        "remainingHpShield": 96.76976816162647,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "正义之手",
+          "光明版死亡之刃"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版无尽之刃",
+    "augment": 0,
+    "passedDps": 550,
+    "failedDps": 600,
+    "winners": [
+      {
+        "id": "s8-b5782-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          5,
+          42
+        ],
+        "augment": 0,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 820,
+        "remainingHpShield": 48.630406037738126,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "饮血剑",
+          "光明版无尽之刃"
+        ]
+      },
+      {
+        "id": "s8-b6482-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          25,
+          42
+        ],
+        "augment": 0,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 860,
+        "remainingHpShield": 348.1694705293004,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "正义之手",
+          "光明版无尽之刃"
+        ]
+      },
+      {
+        "id": "s8-b20132-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          25,
+          42
+        ],
+        "augment": 0,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 810,
+        "remainingHpShield": 1352.6057720754702,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "正义之手",
+          "光明版无尽之刃"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版红霸符",
+    "augment": 0,
+    "passedDps": 550,
+    "failedDps": 600,
+    "winners": [
+      {
+        "id": "s8-b20133-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          25,
+          43
+        ],
+        "augment": 0,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 740,
+        "remainingHpShield": 583.0353675954686,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "正义之手",
+          "光明版红霸符"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版海妖之怒",
+    "augment": 0,
+    "passedDps": 550,
+    "failedDps": 600,
+    "winners": [
+      {
+        "id": "s8-b5787-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          5,
+          47
+        ],
+        "augment": 0,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 830,
+        "remainingHpShield": 92.2665170825088,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "饮血剑",
+          "光明版海妖之怒"
+        ]
+      },
+      {
+        "id": "s8-b6487-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          25,
+          47
+        ],
+        "augment": 0,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 870,
+        "remainingHpShield": 193.58839542395842,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "正义之手",
+          "光明版海妖之怒"
+        ]
+      },
+      {
+        "id": "s8-b6557-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          47
+        ],
+        "augment": 0,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 830,
+        "remainingHpShield": 45.79495873182694,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版海妖之怒"
+        ]
+      },
+      {
+        "id": "s8-b19752-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          24,
+          47
+        ],
+        "augment": 0,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 740,
+        "remainingHpShield": 201.6146409125853,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "振奋盔甲",
+          "光明版海妖之怒"
+        ]
+      },
+      {
+        "id": "s8-b20137-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          25,
+          47
+        ],
+        "augment": 0,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 800,
+        "remainingHpShield": 1221.7365620377361,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "正义之手",
+          "光明版海妖之怒"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版最后的轻语",
+    "augment": 0,
+    "passedDps": 500,
+    "failedDps": 550,
+    "winners": [
+      {
+        "id": "s8-b5789-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          5,
+          49
+        ],
+        "augment": 0,
+        "passedDps": 500,
+        "failedDps": 550,
+        "stageCount": 6,
+        "failedFrame": 870,
+        "remainingHpShield": 395.82860075471774,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "饮血剑",
+          "光明版最后的轻语"
+        ]
+      },
+      {
+        "id": "s8-b5999-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          11,
+          49
+        ],
+        "augment": 0,
+        "passedDps": 500,
+        "failedDps": 550,
+        "stageCount": 6,
+        "failedFrame": 840,
+        "remainingHpShield": 29.058824991149848,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "泰坦的坚决",
+          "光明版最后的轻语"
+        ]
+      },
+      {
+        "id": "s8-b6454-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          24,
+          49
+        ],
+        "augment": 0,
+        "passedDps": 500,
+        "failedDps": 550,
+        "stageCount": 6,
+        "failedFrame": 830,
+        "remainingHpShield": 706.8409665656307,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "振奋盔甲",
+          "光明版最后的轻语"
+        ]
+      },
+      {
+        "id": "s8-b6489-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          25,
+          49
+        ],
+        "augment": 0,
+        "passedDps": 500,
+        "failedDps": 550,
+        "stageCount": 6,
+        "failedFrame": 880,
+        "remainingHpShield": 401.9525761028583,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "正义之手",
+          "光明版最后的轻语"
+        ]
+      },
+      {
+        "id": "s8-b6559-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          49
+        ],
+        "augment": 0,
+        "passedDps": 500,
+        "failedDps": 550,
+        "stageCount": 6,
+        "failedFrame": 870,
+        "remainingHpShield": 233.28553119825673,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版最后的轻语"
+        ]
+      },
+      {
+        "id": "s8-b6629-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          29,
+          49
+        ],
+        "augment": 0,
+        "passedDps": 500,
+        "failedDps": 550,
+        "stageCount": 6,
+        "failedFrame": 850,
+        "remainingHpShield": 32.01294017698993,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "坚定之心",
+          "光明版最后的轻语"
+        ]
+      },
+      {
+        "id": "s8-b6664-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          30,
+          49
+        ],
+        "augment": 0,
+        "passedDps": 500,
+        "failedDps": 550,
+        "stageCount": 6,
+        "failedFrame": 830,
+        "remainingHpShield": 104.36917060546439,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "巨龙之爪",
+          "光明版最后的轻语"
+        ]
+      },
+      {
+        "id": "s8-b19754-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          24,
+          49
+        ],
+        "augment": 0,
+        "passedDps": 500,
+        "failedDps": 550,
+        "stageCount": 6,
+        "failedFrame": 760,
+        "remainingHpShield": 379.4705766123212,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "振奋盔甲",
+          "光明版最后的轻语"
+        ]
+      },
+      {
+        "id": "s8-b19789-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          25,
+          49
+        ],
+        "augment": 0,
+        "passedDps": 500,
+        "failedDps": 550,
+        "stageCount": 6,
+        "failedFrame": 770,
+        "remainingHpShield": 620.9507194850112,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "正义之手",
+          "光明版最后的轻语"
+        ]
+      },
+      {
+        "id": "s8-b20069-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          33,
+          49
+        ],
+        "augment": 0,
+        "passedDps": 500,
+        "failedDps": 550,
+        "stageCount": 6,
+        "failedFrame": 740,
+        "remainingHpShield": 124.15776464938405,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "狂徒铠甲",
+          "光明版最后的轻语"
+        ]
+      },
+      {
+        "id": "s8-b20139-a0",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          25,
+          49
+        ],
+        "augment": 0,
+        "passedDps": 500,
+        "failedDps": 550,
+        "stageCount": 6,
+        "failedFrame": 830,
+        "remainingHpShield": 144.19337830188744,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "正义之手",
+          "光明版最后的轻语"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版振奋盔甲",
+    "augment": 4,
+    "passedDps": 1050,
+    "failedDps": 1100,
+    "winners": [
+      {
+        "id": "s8-b6569-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          59
+        ],
+        "augment": 4,
+        "passedDps": 1050,
+        "failedDps": 1100,
+        "stageCount": 17,
+        "failedFrame": 900,
+        "remainingHpShield": 374.7716140045866,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版振奋盔甲"
+        ]
+      },
+      {
+        "id": "s8-b16439-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          17,
+          27,
+          59
+        ],
+        "augment": 4,
+        "passedDps": 1050,
+        "failedDps": 1100,
+        "stageCount": 17,
+        "failedFrame": 850,
+        "remainingHpShield": 125.65805595016167,
+        "ceilingReached": false,
+        "itemNames": [
+          "冕卫",
+          "石像鬼石板甲",
+          "光明版振奋盔甲"
+        ]
+      },
+      {
+        "id": "s8-b19869-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          27,
+          59
+        ],
+        "augment": 4,
+        "passedDps": 1050,
+        "failedDps": 1100,
+        "stageCount": 17,
+        "failedFrame": 860,
+        "remainingHpShield": 641.5484244664199,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "石像鬼石板甲",
+          "光明版振奋盔甲"
+        ]
+      },
+      {
+        "id": "s8-b21024-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          27,
+          33,
+          59
+        ],
+        "augment": 4,
+        "passedDps": 1050,
+        "failedDps": 1100,
+        "stageCount": 17,
+        "failedFrame": 800,
+        "remainingHpShield": 209.67756256265898,
+        "ceilingReached": false,
+        "itemNames": [
+          "石像鬼石板甲",
+          "狂徒铠甲",
+          "光明版振奋盔甲"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版巨龙之爪",
+    "augment": 4,
+    "passedDps": 1050,
+    "failedDps": 1100,
+    "winners": [
+      {
+        "id": "s8-b6575-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          65
+        ],
+        "augment": 4,
+        "passedDps": 1050,
+        "failedDps": 1100,
+        "stageCount": 17,
+        "failedFrame": 770,
+        "remainingHpShield": 23.555673830912724,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版巨龙之爪"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版冕卫",
+    "augment": 4,
+    "passedDps": 1000,
+    "failedDps": 1050,
+    "winners": [
+      {
+        "id": "s8-b6562-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          52
+        ],
+        "augment": 4,
+        "passedDps": 1000,
+        "failedDps": 1050,
+        "stageCount": 16,
+        "failedFrame": 870,
+        "remainingHpShield": 23.865268439081547,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版冕卫"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版正义之手",
+    "augment": 4,
+    "passedDps": 1000,
+    "failedDps": 1050,
+    "winners": [
+      {
+        "id": "s8-b6570-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          60
+        ],
+        "augment": 4,
+        "passedDps": 1000,
+        "failedDps": 1050,
+        "stageCount": 16,
+        "failedFrame": 820,
+        "remainingHpShield": 976.0708859383749,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版正义之手"
+        ]
+      },
+      {
+        "id": "s8-b20220-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          27,
+          60
+        ],
+        "augment": 4,
+        "passedDps": 1000,
+        "failedDps": 1050,
+        "stageCount": 16,
+        "failedFrame": 770,
+        "remainingHpShield": 573.7636025482017,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "石像鬼石板甲",
+          "光明版正义之手"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版饮血剑",
+    "augment": 4,
+    "passedDps": 950,
+    "failedDps": 1000,
+    "winners": [
+      {
+        "id": "s8-b16420-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          17,
+          27,
+          40
+        ],
+        "augment": 4,
+        "passedDps": 950,
+        "failedDps": 1000,
+        "stageCount": 15,
+        "failedFrame": 870,
+        "remainingHpShield": 606.9440159871519,
+        "ceilingReached": false,
+        "itemNames": [
+          "冕卫",
+          "石像鬼石板甲",
+          "光明版饮血剑"
+        ]
+      },
+      {
+        "id": "s8-b20200-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          27,
+          40
+        ],
+        "augment": 4,
+        "passedDps": 950,
+        "failedDps": 1000,
+        "stageCount": 15,
+        "failedFrame": 870,
+        "remainingHpShield": 68.02014380421998,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "石像鬼石板甲",
+          "光明版饮血剑"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版狂徒铠甲",
+    "augment": 4,
+    "passedDps": 950,
+    "failedDps": 1000,
+    "winners": [
+      {
+        "id": "s8-b16448-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          17,
+          27,
+          68
+        ],
+        "augment": 4,
+        "passedDps": 950,
+        "failedDps": 1000,
+        "stageCount": 15,
+        "failedFrame": 820,
+        "remainingHpShield": 360.82978164145356,
+        "ceilingReached": false,
+        "itemNames": [
+          "冕卫",
+          "石像鬼石板甲",
+          "光明版狂徒铠甲"
+        ]
+      },
+      {
+        "id": "s8-b19878-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          27,
+          68
+        ],
+        "augment": 4,
+        "passedDps": 950,
+        "failedDps": 1000,
+        "stageCount": 15,
+        "failedFrame": 860,
+        "remainingHpShield": 570.1350837015962,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "石像鬼石板甲",
+          "光明版狂徒铠甲"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版圣盾使的誓约",
+    "augment": 4,
+    "passedDps": 900,
+    "failedDps": 950,
+    "winners": [
+      {
+        "id": "s8-b6567-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          57
+        ],
+        "augment": 4,
+        "passedDps": 900,
+        "failedDps": 950,
+        "stageCount": 14,
+        "failedFrame": 880,
+        "remainingHpShield": 307.22602343810786,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版圣盾使的誓约"
+        ]
+      },
+      {
+        "id": "s8-b19867-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          27,
+          57
+        ],
+        "augment": 4,
+        "passedDps": 900,
+        "failedDps": 950,
+        "stageCount": 14,
+        "failedFrame": 830,
+        "remainingHpShield": 355.54989688484966,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "石像鬼石板甲",
+          "光明版圣盾使的誓约"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版夜之锋刃",
+    "augment": 4,
+    "passedDps": 850,
+    "failedDps": 900,
+    "winners": [
+      {
+        "id": "s8-b6549-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          39
+        ],
+        "augment": 4,
+        "passedDps": 850,
+        "failedDps": 900,
+        "stageCount": 13,
+        "failedFrame": 870,
+        "remainingHpShield": 165.5687804846845,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版夜之锋刃"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版适应性头盔",
+    "augment": 4,
+    "passedDps": 850,
+    "failedDps": 900,
+    "winners": [
+      {
+        "id": "s8-b6568-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          58
+        ],
+        "augment": 4,
+        "passedDps": 850,
+        "failedDps": 900,
+        "stageCount": 13,
+        "failedFrame": 850,
+        "remainingHpShield": 717.3693240963289,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版适应性头盔"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版石像鬼石板甲",
+    "augment": 4,
+    "passedDps": 850,
+    "failedDps": 900,
+    "winners": [
+      {
+        "id": "s8-b19872-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          27,
+          62
+        ],
+        "augment": 4,
+        "passedDps": 850,
+        "failedDps": 900,
+        "stageCount": 13,
+        "failedFrame": 880,
+        "remainingHpShield": 204.25030464338982,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "石像鬼石板甲",
+          "光明版石像鬼石板甲"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版海克斯科技枪刃",
+    "augment": 4,
+    "passedDps": 800,
+    "failedDps": 850,
+    "winners": [
+      {
+        "id": "s8-b6547-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          37
+        ],
+        "augment": 4,
+        "passedDps": 800,
+        "failedDps": 850,
+        "stageCount": 12,
+        "failedFrame": 900,
+        "remainingHpShield": 407.2468891672561,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版海克斯科技枪刃"
+        ]
+      },
+      {
+        "id": "s8-b20197-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          27,
+          37
+        ],
+        "augment": 4,
+        "passedDps": 800,
+        "failedDps": 850,
+        "stageCount": 12,
+        "failedFrame": 710,
+        "remainingHpShield": 81.74845643856351,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "石像鬼石板甲",
+          "光明版海克斯科技枪刃"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版斯特拉克的挑战护手",
+    "augment": 4,
+    "passedDps": 800,
+    "failedDps": 850,
+    "winners": [
+      {
+        "id": "s8-b6551-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          41
+        ],
+        "augment": 4,
+        "passedDps": 800,
+        "failedDps": 850,
+        "stageCount": 12,
+        "failedFrame": 870,
+        "remainingHpShield": 226.97670875070122,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版斯特拉克的挑战护手"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版坚定之心",
+    "augment": 4,
+    "passedDps": 800,
+    "failedDps": 850,
+    "winners": [
+      {
+        "id": "s8-b6574-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          64
+        ],
+        "augment": 4,
+        "passedDps": 800,
+        "failedDps": 850,
+        "stageCount": 12,
+        "failedFrame": 820,
+        "remainingHpShield": 640.1928583977472,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版坚定之心"
+        ]
+      },
+      {
+        "id": "s8-b16444-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          17,
+          27,
+          64
+        ],
+        "augment": 4,
+        "passedDps": 800,
+        "failedDps": 850,
+        "stageCount": 12,
+        "failedFrame": 870,
+        "remainingHpShield": 44.043353737702205,
+        "ceilingReached": false,
+        "itemNames": [
+          "冕卫",
+          "石像鬼石板甲",
+          "光明版坚定之心"
+        ]
+      },
+      {
+        "id": "s8-b19874-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          27,
+          64
+        ],
+        "augment": 4,
+        "passedDps": 800,
+        "failedDps": 850,
+        "stageCount": 12,
+        "failedFrame": 900,
+        "remainingHpShield": 371.9458833477247,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "石像鬼石板甲",
+          "光明版坚定之心"
+        ]
+      },
+      {
+        "id": "s8-b20924-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          27,
+          30,
+          64
+        ],
+        "augment": 4,
+        "passedDps": 800,
+        "failedDps": 850,
+        "stageCount": 12,
+        "failedFrame": 820,
+        "remainingHpShield": 377.9431345382387,
+        "ceilingReached": false,
+        "itemNames": [
+          "石像鬼石板甲",
+          "巨龙之爪",
+          "光明版坚定之心"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版离子火花",
+    "augment": 4,
+    "passedDps": 750,
+    "failedDps": 800,
+    "winners": [
+      {
+        "id": "s8-b19863-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          27,
+          53
+        ],
+        "augment": 4,
+        "passedDps": 750,
+        "failedDps": 800,
+        "stageCount": 11,
+        "failedFrame": 760,
+        "remainingHpShield": 182.2176597017778,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "石像鬼石板甲",
+          "光明版离子火花"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版蓝霸符",
+    "augment": 4,
+    "passedDps": 750,
+    "failedDps": 800,
+    "winners": [
+      {
+        "id": "s8-b6566-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          56
+        ],
+        "augment": 4,
+        "passedDps": 750,
+        "failedDps": 800,
+        "stageCount": 11,
+        "failedFrame": 870,
+        "remainingHpShield": 98.33381694584587,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版蓝霸符"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版棘刺背心",
+    "augment": 4,
+    "passedDps": 700,
+    "failedDps": 750,
+    "winners": [
+      {
+        "id": "s8-b19871-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          27,
+          61
+        ],
+        "augment": 4,
+        "passedDps": 700,
+        "failedDps": 750,
+        "stageCount": 10,
+        "failedFrame": 770,
+        "remainingHpShield": 159.03879667396916,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "石像鬼石板甲",
+          "光明版棘刺背心"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版日炎斗篷",
+    "augment": 4,
+    "passedDps": 700,
+    "failedDps": 750,
+    "winners": [
+      {
+        "id": "s8-b19873-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          27,
+          63
+        ],
+        "augment": 4,
+        "passedDps": 700,
+        "failedDps": 750,
+        "stageCount": 10,
+        "failedFrame": 850,
+        "remainingHpShield": 70.56363310432371,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "石像鬼石板甲",
+          "光明版日炎斗篷"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版薄暮法袍",
+    "augment": 4,
+    "passedDps": 700,
+    "failedDps": 750,
+    "winners": [
+      {
+        "id": "s8-b19876-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          27,
+          66
+        ],
+        "augment": 4,
+        "passedDps": 700,
+        "failedDps": 750,
+        "stageCount": 10,
+        "failedFrame": 880,
+        "remainingHpShield": 243.99436889673922,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "石像鬼石板甲",
+          "光明版薄暮法袍"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版鬼索的狂暴之刃",
+    "augment": 4,
+    "passedDps": 650,
+    "failedDps": 700,
+    "winners": [
+      {
+        "id": "s8-b6554-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          44
+        ],
+        "augment": 4,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 890,
+        "remainingHpShield": 291.19402494839323,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版鬼索的狂暴之刃"
+        ]
+      },
+      {
+        "id": "s8-b20204-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          27,
+          44
+        ],
+        "augment": 4,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 880,
+        "remainingHpShield": 350.4661718563308,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "石像鬼石板甲",
+          "光明版鬼索的狂暴之刃"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版泰坦的坚决",
+    "augment": 4,
+    "passedDps": 650,
+    "failedDps": 700,
+    "winners": [
+      {
+        "id": "s8-b6556-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          46
+        ],
+        "augment": 4,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 890,
+        "remainingHpShield": 268.0377683324682,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版泰坦的坚决"
+        ]
+      },
+      {
+        "id": "s8-b20206-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          27,
+          46
+        ],
+        "augment": 4,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 870,
+        "remainingHpShield": 42.365261710063834,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "石像鬼石板甲",
+          "光明版泰坦的坚决"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版纳什之牙",
+    "augment": 4,
+    "passedDps": 650,
+    "failedDps": 700,
+    "winners": [
+      {
+        "id": "s8-b19858-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          27,
+          48
+        ],
+        "augment": 4,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 880,
+        "remainingHpShield": 277.7747790449579,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "石像鬼石板甲",
+          "光明版纳什之牙"
+        ]
+      },
+      {
+        "id": "s8-b20208-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          27,
+          48
+        ],
+        "augment": 4,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 740,
+        "remainingHpShield": 268.8416838563335,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "石像鬼石板甲",
+          "光明版纳什之牙"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版灭世者的死亡之帽",
+    "augment": 4,
+    "passedDps": 650,
+    "failedDps": 700,
+    "winners": [
+      {
+        "id": "s8-b6560-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          50
+        ],
+        "augment": 4,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 870,
+        "remainingHpShield": 33.70278525552186,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版灭世者的死亡之帽"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版莫雷洛秘典",
+    "augment": 4,
+    "passedDps": 650,
+    "failedDps": 700,
+    "winners": [
+      {
+        "id": "s8-b19864-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          27,
+          54
+        ],
+        "augment": 4,
+        "passedDps": 650,
+        "failedDps": 700,
+        "stageCount": 9,
+        "failedFrame": 780,
+        "remainingHpShield": 400.1096260321609,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "石像鬼石板甲",
+          "光明版莫雷洛秘典"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版巨人杀手",
+    "augment": 4,
+    "passedDps": 600,
+    "failedDps": 650,
+    "winners": [
+      {
+        "id": "s8-b6546-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          36
+        ],
+        "augment": 4,
+        "passedDps": 600,
+        "failedDps": 650,
+        "stageCount": 8,
+        "failedFrame": 860,
+        "remainingHpShield": 11.040988094116614,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版巨人杀手"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版朔极之矛",
+    "augment": 4,
+    "passedDps": 600,
+    "failedDps": 650,
+    "winners": [
+      {
+        "id": "s8-b19848-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          27,
+          38
+        ],
+        "augment": 4,
+        "passedDps": 600,
+        "failedDps": 650,
+        "stageCount": 8,
+        "failedFrame": 890,
+        "remainingHpShield": 334.80740179834015,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "石像鬼石板甲",
+          "光明版朔极之矛"
+        ]
+      },
+      {
+        "id": "s8-b20198-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          27,
+          38
+        ],
+        "augment": 4,
+        "passedDps": 600,
+        "failedDps": 650,
+        "stageCount": 8,
+        "failedFrame": 760,
+        "remainingHpShield": 422.5427763553852,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "石像鬼石板甲",
+          "光明版朔极之矛"
+        ]
+      },
+      {
+        "id": "s8-b20898-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          27,
+          30,
+          38
+        ],
+        "augment": 4,
+        "passedDps": 600,
+        "failedDps": 650,
+        "stageCount": 8,
+        "failedFrame": 850,
+        "remainingHpShield": 165.41583060655313,
+        "ceilingReached": false,
+        "itemNames": [
+          "石像鬼石板甲",
+          "巨龙之爪",
+          "光明版朔极之矛"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版大天使之杖",
+    "augment": 4,
+    "passedDps": 600,
+    "failedDps": 650,
+    "winners": [
+      {
+        "id": "s8-b6561-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          51
+        ],
+        "augment": 4,
+        "passedDps": 600,
+        "failedDps": 650,
+        "stageCount": 8,
+        "failedFrame": 880,
+        "remainingHpShield": 122.00950921904528,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版大天使之杖"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版珠光护手",
+    "augment": 4,
+    "passedDps": 600,
+    "failedDps": 650,
+    "winners": [
+      {
+        "id": "s8-b6565-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          55
+        ],
+        "augment": 4,
+        "passedDps": 600,
+        "failedDps": 650,
+        "stageCount": 8,
+        "failedFrame": 900,
+        "remainingHpShield": 214.53382921904603,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版珠光护手"
+        ]
+      },
+      {
+        "id": "s8-b20215-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          27,
+          55
+        ],
+        "augment": 4,
+        "passedDps": 600,
+        "failedDps": 650,
+        "stageCount": 8,
+        "failedFrame": 690,
+        "remainingHpShield": 160.36611313799273,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "石像鬼石板甲",
+          "光明版珠光护手"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版水银",
+    "augment": 4,
+    "passedDps": 600,
+    "failedDps": 650,
+    "winners": [
+      {
+        "id": "s8-b19877-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          27,
+          67
+        ],
+        "augment": 4,
+        "passedDps": 600,
+        "failedDps": 650,
+        "stageCount": 8,
+        "failedFrame": 740,
+        "remainingHpShield": 64.68059990175725,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "石像鬼石板甲",
+          "光明版水银"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版死亡之刃",
+    "augment": 4,
+    "passedDps": 550,
+    "failedDps": 600,
+    "winners": [
+      {
+        "id": "s8-b6545-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          35
+        ],
+        "augment": 4,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 880,
+        "remainingHpShield": 176.637653065483,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版死亡之刃"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版无尽之刃",
+    "augment": 4,
+    "passedDps": 550,
+    "failedDps": 600,
+    "winners": [
+      {
+        "id": "s8-b6552-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          42
+        ],
+        "augment": 4,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 880,
+        "remainingHpShield": 238.0214450654819,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版无尽之刃"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版红霸符",
+    "augment": 4,
+    "passedDps": 550,
+    "failedDps": 600,
+    "winners": [
+      {
+        "id": "s8-b19853-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          27,
+          43
+        ],
+        "augment": 4,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 770,
+        "remainingHpShield": 270.9038716481006,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "石像鬼石板甲",
+          "光明版红霸符"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版虚空之杖",
+    "augment": 4,
+    "passedDps": 550,
+    "failedDps": 600,
+    "winners": [
+      {
+        "id": "s8-b6555-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          45
+        ],
+        "augment": 4,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 900,
+        "remainingHpShield": 194.7468556122591,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版虚空之杖"
+        ]
+      },
+      {
+        "id": "s8-b19855-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          27,
+          45
+        ],
+        "augment": 4,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 880,
+        "remainingHpShield": 116.65327945549603,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "石像鬼石板甲",
+          "光明版虚空之杖"
+        ]
+      },
+      {
+        "id": "s8-b20205-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          27,
+          45
+        ],
+        "augment": 4,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 870,
+        "remainingHpShield": 158.52704537870062,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "石像鬼石板甲",
+          "光明版虚空之杖"
+        ]
+      },
+      {
+        "id": "s8-b20905-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          27,
+          30,
+          45
+        ],
+        "augment": 4,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 860,
+        "remainingHpShield": 28.84878042003554,
+        "ceilingReached": false,
+        "itemNames": [
+          "石像鬼石板甲",
+          "巨龙之爪",
+          "光明版虚空之杖"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版海妖之怒",
+    "augment": 4,
+    "passedDps": 550,
+    "failedDps": 600,
+    "winners": [
+      {
+        "id": "s8-b6557-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          47
+        ],
+        "augment": 4,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 890,
+        "remainingHpShield": 254.6625291114721,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版海妖之怒"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版最后的轻语",
+    "augment": 4,
+    "passedDps": 550,
+    "failedDps": 600,
+    "winners": [
+      {
+        "id": "s8-b6559-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          49
+        ],
+        "augment": 4,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 830,
+        "remainingHpShield": 3.1351905602835473,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版最后的轻语"
+        ]
+      }
+    ]
+  },
+  {
+    "radiant": "光明版强袭者的链枷",
+    "augment": 4,
+    "passedDps": 550,
+    "failedDps": 600,
+    "winners": [
+      {
+        "id": "s8-b6579-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          5,
+          27,
+          69
+        ],
+        "augment": 4,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 890,
+        "remainingHpShield": 390.13600893508533,
+        "ceilingReached": false,
+        "itemNames": [
+          "饮血剑",
+          "石像鬼石板甲",
+          "光明版强袭者的链枷"
+        ]
+      },
+      {
+        "id": "s8-b16449-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          17,
+          27,
+          69
+        ],
+        "augment": 4,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 860,
+        "remainingHpShield": 113.37150682327783,
+        "ceilingReached": false,
+        "itemNames": [
+          "冕卫",
+          "石像鬼石板甲",
+          "光明版强袭者的链枷"
+        ]
+      },
+      {
+        "id": "s8-b19879-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          24,
+          27,
+          69
+        ],
+        "augment": 4,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 830,
+        "remainingHpShield": 648.097843351261,
+        "ceilingReached": false,
+        "itemNames": [
+          "振奋盔甲",
+          "石像鬼石板甲",
+          "光明版强袭者的链枷"
+        ]
+      },
+      {
+        "id": "s8-b20229-a4",
+        "scenario": 8,
+        "heroId": 31500,
+        "items": [
+          25,
+          27,
+          69
+        ],
+        "augment": 4,
+        "passedDps": 550,
+        "failedDps": 600,
+        "stageCount": 7,
+        "failedFrame": 860,
+        "remainingHpShield": 209.93497120151204,
+        "ceilingReached": false,
+        "itemNames": [
+          "正义之手",
+          "石像鬼石板甲",
+          "光明版强袭者的链枷"
+        ]
+      }
+    ]
+  }
+]

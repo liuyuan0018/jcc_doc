@@ -1,0 +1,89 @@
+{
+  "status": "markdown_delivered_not_submitted",
+  "sourceJob": "971984d9c5204dbb9de723f42d8bd9c4",
+  "sourceJobStatus": "completed",
+  "baseSimulations": 604467072,
+  "additionalPressureSimulations": 289946935,
+  "totalCompletedCombatSimulations": 894414007,
+  "sourceRows": 68800,
+  "sourceEnvironmentGroups": 2656,
+  "heroes": 24,
+  "logicalFramesPerSecond": 30,
+  "countDefinition": "已完成基础战斗＋已完成追加压力档战斗；同一配装在不同条件和压力档分别计次，不称为8.94亿套不同配装或实战对局。",
+  "sourceStatePath": "/Users/lyu/Documents/ChatGPT/金铲铲/tank-lab/.local-jobs/latest.json",
+  "sourceStateSha256": "6e71dbb75d60707e8bcf5ce153c2e40f2d0f572bf3b4999172c898de475566f1",
+  "completionEvidence": {
+    "id": "971984d9c5204dbb9de723f42d8bd9c4",
+    "status": "completed",
+    "done": 604467072,
+    "total": 604467072,
+    "rowCount": 68800,
+    "finishedScenarios": 2656,
+    "scenarioCount": 2656,
+    "pressureRuns": 289946935,
+    "ticks": 461817105780,
+    "completeEvent": true,
+    "ended": 1789762511.595086
+  },
+  "baseRowsSumVerified": 604467072,
+  "rowsSha256": "31a19f29016267d29829dc2906a7662224b9184415202b5499c1fde59beb87b7",
+  "counterImplementation": "tank-lab/src/batch.cpp: pressureCount increments only after sim->finished; baseCount and pressureCount are disjoint.",
+  "publicCopy": "/Users/lyu/Documents/ChatGPT/金铲铲/posts/前排主片-20260919-小红书稿.md",
+  "browserUpdatedForThisRevision": false,
+  "publishedByAssistant": false,
+  "topicBinding": "Markdown placeholders only; user must select actual topic entities on platform.",
+  "copyEmphasis": "全量搜索和逐档加压完成后，展示各英雄在同一装备资源与承伤条件下、最高连续通过压力标准的最优配装。",
+  "optimalityScope": {
+    "objective": "每个英雄最高连续通过来伤档",
+    "resources": "金鳞龙，1神器＋2普通装备",
+    "environment": "3人集火、33%重伤、双抗各降低30%、物魔各50%",
+    "scope": "搜索域内最优；未宣称跨所有装备资源和环境的单一全局最优，也未宣称这四位是全英雄前四。"
+  },
+  "perHeroSelectionVerified": {
+    "method": "每个英雄分别搜索；金鳞龙条件固定大亨之铠，其余两件普通装备穷举630对，分别测试2/4/6羁绊，共1890配置情景/英雄。",
+    "objective": "最高连续通过来伤档，从600起步，每档50，每场30秒。",
+    "results": [
+      {
+        "hero": "蔚",
+        "equipment": [
+          "振奋盔甲",
+          "巨龙之爪",
+          "大亨之铠"
+        ],
+        "highestPassedDps": 2150
+      },
+      {
+        "hero": "拉莫斯",
+        "equipment": [
+          "饮血剑",
+          "大天使之杖",
+          "大亨之铠"
+        ],
+        "highestPassedDps": 2000
+      },
+      {
+        "hero": "瑟庄妮",
+        "equipment": [
+          "饮血剑",
+          "适应性头盔",
+          "大亨之铠"
+        ],
+        "highestPassedDps": 1650
+      },
+      {
+        "hero": "伊莉丝",
+        "equipment": [
+          "鬼索的狂暴之刃",
+          "大天使之杖",
+          "大亨之铠"
+        ],
+        "highestPassedDps": 1150
+      }
+    ],
+    "scope": "各英雄在该资源档与环境下的最优候选；没有证明金鳞龙体系本身是每个英雄跨所有资源/海克斯/环境的全局最优。",
+    "sourceAudit": "exports/frontline-video-main-v2/input/audit.json",
+    "sourceRows": "exports/frontline-video-main-v2/input/rows.jsonl",
+    "selectionCode": "scripts/tank-video/export.mjs",
+    "verifiedAgainstRenderedVideoData": true
+  }
+}

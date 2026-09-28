@@ -1,0 +1,186 @@
+{
+  "date": "2026-09-07",
+  "files": [
+    {
+      "source": "/Users/lyu/.codex/.chatgpt-projects/g-p-6a92eb8d82b48191a18f8260ac8204ba/output/xiaohongshu/裁决奶妈-站位图-v2.png",
+      "destination": "exports/裁决奶妈-站位图-v2.png",
+      "bytes": 2094880,
+      "sha256": "e51ef8622b3e3b31ab52e97cde273a953143b0ddb1ba76a0d740fc87c37a8443",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/Users/lyu/.codex/.chatgpt-projects/g-p-6a92eb8d82b48191a18f8260ac8204ba/output/xiaohongshu/image-edit-prompts.md",
+      "destination": "references/image-edit-prompts.md",
+      "bytes": 3114,
+      "sha256": "f57f36140436773c859efa52883c4c2c2617a5261029aa9b7a028cbaa26ba316",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/Users/lyu/.codex/.chatgpt-projects/g-p-6a92eb8d82b48191a18f8260ac8204ba/research/s18-user-reach-map.md",
+      "destination": "references/s18-user-reach-map.md",
+      "bytes": 12918,
+      "sha256": "a33c8268427425d5bf1563b5ea8429ef8503559e4582da12c634cf5bff0ac2f5",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/Users/lyu/.codex/generated_images/01a06cd4-1f23-75d3-b46e-5036fb04aab6/exec-b195bcbf-658b-4106-b900-45eb331f94eb.png",
+      "destination": "templates/排版认可原样.png",
+      "bytes": 2561216,
+      "sha256": "dad95ae4eaf366d2a4e7931738bae6a1a990f3164971584a58bbbfe6d8515963",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-guide-20260906/6a943d800000000020032819/6a943d800000000020032819_1.jpg",
+      "destination": "references/6a943d800000000020032819/6a943d800000000020032819_1.jpg",
+      "bytes": 196672,
+      "sha256": "9797769b37d225b83429b0a5603f2c65960a884add7b7872e5d2d8ed04fa0efc",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-guide-20260906/6a943d800000000020032819/6a943d800000000020032819_2.jpg",
+      "destination": "references/6a943d800000000020032819/6a943d800000000020032819_2.jpg",
+      "bytes": 217026,
+      "sha256": "b4c72bde6dec29590cf6b66bfef3bd3f2bb9bf8aebe469534765b626987d20b3",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-guide-20260906/6a943d800000000020032819/6a943d800000000020032819_3.jpg",
+      "destination": "references/6a943d800000000020032819/6a943d800000000020032819_3.jpg",
+      "bytes": 174268,
+      "sha256": "57b51140a748b2a90d3d5284b6cd0cb2997b30eacd363f6c73f9494375a55a30",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-guide-20260906/6a943d800000000020032819/6a943d800000000020032819_4.jpg",
+      "destination": "references/6a943d800000000020032819/6a943d800000000020032819_4.jpg",
+      "bytes": 164502,
+      "sha256": "ebf2eb629c37e35f3382f6d8725d16f91cebf42d7be6eed7d6ce32073b5e2745",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-guide-20260906/6a943d800000000020032819/6a943d800000000020032819_5.jpg",
+      "destination": "references/6a943d800000000020032819/6a943d800000000020032819_5.jpg",
+      "bytes": 177834,
+      "sha256": "79cf79fda8bca303aa7a1a91d33ff3ac4664f604ef76cb297462a00a27e7f039",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-guide-20260906/6a943d800000000020032819/6a943d800000000020032819_6.jpg",
+      "destination": "references/6a943d800000000020032819/6a943d800000000020032819_6.jpg",
+      "bytes": 225958,
+      "sha256": "d99c29235d50a099365ee8eb3689343f9ac7263925c46b8206fc46c5659a8065",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-guide-20260906/6a9a85ec000000002600bc51/6a9a85ec000000002600bc51_1.jpg",
+      "destination": "references/6a9a85ec000000002600bc51/6a9a85ec000000002600bc51_1.jpg",
+      "bytes": 93398,
+      "sha256": "9bc072f525cb7a6d0f8b34b71d3f4626a24ce186035f6012d287eec7dad68baa",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-guide-20260906/6a9a85ec000000002600bc51/6a9a85ec000000002600bc51_2.jpg",
+      "destination": "references/6a9a85ec000000002600bc51/6a9a85ec000000002600bc51_2.jpg",
+      "bytes": 62436,
+      "sha256": "eeb4d937ff7b8c06b7e39dc2482584098641cbc490f06564c70e437edc98b9f0",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-guide-20260906/6a9a85ec000000002600bc51/6a9a85ec000000002600bc51_3.jpg",
+      "destination": "references/6a9a85ec000000002600bc51/6a9a85ec000000002600bc51_3.jpg",
+      "bytes": 205016,
+      "sha256": "ad2804ea893a7f1efd5fa610fbb127aa79f5c5f7ee35f211e4c3af7eb876bc4c",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-review-20260906/6a9b0efa0000000026039848/6a9b0efa0000000026039848_1.jpg",
+      "destination": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_1.jpg",
+      "bytes": 185832,
+      "sha256": "eed1c23ef03f6a1d3fe8088c35871c3b7e18d7f21a1c4827ebff2f8681783713",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-review-20260906/6a9b0efa0000000026039848/6a9b0efa0000000026039848_10.jpg",
+      "destination": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_10.jpg",
+      "bytes": 284704,
+      "sha256": "26a7424b181cf0bfc5021044baa13a5c166d995d4f85db443296570a392b5268",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-review-20260906/6a9b0efa0000000026039848/6a9b0efa0000000026039848_2.jpg",
+      "destination": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_2.jpg",
+      "bytes": 286540,
+      "sha256": "5f16b6d735661b830dd8f495bc496da6cb9c6e2fd796a4ad3262e538f22bda0b",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-review-20260906/6a9b0efa0000000026039848/6a9b0efa0000000026039848_3.jpg",
+      "destination": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_3.jpg",
+      "bytes": 289146,
+      "sha256": "7cd16328f9637040dd0d0d92d2ce3270ee716d1353bf90977aec6f2ca48104a9",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-review-20260906/6a9b0efa0000000026039848/6a9b0efa0000000026039848_4.jpg",
+      "destination": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_4.jpg",
+      "bytes": 270072,
+      "sha256": "f9614d5c793a31a90853be2caf30a17029a7141187e6d10003c1c35e13456c80",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-review-20260906/6a9b0efa0000000026039848/6a9b0efa0000000026039848_5.jpg",
+      "destination": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_5.jpg",
+      "bytes": 287892,
+      "sha256": "fbf187c5cf534745716154a6108eb555cadfb65c225fb5111b9b3020f7d4911e",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-review-20260906/6a9b0efa0000000026039848/6a9b0efa0000000026039848_6.jpg",
+      "destination": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_6.jpg",
+      "bytes": 277472,
+      "sha256": "25ecd59b1324e4cb94d3e9297266e1117e2b98b1f0e5766531ca2769386a1269",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-review-20260906/6a9b0efa0000000026039848/6a9b0efa0000000026039848_7.jpg",
+      "destination": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_7.jpg",
+      "bytes": 276276,
+      "sha256": "2e0effb5483a7a84607989bfda6d014436414328f416a40e668a354f6d26dede",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-review-20260906/6a9b0efa0000000026039848/6a9b0efa0000000026039848_8.jpg",
+      "destination": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_8.jpg",
+      "bytes": 294026,
+      "sha256": "23f2689f5f54bf6e2f6116f2bad805aaabc4eefaf2c959eb8c1eee2c0666160c",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    },
+    {
+      "source": "/tmp/s18-xhs-review-20260906/6a9b0efa0000000026039848/6a9b0efa0000000026039848_9.jpg",
+      "destination": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_9.jpg",
+      "bytes": 224586,
+      "sha256": "4fc1250926fc7d8d3c61e7edb31c4f3712b892fcd80e28bb397fb4b4cf7fb6e2",
+      "verification": "copy integrity only; not gameplay or visual approval"
+    }
+  ],
+  "third_party_sources": [
+    {
+      "url": "https://www.xiaohongshu.com/explore/6a943d800000000020032819",
+      "date_as_handed_off": "8/30",
+      "local_directory": "references/6a943d800000000020032819",
+      "status": "第三方攻略参考；非已核验独立游戏素材；本轮未重新访问网页"
+    },
+    {
+      "url": "https://www.xiaohongshu.com/explore/6a9a85ec000000002600bc51",
+      "date_as_handed_off": "9/4",
+      "local_directory": "references/6a9a85ec000000002600bc51",
+      "status": "第三方攻略参考；非已核验独立游戏素材；本轮未重新访问网页"
+    },
+    {
+      "url": "https://www.xiaohongshu.com/explore/6a9b0efa0000000026039848",
+      "date_as_handed_off": "9/5",
+      "local_directory": "references/6a9b0efa0000000026039848",
+      "status": "第三方攻略参考；非已核验独立游戏素材；本轮未重新访问网页"
+    }
+  ]
+}

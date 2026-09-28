@@ -1,0 +1,1017 @@
+{
+  "game": "JCC Mobile",
+  "setId": 18,
+  "statisticsVersion": "18.2a",
+  "source": "Fresh DataJ catalog captured 2026-09-21",
+  "heroCount": 24,
+  "scenarioCount": 83,
+  "stars": "Cost 1-3: three stars; cost 4-5: two stars",
+  "equipment": "Exactly three ordinary items; legal repeats; no artifact/radiant/potion/glove envelope",
+  "augments": [
+    {
+      "mask": 0,
+      "name": "None"
+    },
+    {
+      "mask": 1,
+      "name": "心之钢",
+      "datajId": "20578",
+      "requires": "Normal Steadfast Heart"
+    },
+    {
+      "mask": 4,
+      "name": "单身板甲",
+      "datajId": "20593",
+      "requires": "Normal Gargoyle, alone in row"
+    }
+  ],
+  "environment": {
+    "seconds": 30,
+    "fps": 30,
+    "startDps": 300,
+    "step": 50,
+    "maxDps": 20000,
+    "targetRes": 50,
+    "physicalShare": 0.5,
+    "attackers": 5,
+    "wound": 0.33,
+    "woundStart": 0,
+    "woundEnd": 5401,
+    "resistanceMode": 3,
+    "lockFrames": 30,
+    "pauseFrames": 9,
+    "control": false,
+    "fixedDamagePacketsPerSecond": 3
+  },
+  "retention": {
+    "everyLegalConfiguration": true,
+    "everyAttemptedStageResult": true,
+    "winnerPruning": false,
+    "rawResultFloatPrecision": 17,
+    "replay": "Selected full traces; any archived configuration can be replayed with this frozen engine"
+  },
+  "ranking": "Highest consecutive passed DPS per hero; ties preserved; eight unique heroes with boundary ties disclosed",
+  "scenarios": [
+    {
+      "index": 6,
+      "hero_index": 2,
+      "hero": "奥恩",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "护卫": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 7,
+      "hero_index": 2,
+      "hero": "奥恩",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "护卫": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 8,
+      "hero_index": 2,
+      "hero": "奥恩",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 37,
+      "hero_index": 5,
+      "hero": "洛",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "重装": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 38,
+      "hero_index": 5,
+      "hero": "洛",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "重装": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 39,
+      "hero_index": 5,
+      "hero": "洛",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "重装": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 40,
+      "hero_index": 5,
+      "hero": "洛",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 41,
+      "hero_index": 5,
+      "hero": "洛",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 2,
+        "重装": 2
+      },
+      "slots": 3
+    },
+    {
+      "index": 42,
+      "hero_index": 5,
+      "hero": "洛",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 2,
+        "重装": 4
+      },
+      "slots": 5
+    },
+    {
+      "index": 43,
+      "hero_index": 5,
+      "hero": "洛",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 2,
+        "重装": 6
+      },
+      "slots": 7
+    },
+    {
+      "index": 44,
+      "hero_index": 5,
+      "hero": "洛",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 45,
+      "hero_index": 5,
+      "hero": "洛",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 4,
+        "重装": 2
+      },
+      "slots": 5
+    },
+    {
+      "index": 46,
+      "hero_index": 5,
+      "hero": "洛",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 4,
+        "重装": 4
+      },
+      "slots": 7
+    },
+    {
+      "index": 47,
+      "hero_index": 5,
+      "hero": "洛",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 4,
+        "重装": 6
+      },
+      "slots": 9
+    },
+    {
+      "index": 48,
+      "hero_index": 5,
+      "hero": "洛",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 49,
+      "hero_index": 5,
+      "hero": "洛",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 6,
+        "重装": 2
+      },
+      "slots": 7
+    },
+    {
+      "index": 50,
+      "hero_index": 5,
+      "hero": "洛",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 6,
+        "重装": 4
+      },
+      "slots": 9
+    },
+    {
+      "index": 57,
+      "hero_index": 8,
+      "hero": "蕾欧娜",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "护卫": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 58,
+      "hero_index": 8,
+      "hero": "蕾欧娜",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "护卫": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 59,
+      "hero_index": 8,
+      "hero": "蕾欧娜",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 66,
+      "hero_index": 11,
+      "hero": "可酷伯",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "斗士": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 67,
+      "hero_index": 11,
+      "hero": "可酷伯",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "斗士": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 68,
+      "hero_index": 11,
+      "hero": "可酷伯",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "斗士": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 75,
+      "hero_index": 14,
+      "hero": "雷克塞",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "斗士": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 76,
+      "hero_index": 14,
+      "hero": "雷克塞",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "斗士": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 77,
+      "hero_index": 14,
+      "hero": "雷克塞",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "斗士": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 84,
+      "hero_index": 17,
+      "hero": "峡谷迅捷蟹",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "主宰": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 85,
+      "hero_index": 17,
+      "hero": "峡谷迅捷蟹",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "主宰": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 86,
+      "hero_index": 17,
+      "hero": "峡谷迅捷蟹",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "主宰": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 93,
+      "hero_index": 20,
+      "hero": "阿利斯塔",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "斗士": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 94,
+      "hero_index": 20,
+      "hero": "阿利斯塔",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "斗士": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 95,
+      "hero_index": 20,
+      "hero": "阿利斯塔",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "斗士": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 102,
+      "hero_index": 23,
+      "hero": "瑟庄妮",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "主宰": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 103,
+      "hero_index": 23,
+      "hero": "瑟庄妮",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "主宰": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 104,
+      "hero_index": 23,
+      "hero": "瑟庄妮",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "主宰": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 111,
+      "hero_index": 26,
+      "hero": "慎",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "护卫": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 112,
+      "hero_index": 26,
+      "hero": "慎",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "护卫": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 113,
+      "hero_index": 26,
+      "hero": "慎",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 120,
+      "hero_index": 29,
+      "hero": "伊莉丝",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "重装": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 121,
+      "hero_index": 29,
+      "hero": "伊莉丝",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "重装": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 122,
+      "hero_index": 29,
+      "hero": "伊莉丝",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "重装": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 129,
+      "hero_index": 32,
+      "hero": "约里克",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 130,
+      "hero_index": 32,
+      "hero": "约里克",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 131,
+      "hero_index": 32,
+      "hero": "约里克",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "主宰": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 138,
+      "hero_index": 35,
+      "hero": "赫卡里姆",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "重装": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 139,
+      "hero_index": 35,
+      "hero": "赫卡里姆",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "重装": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 140,
+      "hero_index": 35,
+      "hero": "赫卡里姆",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "重装": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 147,
+      "hero_index": 38,
+      "hero": "蔚",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "主宰": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 148,
+      "hero_index": 38,
+      "hero": "蔚",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "主宰": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 149,
+      "hero_index": 38,
+      "hero": "蔚",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "主宰": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 156,
+      "hero_index": 41,
+      "hero": "费德提克",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "护卫": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 157,
+      "hero_index": 41,
+      "hero": "费德提克",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "护卫": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 158,
+      "hero_index": 41,
+      "hero": "费德提克",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 165,
+      "hero_index": 44,
+      "hero": "远古石甲虫",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "斗士": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 166,
+      "hero_index": 44,
+      "hero": "远古石甲虫",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "斗士": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 167,
+      "hero_index": 44,
+      "hero": "远古石甲虫",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "斗士": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 174,
+      "hero_index": 47,
+      "hero": "黛安娜",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "重装": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 175,
+      "hero_index": 47,
+      "hero": "黛安娜",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "重装": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 176,
+      "hero_index": 47,
+      "hero": "黛安娜",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "重装": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 183,
+      "hero_index": 50,
+      "hero": "拉莫斯",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "护卫": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 184,
+      "hero_index": 50,
+      "hero": "拉莫斯",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "护卫": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 185,
+      "hero_index": 50,
+      "hero": "拉莫斯",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 189,
+      "hero_index": 52,
+      "hero": "苍蓝雕纹魔像",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "重装": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 190,
+      "hero_index": 52,
+      "hero": "苍蓝雕纹魔像",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "重装": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 191,
+      "hero_index": 52,
+      "hero": "苍蓝雕纹魔像",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "重装": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 198,
+      "hero_index": 55,
+      "hero": "莉莉娅",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "护卫": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 199,
+      "hero_index": 55,
+      "hero": "莉莉娅",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "护卫": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 200,
+      "hero_index": 55,
+      "hero": "莉莉娅",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 207,
+      "hero_index": 58,
+      "hero": "阿木木",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "主宰": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 208,
+      "hero_index": 58,
+      "hero": "阿木木",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "主宰": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 209,
+      "hero_index": 58,
+      "hero": "阿木木",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "主宰": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 216,
+      "hero_index": 61,
+      "hero": "瑟提",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "斗士": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 217,
+      "hero_index": 61,
+      "hero": "瑟提",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "斗士": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 218,
+      "hero_index": 61,
+      "hero": "瑟提",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "斗士": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 225,
+      "hero_index": 64,
+      "hero": "茂凯",
+      "star": 2,
+      "cost": 5,
+      "traits": {
+        "主宰": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 226,
+      "hero_index": 64,
+      "hero": "茂凯",
+      "star": 2,
+      "cost": 5,
+      "traits": {
+        "主宰": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 227,
+      "hero_index": 64,
+      "hero": "茂凯",
+      "star": 2,
+      "cost": 5,
+      "traits": {
+        "主宰": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 234,
+      "hero_index": 67,
+      "hero": "塔里克",
+      "star": 2,
+      "cost": 5,
+      "traits": {
+        "重装": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 235,
+      "hero_index": 67,
+      "hero": "塔里克",
+      "star": 2,
+      "cost": 5,
+      "traits": {
+        "重装": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 236,
+      "hero_index": 67,
+      "hero": "塔里克",
+      "star": 2,
+      "cost": 5,
+      "traits": {
+        "重装": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 243,
+      "hero_index": 70,
+      "hero": "纳尔",
+      "star": 2,
+      "cost": 5,
+      "traits": {
+        "斗士": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 244,
+      "hero_index": 70,
+      "hero": "纳尔",
+      "star": 2,
+      "cost": 5,
+      "traits": {
+        "斗士": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 245,
+      "hero_index": 70,
+      "hero": "纳尔",
+      "star": 2,
+      "cost": 5,
+      "traits": {
+        "斗士": 6
+      },
+      "slots": 6
+    }
+  ],
+  "id": "frontline-episode-01-rerun-v4",
+  "status": "verified",
+  "supersedes": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-01-rerun-v3",
+  "producer": {
+    "mechanicsRevision": "all-active-skill-shield-lock-20260926"
+  },
+  "reusedConfigurations": 0,
+  "scopeNote": "Full legacy pool including Heart augment; additionally publish filtered no-Heart ranking. No prior scores reused.",
+  "inputHashes": {
+    "vi-cast": "af09f5ce2ee9252fe945a4d7040cdf12f43b7c85c0d86e374aaa0e26422e0a6b",
+    "archive-episode-one": "5dfd2699463d5ddf974ddd6ec193ba2999cfd5e9f61ade69430b59fc7ee68d15",
+    "archive-episode-one.cpp": "82cfe8d80e092ace9c776c00fe70013bc88d89f82353b131410d65584f33d824",
+    "presentation-events": "203b12bf0868e6c2af734964c84381082183d7fd830966921d6de5715db536c6",
+    "heroes.json": "9254e0735f483f56ce7e40056e08d965fd47beab725fe679bf7e5104d6a730e3",
+    "mana-resistance": "ea8fc6bd96ffa791d2218a1d5e1a93d75f84a03b3656267e3059623e7c2ff27e",
+    "replay-native": "c6d07784c65fbfca79db2f55573dee52b4bb4ac51ca7728252b95ad45c774fec",
+    "profiles.json": "a336d67e37e7081c75cdc04a539be3ac42a56f3ad2f4eaedb0e44fd5051dba23",
+    "web.cpp": "e4db26a3b0ff87892237f42f1e22a9f98b7d03aa828798f5e1c6284b13260bcf",
+    "dataj-gamedata.json": "0338c0734fc0faec4cbd8d34bc1ffed1d77fae49169855536b4630097730d9c2",
+    "generated.hpp": "8b5cceff3ffb14701cf62c37a64582e4ce1412f535b61afa0d73b5f0395f4964",
+    "skill-coefficients": "66026d5661d055fc9c06392d5a6795ac5ee4d750d6d77ae79eff8f469dbdf7e2",
+    "hecarim-cast": "ef899cc55d5db84427c0d5390f5a5e92b988b2eeec661d9f71dacebc29c8187c",
+    "catalog.json": "a92dab300195c6c77fb8cbf30af27a72b6a7cc27c6f9190e75ba0295c9c03c53",
+    "check.cpp": "d7524d1b620c49a13d6d9425d61f64463cc26c47199f203ad5ffb5c649ae34bf",
+    "engine-web.hpp": "98d0ea3819a7ddd3f7ea066589f2635efb45be7155d41ced80f0abbdb6a549af",
+    "scenarios.json": "f9137d1a84b2bac39e48c15f115eb0bfee6ff06387389d334381eae3c53ee8a0",
+    "wound": "cafc4c92d10ed33457586f542a48984d43ed50fc0df20082141ac5f9b03e23b5",
+    "check": "786ddb785198cb517d969bbe58afc99f09632808d34e2b55447a4d7bd0d4fbd4"
+  },
+  "startedAt": "2026-09-26T06:10:52.389896+00:00",
+  "execution": {
+    "type": "complete",
+    "configurations": 749490,
+    "stageRuns": 3196989,
+    "elapsedSeconds": 55.3062
+  },
+  "computedAt": "2026-09-26T06:11:48.373658+00:00",
+  "verifiedAt": "2026-09-26T06:14:16.135030+00:00",
+  "validationBoundary": "Data and native replay only; no Unity or video refresh",
+  "currentRanking": "ranking-no-heart.json"
+}

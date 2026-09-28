@@ -1,0 +1,142 @@
+{
+  "passed": true,
+  "checks": [
+    "3 star human/spider records agree",
+    "10 tank attacks fill 20/70 mana at frame462 without incoming damage",
+    "shielded damage mana arithmetic",
+    "mana lock rejects damage and regeneration",
+    "fatal hit cannot rescue via cast",
+    "5 archetype mana ledgers",
+    "shield conservation",
+    "Elise per-attack healing accounting",
+    "fighter and rage receive no damage mana"
+  ],
+  "convergence": [
+    {
+      "hero": "伊莉丝",
+      "star": 1,
+      "times": [
+        8.0,
+        8.0,
+        8.0
+      ],
+      "casts": [
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "hero": "伊莉丝",
+      "star": 2,
+      "times": [
+        11.66667,
+        11.66667,
+        11.66667
+      ],
+      "casts": [
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "hero": "伊莉丝",
+      "star": 3,
+      "times": [
+        22.66667,
+        22.66667,
+        22.66667
+      ],
+      "casts": [
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "hero": "蔚",
+      "star": 1,
+      "times": [
+        15.33333,
+        15.33333,
+        15.33333
+      ],
+      "casts": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "hero": "蔚",
+      "star": 2,
+      "times": [
+        30,
+        30,
+        30
+      ],
+      "casts": [
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "hero": "蔚",
+      "star": 3,
+      "times": [
+        30,
+        30,
+        30
+      ],
+      "casts": [
+        11,
+        11,
+        11
+      ]
+    },
+    {
+      "hero": "阿木木",
+      "star": 1,
+      "times": [
+        11.66667,
+        11.66667,
+        11.66667
+      ],
+      "casts": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "hero": "阿木木",
+      "star": 2,
+      "times": [
+        22.66667,
+        22.66667,
+        22.66667
+      ],
+      "casts": [
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "hero": "阿木木",
+      "star": 3,
+      "times": [
+        30,
+        30,
+        30
+      ],
+      "casts": [
+        6,
+        6,
+        6
+      ]
+    }
+  ]
+}

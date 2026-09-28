@@ -1,0 +1,29 @@
+# 龙龟当前制作版本：v5
+
+当前输入及成片目录：`exports/frontline-rammus-eight-v1/production-v5/`。用户最新要求：保留 Main 的逐档加压与淘汰设计；Results 使用同一首败计分规则；所有静止阶段保留对应解说，但先规定暂停窗口，口播完整落在窗口内，不能反过来拉长暂停。
+
+## 数据和评分
+
+权威评分目录 `research/rammus-rank-progression-20260925/`。8365 套从 300 起每次 +50，首次失败即停止；仅最后通过档与首次失败档之间从低到高 +1 细分，细分也遇到首次失败停止。按该流程的成绩降序排名，真实同分保留。原 64 套选择、有无单身板甲组合不变；17 套分值改变。复用已有扫描证据，无新战斗模拟；Main 83 个展示战斗与新评分的粗档结果完全一致。
+
+## 暂停与解说
+
+配方 `research/rammus-video64-20260925/pause-window-profile.json` 固定各暂停窗口；`revise.py` 验证 TTS 超出窗口时报错，不自动延长。保留全部原战斗数据、战斗时长、淘汰顺序、Main 样式及封面。缩短静止口播，删除重复总结；淘汰解说在进入暂停后开口，21 句均完整落在固定窗口内，最短句尾余量 0.36 秒。Results 八页，各 6 秒，保留语音章节提示。
+
+总时长 147.033 秒，约 2:27；原 v3 为 194.533 秒。v4 是中间节奏稿，v5 才是固定暂停窗口版本。TTS 复用同一声线/处理链，v5 没有重新请求 TTS。完整口播、BGM、淘汰效果混成一个音轨导入 Unity。
+
+## 执行与验证
+
+通过 Unity CLI 加载新回放和整轨音频，使用 `Tools/Production/record_replay.py` 和 unity-media-capture 一次连续录制。原始 take `rammus-continuous-v5.mp4`，仅按 alignment.json 裁准备区；不分段拼接，不逐帧导出。原生录制 Completed，4485 输出帧、86 CFR 补帧（1.92%），85 渲染时序缺帧，音频/编码背压丢帧 0，pending 0，捕获主线程峰值 1.0934 ms。
+
+证据：`timeline-validation.json`、`pause-budget.json`、`unity-preflight.txt`、`verification-final.json`、`media-validation-final.json`。技术检查与用户观看认可区分；本版尚未获用户视听认可、未发布、未提交推送。
+
+复现准备：
+
+```sh
+scripts/tank-video/.venv/bin/python -B research/rammus-video64-20260925/revise.py --baseline exports/frontline-rammus-eight-v1/production-v4 --ranking research/rammus-rank-progression-20260925/replay.json --profile research/rammus-video64-20260925/pause-window-profile.json --out exports/frontline-rammus-eight-v1/production-v5 --id rammus-full-results64-v5
+```
+
+`prepare.py` 仅为旧 v3 的历史脚本，不是当前评分和制作入口。
+
+最终技术验证：147.034 秒，1080×1920/30 fps，H.264/AAC；完整解码和媒体检查通过，音视频轨时长差 0.001 秒，八处实际录音与输入混音相关性 0.9968–0.9983，未检出时间偏移。编码后首次淘汰、Results 第一和第八页已查看；直接 Unity media-capture PNG `source-results-page1.png` 用于源画面对照。未进行整片主观试听，用户对节奏和听感的认可仍待本次预览。

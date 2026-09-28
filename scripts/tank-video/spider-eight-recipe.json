@@ -1,0 +1,299 @@
+{
+  "id": "frontline-spider-eight",
+  "version": 1,
+  "outputDir": "exports/frontline-spider-eight-v1",
+  "outputName": "spider-eight-final-v1.mp4",
+  "replayData": "spider-eight-data.json",
+  "coverPath": "cover/cover-9x16-v2.png",
+  "tts": {
+    "provider": "edge-tts",
+    "voice": "zh-CN-YunxiNeural",
+    "rate": "+4%",
+    "pitch": "+0Hz",
+    "ttsVersion": "7.2.8",
+    "ttsOptions": {}
+  },
+  "voiceProcessing": {
+    "filterChain": "highpass=f=85:p=2,equalizer=f=3500:t=o:w=1:g=-1.5,deesser=i=0.15:m=0.25:f=0.5,acompressor=threshold=0.1:ratio=3:attack=0.3:release=70:makeup=1:knee=2.82843:detection=peak",
+    "fixedGainDb": 7.460000000000001,
+    "fadeMs": 8
+  },
+  "music": {
+    "path": "exports/frontline-video-wallpaper-v1/assets/Wallpaper.mp3",
+    "sha256": "9fa810e5193c88f1b360537366f210f16c2588106d5292f0659e9957fa274f96",
+    "gains": {
+      "wallpaperV2RecipeGainDb": -19.84,
+      "approvedV5AddDb": 3
+    },
+    "fadeInSeconds": 0.6,
+    "fadeOutSeconds": 1.5
+  },
+  "timeline": {
+    "coverLeadSeconds": 0.3,
+    "coverTailSeconds": 0.35,
+    "introMinSeconds": 4.0,
+    "cueGapSeconds": 0.45,
+    "normalSimRate": 3.5,
+    "fastBattleSeconds": 1.45,
+    "fastHoldSeconds": 0.55,
+    "normalHoldMinSeconds": 2.2,
+    "resultMinSeconds": 9.0
+  },
+  "effects": {
+    "path": "scripts/tank-video/effects-elimination.json"
+  },
+  "credits": {
+    "path": "exports/frontline-video-wallpaper-v5/CREDITS.txt",
+    "sha256": "16fe3013961f2a5c085e3f2e0a3b90a1ee31dbfcd89fcfcdd12113e506111a64"
+  },
+  "ui": {
+    "brand": "蜘蛛 · 8套配装 · 模拟测试",
+    "legend": "左上为上期配装 · 右下为纯肉对照",
+    "footnote": "机制模拟 · 非实机录像 · 单身板甲并独占一排",
+    "resultFootnote": "固定条件下参测配装的持续承压 · 实战还要看对手和站位",
+    "heroName": "蜘蛛",
+    "traitLine": "3星 · 6重装 · 单身板甲 · 独占一排",
+    "resultHeader": "蜘蛛 · 8套配装 · 模拟测试",
+    "resultCondition": "3星 · 6重装 · 6人口 · 单身板甲 · 独占一排",
+    "titleAux": "蜘蛛 · 8套 · 模拟",
+    "conditions": "5人集火 / 33%重伤 / 双抗各降30% / 物理魔法各半",
+    "hexLabel": "单身板甲",
+    "soloTraitLine": "3星 · 6重装 · 6人口"
+  },
+  "cues": [
+    {
+      "id": "S01",
+      "text": "蜘蛛的羊刀大天使，要不要换肉装？这次拿八套装备来模拟对比。",
+      "spoken": "蜘蛛的羊刀大天使，要不要换肉装？这次拿八套装备来模拟对比。",
+      "displayLines": [
+        "蜘蛛的羊刀大天使，要不要换肉装？",
+        "这次拿八套装备来模拟对比。"
+      ]
+    },
+    {
+      "id": "S02",
+      "text": "统一三星、六重装，带单身板甲并独占一排。",
+      "spoken": "统一三星、六重装，带单身板甲并独占一排。"
+    },
+    {
+      "id": "S03",
+      "text": "左上是第一期那套，右下是振奋、狂徒、石像鬼的纯肉对照。",
+      "spoken": "左上是第一期那套，右下是振奋、狂徒、石像鬼的纯肉对照。",
+      "displayLines": [
+        "左上是第一期那套，",
+        "右下是振奋、狂徒、石像鬼的纯肉对照。"
+      ]
+    },
+    {
+      "id": "S04",
+      "text": "每档满血重开，三十秒结算还站着，就再加五十来伤。",
+      "spoken": "每档满血重开，三十秒结算还站着，就再加五十来伤。",
+      "displayLines": [
+        "每档满血重开，",
+        "三十秒结算还站着，就再加五十来伤。"
+      ]
+    },
+    {
+      "id": "S05",
+      "text": "每秒一千，八套都过了。继续加。",
+      "spoken": "每秒一千，八套都过了。继续加。"
+    },
+    {
+      "id": "S06",
+      "text": "一千零五十，三套带狂徒的都没过，包括右下这套振奋纯肉。",
+      "spoken": "一千零五十，三套带狂徒的都没过，包括右下这套振奋纯肉。",
+      "displayLines": [
+        "一千零五十，三套带狂徒的都没过，",
+        "包括右下这套振奋纯肉。"
+      ]
+    },
+    {
+      "id": "S07",
+      "text": "一千一百，泰坦大天使、饮血大天使也淘汰了。还剩三套。",
+      "spoken": "一千一百，泰坦大天使、饮血大天使也淘汰了。还剩三套。",
+      "displayLines": [
+        "一千一百，泰坦大天使、饮血大天使也淘汰了。",
+        "还剩三套。"
+      ]
+    },
+    {
+      "id": "S08",
+      "text": "一千一百五十，羊刀泰坦和双石像鬼都倒了。只剩左上这套。",
+      "spoken": "一千一百五十，羊刀泰坦和双石像鬼都倒了。只剩左上这套。",
+      "displayLines": [
+        "一千一百五十，羊刀泰坦和双石像鬼都倒了。",
+        "只剩左上这套。"
+      ]
+    },
+    {
+      "id": "S09",
+      "text": "羊刀、大天使、石像鬼，这档通过。再加五十。",
+      "spoken": "羊刀、大天使、石像鬼，这档通过。再加五十。"
+    },
+    {
+      "id": "S10",
+      "text": "一千二百，这次没撑住。最高通过停在一千一百五十。",
+      "spoken": "一千二百，这次没撑住。最高通过停在一千一百五十。",
+      "displayLines": [
+        "一千二百，这次没撑住。",
+        "最高通过停在一千一百五十。"
+      ]
+    },
+    {
+      "id": "S11",
+      "text": "八套里，上期那套最高。羊刀换成泰坦或饮血，都是一千零五十。",
+      "spoken": "八套里，上期那套最高。羊刀换成泰坦或饮血，都是一千零五十。",
+      "displayLines": [
+        "八套里，上期那套最高。",
+        "羊刀换成泰坦或饮血，都是一千零五十。"
+      ]
+    },
+    {
+      "id": "S12",
+      "text": "振奋、狂徒、石像鬼通过一千。它只代表这套纯肉搭配。",
+      "spoken": "振奋、狂徒、石像鬼通过一千。它只代表这套纯肉搭配。",
+      "displayLines": [
+        "振奋、狂徒、石像鬼通过一千。",
+        "它只代表这套纯肉搭配。"
+      ]
+    },
+    {
+      "id": "S13",
+      "text": "这是固定条件下的模拟对照，实战还要看对手和站位。",
+      "spoken": "这是固定条件下的模拟对照，实战还要看对手和站位。",
+      "displayLines": [
+        "这是固定条件下的模拟对照，",
+        "实战还要看对手和站位。"
+      ]
+    }
+  ],
+  "program": {
+    "tiers": [
+      {
+        "dps": 1000,
+        "speed": "normal",
+        "layout": "eight"
+      },
+      {
+        "dps": 1050,
+        "speed": "normal",
+        "layout": "eight"
+      },
+      {
+        "dps": 1100,
+        "speed": "normal",
+        "layout": "eight"
+      },
+      {
+        "dps": 1150,
+        "speed": "normal",
+        "layout": "eight"
+      },
+      {
+        "dps": 1200,
+        "speed": "normal",
+        "layout": "solo"
+      }
+    ],
+    "soloLane": 0,
+    "anchors": {
+      "S01": {
+        "type": "cover"
+      },
+      "S02": {
+        "type": "intro"
+      },
+      "S03": {
+        "type": "intro"
+      },
+      "S04": {
+        "type": "intro"
+      },
+      "S05": {
+        "type": "tierPassed",
+        "tier": 0,
+        "offset": 0.25
+      },
+      "S06": {
+        "type": "tierPassed",
+        "tier": 1,
+        "offset": 0.25
+      },
+      "S07": {
+        "type": "tierPassed",
+        "tier": 2,
+        "offset": 0.25
+      },
+      "S08": {
+        "type": "tierPassed",
+        "tier": 3,
+        "offset": 0.25
+      },
+      "S09": {
+        "type": "tierPassed",
+        "tier": 3,
+        "offset": 0.4
+      },
+      "S10": {
+        "type": "death",
+        "tier": 4,
+        "build": "A",
+        "offset": 0.25
+      },
+      "S11": {
+        "type": "result",
+        "offset": 0.2
+      },
+      "S12": {
+        "type": "result",
+        "offset": 8.8
+      },
+      "S13": {
+        "type": "result",
+        "offset": 16.6
+      }
+    }
+  },
+  "densityOffsets": {
+    "left_text": 10,
+    "conditions": 22,
+    "right_text": 14,
+    "corner_text": 42,
+    "bottom_text": 42,
+    "result_rank": 20
+  },
+  "immutable": [
+    {
+      "path": "exports/frontline-episode-01-video-v3/frontline-episode-01.mp4",
+      "sha256": "ef8fe386ff96e275c83fc9eb79bb005163763605f1ffc659a30b6fe92f9e3ef1"
+    },
+    {
+      "path": "exports/frontline-episode-01-video-v5/frontline-episode-01.mp4",
+      "sha256": "a1154e0407d7cca90e6ce0b0a7c7dc5785812762f061a95595db3b418c8becd4"
+    },
+    {
+      "path": "exports/frontline-ornn-eight-v1/ornn-eight-final-v2.mp4",
+      "sha256": "f8bfa9bb09eef3a12daa9e67b6918d586f825173575802b6f3e9fd900498b172"
+    }
+  ],
+  "sourceDir": "exports/frontline-spider-eight-source-v1",
+  "themePath": "exports/frontline-episode-01-design-v3/design-v3-theme.json",
+  "protectedOutputDirs": [
+    "exports/frontline-ornn-eight-v1",
+    "exports/frontline-episode-01-video-v3",
+    "exports/frontline-episode-01-video-v5"
+  ],
+  "castDefaults": {
+    "hero": "蜘蛛",
+    "cost": 2,
+    "star": 3,
+    "traits": {
+      "重装": 6
+    },
+    "slots": 6,
+    "aug": 4,
+    "_traitText": "6重装 · 6人口",
+    "_qualityText": "蜘蛛 · 2费 · 3星",
+    "avatar": "tank-lab/dist/assets/s18_head_elise.png"
+  }
+}

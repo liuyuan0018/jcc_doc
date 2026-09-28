@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "checks": [
+    {
+      "track": "regular",
+      "images": 12,
+      "codes": 10,
+      "body_chars": 896,
+      "title_chars": 18
+    },
+    {
+      "track": "cold",
+      "images": 7,
+      "codes": 6,
+      "body_chars": 804,
+      "title_chars": 18
+    }
+  ],
+  "source_date": "2026-09-22T19:23:45.336Z",
+  "visual_status": "published"
+}

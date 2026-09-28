@@ -1,0 +1,228 @@
+{
+  "status": "complete",
+  "scope": "2/4/6护卫最强英雄，1—3费三星，4—5费两星；三件普通装备；无/适用单身板甲；不计神器进度",
+  "scenarios": [
+    {
+      "index": 6,
+      "hero_index": 2,
+      "hero": "奥恩",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "护卫": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 7,
+      "hero_index": 2,
+      "hero": "奥恩",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "护卫": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 8,
+      "hero_index": 2,
+      "hero": "奥恩",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 57,
+      "hero_index": 8,
+      "hero": "蕾欧娜",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "护卫": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 58,
+      "hero_index": 8,
+      "hero": "蕾欧娜",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "护卫": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 59,
+      "hero_index": 8,
+      "hero": "蕾欧娜",
+      "star": 3,
+      "cost": 1,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 111,
+      "hero_index": 26,
+      "hero": "慎",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "护卫": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 112,
+      "hero_index": 26,
+      "hero": "慎",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "护卫": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 113,
+      "hero_index": 26,
+      "hero": "慎",
+      "star": 3,
+      "cost": 2,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 156,
+      "hero_index": 41,
+      "hero": "费德提克",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "护卫": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 157,
+      "hero_index": 41,
+      "hero": "费德提克",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "护卫": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 158,
+      "hero_index": 41,
+      "hero": "费德提克",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 183,
+      "hero_index": 50,
+      "hero": "拉莫斯",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "护卫": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 184,
+      "hero_index": 50,
+      "hero": "拉莫斯",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "护卫": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 185,
+      "hero_index": 50,
+      "hero": "拉莫斯",
+      "star": 3,
+      "cost": 3,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6
+    },
+    {
+      "index": 198,
+      "hero_index": 55,
+      "hero": "莉莉娅",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "护卫": 2
+      },
+      "slots": 2
+    },
+    {
+      "index": 199,
+      "hero_index": 55,
+      "hero": "莉莉娅",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "护卫": 4
+      },
+      "slots": 4
+    },
+    {
+      "index": 200,
+      "hero_index": 55,
+      "hero": "莉莉娅",
+      "star": 2,
+      "cost": 4,
+      "traits": {
+        "护卫": 6
+      },
+      "slots": 6
+    }
+  ],
+  "poolPerScenario": 8365,
+  "total": 150570,
+  "scoring": "300 +50首败停止，再从最后通过档+1细分至首败；低于起点未通过记-1、不作精确分数",
+  "sourceHashes": {
+    "web.cpp": "e4db26a3b0ff87892237f42f1e22a9f98b7d03aa828798f5e1c6284b13260bcf",
+    "engine-web.hpp": "7688eb102966721a5b7f97333d9e1a980557d3c479b30e54bb579f41ca682b51",
+    "generated.hpp": "8b5cceff3ffb14701cf62c37a64582e4ce1412f535b61afa0d73b5f0395f4964",
+    "scan.cpp": "cd8294fdb798f4bbadaaa2cca6eee9120e8fd9b217badfa1976db7c180e313b3",
+    "scan": "ca56135070e2d26323412eaa7e26c29a4e854abb71dcf6aecb2c3c2ae1a7430d"
+  },
+  "environment": {
+    "seconds": 30,
+    "attackers": 5,
+    "wound": 0.33,
+    "resistanceReduction": 0.3,
+    "physicalShare": 0.5,
+    "control": false
+  },
+  "reusedScenario": null,
+  "manaLockContract": "Ornn/Shen/Rammus own skill shield blocks all sources including direct mana; equipment/trait shields do not; existing minimum cast lock retained",
+  "newlyComputed": 150570,
+  "reused": 0,
+  "elapsedSeconds": 40.620133667,
+  "belowStart": 54054
+}

@@ -1,0 +1,204 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "compId": "115",
+    "name": "卡丽蜜儿",
+    "desc": null,
+    "gameCode": "【阵容码】#卡丽蜜儿#MjIwMDY3MzAyODc5ODA4NTYxNzg5MTEwOTYxNDE2",
+    "heroes": [
+      {
+        "id": "2323",
+        "heroId": "1513",
+        "heroName": "阿卡丽",
+        "heroType": 0,
+        "isCarry": true,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 1,
+        "heroStarNum": 3,
+        "position": "3,1"
+      },
+      {
+        "id": "2318",
+        "heroId": "1505",
+        "heroName": "卡蜜尔",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": true,
+        "isCore": true,
+        "price": 1,
+        "heroStarNum": 3,
+        "position": "3,2"
+      },
+      {
+        "id": "2315",
+        "heroId": "1500",
+        "heroName": "奥恩",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 1,
+        "heroStarNum": 3,
+        "position": "1,4"
+      },
+      {
+        "id": "2316",
+        "heroId": "1507",
+        "heroName": "韦鲁斯",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 1,
+        "heroStarNum": 3,
+        "position": "4,1"
+      },
+      {
+        "id": "2319",
+        "heroId": "1502",
+        "heroName": "蕾欧娜",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 1,
+        "heroStarNum": 3,
+        "position": "3,4"
+      },
+      {
+        "id": "2322",
+        "heroId": "4503",
+        "heroName": "阿木木",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "3,5"
+      },
+      {
+        "id": "2320",
+        "heroId": "2502",
+        "heroName": "瑟庄妮",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 2,
+        "heroStarNum": null,
+        "position": "3,7"
+      },
+      {
+        "id": "2321",
+        "heroId": "2512",
+        "heroName": "凯尔",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 2,
+        "heroStarNum": null,
+        "position": "4,7"
+      }
+    ],
+    "traits": [
+      {
+        "id": "84700102",
+        "name": "地狱火"
+      },
+      {
+        "id": "83880101",
+        "name": "日蚀骑士"
+      },
+      {
+        "id": "83740101",
+        "name": "护卫"
+      },
+      {
+        "id": "83900101",
+        "name": "狂战士"
+      },
+      {
+        "id": "83830101",
+        "name": "迅捷射手"
+      },
+      {
+        "id": "83710101",
+        "name": "主宰"
+      }
+    ],
+    "equips": [
+      {
+        "heroId": "1500",
+        "equipId": "2034",
+        "compHeroId": "2315"
+      },
+      {
+        "heroId": "1500",
+        "equipId": "2028",
+        "compHeroId": "2315"
+      },
+      {
+        "heroId": "1500",
+        "equipId": "2025",
+        "compHeroId": "2315"
+      },
+      {
+        "heroId": "1507",
+        "equipId": "2037",
+        "compHeroId": "2316"
+      },
+      {
+        "heroId": "1507",
+        "equipId": "2004",
+        "compHeroId": "2316"
+      },
+      {
+        "heroId": "1507",
+        "equipId": "2001",
+        "compHeroId": "2316"
+      },
+      {
+        "heroId": "1505",
+        "equipId": "2041",
+        "compHeroId": "2318"
+      },
+      {
+        "heroId": "1505",
+        "equipId": "2007",
+        "compHeroId": "2318"
+      },
+      {
+        "heroId": "1505",
+        "equipId": "2001",
+        "compHeroId": "2318"
+      },
+      {
+        "heroId": "1513",
+        "equipId": "2039",
+        "compHeroId": "2323"
+      },
+      {
+        "heroId": "1513",
+        "equipId": "2038",
+        "compHeroId": "2323"
+      },
+      {
+        "heroId": "1513",
+        "equipId": "2005",
+        "compHeroId": "2323"
+      }
+    ],
+    "top4Rate": 48.52,
+    "topRate": 6.5,
+    "pickRate": 0.18,
+    "avgPlacement": 4.69,
+    "sampleCount": 2630,
+    "tier": "C",
+    "dataMode": "stats"
+  }
+}

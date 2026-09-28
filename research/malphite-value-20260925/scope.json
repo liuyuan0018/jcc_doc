@@ -1,5 +1,5 @@
 {
-  "status": "preparing",
+  "status": "simulation-ready",
   "hero": "墨菲特",
   "star": 2,
   "blackthornTiers": [
@@ -70,8 +70,7 @@
   "resultsDetailField": "detailRichText",
   "scoring": "300 +50 first failure then +1 refinement until first failure; shared ranks on ties",
   "assumptionsPending": [
-    "sacrifice multiplier order unverified in game",
-    "Malphite petrification/mana behavior and shield expiration explosion require audit"
+    "attack pause and expiry burst retained as declared approximations"
   ],
   "production": "Unity continuous media-capture; shared DSP timeline and actual mixed audio",
   "completedPreparation": [
@@ -80,5 +79,6 @@
     "Variable-length equipment accumulation and serializers",
     "Legacy eight Fiddlesticks runs exactly identical",
     "Fourth stat-only equipment accumulation checked"
-  ]
+  ],
+  "actualConfigurations": 250950
 }

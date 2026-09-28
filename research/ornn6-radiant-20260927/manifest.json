@@ -1,0 +1,32 @@
+{
+  "hero": "奥恩",
+  "star": 3,
+  "traits": {
+    "护卫": 6
+  },
+  "scenario": 8,
+  "equipment": "exactly 1 radiant + 2 ordinary; legal duplicates",
+  "augments": [
+    "none",
+    "solo plate requiring normal gargoyle"
+  ],
+  "options": {
+    "seconds": 30,
+    "fps": 30,
+    "attackers": 5,
+    "wound": 0.33,
+    "resistanceMode": 3,
+    "physicalShare": 0.5,
+    "startDps": 300,
+    "step": 50,
+    "maxDps": 20000,
+    "stop": "first failure"
+  },
+  "hashes": {
+    "web.cpp": "e4db26a3b0ff87892237f42f1e22a9f98b7d03aa828798f5e1c6284b13260bcf",
+    "engine-web.hpp": "834a695ab274acf4bff09c7f43d097f52a8459f71488e4d1d6fc35302ed782ad",
+    "generated.hpp": "8b5cceff3ffb14701cf62c37a64582e4ce1412f535b61afa0d73b5f0395f4964",
+    "archive-episode-one.cpp": "82cfe8d80e092ace9c776c00fe70013bc88d89f82353b131410d65584f33d824"
+  },
+  "scope": "isolated side-conversation calculation; no shared source or current pointers modified"
+}

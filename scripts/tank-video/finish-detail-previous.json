@@ -1,0 +1,170 @@
+{
+  "provider": "edge-tts",
+  "voice": "zh-CN-YunxiNeural",
+  "rate": "+4%",
+  "pitch": "+0Hz",
+  "ttsVersion": "7.2.8",
+  "ttsOptions": {},
+  "pronunciation": {
+    "蔚": "魏"
+  },
+  "characters": [
+    "蔚",
+    "慎",
+    "龙龟",
+    "猪妹",
+    "蜘蛛"
+  ],
+  "duration": 37.2,
+  "source": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-detail-v3/02-vi-build-tiers-voice-soft.mp4",
+  "sourceSha256": "213b9a07ae0cdf29c301901e8e8eb77f19f5c453449815a46bc5ba84a085d1b4",
+  "cues": [
+    {
+      "id": "opening",
+      "start": 0.2,
+      "end": 3.9,
+      "text": "同一个蔚，三套配装，谁更耐扛？",
+      "spoken": "同一个魏，三套配装，谁更耐扛？",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-detail-v3/narration-source/speech-clips/opening-b46f8b5db0b8cd.mp3",
+      "clipSha256": "03b5190841f6ac1b9b7b3fb65478c3d31fefaedb638706f26922a2166c48ebd4",
+      "originalDuration": 3.02,
+      "duration": 3.02,
+      "actualEnd": 3.22,
+      "tempo": 1.0
+    },
+    {
+      "id": "fixed-item",
+      "start": 4.15,
+      "end": 8.15,
+      "text": "大亨固定，另外两件换着穿。",
+      "spoken": "大亨固定，另外两件换着穿。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-detail-v3/narration-source/speech-clips/fixed-item-0964e1ce3f6b9c.mp3",
+      "clipSha256": "2ed10299225d5badc2089c03521e5b752e069636bc2dab0b42d50a9cd427f792",
+      "originalDuration": 2.58,
+      "duration": 2.58,
+      "actualEnd": 6.73,
+      "tempo": 1.0
+    },
+    {
+      "id": "bottom-death",
+      "death": {
+        "round": 0,
+        "label": "配装 C",
+        "offset": 0.08
+      },
+      "end": 13.35,
+      "text": "配装 C 倒了。",
+      "eventAt": 11.822222222222223,
+      "start": 11.902222222222223,
+      "spoken": "配装 C 倒了。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-detail-v3/narration-source/speech-clips/bottom-death-889da250dcbc76.mp3",
+      "clipSha256": "e1f712c2d743f099f375703fe9ae325c79050847dc978055db31238fe3709914",
+      "originalDuration": 1.1,
+      "duration": 1.1,
+      "actualEnd": 13.002222222222223,
+      "tempo": 1.0,
+      "eventOffset": 0.08
+    },
+    {
+      "id": "round-two",
+      "start": 13.6,
+      "end": 18.0,
+      "text": "压力再加一档。",
+      "spoken": "压力再加一档。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-detail-v3/narration-source/speech-clips/round-two-9adbc82d89b15a.mp3",
+      "clipSha256": "a3533d102194bf371fac357846fed7226f4a91d74c6db79f1727c24cd3f40491",
+      "originalDuration": 1.32,
+      "duration": 1.32,
+      "actualEnd": 14.92,
+      "tempo": 1.0
+    },
+    {
+      "id": "middle-death",
+      "death": {
+        "round": 1,
+        "label": "配装 B",
+        "offset": 0.08
+      },
+      "end": 22.75,
+      "text": "配装 B 也倒了。",
+      "eventAt": 20.955555555555556,
+      "start": 21.035555555555554,
+      "spoken": "配装 B 也倒了。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-detail-v3/narration-source/speech-clips/middle-death-ccbb20c71a5804.mp3",
+      "clipSha256": "51564cebe21d968d6e4e5a620ff7c61cde71d192952d73568aeff082b0410430",
+      "originalDuration": 1.12,
+      "duration": 1.12,
+      "actualEnd": 22.155555555555555,
+      "tempo": 1.0,
+      "eventOffset": 0.08
+    },
+    {
+      "id": "round-three",
+      "start": 23.0,
+      "end": 27.0,
+      "text": "最后一档，三套一起看。",
+      "spoken": "最后一档，三套一起看。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-detail-v3/narration-source/speech-clips/round-three-7d53de2146a821.mp3",
+      "clipSha256": "49fd0cd4153664bed3d8cce6faf19838359a03a8e6da56beb4c7175b615558ca",
+      "originalDuration": 2.01,
+      "duration": 2.01,
+      "actualEnd": 25.009999999999998,
+      "tempo": 1.0
+    },
+    {
+      "id": "watch-top",
+      "start": 28.93,
+      "end": 30.48,
+      "text": "配装 A 还在撑。",
+      "spoken": "配装 A 还在撑。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-detail-v3/narration-source/speech-clips/watch-top-1a5bcf1d8131f3.mp3",
+      "clipSha256": "b0baa14335ea839314f0ce6552897f666ac4c6bee3bc86cae2d01001f2d331d4",
+      "originalDuration": 1.39,
+      "duration": 1.39,
+      "actualEnd": 30.32,
+      "tempo": 1.0
+    },
+    {
+      "id": "top-death",
+      "death": {
+        "round": 2,
+        "label": "配装 A",
+        "offset": 0.08
+      },
+      "end": 32.15,
+      "text": "配装 A 也倒了。",
+      "eventAt": 30.53333333333333,
+      "start": 30.61333333333333,
+      "spoken": "配装 A 也倒了。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-detail-v3/narration-source/speech-clips/top-death-9ba0832888ed8a.mp3",
+      "clipSha256": "e52349f6f0976fc42baee3d94eff193d85a8dc170d4898025a5571c1d9a7668a",
+      "originalDuration": 1.37,
+      "duration": 1.37,
+      "actualEnd": 31.98333333333333,
+      "tempo": 1.0,
+      "eventOffset": 0.08
+    },
+    {
+      "id": "summary",
+      "start": 32.35,
+      "end": 37.0,
+      "text": "这组条件下，配装 A 撑得最久。",
+      "spoken": "这组条件下，配装 A 撑得最久。",
+      "clip": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-video-detail-v3/narration-source/speech-clips/summary-84bade4080db6f.mp3",
+      "clipSha256": "7b3d03820b1ccc23ae45d1de829795a84edb1478865fc81cb258ce5de85c7b96",
+      "originalDuration": 2.38,
+      "duration": 2.38,
+      "actualEnd": 34.730000000000004,
+      "tempo": 1.0
+    }
+  ],
+  "voiceProcessing": {
+    "filterChain": "highpass=f=85:p=2,equalizer=f=3500:t=o:w=1:g=-1.5,deesser=i=0.15:m=0.25:f=0.5,acompressor=threshold=0.1:ratio=3:attack=0.3:release=70:makeup=1:knee=2.82843:detection=peak",
+    "fixedGainDb": 7.34,
+    "fadeMs": 8,
+    "patchPadSeconds": 0.12
+  },
+  "notes": [
+    "Normalized copy of the previous recipe; the original files are unchanged."
+  ]
+}

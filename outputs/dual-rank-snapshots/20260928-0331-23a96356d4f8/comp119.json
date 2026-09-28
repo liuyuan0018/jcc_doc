@@ -1,0 +1,184 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "compId": "119",
+    "name": "神谕大嘴",
+    "desc": null,
+    "gameCode": "【阵容码】#神谕大嘴#MjIwMDY3MzAyODc5ODA4NTYxNzg5NzUwMjI1Njky",
+    "heroes": [
+      {
+        "id": "2357",
+        "heroId": "3512",
+        "heroName": "克格莫",
+        "heroType": 0,
+        "isCarry": true,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 3,
+        "heroStarNum": 3,
+        "position": "4,7"
+      },
+      {
+        "id": "2354",
+        "heroId": "4500",
+        "heroName": "苍蓝雕纹魔像",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "1,7"
+      },
+      {
+        "id": "2351",
+        "heroId": "3503",
+        "heroName": "远古石甲虫",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 3,
+        "heroStarNum": 3,
+        "position": "1,1"
+      },
+      {
+        "id": "2353",
+        "heroId": "3500",
+        "heroName": "赫卡里姆",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 3,
+        "heroStarNum": 3,
+        "position": "1,6"
+      },
+      {
+        "id": "2355",
+        "heroId": "4501",
+        "heroName": "莫甘娜",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "2,7"
+      },
+      {
+        "id": "2356",
+        "heroId": "2514",
+        "heroName": "提莫",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 2,
+        "heroStarNum": null,
+        "position": "4,6"
+      },
+      {
+        "id": "2352",
+        "heroId": "1511",
+        "heroName": "苍蓝哨戒",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 1,
+        "heroStarNum": null,
+        "position": "4,1"
+      }
+    ],
+    "traits": [
+      {
+        "id": "84800104",
+        "name": "神谕"
+      },
+      {
+        "id": "84660101",
+        "name": "峡谷野怪"
+      },
+      {
+        "id": "83720101",
+        "name": "重装战士"
+      },
+      {
+        "id": "83980101",
+        "name": "帝王斑蝶"
+      }
+    ],
+    "equips": [
+      {
+        "heroId": "3512",
+        "equipId": "2001",
+        "compHeroId": "2357"
+      },
+      {
+        "heroId": "3512",
+        "equipId": "2045",
+        "compHeroId": "2357"
+      },
+      {
+        "heroId": "3512",
+        "equipId": "2046",
+        "compHeroId": "2357"
+      },
+      {
+        "heroId": "4501",
+        "equipId": "2020",
+        "compHeroId": "2355"
+      },
+      {
+        "heroId": "4501",
+        "equipId": "2038",
+        "compHeroId": "2355"
+      },
+      {
+        "heroId": "4501",
+        "equipId": "2003",
+        "compHeroId": "2355"
+      },
+      {
+        "heroId": "3500",
+        "equipId": "2025",
+        "compHeroId": "2353"
+      },
+      {
+        "heroId": "3500",
+        "equipId": "2028",
+        "compHeroId": "2353"
+      },
+      {
+        "heroId": "3500",
+        "equipId": "2034",
+        "compHeroId": "2353"
+      },
+      {
+        "heroId": "4500",
+        "equipId": "2023",
+        "compHeroId": "2354"
+      },
+      {
+        "heroId": "4500",
+        "equipId": "2028",
+        "compHeroId": "2354"
+      },
+      {
+        "heroId": "4500",
+        "equipId": "2032",
+        "compHeroId": "2354"
+      }
+    ],
+    "top4Rate": 50.17,
+    "topRate": 9.32,
+    "pickRate": 0.27,
+    "avgPlacement": 4.5,
+    "sampleCount": 10954,
+    "tier": "B",
+    "dataMode": "stats"
+  }
+}

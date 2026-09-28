@@ -1,0 +1,271 @@
+[
+  {
+    "name": "地狱火艾希",
+    "source": "https://www.dataj.cc/comp/112",
+    "sampleCount": 2001,
+    "population": 9,
+    "summons": [],
+    "code": "MjIwMDY3MzAyODc5ODA4NTYxNzg4Nzg0Mjk2Njkz",
+    "equipment": [
+      {
+        "item": "朔极之矛",
+        "pieces": [
+          "暴风之剑",
+          "女神之泪"
+        ]
+      },
+      {
+        "item": "红霸符",
+        "pieces": [
+          "反曲之弓",
+          "反曲之弓"
+        ]
+      },
+      {
+        "item": "地狱火纹章",
+        "pieces": [
+          "金铲铲",
+          "反曲之弓"
+        ]
+      },
+      {
+        "item": "无尽之刃",
+        "pieces": [
+          "暴风之剑",
+          "拳套"
+        ]
+      },
+      {
+        "item": "朔极之矛",
+        "pieces": [
+          "暴风之剑",
+          "女神之泪"
+        ]
+      },
+      {
+        "item": "最后的轻语",
+        "pieces": [
+          "反曲之弓",
+          "拳套"
+        ]
+      },
+      {
+        "item": "石像鬼石板甲",
+        "pieces": [
+          "锁子甲",
+          "负极斗篷"
+        ]
+      },
+      {
+        "item": "石像鬼石板甲",
+        "pieces": [
+          "锁子甲",
+          "负极斗篷"
+        ]
+      },
+      {
+        "item": "狂徒铠甲",
+        "pieces": [
+          "巨人腰带",
+          "巨人腰带"
+        ]
+      },
+      {
+        "item": "夜之锋刃",
+        "pieces": [
+          "暴风之剑",
+          "锁子甲"
+        ]
+      },
+      {
+        "item": "虚空之杖",
+        "pieces": [
+          "反曲之弓",
+          "女神之泪"
+        ]
+      },
+      {
+        "item": "班克斯的魔法帽",
+        "pieces": [
+          "无用大棒",
+          "无用大棒"
+        ]
+      }
+    ],
+    "game_import_tested": false,
+    "trait_checks": [
+      {
+        "trait": "地狱火",
+        "required": 5,
+        "count": 5
+      },
+      {
+        "trait": "护卫",
+        "required": 2,
+        "count": 2
+      },
+      {
+        "trait": "猎人",
+        "required": 2,
+        "count": 2
+      },
+      {
+        "trait": "野兽之灵",
+        "required": 2,
+        "count": 2
+      },
+      {
+        "trait": "主宰",
+        "required": 2,
+        "count": 2
+      },
+      {
+        "trait": "宝石骑士",
+        "required": 1,
+        "count": 1
+      }
+    ],
+    "trait_adjustment": "艾希装备地狱火纹章+1地狱火"
+  },
+  {
+    "name": "古纳拉95",
+    "source": "https://www.dataj.cc/comp/113",
+    "sampleCount": 253,
+    "population": 9,
+    "summons": [
+      "石皮树",
+      "生命花"
+    ],
+    "code": null,
+    "equipment": [
+      {
+        "item": "圣盾使的誓约",
+        "pieces": [
+          "女神之泪",
+          "锁子甲"
+        ]
+      },
+      {
+        "item": "石像鬼石板甲",
+        "pieces": [
+          "锁子甲",
+          "负极斗篷"
+        ]
+      },
+      {
+        "item": "狂徒铠甲",
+        "pieces": [
+          "巨人腰带",
+          "巨人腰带"
+        ]
+      },
+      {
+        "item": "无尽之刃",
+        "pieces": [
+          "暴风之剑",
+          "拳套"
+        ]
+      },
+      {
+        "item": "斯特拉克的挑战护手",
+        "pieces": [
+          "暴风之剑",
+          "巨人腰带"
+        ]
+      },
+      {
+        "item": "最后的轻语",
+        "pieces": [
+          "反曲之弓",
+          "拳套"
+        ]
+      },
+      {
+        "item": "朔极之矛",
+        "pieces": [
+          "暴风之剑",
+          "女神之泪"
+        ]
+      },
+      {
+        "item": "纳什之牙",
+        "pieces": [
+          "反曲之弓",
+          "巨人腰带"
+        ]
+      },
+      {
+        "item": "珠光护手",
+        "pieces": [
+          "无用大棒",
+          "拳套"
+        ]
+      },
+      {
+        "item": "汲取剑",
+        "pieces": [
+          "暴风之剑",
+          "负极斗篷"
+        ]
+      },
+      {
+        "item": "斯特拉克的挑战护手",
+        "pieces": [
+          "暴风之剑",
+          "巨人腰带"
+        ]
+      },
+      {
+        "item": "泰坦的坚决",
+        "pieces": [
+          "反曲之弓",
+          "锁子甲"
+        ]
+      }
+    ],
+    "game_import_tested": false,
+    "trait_checks": [
+      {
+        "trait": "重装战士",
+        "required": 4,
+        "count": 4
+      },
+      {
+        "trait": "永恒之森",
+        "required": 3,
+        "count": 3
+      },
+      {
+        "trait": "峡谷野怪",
+        "required": 3,
+        "count": 3
+      },
+      {
+        "trait": "斗士",
+        "required": 2,
+        "count": 2
+      },
+      {
+        "trait": "月蚀骑士",
+        "required": 2,
+        "count": 2
+      },
+      {
+        "trait": "宝石骑士",
+        "required": 1,
+        "count": 1
+      },
+      {
+        "trait": "顶级掠食者",
+        "required": 1,
+        "count": 1
+      },
+      {
+        "trait": "月华神女",
+        "required": 1,
+        "count": 1
+      }
+    ],
+    "trait_adjustment": "远古巨龙顶级掠食者提供2野怪，计数额外+1；召唤物不计人口"
+  }
+]

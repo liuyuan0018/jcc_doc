@@ -1,0 +1,1707 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-21T12:56:45.234012+00:00",
+  "date": "2026-09-21",
+  "test_fixture": false,
+  "status": "published",
+  "source": {
+    "snapshot": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-snapshots/20260921-0324-490995214025",
+    "version": "18.2a",
+    "updated_at": "2026-09-20T19:24:41.989Z",
+    "source_hashes": {
+      "versions": "eac978d106e24db43d9a1fb273fbdaa7b04b2cbbc35753f104bf68c8dc9b2cbf",
+      "summary": "c52e8dcba55925f17f3f8a459e58940aa2ce227be37767688d7c6691ab184ee6",
+      "rank": "1c9c26bcd52ab2cf87ec27db019ae0e3b8944feaa263a92b5d1dd35869f64ed5",
+      "special": "a70217a0b8729358e2b065f73fd9719b6da70c82da140daf52f248c67cf40d8d",
+      "comp119": "cafd101e1bc0a0a7040f9f7bd58955714523ab9e469d9c64bf8441235822aa0a",
+      "kog-ad-equips": "6d7ce91a46a6236daf9421581f1a5720e60945eb202109d4738235e8dd6ec87a",
+      "kayle-gear": "7a70e8910e7f8db51da5f9b548c1988f091f8cbdf45adc77be6407bb39d6a890",
+      "khazix-gear": "44aac7db3290cc70e97241131ad88d88b4677515569f5c7ac01b9b738bac6d81",
+      "ashe-emblem": "3f2cf1d09d25b96521a4344f6d668d6d19dcb194a9eea81c0af36eabbc02f3ce",
+      "comp-112": "76416a9e54ec3257c4c9603d387db023cf89537c427fd6e7cfa522e0a490e54c",
+      "comp-113": "0b41811fa108c43bb51b5376d19d0252f3143805ba395d3086566fcd642169d5",
+      "comp-99": "52c0a1f71983145ef048bd1cde453e0f5ba13de4553ae4807ed88dda9c995698",
+      "comp-104": "08230ab8e58644eb9e5c62e3711d21d844fbbe2292395e084d6e95ca7527f2b4",
+      "comp-89": "11bae6c82f897111c2cd770968d966fbc5db9c393b8631552b8512f5eb4ca685",
+      "comp-100": "e31eb32c61cce79e6c448d674835499dfb24fb3a3863e9d26c35c6f5bcf5467d",
+      "comp-116": "85b48ac9b491afeb1109508d8e3509465251bfb90d9f70ef579102ff26ae7ab8",
+      "comp-106": "1725a8d8959ee2daebf1b6213120da94ccc47b91803023fd00c3578ccc6cf959",
+      "comp-109": "75185197ce1cf6f07229086be68c60d99117daa5cce85eecfe0e527d05c0efad",
+      "comp-115": "97b10b11b69e6eb07fc9e0b1e3ad817131b594b3a5070d5fc759d480941057ab",
+      "comp-88": "670f0fd9c6805340b2a2123e11bd76d41b6798eaa1005ca8d56102689c5457fb",
+      "zyra-equips": "a9f5752599c38ba791ab6e3edf9e982aa2442cbb69d7dd8e79067d709c710b04"
+    }
+  },
+  "configuration_sha256": "f687492171f3cda6e14faa23fc1cc8e1b8ab07acfa736270656f773a40b96626",
+  "notes": [
+    {
+      "note_id": "6aae77650000000029014a10",
+      "title_template": "金铲铲S18阵容榜{{date.short}}｜附阵容码",
+      "topics": [
+        {
+          "name": "金铲铲之战",
+          "id": "610b9c5b000000000101e01b"
+        },
+        {
+          "name": "金铲铲S18",
+          "id": "6a54ea3100000000060129a0"
+        },
+        {
+          "name": "金铲铲自然之力",
+          "id": "6a51d40d000000000301f0d5"
+        },
+        {
+          "name": "金铲铲阵容",
+          "id": "612790e600000000010009d6"
+        },
+        {
+          "name": "金铲铲阵容码",
+          "id": "658bcaf4000000003f03ec9c"
+        },
+        {
+          "name": "金铲铲",
+          "id": "60f51be5000000000100ad43"
+        },
+        {
+          "name": "金铲铲攻略",
+          "id": "612e0fc70000000001003ee1"
+        },
+        {
+          "name": "金铲铲推荐阵容",
+          "id": "6128e7500000000001003081"
+        }
+      ],
+      "collection": "s18金铲铲阵容数据库",
+      "preserve_live_topics_and_settings": true,
+      "key": "regular",
+      "title": "金铲铲S18阵容榜9.21｜附阵容码",
+      "body_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular-body.txt",
+      "body_sha256": "cd478e7b2aa52f7a452818d201390b8c2fb50cb24e3746abbbc15042f9ad2c84",
+      "images": [
+        {
+          "track": "regular",
+          "index": 1,
+          "name": "常规阵容强度榜",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/01-常规阵容强度榜.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/01-常规阵容强度榜.png",
+          "width": 1080,
+          "height": 1851,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/85395596002b44c5e0f6d318da72e382c41515379e74b10e0579b9a63b8fc556.png",
+          "cache_key": "85395596002b44c5e0f6d318da72e382c41515379e74b10e0579b9a63b8fc556",
+          "svg_sha256": "a589ae8c54b83374879ce0aba65555e0870af0c71da79351915c7e4d037dec23",
+          "baseline_png": "exports/S18常规榜-20260920/01-常规阵容强度榜.png",
+          "template": "templates/dual-rank/regular/常规阵容强度榜.svg",
+          "png_sha256": "9bb03cecc0d4591a3c7fc1250cbca638f2256c7169a098dca74609e42d65b2c9",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g34o325cmmshak63g5nggdsjg90itat0ncr8"
+        },
+        {
+          "track": "regular",
+          "index": 2,
+          "name": "今天怎么选",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/02-今天怎么选.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/02-今天怎么选.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/a9c67baf705c1467d7a04459e8ae39c8600029ea535b3483153b7d1e9627d296.png",
+          "cache_key": "a9c67baf705c1467d7a04459e8ae39c8600029ea535b3483153b7d1e9627d296",
+          "svg_sha256": "107e0a9e718a9f16698774a5c99bacdc9288dc79777ba3378a7f23e4b492e847",
+          "baseline_png": "exports/S18常规榜-20260920/02-今天怎么选.png",
+          "template": "templates/dual-rank/regular/今天怎么选.svg",
+          "png_sha256": "37ccbfb1a3ec20a583b0d3814b4b998220be499a88cce970781ef5e2d1b3f6d8",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g34o325cmmshak6405nggdsjg90itfekvoio"
+        },
+        {
+          "track": "regular",
+          "index": 3,
+          "name": "地狱火95",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/03-地狱火95.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/03-地狱火95.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/1ab491c08ee31955d3083061d08b46af765f4fe82d53b32ea4a94e80b473488c.png",
+          "cache_key": "1ab491c08ee31955d3083061d08b46af765f4fe82d53b32ea4a94e80b473488c",
+          "svg_sha256": "a700be04107aeaf04d141e85fbd2544c63574d0ae5564204c6595428efbab8aa",
+          "baseline_png": "exports/S18常规榜-20260920/03-地狱火95.png",
+          "template": "templates/dual-rank/regular/地狱火95.svg",
+          "png_sha256": "bd875633adb318e0613cf2ba6150cd9dbc1d32b1f6c915893120fcd11695c314",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g34o325cmmshak64g5nggdsjg90it4af3dn8"
+        },
+        {
+          "track": "regular",
+          "index": 4,
+          "name": "野怪小红",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/04-野怪小红.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/04-野怪小红.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/b36a59fceedd995dcd59e1a0f145e904b1749a8961cbe52914ff479ad566d186.png",
+          "cache_key": "b36a59fceedd995dcd59e1a0f145e904b1749a8961cbe52914ff479ad566d186",
+          "svg_sha256": "7bb3ec725128fd9f8edee67c570560724806ef64c10aefda776d4f970648a2d5",
+          "baseline_png": "exports/S18常规榜-20260920/04-野怪小红.png",
+          "template": "templates/dual-rank/regular/野怪小红.svg",
+          "png_sha256": "95c0a5a7800bf35f41a98c05efb22cdc71b33f6c6ef4f77d8f7b97e3dde3e9d3",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g34o325cmmshak6505nggdsjg90ittpknc10"
+        },
+        {
+          "track": "regular",
+          "index": 5,
+          "name": "裁决螳螂",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/05-裁决螳螂.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/05-裁决螳螂.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/51baa5526b11684425a69933cc1c9a578de64e2e959e25605bfedc01f2a81269.png",
+          "cache_key": "51baa5526b11684425a69933cc1c9a578de64e2e959e25605bfedc01f2a81269",
+          "svg_sha256": "a0c423be00cf519997c9e2c0295880a786e3a50b6e99c76086f6627a47fab74e",
+          "baseline_png": "exports/S18常规榜-20260920/06-裁决螳螂.png",
+          "template": "templates/dual-rank/regular/裁决螳螂.svg",
+          "png_sha256": "4fe3bceb3002d46589924e6835f892a74fe63b6472e5f7be8c7763108c1b734b",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g34o325cmmshak65g5nggdsjg90itt0dtpb0"
+        },
+        {
+          "track": "regular",
+          "index": 6,
+          "name": "巨龙95",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/06-巨龙95.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/06-巨龙95.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/33794187acba7f10180bc15b4be3db6602445c737f9fdbe03bbdc1c1514aec88.png",
+          "cache_key": "33794187acba7f10180bc15b4be3db6602445c737f9fdbe03bbdc1c1514aec88",
+          "svg_sha256": "c30cf756e1833afa5d00d808662438fcc5b94fdd44d0fbe5de72885484cf3ba1",
+          "baseline_png": "exports/S18常规榜-20260920/05-巨龙95.png",
+          "template": "templates/dual-rank/regular/巨龙95.svg",
+          "png_sha256": "23eba8670fff86c17ac24221e01f99bd61dbddde9058c816f0501b8012442d19",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g34o325cmmshak6605nggdsjg90itk2ejg5o"
+        },
+        {
+          "track": "regular",
+          "index": 7,
+          "name": "重装女警",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/07-重装女警.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/07-重装女警.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/3045204ade7b184110d78911813c68ba8906740007cb040eb10ec692f22b428f.png",
+          "cache_key": "3045204ade7b184110d78911813c68ba8906740007cb040eb10ec692f22b428f",
+          "svg_sha256": "35092a55ff151f5f1841bd1f5ff975332c9a48c858cbfc25ff8dcc7e71e259ab",
+          "baseline_png": "exports/S18常规榜-20260920/07-重装女警.png",
+          "template": "templates/dual-rank/regular/重装女警.svg",
+          "png_sha256": "94939348a2a979688d650e4b29ca0add5081c36c2bc93209a377443f45e0fe17",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g34o325cmn1a34a105nggdsjg90ita8tebbg"
+        },
+        {
+          "track": "regular",
+          "index": 8,
+          "name": "古纳拉95",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/08-古纳拉95.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/08-古纳拉95.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/05dc1bf4e3085188fe9254b90cc047e45bb9e9f55db349c84dbc74eb92cd7065.png",
+          "cache_key": "05dc1bf4e3085188fe9254b90cc047e45bb9e9f55db349c84dbc74eb92cd7065",
+          "svg_sha256": "4cb490c0bd78acc8665fa4880205095574cacd6e10b490cf93e95f832630808b",
+          "baseline_png": "exports/S18常规榜-20260920/08-古纳拉95.png",
+          "template": "templates/dual-rank/regular/古纳拉95.svg",
+          "png_sha256": "04eb0bea79709811f14268f06f10565e6c9ddb287354dc34e6395281b5c363c3",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g34o325cmn2b2k4105nggdsjg90itrbpooco"
+        },
+        {
+          "track": "regular",
+          "index": 9,
+          "name": "7野怪鸡哥",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/09-7野怪鸡哥.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/09-7野怪鸡哥.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/be739e3dc8ccfa057fd7c140113a01ec1356f060187076ac4a5d0615ed82054d.png",
+          "cache_key": "be739e3dc8ccfa057fd7c140113a01ec1356f060187076ac4a5d0615ed82054d",
+          "svg_sha256": "53263b013423b105e239a4109d55e602adaa358654931870ddd046ae4088edc2",
+          "baseline_png": "exports/S18常规榜-20260920/09-7野怪鸡哥.png",
+          "template": "templates/dual-rank/regular/7野怪鸡哥.svg",
+          "png_sha256": "3fe0e040e4ae0237a15035563c64d09ab48a3ed002ab9849f16ab38ac94fa282",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g34o325cmn3bjk6105nggdsjg90itguu8680"
+        },
+        {
+          "track": "regular",
+          "index": 10,
+          "name": "主宰女警",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/10-主宰女警.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/10-主宰女警.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/c49051af93658ce92624de1642e1f2a8d2cd989eb7ce697e2918cc94b93107e4.png",
+          "cache_key": "c49051af93658ce92624de1642e1f2a8d2cd989eb7ce697e2918cc94b93107e4",
+          "svg_sha256": "5251802616ed42635d222c202f8f08fdfdcc9cc4fb4db51228f47230e399b7dc",
+          "baseline_png": "exports/S18常规榜-20260920/10-主宰女警.png",
+          "template": "templates/dual-rank/regular/主宰女警.svg",
+          "png_sha256": "f0bd94aed237b952b1995843376a7352c63a4d561e91c770c1ebc5b9ec0c4ebe",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g34o325cmn4cek4105nggdsjg90it8cm71ig"
+        },
+        {
+          "track": "regular",
+          "index": 11,
+          "name": "皎月螳螂",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/11-皎月螳螂.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/11-皎月螳螂.png",
+          "width": 1080,
+          "height": 1653,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/cfda82387910432c4758e276d18389b1dd75daf0b3f24dc8651850e3321a97ac.png",
+          "cache_key": "cfda82387910432c4758e276d18389b1dd75daf0b3f24dc8651850e3321a97ac",
+          "svg_sha256": "3d3bacf880467d65bd447fd01d043266a6da71e370a9a0c7dcea654762b9f49b",
+          "baseline_png": "exports/S18常规榜-20260920/11-皎月螳螂.png",
+          "template": "templates/dual-rank/regular/皎月螳螂.svg",
+          "png_sha256": "391cbd3a156c1084f06c2dbb4be1ae4e971070a66115f54bd2cc20c1aa55759f",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g34o325cmn5t3ka105nggdsjg90itdcqh4d0"
+        },
+        {
+          "track": "regular",
+          "index": 12,
+          "name": "神谕大嘴",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/12-神谕大嘴.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/12-神谕大嘴.png",
+          "width": 1080,
+          "height": 1851,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/4508a0ba197bd31003befaf7ca75ed580ce8c00abe0a88296e7a81ff0d89b99b.png",
+          "cache_key": "4508a0ba197bd31003befaf7ca75ed580ce8c00abe0a88296e7a81ff0d89b99b",
+          "svg_sha256": "c75065f79ee28b9c51bc9bcc9a784a8e779a5ab4621c6bd1f19b05054714c110",
+          "baseline_png": "exports/S18常规榜-20260920/12-神谕大嘴.png",
+          "template": "templates/dual-rank/regular/神谕大嘴.svg",
+          "png_sha256": "1e43588ecf241669bceb3f69e53c34a50694972f1921e75446ef56cb6f35cf06",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g34o325cmn6s946105nggdsjg90itpb7shio"
+        }
+      ],
+      "code_count": 10,
+      "status": "published",
+      "saved_readback": {
+        "image_limit": 18,
+        "images": [
+          {
+            "height": 1851,
+            "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325cmmshak63g5nggdsjg90itat0ncr8?sign=4ba756ed13d8744126b72711c095564f&t=6ab12b8a",
+            "width": 1080,
+            "asset_id": "1040g34o325cmmshak63g5nggdsjg90itat0ncr8"
+          },
+          {
+            "height": 1653,
+            "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325cmmshak6405nggdsjg90itfekvoio?sign=33de5a181008b876584336d7d4e5f479&t=6ab12b8a",
+            "width": 1080,
+            "asset_id": "1040g34o325cmmshak6405nggdsjg90itfekvoio"
+          },
+          {
+            "height": 1653,
+            "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325cmmshak64g5nggdsjg90it4af3dn8?sign=cbcb80652b5ff8b9fc5daf35925abd3f&t=6ab12b8a",
+            "width": 1080,
+            "asset_id": "1040g34o325cmmshak64g5nggdsjg90it4af3dn8"
+          },
+          {
+            "height": 1653,
+            "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325cmmshak6505nggdsjg90ittpknc10?sign=a1701490acfd4eb5498c0a17ed44aff1&t=6ab12b8a",
+            "width": 1080,
+            "asset_id": "1040g34o325cmmshak6505nggdsjg90ittpknc10"
+          },
+          {
+            "height": 1653,
+            "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325cmmshak65g5nggdsjg90itt0dtpb0?sign=67095a61e216e1ce02718abe13460139&t=6ab12b8a",
+            "width": 1080,
+            "asset_id": "1040g34o325cmmshak65g5nggdsjg90itt0dtpb0"
+          },
+          {
+            "height": 1653,
+            "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325cmmshak6605nggdsjg90itk2ejg5o?sign=59054c7205075e2b375b1f7ad665a58e&t=6ab12b8a",
+            "width": 1080,
+            "asset_id": "1040g34o325cmmshak6605nggdsjg90itk2ejg5o"
+          },
+          {
+            "height": 1653,
+            "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325cmn1a34a105nggdsjg90ita8tebbg?sign=ed08b9e5dc044f41e95507d7ed286f74&t=6ab12b8a",
+            "width": 1080,
+            "asset_id": "1040g34o325cmn1a34a105nggdsjg90ita8tebbg"
+          },
+          {
+            "height": 1653,
+            "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325cmn2b2k4105nggdsjg90itrbpooco?sign=e0fda5aeff16d574819f73fae702fa08&t=6ab12b8a",
+            "width": 1080,
+            "asset_id": "1040g34o325cmn2b2k4105nggdsjg90itrbpooco"
+          },
+          {
+            "height": 1653,
+            "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325cmn3bjk6105nggdsjg90itguu8680?sign=dd6bfa96c8187db9dd51015b084d5256&t=6ab12b8a",
+            "width": 1080,
+            "asset_id": "1040g34o325cmn3bjk6105nggdsjg90itguu8680"
+          },
+          {
+            "height": 1653,
+            "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325cmn4cek4105nggdsjg90it8cm71ig?sign=fc8a6efa0fc87c05055950396da92c36&t=6ab12b8a",
+            "width": 1080,
+            "asset_id": "1040g34o325cmn4cek4105nggdsjg90it8cm71ig"
+          },
+          {
+            "height": 1653,
+            "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325cmn5t3ka105nggdsjg90itdcqh4d0?sign=7049b55f523750c2ae71b20b2b328094&t=6ab12b8a",
+            "width": 1080,
+            "asset_id": "1040g34o325cmn5t3ka105nggdsjg90itdcqh4d0"
+          },
+          {
+            "height": 1851,
+            "src": "https://sns-na-i4.xhscdn.com/spectrum/1040g34o325cmn6s946105nggdsjg90itpb7shio?sign=14101fac97ce01442ae829b506f1fabc&t=6ab12b8a",
+            "width": 1080,
+            "asset_id": "1040g34o325cmn6s946105nggdsjg90itpb7shio"
+          }
+        ],
+        "paragraphs": [
+          {
+            "index": 0,
+            "text": "9月21日选阵容，先看装备和来牌。下方10套按前四率排序，括号内是样本数；封面与内页均为18.2a数据。",
+            "topics": 0
+          },
+          {
+            "index": 1,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 2,
+            "text": "有血量、经济再冲95；女警、小红、螳螂看来牌追三。神谕大嘴仍是顺牌备选：无尽＋锐利之刃＋巨杀前四57.53%（365样本），别当成开局硬玩的成功率。先稳前排，再追大嘴三星。",
+            "topics": 0
+          },
+          {
+            "index": 3,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 4,
+            "text": "地狱火95｜前四63.86%（18223）",
+            "topics": 0
+          },
+          {
+            "index": 5,
+            "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg5MjQwODA3MzIw",
+            "topics": 0
+          },
+          {
+            "index": 6,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 7,
+            "text": "野怪小红｜前四61.97%（5675）",
+            "topics": 0
+          },
+          {
+            "index": 8,
+            "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg4MDI3NDMwMjMx",
+            "topics": 0
+          },
+          {
+            "index": 9,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 10,
+            "text": "裁决螳螂｜前四60.65%（4305）",
+            "topics": 0
+          },
+          {
+            "index": 11,
+            "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg5MjE4MDI5MTQ5",
+            "topics": 0
+          },
+          {
+            "index": 12,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 13,
+            "text": "巨龙95｜前四60.62%（5150）",
+            "topics": 0
+          },
+          {
+            "index": 14,
+            "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg3MTgyMDgwODEz",
+            "topics": 0
+          },
+          {
+            "index": 15,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 16,
+            "text": "重装女警｜前四59.76%（2182）",
+            "topics": 0
+          },
+          {
+            "index": 17,
+            "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg3NDAyMjM1MzI3",
+            "topics": 0
+          },
+          {
+            "index": 18,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 19,
+            "text": "古纳拉95｜前四59.68%（1307）",
+            "topics": 0
+          },
+          {
+            "index": 20,
+            "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg5MDI2ODY2MTcx",
+            "topics": 0
+          },
+          {
+            "index": 21,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 22,
+            "text": "7野怪鸡哥｜前四56.82%（5940）",
+            "topics": 0
+          },
+          {
+            "index": 23,
+            "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg4MDI3OTEyNjQ5",
+            "topics": 0
+          },
+          {
+            "index": 24,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 25,
+            "text": "主宰女警｜前四54.16%（4058）",
+            "topics": 0
+          },
+          {
+            "index": 26,
+            "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg4NzgyNjgwNTQy",
+            "topics": 0
+          },
+          {
+            "index": 27,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 28,
+            "text": "皎月螳螂｜前四53.00%（934）",
+            "topics": 0
+          },
+          {
+            "index": 29,
+            "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg4NTk5MzU2MDc5",
+            "topics": 0
+          },
+          {
+            "index": 30,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 31,
+            "text": "神谕大嘴｜前四49.26%（3374）",
+            "topics": 0
+          },
+          {
+            "index": 32,
+            "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg5NzUwMjI1Njky",
+            "topics": 0
+          },
+          {
+            "index": 33,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 34,
+            "text": "地狱火轮子走物理装，艾希分支需地狱火转；巨龙占2人口，神谕码是7人口核心，站位与装备看图12。",
+            "topics": 0
+          },
+          {
+            "index": 35,
+            "text": "特殊纹章、神器看主页《冷门构筑榜》。",
+            "topics": 0
+          },
+          {
+            "index": 36,
+            "text": "数据：DataJ非官方高分段样本，18.2a，截至9/21 03:24。阵容码尚未做游戏内导入校验，导入后对照配图检查。",
+            "topics": 0
+          },
+          {
+            "index": 37,
+            "text": "#金铲铲之战[话题]#  #金铲铲S18[话题]#  #金铲铲自然之力[话题]#    #金铲铲阵容[话题]# #金铲铲阵容码[话题]# #金铲铲[话题]# #金铲铲攻略[话题]# #金铲铲推荐阵容[话题]#",
+            "topics": 8
+          }
+        ],
+        "settings": {
+          "checkboxes": [
+            true,
+            true
+          ],
+          "text": "内容设置\n收起\n加入合集\n汇集系列视频，有利于连续性观看\ns18金铲铲阵容数据库\n原创声明\n添加内容类型声明\n添加组件\n添加地点\n选择群聊\n引用笔记\n《金铲铲S18冷门榜9.21｜附阵容码》\n添加投票\n关联直播预告\n标记地点或标记朋友\n添加路线\n选择文件\n关联活动\n更多\n金铲铲激励活动来袭\n08-22 至 10-11\n取消关联\n三角洲行动洲年庆\n09-21 至 10-21\n关联\n更多设置\n收起\n允许正文复制\n公开可见"
+        },
+        "title": "金铲铲S18阵容榜9.21｜附阵容码",
+        "topics": [
+          {
+            "id": "610b9c5b000000000101e01b",
+            "name": "金铲铲之战"
+          },
+          {
+            "id": "6a54ea3100000000060129a0",
+            "name": "金铲铲S18"
+          },
+          {
+            "id": "6a51d40d000000000301f0d5",
+            "name": "金铲铲自然之力"
+          },
+          {
+            "id": "612790e600000000010009d6",
+            "name": "金铲铲阵容"
+          },
+          {
+            "id": "658bcaf4000000003f03ec9c",
+            "name": "金铲铲阵容码"
+          },
+          {
+            "id": "60f51be5000000000100ad43",
+            "name": "金铲铲"
+          },
+          {
+            "id": "612e0fc70000000001003ee1",
+            "name": "金铲铲攻略"
+          },
+          {
+            "id": "6128e7500000000001003081",
+            "name": "金铲铲推荐阵容"
+          }
+        ],
+        "note_id": "6aae77650000000029014a10",
+        "body": "9月21日选阵容，先看装备和来牌。下方10套按前四率排序，括号内是样本数；封面与内页均为18.2a数据。\n\n有血量、经济再冲95；女警、小红、螳螂看来牌追三。神谕大嘴仍是顺牌备选：无尽＋锐利之刃＋巨杀前四57.53%（365样本），别当成开局硬玩的成功率。先稳前排，再追大嘴三星。\n\n地狱火95｜前四63.86%（18223）\nMjIwMDY3MzAyODc5ODA4NTYxNzg5MjQwODA3MzIw\n\n野怪小红｜前四61.97%（5675）\nMjIwMDY3MzAyODc5ODA4NTYxNzg4MDI3NDMwMjMx\n\n裁决螳螂｜前四60.65%（4305）\nMjIwMDY3MzAyODc5ODA4NTYxNzg5MjE4MDI5MTQ5\n\n巨龙95｜前四60.62%（5150）\nMjIwMDY3MzAyODc5ODA4NTYxNzg3MTgyMDgwODEz\n\n重装女警｜前四59.76%（2182）\nMjIwMDY3MzAyODc5ODA4NTYxNzg3NDAyMjM1MzI3\n\n古纳拉95｜前四59.68%（1307）\nMjIwMDY3MzAyODc5ODA4NTYxNzg5MDI2ODY2MTcx\n\n7野怪鸡哥｜前四56.82%（5940）\nMjIwMDY3MzAyODc5ODA4NTYxNzg4MDI3OTEyNjQ5\n\n主宰女警｜前四54.16%（4058）\nMjIwMDY3MzAyODc5ODA4NTYxNzg4NzgyNjgwNTQy\n\n皎月螳螂｜前四53.00%（934）\nMjIwMDY3MzAyODc5ODA4NTYxNzg4NTk5MzU2MDc5\n\n神谕大嘴｜前四49.26%（3374）\nMjIwMDY3MzAyODc5ODA4NTYxNzg5NzUwMjI1Njky\n\n地狱火轮子走物理装，艾希分支需地狱火转；巨龙占2人口，神谕码是7人口核心，站位与装备看图12。\n特殊纹章、神器看主页《冷门构筑榜》。\n数据：DataJ非官方高分段样本，18.2a，截至9/21 03:24。阵容码尚未做游戏内导入校验，导入后对照配图检查。",
+        "observed_at": "2026-09-21T13:06:00.182Z",
+        "platform_status": "published",
+        "manager_filter": "已发布",
+        "manager_title": "金铲铲S18阵容榜9.21｜附阵容码",
+        "manager_url": "https://creator.xiaohongshu.com/new/note-manager?source=",
+        "manager_observed_at": "2026-09-21T13:05:01.064Z",
+        "settings_before": {
+          "checkboxes": [
+            true,
+            true
+          ],
+          "text": "内容设置\n收起\n加入合集\n汇集系列视频，有利于连续性观看\ns18金铲铲阵容数据库\n原创声明\n添加内容类型声明\n添加组件\n添加地点\n选择群聊\n引用笔记\n《金铲铲S18冷门榜9.20｜附阵容码》\n添加投票\n关联直播预告\n标记地点或标记朋友\n添加路线\n选择文件\n关联活动\n更多\n金铲铲激励活动来袭\n08-22 至 10-11\n取消关联\n三角洲行动洲年庆\n09-21 至 10-21\n关联\n更多设置\n收起\n允许正文复制\n公开可见"
+        },
+        "uploaded_images": [
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/01-常规阵容强度榜.png",
+            "png_sha256": "9bb03cecc0d4591a3c7fc1250cbca638f2256c7169a098dca74609e42d65b2c9",
+            "preview_src": "blob:https://creator.xiaohongshu.com/f2a15c41-cec1-46b8-8368-e995fd7eb1a2",
+            "asset_id": "1040g34o325cmmshak63g5nggdsjg90itat0ncr8"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/02-今天怎么选.png",
+            "png_sha256": "37ccbfb1a3ec20a583b0d3814b4b998220be499a88cce970781ef5e2d1b3f6d8",
+            "preview_src": "blob:https://creator.xiaohongshu.com/202c5a2d-2b62-43b9-ac13-40f73f612cbd",
+            "asset_id": "1040g34o325cmmshak6405nggdsjg90itfekvoio"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/03-地狱火95.png",
+            "png_sha256": "bd875633adb318e0613cf2ba6150cd9dbc1d32b1f6c915893120fcd11695c314",
+            "preview_src": "blob:https://creator.xiaohongshu.com/c65e49e2-6ae9-41fa-8ae2-fe7b91d3e44a",
+            "asset_id": "1040g34o325cmmshak64g5nggdsjg90it4af3dn8"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/04-野怪小红.png",
+            "png_sha256": "95c0a5a7800bf35f41a98c05efb22cdc71b33f6c6ef4f77d8f7b97e3dde3e9d3",
+            "preview_src": "blob:https://creator.xiaohongshu.com/df705ea2-6246-40db-9537-15f0cfdbe7f6",
+            "asset_id": "1040g34o325cmmshak6505nggdsjg90ittpknc10"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/05-裁决螳螂.png",
+            "png_sha256": "4fe3bceb3002d46589924e6835f892a74fe63b6472e5f7be8c7763108c1b734b",
+            "preview_src": "blob:https://creator.xiaohongshu.com/9215bd17-6429-440a-818c-79a62df10106",
+            "asset_id": "1040g34o325cmmshak65g5nggdsjg90itt0dtpb0"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/06-巨龙95.png",
+            "png_sha256": "23eba8670fff86c17ac24221e01f99bd61dbddde9058c816f0501b8012442d19",
+            "preview_src": "blob:https://creator.xiaohongshu.com/22f15e50-3c16-4dc5-bca4-8cae58f9db20",
+            "asset_id": "1040g34o325cmmshak6605nggdsjg90itk2ejg5o"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/07-重装女警.png",
+            "png_sha256": "94939348a2a979688d650e4b29ca0add5081c36c2bc93209a377443f45e0fe17",
+            "preview_src": "blob:https://creator.xiaohongshu.com/9b5a9d9c-0bdc-43a7-af6a-d9e599bf2947",
+            "asset_id": "1040g34o325cmn1a34a105nggdsjg90ita8tebbg"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/08-古纳拉95.png",
+            "png_sha256": "04eb0bea79709811f14268f06f10565e6c9ddb287354dc34e6395281b5c363c3",
+            "preview_src": "blob:https://creator.xiaohongshu.com/34973055-009c-48a5-a9ca-a07f96187f9f",
+            "asset_id": "1040g34o325cmn2b2k4105nggdsjg90itrbpooco"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/09-7野怪鸡哥.png",
+            "png_sha256": "3fe0e040e4ae0237a15035563c64d09ab48a3ed002ab9849f16ab38ac94fa282",
+            "preview_src": "blob:https://creator.xiaohongshu.com/483ca9f7-85ea-46ca-9e3d-2b63fe7db003",
+            "asset_id": "1040g34o325cmn3bjk6105nggdsjg90itguu8680"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/10-主宰女警.png",
+            "png_sha256": "f0bd94aed237b952b1995843376a7352c63a4d561e91c770c1ebc5b9ec0c4ebe",
+            "preview_src": "blob:https://creator.xiaohongshu.com/4d4227a1-3222-4035-bffe-2dd7d5d0e14d",
+            "asset_id": "1040g34o325cmn4cek4105nggdsjg90it8cm71ig"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/11-皎月螳螂.png",
+            "png_sha256": "391cbd3a156c1084f06c2dbb4be1ae4e971070a66115f54bd2cc20c1aa55759f",
+            "preview_src": "blob:https://creator.xiaohongshu.com/63b08d06-e61e-413a-8cfe-8ce2d81d99b5",
+            "asset_id": "1040g34o325cmn5t3ka105nggdsjg90itdcqh4d0"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/12-神谕大嘴.png",
+            "png_sha256": "1e43588ecf241669bceb3f69e53c34a50694972f1921e75446ef56cb6f35cf06",
+            "preview_src": "blob:https://creator.xiaohongshu.com/199a07c2-68d4-4eb3-b3f4-45007da096de",
+            "asset_id": "1040g34o325cmn6s946105nggdsjg90itpb7shio"
+          }
+        ]
+      }
+    },
+    {
+      "note_id": "6aacd475000000002b01f439",
+      "title_template": "金铲铲S18冷门榜{{date.short}}｜附阵容码",
+      "topics": [
+        {
+          "name": "金铲铲之战",
+          "id": "610b9c5b000000000101e01b"
+        },
+        {
+          "name": "金铲铲阵容",
+          "id": "612790e600000000010009d6"
+        },
+        {
+          "name": "金铲铲",
+          "id": "60f51be5000000000100ad43"
+        },
+        {
+          "name": "金铲铲攻略",
+          "id": "612e0fc70000000001003ee1"
+        },
+        {
+          "name": "金铲铲推荐阵容",
+          "id": "6128e7500000000001003081"
+        },
+        {
+          "name": "金铲铲之战S18",
+          "id": "6a4c9dd5000000000301ea0b"
+        },
+        {
+          "name": "金铲铲自然之力",
+          "id": "6a51d40d000000000301f0d5"
+        },
+        {
+          "name": "金铲铲冷门阵容",
+          "id": "62f35c7100000000010096fc"
+        }
+      ],
+      "collection": "s18金铲铲阵容数据库",
+      "preserve_live_topics_and_settings": true,
+      "key": "cold",
+      "title": "金铲铲S18冷门榜9.21｜附阵容码",
+      "body_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold-body.txt",
+      "body_sha256": "0366b6dafa4553f016e6243dbbd565a40f9fd77629f7ac0660aa74f7cfd8d83e",
+      "images": [
+        {
+          "track": "cold",
+          "index": 1,
+          "name": "冷门构筑强度榜",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/01-冷门构筑强度榜.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/01-冷门构筑强度榜.png",
+          "width": 1080,
+          "height": 1851,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/aaed284211d8fbbd69a28aa160f2e30afae97e55707ebd64e177705626405d22.png",
+          "cache_key": "aaed284211d8fbbd69a28aa160f2e30afae97e55707ebd64e177705626405d22",
+          "svg_sha256": "7a6fe7bf5a0b6b5f18c9c7d105d0033270e7b9bba4c13dbea18351b52bfaf9f9",
+          "baseline_png": "exports/S18冷门榜-20260920/01-冷门构筑强度榜.png",
+          "template": "templates/dual-rank/cold/冷门构筑强度榜.svg",
+          "png_sha256": "4238e0e1565a3ca62800965288701524151156ba1a4fefe7419ae549ffde8bc3",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g0k0325cmoqvc44005nggdsjg90itpbhuk3o"
+        },
+        {
+          "track": "cold",
+          "index": 2,
+          "name": "花妖转凯南",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/02-花妖转凯南.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/02-花妖转凯南.png",
+          "width": 1080,
+          "height": 2040,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/14a17c2344a7b306edac32f450479c922d66550e9f7e894ee4938daf405c204b.png",
+          "cache_key": "14a17c2344a7b306edac32f450479c922d66550e9f7e894ee4938daf405c204b",
+          "svg_sha256": "417c73d68cbad956aede33ad5a97c2b01a6e12b2ad12bf0dc22d56f3163d7f05",
+          "baseline_png": "exports/S18冷门榜-20260920/02-花妖转凯南.png",
+          "template": "templates/dual-rank/cold/花妖转凯南.svg",
+          "png_sha256": "5c971a4b55bf63b55fab2e55b7b20fe1609a9d29b2c2d940fc0b5f15c055bf9b",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g0k0325cmoqvc440g5nggdsjg90itcnpvq50"
+        },
+        {
+          "track": "cold",
+          "index": 3,
+          "name": "猎人转巨龙",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/03-猎人转巨龙.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/03-猎人转巨龙.png",
+          "width": 1080,
+          "height": 2040,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/41f294fc59fb4210c58699a3db80d15a33235a63d6669552468e0c57a02c1ce8.png",
+          "cache_key": "41f294fc59fb4210c58699a3db80d15a33235a63d6669552468e0c57a02c1ce8",
+          "svg_sha256": "707dbd095a19ed2a164a395ed00ee4436ba9a2e924357fedb57fa3d888c32b70",
+          "baseline_png": "exports/S18冷门榜-20260920/03-猎人转巨龙.png",
+          "template": "templates/dual-rank/cold/猎人转巨龙.svg",
+          "png_sha256": "42754576a6ddf8dae2dc4a0b6d18f984731fbbaf8deb19b545fc9a4092117fb0",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g0k0325cmoqvc44105nggdsjg90itluh0r70"
+        },
+        {
+          "track": "cold",
+          "index": 4,
+          "name": "暗爪卡蜜尔",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/04-暗爪卡蜜尔.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/04-暗爪卡蜜尔.png",
+          "width": 1080,
+          "height": 2040,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/6ab150272fb4069afe52828114afd4a0fe69307c8759b5eae28fe6f464bc4935.png",
+          "cache_key": "6ab150272fb4069afe52828114afd4a0fe69307c8759b5eae28fe6f464bc4935",
+          "svg_sha256": "b8c0b54ff8c01ae4418cb0d0eba25e3ca089acebd3c8311a93df912591e038f6",
+          "baseline_png": "exports/S18冷门榜-20260920/04-暗爪卡蜜尔.png",
+          "template": "templates/dual-rank/cold/暗爪卡蜜尔.svg",
+          "png_sha256": "12d77318704bfcdb1b91c0bd4e531222e636d87198e11f331d19b3f5d3a71044",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g0k0325cmoqvc441g5nggdsjg90itfug76l8"
+        },
+        {
+          "track": "cold",
+          "index": 5,
+          "name": "护臂天使",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/05-护臂天使.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/05-护臂天使.png",
+          "width": 1080,
+          "height": 2040,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/b2d7fb980850a1cf05344cd6e4da9d77dea5ae44224bb14337cb8c08ab8dd6dc.png",
+          "cache_key": "b2d7fb980850a1cf05344cd6e4da9d77dea5ae44224bb14337cb8c08ab8dd6dc",
+          "svg_sha256": "f7fc77a71628d9ddd1710e76ba3acfd5bdd92195ea563601ee25ca0b779ed4ff",
+          "baseline_png": "exports/S18冷门榜-20260920/05-护臂天使.png",
+          "template": "templates/dual-rank/cold/护臂天使.svg",
+          "png_sha256": "ed68f65abea690ea17fa0fb06b0af06f5d1fb1c2ae54d88e1136605d7267df6a",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g0k0325cmoqvc44205nggdsjg90it93m47so"
+        },
+        {
+          "track": "cold",
+          "index": 6,
+          "name": "花妖转螳螂",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/06-花妖转螳螂.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/06-花妖转螳螂.png",
+          "width": 1080,
+          "height": 2040,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/5691d9fdbc4546554e27a250fb852e56bc457cce5b7624576729ad072b551242.png",
+          "cache_key": "5691d9fdbc4546554e27a250fb852e56bc457cce5b7624576729ad072b551242",
+          "svg_sha256": "1409a14e5484bdca457608a248378a99ceb0401f5de9f5cb7995669f5e9481a9",
+          "baseline_png": "exports/S18冷门榜-20260920/06-花妖转螳螂.png",
+          "template": "templates/dual-rank/cold/花妖转螳螂.svg",
+          "png_sha256": "27a3a3f97a2da335a11e270ee38ec67bb082e4cdf8adc04e15ecc212d73a3ff8",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g0k0325cmoqvc442g5nggdsjg90ita364nuo"
+        },
+        {
+          "track": "cold",
+          "index": 7,
+          "name": "神谕大嘴",
+          "svg": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/07-神谕大嘴.svg",
+          "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/07-神谕大嘴.png",
+          "width": 1080,
+          "height": 1851,
+          "cache_file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-cache/d0dc5c136e75dac198c2d963ef43d84ded7f0a417a59c30c52c838886f812f07.png",
+          "cache_key": "d0dc5c136e75dac198c2d963ef43d84ded7f0a417a59c30c52c838886f812f07",
+          "svg_sha256": "115f6d5849ce44e6a7048872ddfdccb02bdadd10f32c80be482b303608238ad9",
+          "baseline_png": "exports/S18冷门榜-20260920/07-神谕大嘴.png",
+          "template": "templates/dual-rank/cold/神谕大嘴.svg",
+          "png_sha256": "8b46e0dbcbf2ff935c85383cbeac82e7ed66acfaa3557aabd4df55a744a1b099",
+          "pixel_identical_to_accepted": false,
+          "saved_asset_id": "1040g0k0325cmoqvc44305nggdsjg90itstiv45o"
+        }
+      ],
+      "code_count": 6,
+      "status": "published",
+      "saved_readback": {
+        "image_limit": 18,
+        "images": [
+          {
+            "height": 1851,
+            "src": "https://sns-na-i1.xhscdn.com/spectrum/1040g0k0325cmoqvc44005nggdsjg90itpbhuk3o?sign=7f9b47a41bb7b6244e7d7c70bbd49c03&t=6ab12bef",
+            "width": 1080,
+            "asset_id": "1040g0k0325cmoqvc44005nggdsjg90itpbhuk3o"
+          },
+          {
+            "height": 2040,
+            "src": "https://sns-na-i1.xhscdn.com/spectrum/1040g0k0325cmoqvc440g5nggdsjg90itcnpvq50?sign=237db758ef017351b432ea9ba721cd4a&t=6ab12bef",
+            "width": 1080,
+            "asset_id": "1040g0k0325cmoqvc440g5nggdsjg90itcnpvq50"
+          },
+          {
+            "height": 2040,
+            "src": "https://sns-na-i1.xhscdn.com/spectrum/1040g0k0325cmoqvc44105nggdsjg90itluh0r70?sign=1eaade5c55cb620f67c9ca0cf3848fa9&t=6ab12bef",
+            "width": 1080,
+            "asset_id": "1040g0k0325cmoqvc44105nggdsjg90itluh0r70"
+          },
+          {
+            "height": 2040,
+            "src": "https://sns-na-i1.xhscdn.com/spectrum/1040g0k0325cmoqvc441g5nggdsjg90itfug76l8?sign=1537c00c8f57a663d46a936e32ef2a61&t=6ab12bef",
+            "width": 1080,
+            "asset_id": "1040g0k0325cmoqvc441g5nggdsjg90itfug76l8"
+          },
+          {
+            "height": 2040,
+            "src": "https://sns-na-i1.xhscdn.com/spectrum/1040g0k0325cmoqvc44205nggdsjg90it93m47so?sign=90b8b446144cf3f7985632e555514bd2&t=6ab12bef",
+            "width": 1080,
+            "asset_id": "1040g0k0325cmoqvc44205nggdsjg90it93m47so"
+          },
+          {
+            "height": 2040,
+            "src": "https://sns-na-i1.xhscdn.com/spectrum/1040g0k0325cmoqvc442g5nggdsjg90ita364nuo?sign=b2a6e74395b37d243e344931dac50393&t=6ab12bef",
+            "width": 1080,
+            "asset_id": "1040g0k0325cmoqvc442g5nggdsjg90ita364nuo"
+          },
+          {
+            "height": 1851,
+            "src": "https://sns-na-i1.xhscdn.com/spectrum/1040g0k0325cmoqvc44305nggdsjg90itstiv45o?sign=daad075c95c59000af5aa2b5c197c471&t=6ab12bef",
+            "width": 1080,
+            "asset_id": "1040g0k0325cmoqvc44305nggdsjg90itstiv45o"
+          }
+        ],
+        "paragraphs": [
+          {
+            "index": 0,
+            "text": "9月21日上分先看手里的纹章、神器和来牌。封面看数据和适用条件，图2—7看站位、装备与搜牌。",
+            "topics": 0
+          },
+          {
+            "index": 1,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 2,
+            "text": "有条件优先看三套：花妖转凯南前四83.76%（542样本），猎人转巨龙73.71%（483），暗爪卡蜜尔69.69%（419）。前两套要有血量和经济冲五费，卡蜜尔先拿暗爪、来牌多再追三。",
+            "topics": 0
+          },
+          {
+            "index": 3,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 4,
+            "text": "护臂天使前四70.82%（281样本），花妖转螳螂53.67%（218）。这两项看英雄携装，样本还少，拿到关键装备再考虑，别直接和上面三套排强弱。",
+            "topics": 0
+          },
+          {
+            "index": 5,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 6,
+            "text": "神谕大嘴仍是顺牌备选：体系前四49.26%（3374样本）；无尽＋锐利之刃＋巨杀分项57.53%（365）。大嘴、人马多且物理装合适再玩，7级先稳两星和前排，再考虑大嘴三星。站位与搜牌看图7。",
+            "topics": 0
+          },
+          {
+            "index": 7,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 8,
+            "text": "图2—7看阵容；更多常规选择看主页《常规阵容榜》。以下为基础框架码，游戏内导入尚未校验，请对照配图调整：",
+            "topics": 0
+          },
+          {
+            "index": 9,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 10,
+            "text": "花妖转凯南（地狱火95框架）",
+            "topics": 0
+          },
+          {
+            "index": 11,
+            "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg5MjQwODA3MzIw",
+            "topics": 0
+          },
+          {
+            "index": 12,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 13,
+            "text": "猎人转巨龙（巨龙95框架）",
+            "topics": 0
+          },
+          {
+            "index": 14,
+            "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg3MTgyMDgwODEz",
+            "topics": 0
+          },
+          {
+            "index": 15,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 16,
+            "text": "暗爪卡蜜尔",
+            "topics": 0
+          },
+          {
+            "index": 17,
+            "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg5MTEwOTYxNDE2",
+            "topics": 0
+          },
+          {
+            "index": 18,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 19,
+            "text": "护臂天使（森林天使框架）",
+            "topics": 0
+          },
+          {
+            "index": 20,
+            "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg3MTgxOTg4MDM0",
+            "topics": 0
+          },
+          {
+            "index": 21,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 22,
+            "text": "花妖转螳螂（裁决螳螂框架）",
+            "topics": 0
+          },
+          {
+            "index": 23,
+            "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg5MjE4MDI5MTQ5",
+            "topics": 0
+          },
+          {
+            "index": 24,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 25,
+            "text": "神谕大嘴（7人口核心）",
+            "topics": 0
+          },
+          {
+            "index": 26,
+            "text": "MjIwMDY3MzAyODc5ODA4NTYxNzg5NzUwMjI1Njky",
+            "topics": 0
+          },
+          {
+            "index": 27,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 28,
+            "text": "前3套为所属体系内携装分项，天使、螳螂为英雄携装，大嘴三件套单列。成型数据有筛选偏差，不等于开局硬玩的成功率。",
+            "topics": 0
+          },
+          {
+            "index": 29,
+            "text": "数据：DataJ非官方高分段样本，18.2a，截至9/21 03:24。运营为建议，尚无逐局实战复核。",
+            "topics": 0
+          },
+          {
+            "index": 30,
+            "text": "",
+            "topics": 0
+          },
+          {
+            "index": 31,
+            "text": "#金铲铲之战[话题]#  #金铲铲阵容[话题]#  #金铲铲[话题]#  #金铲铲攻略[话题]#  #金铲铲推荐阵容[话题]#  #金铲铲之战S18[话题]#  #金铲铲自然之力[话题]#  #金铲铲冷门阵容[话题]#",
+            "topics": 8
+          }
+        ],
+        "settings": {
+          "checkboxes": [
+            true,
+            true
+          ],
+          "text": "内容设置\n收起\n加入合集\n汇集系列视频，有利于连续性观看\ns18金铲铲阵容数据库\n原创声明\n添加内容类型声明\n添加组件\n添加地点\n选择群聊\n引用笔记\n《金铲铲S18阵容榜9.21｜附阵容码》\n添加投票\n关联直播预告\n标记地点或标记朋友\n添加路线\n选择文件\n关联活动\n更多\n金铲铲激励活动来袭\n08-22 至 10-11\n取消关联\n三角洲行动洲年庆\n09-21 至 10-21\n关联\n更多设置\n收起\n允许正文复制\n公开可见"
+        },
+        "title": "金铲铲S18冷门榜9.21｜附阵容码",
+        "topics": [
+          {
+            "id": "610b9c5b000000000101e01b",
+            "name": "金铲铲之战"
+          },
+          {
+            "id": "612790e600000000010009d6",
+            "name": "金铲铲阵容"
+          },
+          {
+            "id": "60f51be5000000000100ad43",
+            "name": "金铲铲"
+          },
+          {
+            "id": "612e0fc70000000001003ee1",
+            "name": "金铲铲攻略"
+          },
+          {
+            "id": "6128e7500000000001003081",
+            "name": "金铲铲推荐阵容"
+          },
+          {
+            "id": "6a4c9dd5000000000301ea0b",
+            "name": "金铲铲之战S18"
+          },
+          {
+            "id": "6a51d40d000000000301f0d5",
+            "name": "金铲铲自然之力"
+          },
+          {
+            "id": "62f35c7100000000010096fc",
+            "name": "金铲铲冷门阵容"
+          }
+        ],
+        "note_id": "6aacd475000000002b01f439",
+        "body": "9月21日上分先看手里的纹章、神器和来牌。封面看数据和适用条件，图2—7看站位、装备与搜牌。\n\n有条件优先看三套：花妖转凯南前四83.76%（542样本），猎人转巨龙73.71%（483），暗爪卡蜜尔69.69%（419）。前两套要有血量和经济冲五费，卡蜜尔先拿暗爪、来牌多再追三。\n\n护臂天使前四70.82%（281样本），花妖转螳螂53.67%（218）。这两项看英雄携装，样本还少，拿到关键装备再考虑，别直接和上面三套排强弱。\n\n神谕大嘴仍是顺牌备选：体系前四49.26%（3374样本）；无尽＋锐利之刃＋巨杀分项57.53%（365）。大嘴、人马多且物理装合适再玩，7级先稳两星和前排，再考虑大嘴三星。站位与搜牌看图7。\n\n图2—7看阵容；更多常规选择看主页《常规阵容榜》。以下为基础框架码，游戏内导入尚未校验，请对照配图调整：\n\n花妖转凯南（地狱火95框架）\nMjIwMDY3MzAyODc5ODA4NTYxNzg5MjQwODA3MzIw\n\n猎人转巨龙（巨龙95框架）\nMjIwMDY3MzAyODc5ODA4NTYxNzg3MTgyMDgwODEz\n\n暗爪卡蜜尔\nMjIwMDY3MzAyODc5ODA4NTYxNzg5MTEwOTYxNDE2\n\n护臂天使（森林天使框架）\nMjIwMDY3MzAyODc5ODA4NTYxNzg3MTgxOTg4MDM0\n\n花妖转螳螂（裁决螳螂框架）\nMjIwMDY3MzAyODc5ODA4NTYxNzg5MjE4MDI5MTQ5\n\n神谕大嘴（7人口核心）\nMjIwMDY3MzAyODc5ODA4NTYxNzg5NzUwMjI1Njky\n\n前3套为所属体系内携装分项，天使、螳螂为英雄携装，大嘴三件套单列。成型数据有筛选偏差，不等于开局硬玩的成功率。\n数据：DataJ非官方高分段样本，18.2a，截至9/21 03:24。运营为建议，尚无逐局实战复核。",
+        "observed_at": "2026-09-21T13:07:00.398Z",
+        "platform_status": "published",
+        "manager_filter": "已发布",
+        "manager_title": "金铲铲S18冷门榜9.21｜附阵容码",
+        "manager_url": "https://creator.xiaohongshu.com/new/note-manager?source=",
+        "manager_observed_at": "2026-09-21T13:06:54.288Z",
+        "settings_before": {
+          "checkboxes": [
+            true,
+            true
+          ],
+          "text": "内容设置\n收起\n加入合集\n汇集系列视频，有利于连续性观看\ns18金铲铲阵容数据库\n原创声明\n添加内容类型声明\n添加组件\n添加地点\n选择群聊\n引用笔记\n《金铲铲S18阵容榜9.21｜附阵容码》\n添加投票\n关联直播预告\n标记地点或标记朋友\n添加路线\n选择文件\n关联活动\n更多\n金铲铲激励活动来袭\n08-22 至 10-11\n取消关联\n三角洲行动洲年庆\n09-21 至 10-21\n关联\n更多设置\n收起\n允许正文复制\n公开可见"
+        },
+        "uploaded_images": [
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/01-冷门构筑强度榜.png",
+            "png_sha256": "4238e0e1565a3ca62800965288701524151156ba1a4fefe7419ae549ffde8bc3",
+            "preview_src": "blob:https://creator.xiaohongshu.com/376d4a63-830f-4409-bef4-36b997f973e1",
+            "asset_id": "1040g0k0325cmoqvc44005nggdsjg90itpbhuk3o"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/02-花妖转凯南.png",
+            "png_sha256": "5c971a4b55bf63b55fab2e55b7b20fe1609a9d29b2c2d940fc0b5f15c055bf9b",
+            "preview_src": "blob:https://creator.xiaohongshu.com/dc29d558-2b50-46d6-acd5-30d4883a2cc4",
+            "asset_id": "1040g0k0325cmoqvc440g5nggdsjg90itcnpvq50"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/03-猎人转巨龙.png",
+            "png_sha256": "42754576a6ddf8dae2dc4a0b6d18f984731fbbaf8deb19b545fc9a4092117fb0",
+            "preview_src": "blob:https://creator.xiaohongshu.com/c1b24b85-f438-4cfc-842f-1345a3012e64",
+            "asset_id": "1040g0k0325cmoqvc44105nggdsjg90itluh0r70"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/04-暗爪卡蜜尔.png",
+            "png_sha256": "12d77318704bfcdb1b91c0bd4e531222e636d87198e11f331d19b3f5d3a71044",
+            "preview_src": "blob:https://creator.xiaohongshu.com/fc595ba4-b8ec-4270-ad56-8ce920f07683",
+            "asset_id": "1040g0k0325cmoqvc441g5nggdsjg90itfug76l8"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/05-护臂天使.png",
+            "png_sha256": "ed68f65abea690ea17fa0fb06b0af06f5d1fb1c2ae54d88e1136605d7267df6a",
+            "preview_src": "blob:https://creator.xiaohongshu.com/74af526e-c02c-4e17-a656-ef5e19b30bf2",
+            "asset_id": "1040g0k0325cmoqvc44205nggdsjg90it93m47so"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/06-花妖转螳螂.png",
+            "png_sha256": "27a3a3f97a2da335a11e270ee38ec67bb082e4cdf8adc04e15ecc212d73a3ff8",
+            "preview_src": "blob:https://creator.xiaohongshu.com/e0360978-d255-4899-b923-0341c1c0f57b",
+            "asset_id": "1040g0k0325cmoqvc442g5nggdsjg90ita364nuo"
+          },
+          {
+            "file": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/07-神谕大嘴.png",
+            "png_sha256": "8b46e0dbcbf2ff935c85383cbeac82e7ed66acfaa3557aabd4df55a744a1b099",
+            "preview_src": "blob:https://creator.xiaohongshu.com/6162179b-bdfb-4e19-9fe3-2ebdd43dbced",
+            "asset_id": "1040g0k0325cmoqvc44305nggdsjg90itstiv45o"
+          }
+        ]
+      }
+    }
+  ],
+  "diff": {
+    "same_source": false,
+    "statistics": [
+      {
+        "scope": "regular",
+        "id": "112",
+        "fields": {
+          "sampleCount": {
+            "before": 13485,
+            "after": 18223
+          },
+          "avgPlacement": {
+            "before": 3.65,
+            "after": 3.68
+          },
+          "top4Rate": {
+            "before": 64.36,
+            "after": 63.86
+          },
+          "topRate": {
+            "before": 26.74,
+            "after": 26.33
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "104",
+        "fields": {
+          "sampleCount": {
+            "before": 4215,
+            "after": 5675
+          },
+          "avgPlacement": {
+            "before": 3.88,
+            "after": 3.86
+          },
+          "top4Rate": {
+            "before": 61.23,
+            "after": 61.97
+          },
+          "topRate": {
+            "before": 15.9,
+            "after": 15.59
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "89",
+        "fields": {
+          "sampleCount": {
+            "before": 3995,
+            "after": 5150
+          },
+          "avgPlacement": {
+            "before": 3.83,
+            "after": 3.84
+          },
+          "top4Rate": {
+            "before": 60.8,
+            "after": 60.62
+          },
+          "topRate": {
+            "before": 24.53,
+            "after": 24.39
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "116",
+        "fields": {
+          "sampleCount": {
+            "before": 3058,
+            "after": 4305
+          },
+          "top4Rate": {
+            "before": 60.76,
+            "after": 60.65
+          },
+          "topRate": {
+            "before": 14.52,
+            "after": 14.87
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "100",
+        "fields": {
+          "sampleCount": {
+            "before": 1649,
+            "after": 2182
+          },
+          "avgPlacement": {
+            "before": 4.08,
+            "after": 4.13
+          },
+          "top4Rate": {
+            "before": 60.4,
+            "after": 59.76
+          },
+          "topRate": {
+            "before": 6.73,
+            "after": 6.14
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "113",
+        "fields": {
+          "sampleCount": {
+            "before": 966,
+            "after": 1307
+          },
+          "avgPlacement": {
+            "before": 3.94,
+            "after": 3.96
+          },
+          "top4Rate": {
+            "before": 59.94,
+            "after": 59.68
+          },
+          "topRate": {
+            "before": 20.5,
+            "after": 18.97
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "99",
+        "fields": {
+          "sampleCount": {
+            "before": 4233,
+            "after": 5940
+          },
+          "avgPlacement": {
+            "before": 4.08,
+            "after": 4.12
+          },
+          "top4Rate": {
+            "before": 58,
+            "after": 56.82
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "106",
+        "fields": {
+          "sampleCount": {
+            "before": 3089,
+            "after": 4058
+          },
+          "avgPlacement": {
+            "before": 4.38,
+            "after": 4.39
+          },
+          "top4Rate": {
+            "before": 54.32,
+            "after": 54.16
+          },
+          "topRate": {
+            "before": 5.31,
+            "after": 5.86
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "109",
+        "fields": {
+          "sampleCount": {
+            "before": 706,
+            "after": 934
+          },
+          "avgPlacement": {
+            "before": 4.4,
+            "after": 4.42
+          },
+          "top4Rate": {
+            "before": 53.54,
+            "after": 53
+          },
+          "topRate": {
+            "before": 11.19,
+            "after": 11.35
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "119",
+        "fields": {
+          "sampleCount": {
+            "before": 2223,
+            "after": 3374
+          },
+          "avgPlacement": {
+            "before": 4.51,
+            "after": 4.52
+          },
+          "top4Rate": {
+            "before": 49.21,
+            "after": 49.26
+          },
+          "topRate": {
+            "before": 9.76,
+            "after": 9.54
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "115",
+        "fields": {
+          "sampleCount": {
+            "before": 2178,
+            "after": 2630
+          },
+          "avgPlacement": {
+            "before": 4.72,
+            "after": 4.69
+          },
+          "top4Rate": {
+            "before": 47.52,
+            "after": 48.52
+          },
+          "topRate": {
+            "before": 6.15,
+            "after": 6.5
+          }
+        }
+      },
+      {
+        "scope": "regular",
+        "id": "88",
+        "fields": {
+          "sampleCount": {
+            "before": 1990,
+            "after": 2877
+          },
+          "avgPlacement": {
+            "before": 4.42,
+            "after": 4.44
+          },
+          "top4Rate": {
+            "before": 53.27,
+            "after": 52.35
+          },
+          "topRate": {
+            "before": 11.46,
+            "after": 10.95
+          }
+        }
+      },
+      {
+        "scope": "cold",
+        "id": "kennen",
+        "fields": {
+          "sampleCount": {
+            "before": 401,
+            "after": 542
+          },
+          "avgPlacement": {
+            "before": 2.59,
+            "after": 2.62
+          },
+          "top4Rate": {
+            "before": 84.79,
+            "after": 83.76
+          },
+          "topRate": {
+            "before": 37.16,
+            "after": 38.19
+          }
+        }
+      },
+      {
+        "scope": "cold",
+        "id": "dragon",
+        "fields": {
+          "sampleCount": {
+            "before": 365,
+            "after": 483
+          },
+          "avgPlacement": {
+            "before": 2.94,
+            "after": 3.07
+          },
+          "top4Rate": {
+            "before": 75.34,
+            "after": 73.71
+          },
+          "topRate": {
+            "before": 36.71,
+            "after": 34.78
+          }
+        }
+      },
+      {
+        "scope": "cold",
+        "id": "camille",
+        "fields": {
+          "sampleCount": {
+            "before": 357,
+            "after": 419
+          },
+          "avgPlacement": {
+            "before": 3.55,
+            "after": 3.57
+          },
+          "top4Rate": {
+            "before": 69.75,
+            "after": 69.69
+          },
+          "topRate": {
+            "before": 14.01,
+            "after": 13.13
+          }
+        }
+      },
+      {
+        "scope": "cold",
+        "id": "kayle",
+        "fields": {
+          "sampleCount": {
+            "before": 184,
+            "after": 281
+          },
+          "avgPlacement": {
+            "before": 3.48,
+            "after": 3.54
+          },
+          "top4Rate": {
+            "before": 70.65,
+            "after": 70.82
+          },
+          "topRate": {
+            "before": 20.65,
+            "after": 18.15
+          }
+        }
+      },
+      {
+        "scope": "cold",
+        "id": "khazix",
+        "fields": {
+          "sampleCount": {
+            "before": 172,
+            "after": 218
+          },
+          "avgPlacement": {
+            "before": 4.12,
+            "after": 4.38
+          },
+          "top4Rate": {
+            "before": 59.3,
+            "after": 53.67
+          },
+          "topRate": {
+            "before": 15.12,
+            "after": 12.84
+          }
+        }
+      },
+      {
+        "scope": "cold",
+        "id": "kog",
+        "fields": {
+          "sampleCount": {
+            "before": 253,
+            "after": 365
+          },
+          "avgPlacement": {
+            "before": 4.08,
+            "after": 4.14
+          },
+          "top4Rate": {
+            "before": 57.71,
+            "after": 57.53
+          },
+          "topRate": {
+            "before": 11.46,
+            "after": 10.96
+          }
+        }
+      },
+      {
+        "scope": "extra",
+        "id": "ashe",
+        "fields": {
+          "sampleCount": {
+            "before": 3502,
+            "after": 4518
+          },
+          "top4Rate": {
+            "before": 74.76,
+            "after": 74.92
+          },
+          "topRate": {
+            "before": 34.49,
+            "after": 34.55
+          }
+        }
+      },
+      {
+        "scope": "extra",
+        "id": "zyra",
+        "fields": {
+          "sampleCount": {
+            "before": 297,
+            "after": 387
+          },
+          "avgPlacement": {
+            "before": 4.67,
+            "after": 4.63
+          },
+          "top4Rate": {
+            "before": 45.79,
+            "after": 47.29
+          },
+          "topRate": {
+            "before": 6.4,
+            "after": 7.49
+          }
+        }
+      },
+      {
+        "scope": "extra",
+        "id": "dragon",
+        "fields": {
+          "sampleCount": {
+            "before": 545,
+            "after": 725
+          },
+          "avgPlacement": {
+            "before": 2.64,
+            "after": 2.61
+          },
+          "top4Rate": {
+            "before": 80.37,
+            "after": 80.83
+          },
+          "topRate": {
+            "before": 44.77,
+            "after": 45.66
+          }
+        }
+      }
+    ],
+    "ranking": [
+      {
+        "id": "116",
+        "name": "裁决螳螂",
+        "before": 4,
+        "after": 3
+      },
+      {
+        "id": "89",
+        "name": "巨龙95",
+        "before": 3,
+        "after": 4
+      }
+    ],
+    "tiers": [
+      {
+        "id": "100",
+        "before": "S",
+        "after": "A"
+      },
+      {
+        "id": "109",
+        "before": "A",
+        "after": "B"
+      }
+    ],
+    "review_required": [],
+    "reviewed_alerts": [
+      {
+        "type": "large_rate_change",
+        "scope": "cold",
+        "id": "khazix"
+      }
+    ],
+    "review_receipt": "/Users/lyu/Documents/ChatGPT/金铲铲/state/dual-rank-reviews/f2f8dc3419e685bc6b1b5b2b4c31b6ff2e944307d647fe292fd2d120362a3669.json",
+    "new_candidates": [],
+    "order": [
+      "112",
+      "104",
+      "116",
+      "89",
+      "100",
+      "113",
+      "99",
+      "106",
+      "109",
+      "119"
+    ]
+  },
+  "visual": {
+    "method": "pixel comparison against accepted 2026-09-20 PNGs",
+    "identical": [],
+    "needs_inspection": [],
+    "overview": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/review.jpg",
+    "changed_detail_regions": "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/changed-details.jpg",
+    "inspections": [
+      {
+        "at": "2026-09-21T13:00:50.582001+00:00",
+        "files": [
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/01-冷门构筑强度榜.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/02-花妖转凯南.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/03-猎人转巨龙.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/04-暗爪卡蜜尔.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/05-护臂天使.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/06-花妖转螳螂.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/cold/07-神谕大嘴.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/01-常规阵容强度榜.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/02-今天怎么选.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/03-地狱火95.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/04-野怪小红.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/05-裁决螳螂.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/06-巨龙95.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/07-重装女警.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/08-古纳拉95.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/09-7野怪鸡哥.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/10-主宰女警.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/11-皎月螳螂.png",
+          "/Users/lyu/Documents/ChatGPT/金铲铲/outputs/dual-rank-runs/2026-09-21-490995214025/regular/12-神谕大嘴.png"
+        ],
+        "note": "已检查两张完整封面和17张详情卡的全部像素变化区域：9.21日期、03:24来源时间、排序评级、样本和数值同步，标签文字无遮挡；固定布局素材沿用已认可版本。"
+      }
+    ]
+  },
+  "rendered": 15,
+  "cache_hits": 4,
+  "model_calls": 0
+}

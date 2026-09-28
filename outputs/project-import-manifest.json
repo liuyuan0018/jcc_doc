@@ -1,0 +1,1192 @@
+{
+  "source": "/Users/lyu/Documents/Codex/2026-09-07/s18-content",
+  "destination": "/Users/lyu/Documents/ChatGPT/金铲铲",
+  "imported_at": "2026-09-07T17:50:24.026878+08:00",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "ccdb27f0af07cefe2b4e85736bde26cf6218811e1ffe5ade019ad2c93e051817",
+      "bytes": 2763
+    },
+    {
+      "path": "HANDOFF.md",
+      "sha256": "2ec842108b34953cbe654abf236a57ed8e4fbe0b58e16dcd82e76e1a6e0bd3f1",
+      "bytes": 2075
+    },
+    {
+      "path": "lineups/裁决奶妈.json",
+      "sha256": "d5ab3ef30ae4fda692f6eed70ef6739d6abab14b97f7f0ad4e2655d5f0b5985e",
+      "bytes": 1575
+    },
+    {
+      "path": "posts/关键前排没来-发布稿.md",
+      "sha256": "5283c64facad0e06ab8decd0946057f9f4024aa34d170345bd378417898b4faf",
+      "bytes": 2926
+    },
+    {
+      "path": "posts/S18-强度排行-发布稿-v1已提交.md",
+      "sha256": "3dbf67b8da3f3911c131cc4d997b32b598a8dd8d4d10443cdd2dfa782d86a898",
+      "bytes": 2542
+    },
+    {
+      "path": "posts/S18-强度排行-发布稿.md",
+      "sha256": "95bb32da6c23926096799ac58ec4c430a238a8f2919ca8f0e78384c8270877fa",
+      "bytes": 3855
+    },
+    {
+      "path": "posts/后续发布计划-2026-09-07.md",
+      "sha256": "e75ceda08d7efaec37b59ae3163b72eefbee0568fe0ed8697af93c6a337b7e29",
+      "bytes": 6341
+    },
+    {
+      "path": "posts/裁决奶妈-发布稿.md",
+      "sha256": "bdfca2f0eefb4d4b50ad9d8416740c94069d1ecd2b565529b47252878dcd933f",
+      "bytes": 4543
+    },
+    {
+      "path": "posts/发文与复盘约定.md",
+      "sha256": "53e0b89286e04e785aecdc063a119e3b4aef9e139bb5cffe35ef0d5f36020141",
+      "bytes": 5325
+    },
+    {
+      "path": "posts/搜索索引规划-2026-09-07.md",
+      "sha256": "00587f81ac728e064631391158672448bf109b56b324ac4b9d6683c2356a2873",
+      "bytes": 7988
+    },
+    {
+      "path": "posts/S18-强度排行-发布稿-装备合成更新前.md",
+      "sha256": "0b81e96f867be19916052cc27523d4b45a431ce1372326197641eb7888ae7ec8",
+      "bytes": 3126
+    },
+    {
+      "path": "references/image-edit-prompts.md",
+      "sha256": "f57f36140436773c859efa52883c4c2c2617a5261029aa9b7a028cbaa26ba316",
+      "bytes": 3114
+    },
+    {
+      "path": "references/s18-user-reach-map.md",
+      "sha256": "a33c8268427425d5bf1563b5ea8429ef8503559e4582da12c634cf5bff0ac2f5",
+      "bytes": 12918
+    },
+    {
+      "path": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_9.jpg",
+      "sha256": "4fc1250926fc7d8d3c61e7edb31c4f3712b892fcd80e28bb397fb4b4cf7fb6e2",
+      "bytes": 224586
+    },
+    {
+      "path": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_8.jpg",
+      "sha256": "23f2689f5f54bf6e2f6116f2bad805aaabc4eefaf2c959eb8c1eee2c0666160c",
+      "bytes": 294026
+    },
+    {
+      "path": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_10.jpg",
+      "sha256": "26a7424b181cf0bfc5021044baa13a5c166d995d4f85db443296570a392b5268",
+      "bytes": 284704
+    },
+    {
+      "path": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_1.jpg",
+      "sha256": "eed1c23ef03f6a1d3fe8088c35871c3b7e18d7f21a1c4827ebff2f8681783713",
+      "bytes": 185832
+    },
+    {
+      "path": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_3.jpg",
+      "sha256": "7cd16328f9637040dd0d0d92d2ce3270ee716d1353bf90977aec6f2ca48104a9",
+      "bytes": 289146
+    },
+    {
+      "path": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_2.jpg",
+      "sha256": "5f16b6d735661b830dd8f495bc496da6cb9c6e2fd796a4ad3262e538f22bda0b",
+      "bytes": 286540
+    },
+    {
+      "path": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_6.jpg",
+      "sha256": "25ecd59b1324e4cb94d3e9297266e1117e2b98b1f0e5766531ca2769386a1269",
+      "bytes": 277472
+    },
+    {
+      "path": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_7.jpg",
+      "sha256": "2e0effb5483a7a84607989bfda6d014436414328f416a40e668a354f6d26dede",
+      "bytes": 276276
+    },
+    {
+      "path": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_5.jpg",
+      "sha256": "fbf187c5cf534745716154a6108eb555cadfb65c225fb5111b9b3020f7d4911e",
+      "bytes": 287892
+    },
+    {
+      "path": "references/6a9b0efa0000000026039848/6a9b0efa0000000026039848_4.jpg",
+      "sha256": "f9614d5c793a31a90853be2caf30a17029a7141187e6d10003c1c35e13456c80",
+      "bytes": 270072
+    },
+    {
+      "path": "references/6a9a85ec000000002600bc51/6a9a85ec000000002600bc51_3.jpg",
+      "sha256": "ad2804ea893a7f1efd5fa610fbb127aa79f5c5f7ee35f211e4c3af7eb876bc4c",
+      "bytes": 205016
+    },
+    {
+      "path": "references/6a9a85ec000000002600bc51/6a9a85ec000000002600bc51_2.jpg",
+      "sha256": "eeb4d937ff7b8c06b7e39dc2482584098641cbc490f06564c70e437edc98b9f0",
+      "bytes": 62436
+    },
+    {
+      "path": "references/6a9a85ec000000002600bc51/6a9a85ec000000002600bc51_1.jpg",
+      "sha256": "9bc072f525cb7a6d0f8b34b71d3f4626a24ce186035f6012d287eec7dad68baa",
+      "bytes": 93398
+    },
+    {
+      "path": "references/web/dataj-16.js",
+      "sha256": "3afbb453889ebab714ee9696305c9b2b849c322a9b2d78110b8e67d72e101588",
+      "bytes": 28061
+    },
+    {
+      "path": "references/web/dataj-12.js",
+      "sha256": "b0bfb478c12f3f5fc0b8ca56c5bde4df53db6534e4cdc88b1476195ef011804a",
+      "bytes": 24194
+    },
+    {
+      "path": "references/web/dataj-13.js",
+      "sha256": "2fc2aafe59b66ece332259555437f497d4cfb4b50e7928437c5c54b82abb30c0",
+      "bytes": 38716
+    },
+    {
+      "path": "references/web/s18-gamedata.json",
+      "sha256": "360f3cb9fdd561ede3e0868cccfaf3bb0282c1e6112df624086e4099e246b29c",
+      "bytes": 740361
+    },
+    {
+      "path": "references/web/datatft-0.js",
+      "sha256": "fe136a14bc9432637df82ef8be905fba76cc1700fd8af560ca0a94812dbdcd7f",
+      "bytes": 3734019
+    },
+    {
+      "path": "references/web/dataj-17.js",
+      "sha256": "952e5d346ad746bfe259cbe7b4e3f4f8be1f048f2d89d3c837495e57b262e902",
+      "bytes": 48731
+    },
+    {
+      "path": "references/web/dataj-1.js",
+      "sha256": "cb610c076be0c2acbe25c85a621f9476ce550d39500cbd0381426ee607809e14",
+      "bytes": 226356
+    },
+    {
+      "path": "references/web/dataj-18.js",
+      "sha256": "e92abcd7bf08dcc930e47cb1a435a0a2d0820c52ecfc7ed4e17a6cc725aa032b",
+      "bytes": 8914
+    },
+    {
+      "path": "references/web/dataj-5.js",
+      "sha256": "aa99354f6b04a9d00ca383e2cd47e08bf9a1059547a4e1c9518f3f5aac835b19",
+      "bytes": 31562
+    },
+    {
+      "path": "references/web/dataj-19.js",
+      "sha256": "0e8e8199587a9c03ba7b5145f48d31eaff3304bdca373609fdca4916d8b84595",
+      "bytes": 128584
+    },
+    {
+      "path": "references/web/dataj-4.js",
+      "sha256": "5ceda87a5a7c08e6e1bfc577789c765ae8bbb6d0c7e5865635d54c0c7187755e",
+      "bytes": 10613
+    },
+    {
+      "path": "references/web/dataj-0.js",
+      "sha256": "93b0a855cdd16da2ce159f147b1663a89e7533dc9dfe17593f45258a2c2fb65e",
+      "bytes": 30974
+    },
+    {
+      "path": "references/web/comp-20260907.html",
+      "sha256": "0b482547c3f8c66b18eab65e3d36e4772620540a65ee6c9c3856e13333f428dc",
+      "bytes": 381892
+    },
+    {
+      "path": "references/web/dataj-7.js",
+      "sha256": "eb61484eda093bf90de2797d5ab2e3514bbb469cb879f3d1a3c943acda611166",
+      "bytes": 30091
+    },
+    {
+      "path": "references/web/datatft.html",
+      "sha256": "681554cb992d1df48778caaec95680528f0bc465866e80f953908072483551f2",
+      "bytes": 9812
+    },
+    {
+      "path": "references/web/dataj-3.js",
+      "sha256": "4a6f0d9def95c629fee7750f268e1dbe8b95d48f5b602b78aaa0d6ec3c9b788d",
+      "bytes": 44410
+    },
+    {
+      "path": "references/web/dataj-2.js",
+      "sha256": "550614aa2ae9757151c627a86f46e9465775a1135dca9b9fcae30fec6fc28217",
+      "bytes": 138012
+    },
+    {
+      "path": "references/web/dataj-6.js",
+      "sha256": "0b815d36c3fdb36e85ab1fd320160cb44ff40d4b4b35f4d657ea5278aaa20431",
+      "bytes": 40775
+    },
+    {
+      "path": "references/web/dataj-10.js",
+      "sha256": "f69c92054700b49b9d54d49803dbfe2060e6c78f97d1812ec821992517257ea3",
+      "bytes": 27254
+    },
+    {
+      "path": "references/web/dataj-9.js",
+      "sha256": "d7251fe7964f3ed8661575f33346cd91e692c85cfad66925b2126195c711be74",
+      "bytes": 56023
+    },
+    {
+      "path": "references/web/dataj-20.js",
+      "sha256": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683",
+      "bytes": 112594
+    },
+    {
+      "path": "references/web/dataj.html",
+      "sha256": "cf8418700c2a7c268abb5142744f1a2c057c6844362fc3dcafbafb4147b6e25e",
+      "bytes": 61836
+    },
+    {
+      "path": "references/web/dataj-14.js",
+      "sha256": "c4359c493e279a808510beaa79da2254fbd2116cc530aa9f5e636d582e11b27d",
+      "bytes": 60727
+    },
+    {
+      "path": "references/web/comp-rank-20260907.json",
+      "sha256": "95083cc44b00b39bbdc3a52e30d57d3ff9e5b9ab956ed0bcc7d5d804c72bbec4",
+      "bytes": 58527
+    },
+    {
+      "path": "references/web/dataj-21.js",
+      "sha256": "2c90d510f7d7a3efadca61b32ead00f44accd980ba0f24f3e1a147a9310270a2",
+      "bytes": 6546
+    },
+    {
+      "path": "references/web/dataj-8.js",
+      "sha256": "286b2e98696eca2859844153ddd0fdec3c0a8afa17b146d60e427c25cf67445c",
+      "bytes": 54647
+    },
+    {
+      "path": "references/web/dataj-15.js",
+      "sha256": "8aca143c90ef1391865c443579faac3fae95b0c58a745898cb447715a1bcd119",
+      "bytes": 67284
+    },
+    {
+      "path": "references/web/dataj-11.js",
+      "sha256": "bbe6cad036dee9db2e9ca4e96bdabd1b7569635ef30b1c3cebcab203ad44ff51",
+      "bytes": 28254
+    },
+    {
+      "path": "references/6a943d800000000020032819/6a943d800000000020032819_6.jpg",
+      "sha256": "d99c29235d50a099365ee8eb3689343f9ac7263925c46b8206fc46c5659a8065",
+      "bytes": 225958
+    },
+    {
+      "path": "references/6a943d800000000020032819/6a943d800000000020032819_4.jpg",
+      "sha256": "ebf2eb629c37e35f3382f6d8725d16f91cebf42d7be6eed7d6ce32073b5e2745",
+      "bytes": 164502
+    },
+    {
+      "path": "references/6a943d800000000020032819/6a943d800000000020032819_5.jpg",
+      "sha256": "79cf79fda8bca303aa7a1a91d33ff3ac4664f604ef76cb297462a00a27e7f039",
+      "bytes": 177834
+    },
+    {
+      "path": "references/6a943d800000000020032819/6a943d800000000020032819_1.jpg",
+      "sha256": "9797769b37d225b83429b0a5603f2c65960a884add7b7872e5d2d8ed04fa0efc",
+      "bytes": 196672
+    },
+    {
+      "path": "references/6a943d800000000020032819/6a943d800000000020032819_2.jpg",
+      "sha256": "b4c72bde6dec29590cf6b66bfef3bd3f2bb9bf8aebe469534765b626987d20b3",
+      "bytes": 217026
+    },
+    {
+      "path": "references/6a943d800000000020032819/6a943d800000000020032819_3.jpg",
+      "sha256": "57b51140a748b2a90d3d5284b6cd0cb2997b30eacd363f6c73f9494375a55a30",
+      "bytes": 174268
+    },
+    {
+      "path": "catalog/migration-manifest.json",
+      "sha256": "f93f98d25e65e0d470cec2a8bfd26de6f01b9c0d30568699ece211be3766c0a0",
+      "bytes": 9945
+    },
+    {
+      "path": "catalog/README.md",
+      "sha256": "44aa1ae2411135c7343714e8eaba64eb3d20fa48c7155bc82cad29e40f313bd9",
+      "bytes": 2005
+    },
+    {
+      "path": "catalog/assets.json",
+      "sha256": "d8079f37c398d82a4527ae5818d5819e4831cb86b2ed04391ef7bbc51575bbab",
+      "bytes": 13255
+    },
+    {
+      "path": "exports/裁决奶妈-ui-dark-v1.png",
+      "sha256": "d738ab22a16725ceb39c9588aa4fe7e710c33f2f1a277121ec55e56c2dd276b4",
+      "bytes": 406949
+    },
+    {
+      "path": "exports/裁决奶妈-人口补位-v1.svg",
+      "sha256": "8a1f289b93b0c80b02eb747730b45100211ddf1c2f6eddf19a176187ca5e54a6",
+      "bytes": 273103
+    },
+    {
+      "path": "exports/裁决奶妈-站位图-v2.png",
+      "sha256": "e51ef8622b3e3b31ab52e97cde273a953143b0ddb1ba76a0d740fc87c37a8443",
+      "bytes": 2094880
+    },
+    {
+      "path": "exports/裁决奶妈-可复用模板-v1.png",
+      "sha256": "8129bd73f5bca6c9c847c83039c1ca9b88d0d559741b9b477c2ffbe824a822a2",
+      "bytes": 665381
+    },
+    {
+      "path": "exports/裁决奶妈-可复用模板-v1.svg",
+      "sha256": "8de30c39f8d319b90d14b9edcb095288da8a3f44a428109b423b1a9f09ae9e32",
+      "bytes": 535199
+    },
+    {
+      "path": "exports/裁决奶妈-人口补位-v1.png",
+      "sha256": "7e3ed1ac89ab16d1bd64ba0a4d089265c8fa1581321d86d78cbf37b278d20ba1",
+      "bytes": 409007
+    },
+    {
+      "path": "exports/裁决奶妈-ui-dark-v1.svg",
+      "sha256": "3cdd9e4bc1e0bd7e1ff270999a40eb551819392bc147913970d993af2a64678e",
+      "bytes": 610991
+    },
+    {
+      "path": "exports/裁决奶妈-站位图-v3-原素材.png",
+      "sha256": "0d870e5dc21531871fb74ada7c48b5026948c64e513db0822698ac02d1676bac",
+      "bytes": 2100656
+    },
+    {
+      "path": "exports/裁决奶妈-ui-light-v1.svg",
+      "sha256": "83ac77bc13a276dcbe8f04d82d962f6e3ad9335bc4378152f01c8798758c43d1",
+      "bytes": 610991
+    },
+    {
+      "path": "exports/裁决奶妈-ui-game-v2.png",
+      "sha256": "4055fa8ee4177eda8542b0c396f33a3226c3081d38e930e2e97f3368e97ac6fb",
+      "bytes": 525192
+    },
+    {
+      "path": "exports/S18-强度排行-样图-v1.png",
+      "sha256": "fbecfb1a466ed2f1aa6a04807fce88a791da7bfeefd6d1b715c4aade617b772f",
+      "bytes": 516196
+    },
+    {
+      "path": "exports/S18-强度排行-样图-v1.svg",
+      "sha256": "ec93d8940737344e6daa1464ebbe74dfa68bee0474f1d3deede6e5e4c6899474",
+      "bytes": 805020
+    },
+    {
+      "path": "exports/裁决奶妈-ui-game-v2.svg",
+      "sha256": "0ca9a59084693fdde43776d392dabd6731aa0470937345758d857bee1f8b6ec8",
+      "bytes": 682693
+    },
+    {
+      "path": "exports/裁决奶妈-ui-light-v1.png",
+      "sha256": "147c587d4d2623144c002280660df47e61e3124524c51b32f39e56a25ca977c6",
+      "bytes": 398671
+    },
+    {
+      "path": "exports/ranking-recipes-sample/02-重装女警-装备合成.png",
+      "sha256": "55964f23a74934450293e30ea41b0b73118a4428bbff2a770d9e2bfd1d8916f8",
+      "bytes": 462779
+    },
+    {
+      "path": "exports/ranking-recipes-sample/02-重装女警-装备合成.svg",
+      "sha256": "b0cf2499dd886b0d357364b100542ebbedd4df2e45b7b9c4baf84ef5f8fe0a7f",
+      "bytes": 1113591
+    },
+    {
+      "path": "exports/ranking-recipes-sample/02-重装女警-装备合成-v3.png",
+      "sha256": "cc3462eb6d0f08be6239e29f5b47c17503f4074fb6512d91b797c07045b880f8",
+      "bytes": 455423
+    },
+    {
+      "path": "exports/ranking-recipes-sample/02-重装女警-装备合成-v2.png",
+      "sha256": "87d35085d08507cd63aa300ac66d3526bcee9fc6f857b57437f2b27244d445fb",
+      "bytes": 403023
+    },
+    {
+      "path": "exports/ranking-recipes-sample/02-重装女警-装备合成-v2.svg",
+      "sha256": "872966c935e6c145ce001d10ddbdc9b8a0c12a642212fa1f57a712d99b04af10",
+      "bytes": 1111560
+    },
+    {
+      "path": "exports/ranking-recipes-sample/02-重装女警-装备合成-v3.svg",
+      "sha256": "3985810b47c89ad884f034e635333d24931c21f83c3b84dc6effa619cb81f499",
+      "bytes": 1110918
+    },
+    {
+      "path": "exports/ranking-recipes-v3/03-巨龙95.svg",
+      "sha256": "202ceec9f9a58bce186cb5c938c9665645d305a18de4cadc2495d58770899df5",
+      "bytes": 1071287
+    },
+    {
+      "path": "exports/ranking-recipes-v3/08-裁决奶妈.svg",
+      "sha256": "53e1c1c535231ab5669f9a132b93584e6be5cff2ad204c232d16941b0bf661de",
+      "bytes": 1122161
+    },
+    {
+      "path": "exports/ranking-recipes-v3/04-野怪小红.png",
+      "sha256": "63763b17a51d61d4a63cde962a53ba13b5beacc04d79d57040f00a085fecd98c",
+      "bytes": 439002
+    },
+    {
+      "path": "exports/ranking-recipes-v3/02-重装女警.png",
+      "sha256": "cc3462eb6d0f08be6239e29f5b47c17503f4074fb6512d91b797c07045b880f8",
+      "bytes": 455423
+    },
+    {
+      "path": "exports/ranking-recipes-v3/05-7野怪鸡哥.svg",
+      "sha256": "8045994370fed577732c95e69b90680a389c1e296e776693da0de1fafb3f0642",
+      "bytes": 1115657
+    },
+    {
+      "path": "exports/ranking-recipes-v3/06-永森95.png",
+      "sha256": "3facd6b6946ce0e0dcd4815fc43d9171035a2b4556cf79946556ef5d00058845",
+      "bytes": 455627
+    },
+    {
+      "path": "exports/ranking-recipes-v3/06-永森95.svg",
+      "sha256": "d9cec58aff336f1cc1ff27b306076f0bd22c489e037163bc7a9db97603acbb00",
+      "bytes": 1115993
+    },
+    {
+      "path": "exports/ranking-recipes-v3/05-7野怪鸡哥.png",
+      "sha256": "3175eb921328582aa3db880a1b4f3fe89c23a94c1968bb0e670c56d4cded0511",
+      "bytes": 480680
+    },
+    {
+      "path": "exports/ranking-recipes-v3/02-重装女警.svg",
+      "sha256": "3985810b47c89ad884f034e635333d24931c21f83c3b84dc6effa619cb81f499",
+      "bytes": 1110918
+    },
+    {
+      "path": "exports/ranking-recipes-v3/04-野怪小红.svg",
+      "sha256": "bd12f8295e4d0a39f10ab860bff5b03f381360c0cf7189432f19b0a749fcfa8b",
+      "bytes": 1046782
+    },
+    {
+      "path": "exports/ranking-recipes-v3/08-裁决奶妈.png",
+      "sha256": "4d0c60bea9fed056cc1e5cf6c76bb9f6e9211a0da9a71bde172354395f7b9a5e",
+      "bytes": 485472
+    },
+    {
+      "path": "exports/ranking-recipes-v3/03-巨龙95.png",
+      "sha256": "42a9bea0228fe662a395cf0ac6d92444f7ae5810fdda981264b145eed413efc7",
+      "bytes": 438412
+    },
+    {
+      "path": "exports/ranking-recipes-v3/07-皎月螳螂.png",
+      "sha256": "295cbbe7f8fd34525daf32bd7189f4acdb822c5b87e12eb36be6c1c02c8617bf",
+      "bytes": 456792
+    },
+    {
+      "path": "exports/ranking-recipes-v3/07-皎月螳螂.svg",
+      "sha256": "a7a97abc7931ae7577f5e34098670d04007ca8b2deb90636f15c92f01e4778da",
+      "bytes": 1071046
+    },
+    {
+      "path": "exports/frontline-v1/04.svg",
+      "sha256": "43bddeadd268ecfcd7b1cf5428ad4dc679bb4fcdc6ceedc1f45c3c46a8079d77",
+      "bytes": 129953
+    },
+    {
+      "path": "exports/frontline-v1/02.svg",
+      "sha256": "39c12c9dc56c6d71c6cc401236096b8b52ef3d8d77452e4692ce34231f406a4b",
+      "bytes": 135155
+    },
+    {
+      "path": "exports/frontline-v1/03.svg",
+      "sha256": "ce8da62a43a7a94abcef263013e35a50e37fda721f560678a905453ccdaeb18c",
+      "bytes": 135135
+    },
+    {
+      "path": "exports/frontline-v1/01.svg",
+      "sha256": "558b879fb9a80c14e3f6dc2292dd99ec468de57dd9638f324a2bba7bd0f882f2",
+      "bytes": 137125
+    },
+    {
+      "path": "exports/frontline-v1/01.png",
+      "sha256": "ecb21424263b6d34ea81e80088df5382f91c3c0c1d260f212274d9d9d076b86b",
+      "bytes": 294234
+    },
+    {
+      "path": "exports/frontline-v1/03.png",
+      "sha256": "1b6185d78f9eb4bc20259311d10477d97ddb4dfdc2dfd89ff8ee1d8b2209c494",
+      "bytes": 301271
+    },
+    {
+      "path": "exports/frontline-v1/02.png",
+      "sha256": "d0b0237bf3ad8b9746503dea8505f2340872e1a2967cb1a0502eaa45f767288b",
+      "bytes": 282407
+    },
+    {
+      "path": "exports/frontline-v1/04.png",
+      "sha256": "8e32be9792e2026710b4801b4bdb22f1296036a195c6faa82986eca4c7cb4122",
+      "bytes": 293181
+    },
+    {
+      "path": "exports/ranking-complete-v2/03-巨龙95.svg",
+      "sha256": "b36512384754f6ecd12116efd003683a0b2c2daf929a9eaf44afec4769031fdb",
+      "bytes": 617545
+    },
+    {
+      "path": "exports/ranking-complete-v2/08-裁决奶妈.svg",
+      "sha256": "3568f08865c5b435067abf618efa162eafe4c4b88fdb2078991b6906140c12e4",
+      "bytes": 671695
+    },
+    {
+      "path": "exports/ranking-complete-v2/04-野怪小红.png",
+      "sha256": "92e609fea8ac8318ed99dc738269c4cdcc6af0d48acf05e2d505ceb6c688b0bd",
+      "bytes": 355214
+    },
+    {
+      "path": "exports/ranking-complete-v2/02-重装女警.png",
+      "sha256": "63346dadbbeef9c6514be23a4e32ec7cc9808609f8218b0b2100f03125eb65be",
+      "bytes": 363866
+    },
+    {
+      "path": "exports/ranking-complete-v2/05-7野怪鸡哥.svg",
+      "sha256": "2128c49c1d4d859ce4b1aa8ec928026c9dbc4429edcc5880162570a850187e48",
+      "bytes": 656454
+    },
+    {
+      "path": "exports/ranking-complete-v2/06-永森95.png",
+      "sha256": "172c0408fc8c0c79fa5f0028b2859476e3d6a8b144134d468177ba7b49634e92",
+      "bytes": 366832
+    },
+    {
+      "path": "exports/ranking-complete-v2/06-永森95.svg",
+      "sha256": "77b790cee61847fd8780c7a30a7c99fded211b43d56c4125964ebbba610ae4f9",
+      "bytes": 658704
+    },
+    {
+      "path": "exports/ranking-complete-v2/05-7野怪鸡哥.png",
+      "sha256": "9ff43ee7d149c6d9d81be5c85f37f119127614f22588d01811d871abeba1c8e4",
+      "bytes": 383545
+    },
+    {
+      "path": "exports/ranking-complete-v2/02-重装女警.svg",
+      "sha256": "be3cbd1ef1d4b2905d01ada80942f360ab9c3a37a185adeee934ee951765b560",
+      "bytes": 640838
+    },
+    {
+      "path": "exports/ranking-complete-v2/04-野怪小红.svg",
+      "sha256": "7b6ddf72b1f992877b17e4aead14fa07045dca7e9dc8c27215cc00fca7aa5ef4",
+      "bytes": 601454
+    },
+    {
+      "path": "exports/ranking-complete-v2/08-裁决奶妈.png",
+      "sha256": "f3e41fa1f2bf64e90c12e6fb6e0428207d92f0f71a78e55da7644202d28a42b9",
+      "bytes": 386109
+    },
+    {
+      "path": "exports/ranking-complete-v2/03-巨龙95.png",
+      "sha256": "7eed4c88ef94c6bb4c4cfb11fbe396d9ff271361aeaf97acd23319e569f4aa0d",
+      "bytes": 348747
+    },
+    {
+      "path": "exports/ranking-complete-v2/07-皎月螳螂.png",
+      "sha256": "caadd1d601f788e308c8ce134fca59fe5313d34fc212a5acfb8e4f10eced14a5",
+      "bytes": 362845
+    },
+    {
+      "path": "exports/ranking-complete-v2/01-强度总榜.png",
+      "sha256": "e8ca11c6e0710b8af37ed4a652066ced954c1d0556e3cba9725a9c61c4b8599b",
+      "bytes": 521030
+    },
+    {
+      "path": "exports/ranking-complete-v2/01-强度总榜.svg",
+      "sha256": "191305fa6a2b8ecfd86ece7728a07de17174dce1598dc250416ac60a7e9290ba",
+      "bytes": 805143
+    },
+    {
+      "path": "exports/ranking-complete-v2/07-皎月螳螂.svg",
+      "sha256": "c8861fbf601cea80bbc98925ead3266f5b372b0dec7dcfd9662908a88cd88a29",
+      "bytes": 620705
+    },
+    {
+      "path": "scripts/build_sample.py",
+      "sha256": "873359c74630c6b4b115cbecfe1f81d8eae4d389ba66914e6936af5b7ecdced9",
+      "bytes": 9706
+    },
+    {
+      "path": "scripts/build_game_ui.py",
+      "sha256": "733e4c4a856692455314bc0297e3903b8c175b03d5b1c7209ef0e393f62d2eea",
+      "bytes": 4867
+    },
+    {
+      "path": "scripts/build_rank_cards.py",
+      "sha256": "a5352e08f8a2aa63009b4e9df528af6638c8c33d1f4afe71cfde9e7a950a2314",
+      "bytes": 7546
+    },
+    {
+      "path": "scripts/build_recipe_sample.py",
+      "sha256": "3e1bb5b5d0cd1efaadf1fd85c9828a5faf0ac4e0d020c24e1d0c153843cb0ff0",
+      "bytes": 2736
+    },
+    {
+      "path": "scripts/build_recipe_batch.py",
+      "sha256": "d79cfb1b44053fdacb4b38c9920a146743817487a32a9d41779769542a65d229",
+      "bytes": 2789
+    },
+    {
+      "path": "scripts/build_modern_ui.py",
+      "sha256": "e2d8666e9a3309367fcdbd18dcddcd3e6bb7e8cc66c7abd89cf815e7a53d2192",
+      "bytes": 4262
+    },
+    {
+      "path": "scripts/build_population.py",
+      "sha256": "4ac124e868c2afb17b2ba7d7858b237672aab046f85aecb93129f95e3d9b83ab",
+      "bytes": 2580
+    },
+    {
+      "path": "scripts/build_frontline.py",
+      "sha256": "d5ee6d25e0a49abca126d6ab71476f55894c9ece7e9943fd185375664657b4ad",
+      "bytes": 5275
+    },
+    {
+      "path": "scripts/build_rank.py",
+      "sha256": "cad2fee20486ca97da91564d9f03cfae321e04466c0b2a84ec70538d9dc515e7",
+      "bytes": 3848
+    },
+    {
+      "path": "scripts/export_png.cjs",
+      "sha256": "72a0fb5f9f3cc6472b74f17edbfaac5850f949ce5a8effda21ef7feb43b17f57",
+      "bytes": 556
+    },
+    {
+      "path": "templates/排版认可原样.png",
+      "sha256": "dad95ae4eaf366d2a4e7931738bae6a1a990f3164971584a58bbbfe6d8515963",
+      "bytes": 2561216
+    },
+    {
+      "path": "templates/UI方向-v1.md",
+      "sha256": "b57c696db548c31ad4feb1d045edb8010c753aca2bf02efeabdc872478021475",
+      "bytes": 1563
+    },
+    {
+      "path": "assets/ranking/s18_head_rakan.png",
+      "sha256": "e1ba20205cd80d6136dc56e9645ba4950a21e1defcc31c6735c9127242e4e246",
+      "bytes": 23427
+    },
+    {
+      "path": "assets/ranking/sources.json",
+      "sha256": "4f47c74fe193b695aa0b79a66295bf7bca456ed6c1b0cc73d8ac0fdbcb31cf6a",
+      "bytes": 4003
+    },
+    {
+      "path": "assets/ranking/evenshroud.png",
+      "sha256": "99d6812ec38106ffaa4955c7103862cf9c062f0b71a0f3b1969c7f7ac9c28dda",
+      "bytes": 23814
+    },
+    {
+      "path": "assets/ranking/2329.png",
+      "sha256": "47d14077d778b4dd994f972935678396160c9c697e81f7c4240d95abef0a5913",
+      "bytes": 22490
+    },
+    {
+      "path": "assets/ranking/2248.png",
+      "sha256": "6e371bee95f58107c4c7c2dd273b9c53592d16b5cefe492ab0952ff6ac4f8468",
+      "bytes": 21568
+    },
+    {
+      "path": "assets/ranking/steraksgage.png",
+      "sha256": "40793a379079b94993272606853735ee51253a5a9085ca58aced48d59b181aea",
+      "bytes": 25250
+    },
+    {
+      "path": "assets/ranking/s18_head_malphite.png",
+      "sha256": "b2d6abcbe560090810ee48abc886e5180a4e3a474b4f208a80125a6c562885c1",
+      "bytes": 24662
+    },
+    {
+      "path": "assets/ranking/krakensfury.png",
+      "sha256": "97d9b3568b490c5bf3cb6ae8ab502cd34dd86fdcee9c5396cd443fc83a28f32e",
+      "bytes": 21980
+    },
+    {
+      "path": "assets/ranking/s18_head_sivir.png",
+      "sha256": "b059c522a50e416e13ad416efc2755ffdf4e97043f2548db9a25be12370ac307",
+      "bytes": 27233
+    },
+    {
+      "path": "assets/ranking/s18_head_amumu.png",
+      "sha256": "64e77afb3fb0199af65f9e6791f19a8748e83f87ae3336c8b725cee25310d30d",
+      "bytes": 24865
+    },
+    {
+      "path": "assets/ranking/s18_head_kogmaw.png",
+      "sha256": "f88b1808fdda0cb1822ccdb339e0595eb0b2213a5654c3ac4f4c26b8701245c5",
+      "bytes": 26341
+    },
+    {
+      "path": "assets/ranking/s18_head_vi.png",
+      "sha256": "c41fdc59c6e735ab16f416db565b5f72cc8221fea31ffefa2a3c8568b49c6153",
+      "bytes": 25186
+    },
+    {
+      "path": "assets/ranking/s18_head_gromp.png",
+      "sha256": "a4d777f3a09aa8c798b1dc7d8f2a1bc4fd498a884fa6a56895f2a3f7a86ddead",
+      "bytes": 23617
+    },
+    {
+      "path": "assets/ranking/1009.png",
+      "sha256": "1800b7022de29ee1437661dbfb2eb8230576fce3011ff593a468ba2db84ebffa",
+      "bytes": 16438
+    },
+    {
+      "path": "assets/ranking/s18_head_murkwolf.png",
+      "sha256": "154fb3229fe404ffeb8453f1c7c3937dd4fc5b8de3757e3a1d33814203fbdb32",
+      "bytes": 26133
+    },
+    {
+      "path": "assets/ranking/2017.png",
+      "sha256": "1cf633bbcf583a6ea16bd062ff2ef87998361530893becc833df8fee154b5c03",
+      "bytes": 19512
+    },
+    {
+      "path": "assets/ranking/s18_head_caitlyn.png",
+      "sha256": "a334717e128e6c4391070d2cabbeba0d8aeec9995dedfcbbdf2425836422c9ab",
+      "bytes": 25247
+    },
+    {
+      "path": "assets/ranking/s18_head_ezreal.png",
+      "sha256": "d4e3bcc88947f44e224a7350c203e25632e8f970ddfb18d99a8748c7395405b5",
+      "bytes": 25380
+    },
+    {
+      "path": "assets/ranking/s18_head_maokai.png",
+      "sha256": "3f092ecf66728b06595e20f17e3a43792c454ce48316a2e4ef846673878a6f08",
+      "bytes": 23927
+    },
+    {
+      "path": "assets/ranking/2016.png",
+      "sha256": "bb0881559b07d579779351f9d9798d5b4656c2e66ffb7ec9cb7d10096d778baf",
+      "bytes": 20961
+    },
+    {
+      "path": "assets/ranking/strikersflail.png",
+      "sha256": "8e4a69fd1d0c527720e7b096e7fc83300e6eab09bef4fb0c71a987c93599bcaa",
+      "bytes": 23181
+    },
+    {
+      "path": "assets/ranking/s18_head_soraka.png",
+      "sha256": "8486d3fc15cf8bb8e6386be806f6b3f628e47805e1e4cf559859bd9d7f84d1af",
+      "bytes": 27330
+    },
+    {
+      "path": "assets/ranking/2001.png",
+      "sha256": "407277a92f3ee2a7af960b14fe70614ba0f0a8b1258394c3eca006edf7b060f2",
+      "bytes": 21291
+    },
+    {
+      "path": "assets/ranking/s18_head_aphelios.png",
+      "sha256": "0a4428e9ee693e6f74d46c92e77af4d3e338f6ac4e8f5e7d6dfc8552811738be",
+      "bytes": 23770
+    },
+    {
+      "path": "assets/ranking/2039.png",
+      "sha256": "f86e7d53adc4f97b4b77d152e9f4bd71259b97d1573dbe539ceb04bf2492b7d5",
+      "bytes": 19642
+    },
+    {
+      "path": "assets/ranking/2005.png",
+      "sha256": "48b1f9c35ce230ad0c07d5dfc182d639833b82911ebaeb27f4c81a953a79367c",
+      "bytes": 21216
+    },
+    {
+      "path": "assets/ranking/2004.png",
+      "sha256": "43246da2926a1422326c733bfd57919429333073cff0ac5c2ecd7cff7e48f22b",
+      "bytes": 18760
+    },
+    {
+      "path": "assets/ranking/2010.png",
+      "sha256": "90cfe66bf42fdc3f2a5666b792a242437869140a7b00be7421d6c31c32baa987",
+      "bytes": 19475
+    },
+    {
+      "path": "assets/ranking/2038.png",
+      "sha256": "1c8e1be0b08222ba3eebd00dc1bc74582445f153e49fdfc340ee90a6065ce7c9",
+      "bytes": 19125
+    },
+    {
+      "path": "assets/ranking/s18_head_brambleback.png",
+      "sha256": "86d1afd32e3b08458f982001be81688d278a8ba44deae8aaf9b8251b77135418",
+      "bytes": 25124
+    },
+    {
+      "path": "assets/ranking/s18_head_sentry.png",
+      "sha256": "7c1c525533c937230bcf4df2c3865cf835a9c281ce9e938031e832dd4224dd48",
+      "bytes": 22085
+    },
+    {
+      "path": "assets/ranking/frying_pan.png",
+      "sha256": "28e27524df7db9734c984cf0fc32a64be04e1cdaa940a7519532736550ae3bf4",
+      "bytes": 19064
+    },
+    {
+      "path": "assets/ranking/s18_head_alune.png",
+      "sha256": "b8e877c180582079b8540b45996072e8cad2fe58fe654501e2deed9517ead65e",
+      "bytes": 24097
+    },
+    {
+      "path": "assets/ranking/s18_head_sentinel.png",
+      "sha256": "0f4f9a033de57175895960e19c3aee2a9b17ad55f7b091fa2422bc00b1109c7e",
+      "bytes": 24240
+    },
+    {
+      "path": "assets/ranking/s18_head_khazix.png",
+      "sha256": "596abf0c6d7b450b8c9607b1aafc8226a3b41cf571311697d6f9e552142ab86e",
+      "bytes": 21968
+    },
+    {
+      "path": "assets/ranking/s18_head_zyra.png",
+      "sha256": "eb1a0b74c036de20388d74dd8fd52acfc402dc2f6ae3cf5b4775580467f171c1",
+      "bytes": 26017
+    },
+    {
+      "path": "assets/ranking/2023.png",
+      "sha256": "d498dfa7f8408a82d60e07b416cc2641b7fb2296c87f5bdfbf5df9532b561615",
+      "bytes": 20689
+    },
+    {
+      "path": "assets/ranking/s18_head_elisespider.png",
+      "sha256": "4703a1d5a484b6df91237068ade9d69ea4bb87079926de05cb9a0ac8079fa186",
+      "bytes": 24843
+    },
+    {
+      "path": "assets/ranking/s18_head_azir.png",
+      "sha256": "a56cf8738169121f77b8763d3c6e8aaaf1f71c6d846bca78970bed9399b0d50e",
+      "bytes": 25408
+    },
+    {
+      "path": "assets/ranking/s18_head_scuttle.png",
+      "sha256": "4d3e124473edbc8911a8640cb43f2e6d785498e599b16186109f4a6fc8da489d",
+      "bytes": 25815
+    },
+    {
+      "path": "assets/ranking/2034.png",
+      "sha256": "181b2fcc6bdf1d9ecb30028453ec5cd0415dab1839f360bd6cb05a70e82f37bd",
+      "bytes": 22888
+    },
+    {
+      "path": "assets/ranking/s18_head_ivern.png",
+      "sha256": "4f4090b8fdb5dc1718e76d7e27c71b9ad2bff117e757bd02861c1be21c9b9fac",
+      "bytes": 25262
+    },
+    {
+      "path": "assets/ranking/s18_head_kennen.png",
+      "sha256": "3866d885ee733f3c887b6731a68ed79521559efe4622d682d112c813a755a568",
+      "bytes": 24092
+    },
+    {
+      "path": "assets/ranking/s18_head_raptor.png",
+      "sha256": "f8e62702ef883ea0bb98a775feafe9ca15feae433a41c6a6c017e4484cb13bed",
+      "bytes": 24485
+    },
+    {
+      "path": "assets/ranking/s18_head_hecarim.png",
+      "sha256": "b48ca822aa219860f820c51f85c843ab224b256de2d55a2666322010fe8ef24a",
+      "bytes": 25815
+    },
+    {
+      "path": "assets/ranking/s18_head_krug.png",
+      "sha256": "ed71a11c1a89896b6a212909f89f43ffd2efa1fec6b39a7f94f4263c719ae40c",
+      "bytes": 23749
+    },
+    {
+      "path": "assets/ranking/s18_head_tristana.png",
+      "sha256": "b6c01dac95f05404a78ddd16e5c6454e789588fa7b27f03a9b7a20171fb311b5",
+      "bytes": 22844
+    },
+    {
+      "path": "assets/ranking/2041.png",
+      "sha256": "9919df9b8e2c55f10507d9531533ee501b695d44eb9fef5e6e5f93d0a5386b6b",
+      "bytes": 20188
+    },
+    {
+      "path": "assets/ranking/1004.png",
+      "sha256": "a6e4ddc476aadfc01ce3da9d8f5bf9197f7f6c40c4e368375a7a3ce79bf516f9",
+      "bytes": 16520
+    },
+    {
+      "path": "assets/ranking/1005.png",
+      "sha256": "a22398e3b748b337005866bd36bff0a8f037308b631413fbaeb26252fb7b6c07",
+      "bytes": 19133
+    },
+    {
+      "path": "assets/ranking/spiritvisage.png",
+      "sha256": "b6b5e411071c185ca1642144f8da2ea54855f93da82fcb87f758af62d59a79d7",
+      "bytes": 22460
+    },
+    {
+      "path": "assets/ranking/s18_head_taric.png",
+      "sha256": "f03a1889056171a436415d3813938936ba2875a0ad31dc4bbb50b25dad133ff9",
+      "bytes": 23519
+    },
+    {
+      "path": "assets/ranking/s18_head_alistar.png",
+      "sha256": "00839dcb928861beb8bc6eba14db6d323a7a24b2fc1c6392013494819d676a74",
+      "bytes": 24525
+    },
+    {
+      "path": "assets/ranking/voidstaff.png",
+      "sha256": "42b964938131a260d310cc84c98f4a6e007bdede40ef3fd2114b756d1482e00f",
+      "bytes": 23440
+    },
+    {
+      "path": "assets/ranking/1007.png",
+      "sha256": "4c4d4a2dc4076f14a30b548cb65f46fe258f3f3973d87ace8210bfb375c0d4de",
+      "bytes": 20122
+    },
+    {
+      "path": "assets/ranking/1006.png",
+      "sha256": "5f43867817e846cdbe2a1e5c24380ad9027c04ea9c3e6358acedb5ea734b5dea",
+      "bytes": 20513
+    },
+    {
+      "path": "assets/ranking/s18_head_yorick.png",
+      "sha256": "c1550c77fe1cacf25225fe7e9d28423158cb8d7a4987f5c3f343ddd161fd7624",
+      "bytes": 23960
+    },
+    {
+      "path": "assets/ranking/41818.png",
+      "sha256": "30e86e2f3efaeb2c37fd5a5605c29db896471c2116b8c029d511e5e661878409",
+      "bytes": 19100
+    },
+    {
+      "path": "assets/ranking/s18_head_draven.png",
+      "sha256": "41132a2304135b1870fa0b4ec51aa101b570dfdf2d5ca0daf508d00767874126",
+      "bytes": 24171
+    },
+    {
+      "path": "assets/ranking/2053.png",
+      "sha256": "1fbd826998ae387d4a501b83459f6b4268e0907cddd94a3a603816d4b13d78dc",
+      "bytes": 18048
+    },
+    {
+      "path": "assets/ranking/1002.png",
+      "sha256": "8ea1451e6a125595eeb6cd16a11de9a3325cff717ba356caf38c5e68cd223c7f",
+      "bytes": 18122
+    },
+    {
+      "path": "assets/ranking/1003.png",
+      "sha256": "b47459df922d0cb3772622bd16d969c0fa02a6d7917e46f38040b3416ffaf8a4",
+      "bytes": 20668
+    },
+    {
+      "path": "assets/ranking/s18_head_diana.png",
+      "sha256": "ae026b8b08da4809e09354f9154c7e0d2f6191184c02c6d44fab198da1d634b6",
+      "bytes": 24460
+    },
+    {
+      "path": "assets/ranking/s18_head_gnar.png",
+      "sha256": "6ad00a2441d8a0258d6ec20e9beb9e45cc15ec179d586c2390d30f186f253b0c",
+      "bytes": 24583
+    },
+    {
+      "path": "assets/ranking/s18_head_sejuani.png",
+      "sha256": "83232e5efb873628b93b8157ed76f479ad1bbe4f63b94e12ad459e28a177e738",
+      "bytes": 26409
+    },
+    {
+      "path": "assets/ranking/nashorstooth.png",
+      "sha256": "365213b5358316be3c3f094296326673dd510b641ee683dda89361352372b143",
+      "bytes": 21869
+    },
+    {
+      "path": "assets/ranking/1001.png",
+      "sha256": "32a1d55f437081db73d67bab5e75112a557d41406d0116788b545c81b5bf1649",
+      "bytes": 18571
+    },
+    {
+      "path": "assets/ranking/s18_head_cinderling.png",
+      "sha256": "8e201a4a9558f0755a209c84cb2369a9064f2af35813e11473c689f60b9bec03",
+      "bytes": 23570
+    },
+    {
+      "path": "assets/ranking/2045.png",
+      "sha256": "ae3861f1836bbac86fac1676d632da6241c8aa818630422a4929f8de58d54fff",
+      "bytes": 18896
+    },
+    {
+      "path": "assets/ranking/s18_head_elderdragon.png",
+      "sha256": "6bb1940bee5399074fb50c1aa0315f4ffef72b2ba0710955f612739cdea52847",
+      "bytes": 21468
+    },
+    {
+      "path": "assets/ranking/s18_head_fiddlesticks.png",
+      "sha256": "9bb9305e72e47f41f6e0a6fff1871e8f46ba765f0381369995537dd52ae5e6e9",
+      "bytes": 24875
+    },
+    {
+      "path": "assets/equip/2248.png",
+      "sha256": "6e371bee95f58107c4c7c2dd273b9c53592d16b5cefe492ab0952ff6ac4f8468",
+      "bytes": 21568
+    },
+    {
+      "path": "assets/equip/2004.png",
+      "sha256": "43246da2926a1422326c733bfd57919429333073cff0ac5c2ecd7cff7e48f22b",
+      "bytes": 18760
+    },
+    {
+      "path": "assets/equip/2034.png",
+      "sha256": "181b2fcc6bdf1d9ecb30028453ec5cd0415dab1839f360bd6cb05a70e82f37bd",
+      "bytes": 22888
+    },
+    {
+      "path": "assets/equip/voidstaff.png",
+      "sha256": "42b964938131a260d310cc84c98f4a6e007bdede40ef3fd2114b756d1482e00f",
+      "bytes": 23440
+    },
+    {
+      "path": "assets/equip/41818.png",
+      "sha256": "30e86e2f3efaeb2c37fd5a5605c29db896471c2116b8c029d511e5e661878409",
+      "bytes": 19100
+    },
+    {
+      "path": "assets/hero/s18_head_malphite.png",
+      "sha256": "b2d6abcbe560090810ee48abc886e5180a4e3a474b4f208a80125a6c562885c1",
+      "bytes": 24662
+    },
+    {
+      "path": "assets/hero/s18_head_amumu.png",
+      "sha256": "64e77afb3fb0199af65f9e6791f19a8748e83f87ae3336c8b725cee25310d30d",
+      "bytes": 24865
+    },
+    {
+      "path": "assets/hero/s18_head_soraka.png",
+      "sha256": "8486d3fc15cf8bb8e6386be806f6b3f628e47805e1e4cf559859bd9d7f84d1af",
+      "bytes": 27330
+    },
+    {
+      "path": "assets/hero/s18_head_zyra.png",
+      "sha256": "eb1a0b74c036de20388d74dd8fd52acfc402dc2f6ae3cf5b4775580467f171c1",
+      "bytes": 26017
+    },
+    {
+      "path": "assets/hero/s18_head_azir.png",
+      "sha256": "a56cf8738169121f77b8763d3c6e8aaaf1f71c6d846bca78970bed9399b0d50e",
+      "bytes": 25408
+    },
+    {
+      "path": "assets/hero/s18_head_kennen.png",
+      "sha256": "3866d885ee733f3c887b6731a68ed79521559efe4622d682d112c813a755a568",
+      "bytes": 24092
+    },
+    {
+      "path": "assets/hero/s18_head_yorick.png",
+      "sha256": "c1550c77fe1cacf25225fe7e9d28423158cb8d7a4987f5c3f343ddd161fd7624",
+      "bytes": 23960
+    },
+    {
+      "path": "assets/hero/s18_head_fiddlesticks.png",
+      "sha256": "9bb9305e72e47f41f6e0a6fff1871e8f46ba765f0381369995537dd52ae5e6e9",
+      "bytes": 24875
+    },
+    {
+      "path": "outputs/ranking-complete-v2-review.json",
+      "sha256": "d0cd2667e10c0a42d59045f380ca7407ed36c20f273c5a753e778c44100ad3ed",
+      "bytes": 2436
+    },
+    {
+      "path": "outputs/ranking-card-checks.json",
+      "sha256": "a41a612a982a6f972fc9b2500c9829b10a9f9c3a81b162a70d96a1f442353498",
+      "bytes": 1755
+    },
+    {
+      "path": "outputs/frontline-v1-review.json",
+      "sha256": "3c9d2246464d3774316ccbd336490bc53bcb200e7afa4a72ba79d96a7186ba93",
+      "bytes": 317
+    },
+    {
+      "path": "outputs/equipment-recipe-batch-checks.json",
+      "sha256": "5aea1f5e9350ad7c6140a625ad51e3c3543e0023b45811933d767cdd25d6a8c5",
+      "bytes": 11795
+    },
+    {
+      "path": "outputs/build-verification.json",
+      "sha256": "b3ec71eb07a239beeb04ab97d12fd6f50fd24bf05eb569679997bf1f82f50709",
+      "bytes": 218
+    },
+    {
+      "path": "outputs/template-bottom-qa.png",
+      "sha256": "c0c14d420efcc1ca038688b24849444d492e2118f86b72029dde45b61e4c5039",
+      "bytes": 227051
+    },
+    {
+      "path": "outputs/verification-2026-09-07.md",
+      "sha256": "661f617bbb49b9cf17494ac8d6cf4a18aef5a184616a16f6f7d29aa6083a4bcc",
+      "bytes": 2174
+    },
+    {
+      "path": "outputs/ranking-card-assets.json",
+      "sha256": "782649470c857f867ed1568aa792f828235d9e688d69705c8034e9485753263a",
+      "bytes": 8966
+    },
+    {
+      "path": "outputs/ranking-snapshot-20260907.json",
+      "sha256": "2a12c3bfa210920a8eac613263e01515766a6b5eb2f243413d2c6c5441474f88",
+      "bytes": 655
+    },
+    {
+      "path": "outputs/素材核验总览.png",
+      "sha256": "33ccbd7fd924c19c5a2076ef65449876a7926082e487f9f6e9ef260f4ffbf08d",
+      "bytes": 536923
+    },
+    {
+      "path": "outputs/equipment-recipes-20260907.json",
+      "sha256": "b713703f84a31c72055e85e8e8e7753507df8cdbfb70357f6dac10d39cd1f0f3",
+      "bytes": 782936
+    },
+    {
+      "path": "outputs/frontline-gamedata-20260907.json",
+      "sha256": "b713703f84a31c72055e85e8e8e7753507df8cdbfb70357f6dac10d39cd1f0f3",
+      "bytes": 782936
+    },
+    {
+      "path": "outputs/阵容图UI风格对照-v1.jpg",
+      "sha256": "6f730fe05b85b683cbae68682a27af622dc49f92dc1e96932f1b7dbd68403509",
+      "bytes": 468733
+    },
+    {
+      "path": "outputs/ranking-complete-v2-sources.md",
+      "sha256": "915bd2c4992169d5808ab1a7ca0b2fdf77973904a524aed2130075859bee1988",
+      "bytes": 1359
+    },
+    {
+      "path": "outputs/ranking-body-v2.txt",
+      "sha256": "3a46cbd9e1a956e1db2edab45d205c9e16e5f7d2a3efb3c615d392747a3c89b1",
+      "bytes": 1425
+    },
+    {
+      "path": "outputs/v3-repair-mask.png",
+      "sha256": "aa6d4f52a949cbfceea082594795087da395eaea5bfc8b428824d4cfb951fb17",
+      "bytes": 5235
+    },
+    {
+      "path": "outputs/ranking-codes-20260907.json",
+      "sha256": "b46368b4e277c9c254908665ac2405f0a0addd5358e28df05379cbbca68f3e4d",
+      "bytes": 1056
+    },
+    {
+      "path": "outputs/HANDOFF.md",
+      "sha256": "43c148afff040a6d1489ba8ae4c7f3dff1c5ce111ab260844ae0b86f82a97ccf",
+      "bytes": 4282
+    },
+    {
+      "path": "outputs/equipment-recipe-sample-checks.json",
+      "sha256": "8a31872faff45822e34e5ebeca66e51516badc32a6c943a919d4af1aa5babc4f",
+      "bytes": 1685
+    },
+    {
+      "path": "outputs/ranking-cards-source-20260907.json",
+      "sha256": "3b98111551654925afd184cb26c2fe240e99d38035b84dbf0f88727f98761bab",
+      "bytes": 30311
+    }
+  ]
+}

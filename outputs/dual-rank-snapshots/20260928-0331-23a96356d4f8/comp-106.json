@@ -1,0 +1,196 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "compId": "106",
+    "name": "主宰女警",
+    "desc": null,
+    "gameCode": "【阵容码】#主宰女警#MjIwMDY3MzAyODc5ODA4NTYxNzg4NzgyNjgwNTQy",
+    "heroes": [
+      {
+        "id": "2224",
+        "heroId": "2510",
+        "heroName": "凯特琳",
+        "heroType": 0,
+        "isCarry": true,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 2,
+        "heroStarNum": 3,
+        "position": "4,1"
+      },
+      {
+        "id": "2228",
+        "heroId": "4510",
+        "heroName": "希维尔",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": true,
+        "isCore": true,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "4,3"
+      },
+      {
+        "id": "2225",
+        "heroId": "2500",
+        "heroName": "峡谷迅捷蟹",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 2,
+        "heroStarNum": 3,
+        "position": "1,3"
+      },
+      {
+        "id": "2226",
+        "heroId": "2502",
+        "heroName": "瑟庄妮",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 2,
+        "heroStarNum": 3,
+        "position": "1,4"
+      },
+      {
+        "id": "2231",
+        "heroId": "4503",
+        "heroName": "阿木木",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "1,7"
+      },
+      {
+        "id": "2227",
+        "heroId": "3508",
+        "heroName": "崔丝塔娜",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 3,
+        "heroStarNum": null,
+        "position": "4,7"
+      },
+      {
+        "id": "2229",
+        "heroId": "3501",
+        "heroName": "蔚",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 3,
+        "heroStarNum": null,
+        "position": "1,6"
+      },
+      {
+        "id": "2230",
+        "heroId": "1501",
+        "heroName": "洛",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 1,
+        "heroStarNum": null,
+        "position": "1,5"
+      }
+    ],
+    "traits": [
+      {
+        "id": "83710102",
+        "name": "主宰"
+      },
+      {
+        "id": "83750102",
+        "name": "猎人"
+      },
+      {
+        "id": "83930101",
+        "name": "花仙子"
+      },
+      {
+        "id": "83970101",
+        "name": "野兽之灵"
+      }
+    ],
+    "equips": [
+      {
+        "heroId": "2510",
+        "equipId": "2045",
+        "compHeroId": "2224"
+      },
+      {
+        "heroId": "2510",
+        "equipId": "2013",
+        "compHeroId": "2224"
+      },
+      {
+        "heroId": "2510",
+        "equipId": "2010",
+        "compHeroId": "2224"
+      },
+      {
+        "heroId": "2500",
+        "equipId": "2034",
+        "compHeroId": "2225"
+      },
+      {
+        "heroId": "2500",
+        "equipId": "2028",
+        "compHeroId": "2225"
+      },
+      {
+        "heroId": "2500",
+        "equipId": "2025",
+        "compHeroId": "2225"
+      },
+      {
+        "heroId": "2502",
+        "equipId": "2029",
+        "compHeroId": "2226"
+      },
+      {
+        "heroId": "2502",
+        "equipId": "2034",
+        "compHeroId": "2226"
+      },
+      {
+        "heroId": "2502",
+        "equipId": "2028",
+        "compHeroId": "2226"
+      },
+      {
+        "heroId": "4510",
+        "equipId": "2037",
+        "compHeroId": "2228"
+      },
+      {
+        "heroId": "4510",
+        "equipId": "2004",
+        "compHeroId": "2228"
+      },
+      {
+        "heroId": "4510",
+        "equipId": "2001",
+        "compHeroId": "2228"
+      }
+    ],
+    "top4Rate": 54.04,
+    "topRate": 6.1,
+    "pickRate": 0.23,
+    "avgPlacement": 4.37,
+    "sampleCount": 9166,
+    "tier": "A",
+    "dataMode": "stats"
+  }
+}

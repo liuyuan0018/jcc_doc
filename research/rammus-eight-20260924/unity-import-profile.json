@@ -1,0 +1,23 @@
+{
+  "id": "rammus-eight-results-v1",
+  "legacyId": "rammus-eight-results-v1",
+  "title": "龙龟 · 八套配装模拟对照",
+  "coverKey": "cover/rammus-eight-v1",
+  "portraitKeys": {"拉莫斯": "hero/rammus"},
+  "items": {
+    "饮血剑": ["bloodthirster", "饮血"],
+    "大天使之杖": ["archangels_staff", "大天使"],
+    "石像鬼石板甲": ["gargoyle_stoneplate", "板甲"],
+    "狂徒铠甲": ["warmogs_armor", "狂徒"],
+    "振奋盔甲": ["spirit_visage", "振奋"],
+    "适应性头盔": ["adaptivehelm", "头盔"],
+    "棘刺背心": ["2054", "反甲"],
+    "巨龙之爪": ["2031", "龙牙"],
+    "坚定之心": ["nightharvester", "坚定"]
+  },
+  "sourcePaths": {
+    "replay": "exports/frontline-rammus-eight-v1/source/assets/rammus-eight-data.json",
+    "timeline": "exports/frontline-rammus-eight-v1/production-v1/timeline.json",
+    "recipe": "exports/frontline-rammus-eight-v1/rammus-eight-recipe.json"
+  }
+}

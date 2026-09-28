@@ -1,0 +1,33 @@
+{
+  "status": "verified",
+  "lower": 300,
+  "upper": 2500,
+  "step": 1,
+  "configurations": 8365,
+  "threads": 4,
+  "criterion": "maximum tested passing DPS, do not stop on failure",
+  "sourceHashes": {
+    "/Users/lyu/Documents/ChatGPT/\u91d1\u94f2\u94f2/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/web.cpp": "62bf18cdf292557225b5fd20c15ee8fdd418a9ca0df26fa847b8bcb9a14912df",
+    "/Users/lyu/Documents/ChatGPT/\u91d1\u94f2\u94f2/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/engine-web.hpp": "f476fd9f561189c41d446c525b47ec268e997fe64cfcbd7c7138b077d5301faa",
+    "/Users/lyu/Documents/ChatGPT/\u91d1\u94f2\u94f2/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/generated.hpp": "9f153b1105b950cce6b733a9f01ec2370ed0e0d6a6a5d7981ae9fb2309fbc3df",
+    "/Users/lyu/Documents/ChatGPT/\u91d1\u94f2\u94f2/research/vi-vow-topic-20260923/vow-shield-revision-v1/input/replay-native": "89f153456035771b5d41dea3bc628578342343907c9c917d2908f7de252d2e01"
+  },
+  "inputRankingSha256": "29a78a35b1d059b3e5d048474485be8dd187c70917a90169caa4410184983477",
+  "elapsedSeconds": 146.390448958,
+  "totalStages": 18411365,
+  "ceilingConfigurations": [],
+  "nonmonotonicConfigurations": 4082,
+  "binarySha256": "fad280533843362ef53b2e7a47e92f4bc90fe0f22d3d4d7ecf0dcb82cec60b22",
+  "validation": "all stage coverage, pass ranges and maxima; selected native replay boundaries",
+  "replaySha256": "737bc73fc34001d7f1ca8b8bac2fff87c7ac685feedffbcd7fae052f6b121f7b",
+  "rawHashes": {
+    "worker-0.csv.gz": "ca63ae61969f3f3b445104844cead01579dacbbde3c57dcdcf4103ffd6fb6c1b",
+    "worker-0.jsonl": "03d2c4f7f3729c71ef4a232cbc315ad023edfd03eda0457f78801434dab680d2",
+    "worker-1.csv.gz": "71bccc91125f0d1e903e0c78ee40d0b73981d6163e98c980592c6c8e07a389d1",
+    "worker-1.jsonl": "c4b610ce611f0e3224500db46b5aaaba3b09ebd2568432fd4ab74c24b9c22633",
+    "worker-2.csv.gz": "e9fcf5977609648681f1fdbc7737644c97dfb6d5b679531ebeb58a53d8bcf119",
+    "worker-2.jsonl": "7097619618a3b7a317aa069bcf94fc829c72ed00af507258cec130ff04a50173",
+    "worker-3.csv.gz": "0ce38b711068e784a475e5b1c77084ea738982c77ebbe0e512211d042f591dd0",
+    "worker-3.jsonl": "1318b424987c66e71400598d02f01b30c3aa4e2a9a9583edb9c2d3b3338e9c67"
+  }
+}

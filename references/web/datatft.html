@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="dark">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <script>
+    (function () {
+      if (window.location.hostname === 'datatft.com') {
+        window.location.replace('https://www.datatft.com' + window.location.pathname + window.location.search + window.location.hash);
+      }
+    })();
+  </script>
+  <link rel="icon" href="/assets/favicon-JvcPL-z8.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>金铲铲大数据 - 金铲铲之战阵容、装备与强化符文</title>
+  <meta name="description" content="金铲铲大数据提供金铲铲之战热门阵容、英雄出装、装备搭配、强化符文排行、阵容模拟器和对局数据查询。" />
+  <meta name="keywords" content="金铲铲之战,金铲铲大数据,金铲铲阵容,金铲铲出装,金铲铲强化符文,金铲铲模拟器" />
+  <link rel="canonical" href="https://jcc.datatft.com/" />
+  <!-- 静态Open Graph标签 -->
+  <meta property="og:title" content="金铲铲大数据 - 金铲铲之战阵容、装备与强化符文" />
+  <meta property="og:description" content="金铲铲大数据提供金铲铲之战热门阵容、英雄出装、装备搭配、强化符文排行、阵容模拟器和对局数据查询。" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://jcc.datatft.com/" />
+  <meta property="og:image" content="https://static.datatft.com/images/web/index/logo2.png" />
+  <meta property="og:site_name" content="金铲铲大数据" />
+  <meta property="og:locale" content="zh_CN" />
+
+  <!-- Twitter Card标签 -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="金铲铲大数据 - 金铲铲之战阵容、装备与强化符文" />
+  <meta name="twitter:description" content="金铲铲大数据提供金铲铲之战热门阵容、英雄出装、装备搭配、强化符文排行、阵容模拟器和对局数据查询。" />
+  <meta name="twitter:image" content="https://static.datatft.com/images/web/index/logo2.png" />
+
+  <meta name="theme-color" content="#5865F2" />
+  <!-- 语言检测和初始SEO设置脚本 -->
+  <script>
+    (function () {
+      const buildPlatform = 'jcc';
+      const isJccPlatform = buildPlatform === 'jcc' || window.location.hostname === 'jcc.datatft.com';
+      // 检测URL参数中的语言
+      const urlParams = new URLSearchParams(window.location.search);
+      const langParam = urlParams.get('lang');
+      // 检测缓存中的语言
+      const savedLanguage = localStorage.getItem('language');
+      // 检测浏览器语言
+      const browserLang = navigator.language.toLowerCase();
+
+      let detectedLang = 'en'; // 默认英文
+      // 优先级：URL参数 > 缓存 > 浏览器语言
+      if (langParam) {
+        if (langParam === 'zh' || langParam === 'cn') detectedLang = 'zh';
+        else if (langParam === 'vn') detectedLang = 'vn';
+        else detectedLang = 'en';
+      } else if (savedLanguage) {
+        if (['CN', 'TW', 'MY'].includes(savedLanguage)) detectedLang = 'zh';
+        else if (savedLanguage === 'VN') detectedLang = 'vn';
+        else detectedLang = 'en';
+      } else {
+        // 浏览器语言检测
+        if (browserLang.startsWith('zh')) detectedLang = 'zh';
+        else if (browserLang.startsWith('vi')) detectedLang = 'vn';
+        else detectedLang = 'en';
+      }
+
+      // 根据检测到的语言设置标题和meta信息
+      const seoData = {
+        jcc: {
+          title: '金铲铲大数据 - 金铲铲之战阵容、装备与强化符文',
+          description: '金铲铲大数据提供金铲铲之战热门阵容、英雄出装、装备搭配、强化符文排行、阵容模拟器和对局数据查询。',
+          keywords: '金铲铲之战,金铲铲大数据,金铲铲阵容,金铲铲出装,金铲铲强化符文,金铲铲模拟器',
+          lang: 'zh-CN'
+        },
+        zh: {
+          title: '云顶大数据',
+          description: '云顶之弈大数据,轻松查询各类数据模型,检索最强出装和强化符文,构建专属阵容,为你的云顶之旅提供全方位数据支持!',
+          keywords: '金铲铲之战,云顶之弈,云顶之弈大数据,云顶之弈检索器,云顶之弈模拟器,金铲铲模拟器,云顶之弈英雄资料,云顶之弈阵容分析,游戏数据查询',
+          lang: 'zh-CN'
+        },
+        en: {
+          title: 'DataTFT',
+          description: 'DataTFT—— Browsing various stats, finding the best builds, and crafting your personalized comps. Get comprehensive data support for your TFT journey starting from today!',
+          keywords: 'TFT, Teamfight Tactics, TFT data, TFT searcher, TFT simulator, TFT hero information, TFT lineup analysis, game data query',
+          lang: 'en'
+        },
+        vn: {
+          title: 'DataTFT',
+          description: 'Data TFT, dễ dàng truy vấn các mô hình dữ liệu, tìm kiếm trang bị mạnh nhất và rune nâng cao, xây dựng đội hình riêng, cung cấp hỗ trợ dữ liệu toàn diện cho hành trình TFT S12 của bạn!',
+          keywords: 'Đấu Trường Chân Lý, TFT, Dữ liệu lớn TFT, Công cụ tìm kiếm TFT, Trình mô phỏng TFT, Thông tin tướng TFT, Phân tích đội hình TFT, Tra cứu dữ liệu trò chơi',
+          lang: 'vi'
+        }
+      };
+
+      const currentSeo = isJccPlatform ? seoData.jcc : seoData[detectedLang];
+
+      // 设置HTML lang属性
+      document.documentElement.lang = currentSeo.lang;
+
+      // 设置标题
+      document.title = currentSeo.title;
+
+      // 创建并设置meta标签
+      function setMeta(name, content) {
+        let meta = document.querySelector(`meta[name="${name}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.name = name;
+          document.head.appendChild(meta);
+        }
+        meta.content = content;
+      }
+
+      function setProperty(property, content) {
+        let meta = document.querySelector(`meta[property="${property}"]`);
+        if (!meta) {
+          meta = document.createElement('meta');
+          meta.setAttribute('property', property);
+          document.head.appendChild(meta);
+        }
+        meta.content = content;
+      }
+
+      // 设置基本meta标签
+      setMeta('description', currentSeo.description);
+      setMeta('keywords', currentSeo.keywords);
+
+      // // 设置Open Graph标签
+      // setProperty('og:title', currentSeo.title);
+      // setProperty('og:description', currentSeo.description);
+      // setProperty('og:type', 'website');
+      // setProperty('og:url', window.location.href);
+      // setProperty('og:image', 'https://static.datatft.com/images/web/index/logo2.png');
+      // setProperty('og:site_name', 'DataTFT');
+      // setProperty('og:locale', currentSeo.lang === 'zh' ? 'zh_CN' : (currentSeo.lang === 'vn' ? 'vi_VN' : 'en_US'));
+      // setMeta('theme-color', '#5865F2'); 
+
+      // // 设置Twitter Card标签
+      // setMeta('twitter:card', 'summary_large_image');
+      // setMeta('twitter:title', currentSeo.title);
+      // setMeta('twitter:description', currentSeo.description);
+      // setMeta('twitter:image', 'https://datatft.com/src/assets/img/logo.png');
+    })();
+  </script>
+
+  <!-- SITE_ALTERNATES_START -->
+  <link rel="alternate" hreflang="zh-CN" href="https://jcc.datatft.com/" />
+  <link rel="alternate" hreflang="x-default" href="https://jcc.datatft.com/" />
+  <!-- SITE_ALTERNATES_END -->
+
+  <script>
+    var _hmt = _hmt || [];
+    (function () {
+      if (navigator.webdriver) return;
+      var isJcc = 'jcc' === 'jcc' || window.location.hostname === 'jcc.datatft.com';
+      var hm = document.createElement("script");
+      if (isJcc) {
+        hm.src = "https://hm.baidu.com/hm.js?391142a16f273b7c64517b258d2c1990";
+      } else {
+        hm.src = "https://hm.baidu.com/hm.js?2034374bfaeb94e22b40baab755eaaaa";
+      }
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+  <!-- Google tag (gtag.js) -->
+  <script>
+    if (!navigator.webdriver) {
+      var isJcc = 'jcc' === 'jcc' || window.location.hostname === 'jcc.datatft.com';
+      var gaId = isJcc ? 'G-9V3KKXGMDD' : 'G-L2KCGDTJFZ';
+      var gaScript = document.createElement('script');
+      gaScript.async = true;
+      gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
+      document.head.appendChild(gaScript);
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+
+      gtag('config', gaId);
+    }
+  </script>
+  <script
+    type="text/javascript"> if (!navigator.webdriver) { (function (c, l, a, r, i, t, y) { c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) }; t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i; y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y); })(window, document, "clarity", "script", "sv3l7igp81"); } </script>
+  <script type="module" crossorigin src="/assets/index-B1n_zehf.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-DCbnhvbf.css">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"金铲铲大数据","alternateName":"金铲铲大数据","url":"https://jcc.datatft.com/","inLanguage":"zh-CN","description":"金铲铲大数据提供金铲铲之战热门阵容、英雄出装、装备搭配、强化符文排行、阵容模拟器和对局数据查询。"}</script>
+</head>
+
+<body>
+  <div id="app"></div>
+</body>
+
+</html>

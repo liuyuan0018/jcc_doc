@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "s18-notes-purple",
+  "name": "S18常规榜与冷门榜统一样式",
+  "notesStyle": true,
+  "colors": {
+    "bg": "#f0edf8",
+    "card": "#ffffff",
+    "ink": "#281e39",
+    "muted": "#796987",
+    "line": "#d8c8ed",
+    "green": "#753cf4",
+    "shield": "#c99343",
+    "track": "#e8e1f2",
+    "red": "#bd552e",
+    "dark": "#241b35",
+    "white": "#ffffff",
+    "dead": "#9581a9",
+    "accent": "#753cf4",
+    "decor": "#e5dcf4",
+    "dots": "#c4b5e5"
+  },
+  "font": {
+    "family": "PingFang SC",
+    "path": "/System/Library/AssetsV2/com_apple_MobileAsset_Font8/86ba2c91f017a3749571a82f2c6d890ac7ffb2fb.asset/AssetData/PingFang.ttc",
+    "index": 7,
+    "headingIndex": 11,
+    "sha256": "9ff3ce9439fe285cdabb46f9ceb46b1ac58f1ca07e6f4a764e8286db621a0af9"
+  },
+  "references": [
+    {
+      "path": "exports/S18常规榜-20260919-修订版/03-地狱火95.svg",
+      "sha256": "2381d60698241b633f96cda5428e036cdd34003147f3ed8987e6c52cb26e685a"
+    },
+    {
+      "path": "exports/S18冷门榜-20260919/01-冷门构筑强度榜.svg",
+      "sha256": "9753fe19a44bc40f3cc10c86951b3da99cadea63ef41a1506617c0ab6f78a790"
+    }
+  ]
+}

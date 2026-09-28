@@ -1,0 +1,165 @@
+{
+  "status": "recorded_verified_reviewable_not_published",
+  "source": "exports/frontline-malphite-rerun-v1/full-ranking.csv",
+  "simulationCount": 250950,
+  "mainCount": 8,
+  "resultsCount": 72,
+  "main": [
+    {
+      "id": "m-t2-s33-b8028",
+      "key": "M01",
+      "tier": 2,
+      "cost": 3,
+      "star": 3,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "score": 1461,
+      "rank": 1456,
+      "passedDps": 1450,
+      "failedDps": 1500,
+      "reason": "2黑全池最高成绩"
+    },
+    {
+      "id": "m-t4-s33-b8028",
+      "key": "M02",
+      "tier": 4,
+      "cost": 3,
+      "star": 3,
+      "items": [
+        24,
+        24,
+        27
+      ],
+      "augment": 4,
+      "score": 1837,
+      "rank": 53,
+      "passedDps": 1800,
+      "failedDps": 1850,
+      "reason": "4黑全池最高成绩"
+    },
+    {
+      "id": "m-t6-s33-b8024",
+      "key": "M03",
+      "tier": 6,
+      "cost": 3,
+      "star": 3,
+      "items": [
+        24,
+        24,
+        24
+      ],
+      "augment": 0,
+      "score": 2146,
+      "rank": 1,
+      "passedDps": 2100,
+      "failedDps": 2150,
+      "reason": "6黑全池最高成绩"
+    },
+    {
+      "id": "m-t2-s12-b8068",
+      "key": "M04",
+      "tier": 2,
+      "cost": 1,
+      "star": 2,
+      "items": [
+        24,
+        27,
+        33
+      ],
+      "augment": 0,
+      "score": 878,
+      "rank": 53427,
+      "passedDps": 850,
+      "failedDps": 900,
+      "reason": "常规出装与两星坦克献祭代表"
+    },
+    {
+      "id": "m-t2-s32-b8068",
+      "key": "M05",
+      "tier": 2,
+      "cost": 3,
+      "star": 2,
+      "items": [
+        24,
+        27,
+        33
+      ],
+      "augment": 0,
+      "score": 946,
+      "rank": 38593,
+      "passedDps": 900,
+      "failedDps": 950,
+      "reason": "常规出装与两星坦克献祭代表"
+    },
+    {
+      "id": "m-t4-s32-b8068",
+      "key": "M06",
+      "tier": 4,
+      "cost": 3,
+      "star": 2,
+      "items": [
+        24,
+        27,
+        33
+      ],
+      "augment": 0,
+      "score": 1090,
+      "rank": 17333,
+      "passedDps": 1050,
+      "failedDps": 1100,
+      "reason": "常规出装与两星坦克献祭代表"
+    },
+    {
+      "id": "m-t4-s32-b7187",
+      "key": "M07",
+      "tier": 4,
+      "cost": 3,
+      "star": 2,
+      "items": [
+        17,
+        24,
+        27
+      ],
+      "augment": 0,
+      "score": 1146,
+      "rank": 12386,
+      "passedDps": 1100,
+      "failedDps": 1150,
+      "reason": "常规出装与两星坦克献祭代表"
+    },
+    {
+      "id": "m-t6-s42-b8068",
+      "key": "M08",
+      "tier": 6,
+      "cost": 4,
+      "star": 2,
+      "items": [
+        24,
+        27,
+        33
+      ],
+      "augment": 0,
+      "score": 1359,
+      "rank": 3029,
+      "passedDps": 1350,
+      "failedDps": 1400,
+      "reason": "常规出装与两星坦克献祭代表"
+    }
+  ],
+  "resultsPolicy": [
+    "Include Main 8 and global top 8",
+    "Fill 64 extras by meaningful feature coverage",
+    "Preserve scores, global ranks, ties and Main episode tags"
+  ],
+  "narrative": "固定条件斗蛐蛐。两黑、四黑、六黑各自最高分必须出镜，其余五套展示常规装备及两星坦克献祭。只报战况与成绩，不推导实战建议。",
+  "uiRequirements": [
+    "Main醒目标注2/4/6黑荆棘，不能只在底部小字显示",
+    "Sub标题保持简短避免溢出",
+    "开场点明前三套来自各羁绊全池最高分，不提前报分"
+  ],
+  "supersedes": "production-v3 Main selection"
+}

@@ -1,0 +1,1321 @@
+{
+  "verified": true,
+  "scenario": {
+    "index": 185,
+    "hero_index": 50,
+    "hero": "拉莫斯",
+    "star": 3,
+    "cost": 3,
+    "traits": {
+      "护卫": 6
+    },
+    "slots": 6
+  },
+  "archive": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-01-rerun-v3",
+  "modelRevision": "dataj-s18-skill-hecarim-20260922",
+  "frozenReplayProducerSha256": "e6d1af73b7eb2ebc2341be46a9163a49b38dde8bdd7a452347e0295e99b45c57",
+  "sourceHashes": {
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-01-rerun-v3/manifest.json": "821c66cd805d50c9c5e35d772c15fe078d0120d81dd095c88ed737305c66761e",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-01-rerun-v3/input/catalog.json": "a92dab300195c6c77fb8cbf30af27a72b6a7cc27c6f9190e75ba0295c9c03c53",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-01-rerun-v3/raw/scenario-185.runs.jsonl.gz": "374d68999944aed377611187d5f5ba007f7d99c2088c5a5336283aea413e8c51",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/frontline-episode-01-rerun-v3/raw/scenario-185.summary.jsonl.gz": "6d14869946bfcb17cca5eaeb12019e425871d19bf1d7c1ffdf69ddf97673751e"
+  },
+  "buildCount": 8,
+  "retainedStageCount": 187,
+  "boundaryReplayCount": 16,
+  "builds": [
+    {
+      "key": "A",
+      "id": "s185-b3096-a0",
+      "items": [
+        5,
+        16,
+        27
+      ],
+      "itemNames": [
+        "饮血剑",
+        "大天使之杖",
+        "石像鬼石板甲"
+      ],
+      "augment": 0,
+      "passedDps": 1650,
+      "failedDps": 1700,
+      "failedFrame": 770,
+      "rank": 3,
+      "stageCount": 29,
+      "stages": [
+        {
+          "dps": 300,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 350,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 400,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 450,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 500,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 550,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 600,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 650,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 700,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 750,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 800,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 850,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 900,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 950,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1000,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1050,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1100,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1150,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1200,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1250,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1300,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1350,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1400,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1450,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1500,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1550,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1600,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1650,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1700,
+          "frame": 770,
+          "alive": false
+        }
+      ],
+      "boundaryReplays": [
+        {
+          "dps": 1650,
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-eight-20260924/boundary-replays/A-1650.json",
+          "sha256": "e40bde570daf174fda27312c2e55216f94158d8a568659efc51d4f963af7dfc4",
+          "frame": 900,
+          "alive": true,
+          "eventCount": 160
+        },
+        {
+          "dps": 1700,
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-eight-20260924/boundary-replays/A-1700.json",
+          "sha256": "11ffac2f23b789d39f776b30615ac9d4fd9a22d76df81be6ca766fbd183c5eb8",
+          "frame": 770,
+          "alive": false,
+          "eventCount": 140
+        }
+      ]
+    },
+    {
+      "key": "B",
+      "id": "s185-b3245-a0",
+      "items": [
+        5,
+        27,
+        33
+      ],
+      "itemNames": [
+        "饮血剑",
+        "石像鬼石板甲",
+        "狂徒铠甲"
+      ],
+      "augment": 0,
+      "passedDps": 1250,
+      "failedDps": 1300,
+      "failedFrame": 890,
+      "rank": 4,
+      "stageCount": 21,
+      "stages": [
+        {
+          "dps": 300,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 350,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 400,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 450,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 500,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 550,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 600,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 650,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 700,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 750,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 800,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 850,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 900,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 950,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1000,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1050,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1100,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1150,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1200,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1250,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1300,
+          "frame": 890,
+          "alive": false
+        }
+      ],
+      "boundaryReplays": [
+        {
+          "dps": 1250,
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-eight-20260924/boundary-replays/B-1250.json",
+          "sha256": "3dd87a2ecfa3b4739c3f17a48369d47f499660de8ed260ed2ac072dd9a9444d9",
+          "frame": 900,
+          "alive": true,
+          "eventCount": 151
+        },
+        {
+          "dps": 1300,
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-eight-20260924/boundary-replays/B-1300.json",
+          "sha256": "b5145f897841d7921a61676c73160be32d312834defc17485d169740a9432e62",
+          "frame": 890,
+          "alive": false,
+          "eventCount": 150
+        }
+      ]
+    },
+    {
+      "key": "C",
+      "id": "s185-b6600-a0",
+      "items": [
+        16,
+        27,
+        33
+      ],
+      "itemNames": [
+        "大天使之杖",
+        "石像鬼石板甲",
+        "狂徒铠甲"
+      ],
+      "augment": 0,
+      "passedDps": 1250,
+      "failedDps": 1300,
+      "failedFrame": 790,
+      "rank": 4,
+      "stageCount": 21,
+      "stages": [
+        {
+          "dps": 300,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 350,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 400,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 450,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 500,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 550,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 600,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 650,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 700,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 750,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 800,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 850,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 900,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 950,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1000,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1050,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1100,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1150,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1200,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1250,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1300,
+          "frame": 790,
+          "alive": false
+        }
+      ],
+      "boundaryReplays": [
+        {
+          "dps": 1250,
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-eight-20260924/boundary-replays/C-1250.json",
+          "sha256": "e88c76ab054fea30bc00ace9229e8bdd444905492e1ceac2b251723b3f54c445",
+          "frame": 900,
+          "alive": true,
+          "eventCount": 112
+        },
+        {
+          "dps": 1300,
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-eight-20260924/boundary-replays/C-1300.json",
+          "sha256": "6699356a9252f33f46acf8ccf2cb2ac55c0b142ad84dcd5e05801d2d1bde65d2",
+          "frame": 790,
+          "alive": false,
+          "eventCount": 100
+        }
+      ]
+    },
+    {
+      "key": "D",
+      "id": "s185-b7520-a0",
+      "items": [
+        24,
+        27,
+        33
+      ],
+      "itemNames": [
+        "振奋盔甲",
+        "石像鬼石板甲",
+        "狂徒铠甲"
+      ],
+      "augment": 0,
+      "passedDps": 1100,
+      "failedDps": 1150,
+      "failedFrame": 830,
+      "rank": 6,
+      "stageCount": 18,
+      "stages": [
+        {
+          "dps": 300,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 350,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 400,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 450,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 500,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 550,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 600,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 650,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 700,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 750,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 800,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 850,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 900,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 950,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1000,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1050,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1100,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1150,
+          "frame": 830,
+          "alive": false
+        }
+      ],
+      "boundaryReplays": [
+        {
+          "dps": 1100,
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-eight-20260924/boundary-replays/D-1100.json",
+          "sha256": "51bb2a5f9057fca4e41a34476b4cdac9324b07f681a83a0182af385ac5c9e7c9",
+          "frame": 900,
+          "alive": true,
+          "eventCount": 142
+        },
+        {
+          "dps": 1150,
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-eight-20260924/boundary-replays/D-1150.json",
+          "sha256": "3c65466c8c2be5164e08a072cc0f4cb16d667357315733e8120f7970386394fd",
+          "frame": 830,
+          "alive": false,
+          "eventCount": 131
+        }
+      ]
+    },
+    {
+      "key": "E",
+      "id": "s185-b3092-a0",
+      "items": [
+        5,
+        16,
+        23
+      ],
+      "itemNames": [
+        "饮血剑",
+        "大天使之杖",
+        "适应性头盔"
+      ],
+      "augment": 0,
+      "passedDps": 1850,
+      "failedDps": 1900,
+      "failedFrame": 730,
+      "rank": 1,
+      "stageCount": 33,
+      "stages": [
+        {
+          "dps": 300,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 350,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 400,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 450,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 500,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 550,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 600,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 650,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 700,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 750,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 800,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 850,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 900,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 950,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1000,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1050,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1100,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1150,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1200,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1250,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1300,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1350,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1400,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1450,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1500,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1550,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1600,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1650,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1700,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1750,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1800,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1850,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1900,
+          "frame": 730,
+          "alive": false
+        }
+      ],
+      "boundaryReplays": [
+        {
+          "dps": 1850,
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-eight-20260924/boundary-replays/E-1850.json",
+          "sha256": "556b1892102ff727bbe67e026c1b81025b88fc580b2eb578023d9f21cd0b3e20",
+          "frame": 900,
+          "alive": true,
+          "eventCount": 177
+        },
+        {
+          "dps": 1900,
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-eight-20260924/boundary-replays/E-1900.json",
+          "sha256": "e891ff6ccf2bf4a17c3c8f2197360dc407586967e7a0c193a99c5311fe2ba604",
+          "frame": 730,
+          "alive": false,
+          "eventCount": 145
+        }
+      ]
+    },
+    {
+      "key": "F",
+      "id": "s185-b6447-a0",
+      "items": [
+        16,
+        16,
+        23
+      ],
+      "itemNames": [
+        "大天使之杖",
+        "大天使之杖",
+        "适应性头盔"
+      ],
+      "augment": 0,
+      "passedDps": 1850,
+      "failedDps": 1900,
+      "failedFrame": 450,
+      "rank": 1,
+      "stageCount": 33,
+      "stages": [
+        {
+          "dps": 300,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 350,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 400,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 450,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 500,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 550,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 600,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 650,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 700,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 750,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 800,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 850,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 900,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 950,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1000,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1050,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1100,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1150,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1200,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1250,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1300,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1350,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1400,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1450,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1500,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1550,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1600,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1650,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1700,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1750,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1800,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1850,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1900,
+          "frame": 450,
+          "alive": false
+        }
+      ],
+      "boundaryReplays": [
+        {
+          "dps": 1850,
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-eight-20260924/boundary-replays/F-1850.json",
+          "sha256": "59546bd21e084004f0cdb303ceeea80761caf11ef4172a8eb38be58e027ca07e",
+          "frame": 900,
+          "alive": true,
+          "eventCount": 121
+        },
+        {
+          "dps": 1900,
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-eight-20260924/boundary-replays/F-1900.json",
+          "sha256": "f310ac7e7b0141bb6934ca2a7ea195218dd2d4352d1a0aa6668dbfc3cbc0326f",
+          "frame": 450,
+          "alive": false,
+          "eventCount": 63
+        }
+      ]
+    },
+    {
+      "key": "G",
+      "id": "s185-b7638-a0",
+      "items": [
+        26,
+        30,
+        33
+      ],
+      "itemNames": [
+        "棘刺背心",
+        "巨龙之爪",
+        "狂徒铠甲"
+      ],
+      "augment": 0,
+      "passedDps": 950,
+      "failedDps": 1000,
+      "failedFrame": 830,
+      "rank": 8,
+      "stageCount": 15,
+      "stages": [
+        {
+          "dps": 300,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 350,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 400,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 450,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 500,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 550,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 600,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 650,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 700,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 750,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 800,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 850,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 900,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 950,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1000,
+          "frame": 830,
+          "alive": false
+        }
+      ],
+      "boundaryReplays": [
+        {
+          "dps": 950,
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-eight-20260924/boundary-replays/G-950.json",
+          "sha256": "44774dc848e757c6be481994e8af61f0f1e39e53a2916e4b26790863b5138235",
+          "frame": 900,
+          "alive": true,
+          "eventCount": 124
+        },
+        {
+          "dps": 1000,
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-eight-20260924/boundary-replays/G-1000.json",
+          "sha256": "601b1e394ad7f58c26bc2dcf44711fdaac6d0aa0530cc4fb8112c6268dd9a915",
+          "frame": 830,
+          "alive": false,
+          "eventCount": 114
+        }
+      ]
+    },
+    {
+      "key": "H",
+      "id": "s185-b7516-a0",
+      "items": [
+        24,
+        27,
+        29
+      ],
+      "itemNames": [
+        "振奋盔甲",
+        "石像鬼石板甲",
+        "坚定之心"
+      ],
+      "augment": 0,
+      "passedDps": 1050,
+      "failedDps": 1100,
+      "failedFrame": 880,
+      "rank": 7,
+      "stageCount": 17,
+      "stages": [
+        {
+          "dps": 300,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 350,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 400,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 450,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 500,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 550,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 600,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 650,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 700,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 750,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 800,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 850,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 900,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 950,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1000,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1050,
+          "frame": 900,
+          "alive": true
+        },
+        {
+          "dps": 1100,
+          "frame": 880,
+          "alive": false
+        }
+      ],
+      "boundaryReplays": [
+        {
+          "dps": 1050,
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-eight-20260924/boundary-replays/H-1050.json",
+          "sha256": "01b083ef230590258f413502e09bad89fe188fabde3ada21e9ba09a13a940b6c",
+          "frame": 900,
+          "alive": true,
+          "eventCount": 141
+        },
+        {
+          "dps": 1100,
+          "path": "/Users/lyu/Documents/ChatGPT/金铲铲/research/rammus-eight-20260924/boundary-replays/H-1100.json",
+          "sha256": "4227779fd57fcd6807c35fe5b088c4c470f93a4b3ea75bfcdd59f2b135c5eec7",
+          "frame": 880,
+          "alive": false,
+          "eventCount": 138
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "left": "A",
+      "right": "B",
+      "swapped": "大天使 / 狂徒",
+      "passedDpsDeltaLeftMinusRight": 400
+    },
+    {
+      "left": "B",
+      "right": "C",
+      "swapped": "饮血 / 大天使",
+      "passedDpsDeltaLeftMinusRight": 0
+    },
+    {
+      "left": "B",
+      "right": "D",
+      "swapped": "饮血 / 振奋",
+      "passedDpsDeltaLeftMinusRight": 150
+    },
+    {
+      "left": "A",
+      "right": "E",
+      "swapped": "板甲 / 头盔",
+      "passedDpsDeltaLeftMinusRight": -200
+    },
+    {
+      "left": "E",
+      "right": "F",
+      "swapped": "饮血 / 第二件大天使",
+      "passedDpsDeltaLeftMinusRight": 0
+    },
+    {
+      "left": "D",
+      "right": "H",
+      "swapped": "狂徒 / 坚定之心",
+      "passedDpsDeltaLeftMinusRight": 50
+    }
+  ]
+}

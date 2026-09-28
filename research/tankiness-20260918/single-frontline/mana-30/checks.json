@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "checks": [
+    "4 analytic/discrete bounds",
+    "35 stack cap and +175 life",
+    "healthy gains 3x16 over30s",
+    "lethal packet cannot trigger survival effects"
+  ]
+}

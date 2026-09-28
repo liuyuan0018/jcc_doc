@@ -1,0 +1,1955 @@
+[
+  {
+    "id": "2297",
+    "heroId": "5456",
+    "heroName": "拉露恩",
+    "heroType": 0,
+    "isCarry": true,
+    "isSubCarry": false,
+    "isCore": true,
+    "price": 5,
+    "heroStarNum": null,
+    "position": "4,1",
+    "sampleCount": 255,
+    "playRate": 100.79,
+    "avgPlacement": 4.18,
+    "top4Rate": 57.65,
+    "topRate": 15.69,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 92,
+        "playRate": 36.08,
+        "avgPlacement": 5.47
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 161,
+        "playRate": 63.14,
+        "avgPlacement": 3.48
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 2,
+        "playRate": 0.78,
+        "avgPlacement": 1
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 7,
+        "playRate": 2.77,
+        "avgPlacement": 3.86
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 11,
+        "playRate": 4.35,
+        "avgPlacement": 4.36
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 28,
+        "playRate": 11.07,
+        "avgPlacement": 6
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 207,
+        "playRate": 81.82,
+        "avgPlacement": 3.93
+      }
+    ]
+  },
+  {
+    "id": "2303",
+    "heroId": "5452",
+    "heroName": "纳尔",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": true,
+    "price": 5,
+    "heroStarNum": null,
+    "position": "2,3",
+    "sampleCount": 254,
+    "playRate": 100.4,
+    "avgPlacement": 4.19,
+    "top4Rate": 57.48,
+    "topRate": 15.75,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 112,
+        "playRate": 44.09,
+        "avgPlacement": 5.04
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 142,
+        "playRate": 55.91,
+        "avgPlacement": 3.52
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 101,
+        "playRate": 39.92,
+        "avgPlacement": 5.22
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 94,
+        "playRate": 37.15,
+        "avgPlacement": 3.62
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 33,
+        "playRate": 13.04,
+        "avgPlacement": 3.42
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 25,
+        "playRate": 9.88,
+        "avgPlacement": 3.08
+      }
+    ]
+  },
+  {
+    "id": "2296",
+    "heroId": "5458",
+    "heroName": "远古巨龙",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": true,
+    "isCore": true,
+    "price": 5,
+    "heroStarNum": null,
+    "position": "2,2",
+    "sampleCount": 254,
+    "playRate": 100.4,
+    "avgPlacement": 4.17,
+    "top4Rate": 57.87,
+    "topRate": 16.14,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 87,
+        "playRate": 34.25,
+        "avgPlacement": 5.7
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 166,
+        "playRate": 65.35,
+        "avgPlacement": 3.38
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 1,
+        "playRate": 0.39,
+        "avgPlacement": 1
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 1,
+        "playRate": 0.4,
+        "avgPlacement": 8
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 17,
+        "playRate": 6.72,
+        "avgPlacement": 6.12
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 21,
+        "playRate": 8.3,
+        "avgPlacement": 6
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 214,
+        "playRate": 84.58,
+        "avgPlacement": 3.83
+      }
+    ]
+  },
+  {
+    "id": "2298",
+    "heroId": "4500",
+    "heroName": "苍蓝雕纹魔像",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": true,
+    "price": 4,
+    "heroStarNum": null,
+    "position": "1,4",
+    "sampleCount": 253,
+    "playRate": 100,
+    "avgPlacement": 4.18,
+    "top4Rate": 57.71,
+    "topRate": 15.81,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 84,
+        "playRate": 33.2,
+        "avgPlacement": 5.4
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 169,
+        "playRate": 66.8,
+        "avgPlacement": 3.57
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 66,
+        "playRate": 26.09,
+        "avgPlacement": 4.71
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 45,
+        "playRate": 17.79,
+        "avgPlacement": 4.24
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 36,
+        "playRate": 14.23,
+        "avgPlacement": 4.11
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 106,
+        "playRate": 41.9,
+        "avgPlacement": 3.84
+      }
+    ]
+  },
+  {
+    "id": "2300",
+    "heroId": "5451",
+    "heroName": "塔里克",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 5,
+    "heroStarNum": null,
+    "position": "1,5",
+    "sampleCount": 229,
+    "playRate": 90.51,
+    "avgPlacement": 4.07,
+    "top4Rate": 60.26,
+    "topRate": 16.59,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 90,
+        "playRate": 39.3,
+        "avgPlacement": 5.14
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 139,
+        "playRate": 60.7,
+        "avgPlacement": 3.37
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 68,
+        "playRate": 29.96,
+        "avgPlacement": 5.21
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 52,
+        "playRate": 22.91,
+        "avgPlacement": 3.67
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 31,
+        "playRate": 13.66,
+        "avgPlacement": 4
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 76,
+        "playRate": 33.48,
+        "avgPlacement": 3.34
+      }
+    ]
+  },
+  {
+    "id": "2299",
+    "heroId": "3506",
+    "heroName": "黛安娜",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 3,
+    "heroStarNum": null,
+    "position": "1,3",
+    "sampleCount": 225,
+    "playRate": 88.93,
+    "avgPlacement": 4.18,
+    "top4Rate": 56.89,
+    "topRate": 16.44,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 74,
+        "playRate": 32.89,
+        "avgPlacement": 4.92
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 151,
+        "playRate": 67.11,
+        "avgPlacement": 3.81
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 188,
+        "playRate": 83.93,
+        "avgPlacement": 4.32
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 28,
+        "playRate": 12.5,
+        "avgPlacement": 3.04
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 5,
+        "playRate": 2.23,
+        "avgPlacement": 4
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 3,
+        "playRate": 1.34,
+        "avgPlacement": 4.67
+      }
+    ]
+  },
+  {
+    "id": "2301",
+    "heroId": "3500",
+    "heroName": "赫卡里姆",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 3,
+    "heroStarNum": null,
+    "position": "1,2",
+    "sampleCount": 216,
+    "playRate": 85.38,
+    "avgPlacement": 4.22,
+    "top4Rate": 55.09,
+    "topRate": 16.2,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 61,
+        "playRate": 28.24,
+        "avgPlacement": 5.41
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 155,
+        "playRate": 71.76,
+        "avgPlacement": 3.75
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 181,
+        "playRate": 83.8,
+        "avgPlacement": 4.2
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 19,
+        "playRate": 8.8,
+        "avgPlacement": 3.68
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 3,
+        "playRate": 1.39,
+        "avgPlacement": 5.33
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 13,
+        "playRate": 6.02,
+        "avgPlacement": 5.08
+      }
+    ]
+  },
+  {
+    "id": "2302",
+    "heroId": "2501",
+    "heroName": "阿利斯塔",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 2,
+    "heroStarNum": null,
+    "position": "1,6",
+    "sampleCount": 173,
+    "playRate": 68.38,
+    "avgPlacement": 3.93,
+    "top4Rate": 61.27,
+    "topRate": 17.34,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 53,
+        "playRate": 30.64,
+        "avgPlacement": 4.74
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 120,
+        "playRate": 69.36,
+        "avgPlacement": 3.58
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 164,
+        "playRate": 94.8,
+        "avgPlacement": 3.97
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 5,
+        "playRate": 2.89,
+        "avgPlacement": 2.2
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 2,
+        "playRate": 1.16,
+        "avgPlacement": 2.5
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 2,
+        "playRate": 1.16,
+        "avgPlacement": 6.5
+      }
+    ]
+  },
+  {
+    "id": "2511",
+    "heroId": "2511",
+    "heroName": "乐芙兰",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 2,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 38,
+    "playRate": 15.02,
+    "avgPlacement": 4.5,
+    "top4Rate": 50,
+    "topRate": 15.79,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 12,
+        "playRate": 31.58,
+        "avgPlacement": 6.17
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 26,
+        "playRate": 68.42,
+        "avgPlacement": 3.73
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 33,
+        "playRate": 86.84,
+        "avgPlacement": 4.58
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 4,
+        "playRate": 10.53,
+        "avgPlacement": 4.25
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 1,
+        "playRate": 2.63,
+        "avgPlacement": 3
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ]
+  },
+  {
+    "id": "5453",
+    "heroId": "5453",
+    "heroName": "凯南",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 5,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 21,
+    "playRate": 8.3,
+    "avgPlacement": 3.86,
+    "top4Rate": 66.67,
+    "topRate": 19.05,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 13,
+        "playRate": 61.9,
+        "avgPlacement": 4.08
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 8,
+        "playRate": 38.1,
+        "avgPlacement": 3.5
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 8,
+        "playRate": 38.1,
+        "avgPlacement": 4.63
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 3,
+        "playRate": 14.29,
+        "avgPlacement": 2
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 2,
+        "playRate": 9.52,
+        "avgPlacement": 3.5
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 8,
+        "playRate": 38.1,
+        "avgPlacement": 3.88
+      }
+    ]
+  },
+  {
+    "id": "5457",
+    "heroId": "5457",
+    "heroName": "艾翁",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 5,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 16,
+    "playRate": 6.32,
+    "avgPlacement": 3.5,
+    "top4Rate": 75,
+    "topRate": 25,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 9,
+        "playRate": 56.25,
+        "avgPlacement": 4.11
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 7,
+        "playRate": 43.75,
+        "avgPlacement": 2.71
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 6,
+        "playRate": 37.5,
+        "avgPlacement": 5
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 8,
+        "playRate": 50,
+        "avgPlacement": 3
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 2,
+        "playRate": 12.5,
+        "avgPlacement": 1
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ]
+  },
+  {
+    "id": "4505",
+    "heroId": "4505",
+    "heroName": "瑟提",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 4,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 15,
+    "playRate": 5.93,
+    "avgPlacement": 2.87,
+    "top4Rate": 93.33,
+    "topRate": 33.33,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 9,
+        "playRate": 60,
+        "avgPlacement": 2.78
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 6,
+        "playRate": 40,
+        "avgPlacement": 3
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 9,
+        "playRate": 60,
+        "avgPlacement": 2.67
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 2,
+        "playRate": 13.33,
+        "avgPlacement": 3.5
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 4,
+        "playRate": 26.67,
+        "avgPlacement": 3
+      }
+    ]
+  },
+  {
+    "id": "3503",
+    "heroId": "3503",
+    "heroName": "远古石甲虫",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 3,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 10,
+    "playRate": 3.95,
+    "avgPlacement": 5.4,
+    "top4Rate": 30,
+    "topRate": 0,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 6,
+        "playRate": 60,
+        "avgPlacement": 5.33
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 4,
+        "playRate": 40,
+        "avgPlacement": 5.5
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 7,
+        "playRate": 70,
+        "avgPlacement": 5.71
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 2,
+        "playRate": 20,
+        "avgPlacement": 3
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 1,
+        "playRate": 10,
+        "avgPlacement": 8
+      }
+    ]
+  },
+  {
+    "id": "5464",
+    "heroId": "5464",
+    "heroName": "拉克丝",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 5,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 9,
+    "playRate": 3.56,
+    "avgPlacement": 2.11,
+    "top4Rate": 100,
+    "topRate": 33.33,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 5,
+        "playRate": 55.56,
+        "avgPlacement": 2.4
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 4,
+        "playRate": 44.44,
+        "avgPlacement": 1.75
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 3,
+        "playRate": 33.33,
+        "avgPlacement": 2
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 3,
+        "playRate": 33.33,
+        "avgPlacement": 2.67
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 2,
+        "playRate": 22.22,
+        "avgPlacement": 2
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 1,
+        "playRate": 11.11,
+        "avgPlacement": 1
+      }
+    ]
+  },
+  {
+    "id": "2504",
+    "heroId": "2504",
+    "heroName": "伊莉丝",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 2,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 9,
+    "playRate": 3.56,
+    "avgPlacement": 6,
+    "top4Rate": 22.22,
+    "topRate": 0,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 5,
+        "playRate": 55.56,
+        "avgPlacement": 6.8
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 4,
+        "playRate": 44.44,
+        "avgPlacement": 5
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 8,
+        "playRate": 88.89,
+        "avgPlacement": 5.75
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 1,
+        "playRate": 11.11,
+        "avgPlacement": 8
+      }
+    ]
+  },
+  {
+    "id": "5461",
+    "heroId": "5461",
+    "heroName": "拉克丝",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 5,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 8,
+    "playRate": 3.16,
+    "avgPlacement": 3.13,
+    "top4Rate": 75,
+    "topRate": 37.5,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 4,
+        "playRate": 50,
+        "avgPlacement": 3.25
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 4,
+        "playRate": 50,
+        "avgPlacement": 3
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 6,
+        "playRate": 75,
+        "avgPlacement": 3.83
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 2,
+        "playRate": 25,
+        "avgPlacement": 1
+      }
+    ]
+  },
+  {
+    "id": "5467",
+    "heroId": "5467",
+    "heroName": "拉克丝",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 5,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 7,
+    "playRate": 2.77,
+    "avgPlacement": 4.57,
+    "top4Rate": 57.14,
+    "topRate": 14.29,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 3,
+        "playRate": 42.86,
+        "avgPlacement": 4
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 4,
+        "playRate": 57.14,
+        "avgPlacement": 5
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 3,
+        "playRate": 42.86,
+        "avgPlacement": 5.67
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 1,
+        "playRate": 14.29,
+        "avgPlacement": 2
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 3,
+        "playRate": 42.86,
+        "avgPlacement": 4.33
+      }
+    ]
+  },
+  {
+    "id": "4504",
+    "heroId": "4504",
+    "heroName": "墨菲特",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 4,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 6,
+    "playRate": 2.37,
+    "avgPlacement": 4.67,
+    "top4Rate": 50,
+    "topRate": 0,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 2,
+        "playRate": 33.33,
+        "avgPlacement": 5
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 4,
+        "playRate": 66.67,
+        "avgPlacement": 4.5
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 1,
+        "playRate": 16.67,
+        "avgPlacement": 7
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 1,
+        "playRate": 16.67,
+        "avgPlacement": 4
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 1,
+        "playRate": 16.67,
+        "avgPlacement": 5
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 3,
+        "playRate": 50,
+        "avgPlacement": 4
+      }
+    ]
+  },
+  {
+    "id": "4512",
+    "heroId": "4512",
+    "heroName": "婕拉",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 4,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 6,
+    "playRate": 2.37,
+    "avgPlacement": 3.83,
+    "top4Rate": 66.67,
+    "topRate": 16.67,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 2,
+        "playRate": 33.33,
+        "avgPlacement": 3
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 4,
+        "playRate": 66.67,
+        "avgPlacement": 4.25
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 2,
+        "playRate": 33.33,
+        "avgPlacement": 3
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 4,
+        "playRate": 66.67,
+        "avgPlacement": 4.25
+      }
+    ]
+  },
+  {
+    "id": "1501",
+    "heroId": "1501",
+    "heroName": "洛",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 1,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 6,
+    "playRate": 2.37,
+    "avgPlacement": 6,
+    "top4Rate": 33.33,
+    "topRate": 0,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 5,
+        "playRate": 83.33,
+        "avgPlacement": 6.4
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 1,
+        "playRate": 16.67,
+        "avgPlacement": 4
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 5,
+        "playRate": 83.33,
+        "avgPlacement": 6.4
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 1,
+        "playRate": 16.67,
+        "avgPlacement": 4
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ]
+  },
+  {
+    "id": "5450",
+    "heroId": "5450",
+    "heroName": "茂凯",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 5,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 5,
+    "playRate": 1.98,
+    "avgPlacement": 4.6,
+    "top4Rate": 60,
+    "topRate": 20,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 3,
+        "playRate": 60,
+        "avgPlacement": 5
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 2,
+        "playRate": 40,
+        "avgPlacement": 4
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 2,
+        "playRate": 40,
+        "avgPlacement": 7
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 1,
+        "playRate": 20,
+        "avgPlacement": 1
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 2,
+        "playRate": 40,
+        "avgPlacement": 4
+      }
+    ]
+  },
+  {
+    "id": "5455",
+    "heroId": "5455",
+    "heroName": "德莱文",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 5,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 5,
+    "playRate": 1.98,
+    "avgPlacement": 4.2,
+    "top4Rate": 60,
+    "topRate": 0,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 5,
+        "playRate": 100,
+        "avgPlacement": 4.2
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 2,
+        "playRate": 40,
+        "avgPlacement": 4
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 3,
+        "playRate": 60,
+        "avgPlacement": 4.33
+      }
+    ]
+  },
+  {
+    "id": "5466",
+    "heroId": "5466",
+    "heroName": "拉克丝",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 5,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 5,
+    "playRate": 1.98,
+    "avgPlacement": 1.8,
+    "top4Rate": 100,
+    "topRate": 60,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 3,
+        "playRate": 60,
+        "avgPlacement": 2.33
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 2,
+        "playRate": 40,
+        "avgPlacement": 1
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 1,
+        "playRate": 20,
+        "avgPlacement": 1
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 2,
+        "playRate": 40,
+        "avgPlacement": 3
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 2,
+        "playRate": 40,
+        "avgPlacement": 1
+      }
+    ]
+  },
+  {
+    "id": "4501",
+    "heroId": "4501",
+    "heroName": "莫甘娜",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 4,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 5,
+    "playRate": 1.98,
+    "avgPlacement": 3.2,
+    "top4Rate": 60,
+    "topRate": 60,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 2,
+        "playRate": 40,
+        "avgPlacement": 4.5
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 3,
+        "playRate": 60,
+        "avgPlacement": 2.33
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 1,
+        "playRate": 20,
+        "avgPlacement": 8
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 1,
+        "playRate": 20,
+        "avgPlacement": 1
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 3,
+        "playRate": 60,
+        "avgPlacement": 2.33
+      }
+    ]
+  },
+  {
+    "id": "1504",
+    "heroId": "1504",
+    "heroName": "雷克塞",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 1,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 5,
+    "playRate": 1.98,
+    "avgPlacement": 4.4,
+    "top4Rate": 40,
+    "topRate": 20,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 4,
+        "playRate": 80,
+        "avgPlacement": 4.5
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 1,
+        "playRate": 20,
+        "avgPlacement": 4
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 4,
+        "playRate": 80,
+        "avgPlacement": 5.25
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 1,
+        "playRate": 20,
+        "avgPlacement": 1
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ]
+  },
+  {
+    "id": "4503",
+    "heroId": "4503",
+    "heroName": "阿木木",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 4,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 4,
+    "playRate": 1.58,
+    "avgPlacement": 4.25,
+    "top4Rate": 75,
+    "topRate": 25,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 2,
+        "playRate": 50,
+        "avgPlacement": 2.5
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 2,
+        "playRate": 50,
+        "avgPlacement": 6
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 3,
+        "playRate": 75,
+        "avgPlacement": 3
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 1,
+        "playRate": 25,
+        "avgPlacement": 8
+      }
+    ]
+  },
+  {
+    "id": "3502",
+    "heroId": "3502",
+    "heroName": "费德提克",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 3,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 4,
+    "playRate": 1.58,
+    "avgPlacement": 4.75,
+    "top4Rate": 75,
+    "topRate": 0,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 1,
+        "playRate": 25,
+        "avgPlacement": 4
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 3,
+        "playRate": 75,
+        "avgPlacement": 5
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 2,
+        "playRate": 50,
+        "avgPlacement": 6
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 1,
+        "playRate": 25,
+        "avgPlacement": 3
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 1,
+        "playRate": 25,
+        "avgPlacement": 4
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ]
+  },
+  {
+    "id": "5454",
+    "heroId": "5454",
+    "heroName": "艾希",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 5,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 3,
+    "playRate": 1.19,
+    "avgPlacement": 3.67,
+    "top4Rate": 100,
+    "topRate": 0,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 2,
+        "playRate": 66.67,
+        "avgPlacement": 3.5
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 1,
+        "playRate": 33.33,
+        "avgPlacement": 4
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 2,
+        "playRate": 66.67,
+        "avgPlacement": 3.5
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 1,
+        "playRate": 33.33,
+        "avgPlacement": 4
+      }
+    ]
+  },
+  {
+    "id": "5462",
+    "heroId": "5462",
+    "heroName": "拉克丝",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 5,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 3,
+    "playRate": 1.19,
+    "avgPlacement": 3,
+    "top4Rate": 100,
+    "topRate": 33.33,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 3,
+        "playRate": 100,
+        "avgPlacement": 3
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 1,
+        "playRate": 33.33,
+        "avgPlacement": 1
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 2,
+        "playRate": 66.67,
+        "avgPlacement": 4
+      }
+    ]
+  },
+  {
+    "id": "4508",
+    "heroId": "4508",
+    "heroName": "伊泽瑞尔",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 4,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 3,
+    "playRate": 1.19,
+    "avgPlacement": 2,
+    "top4Rate": 100,
+    "topRate": 33.33,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 3,
+        "playRate": 100,
+        "avgPlacement": 2
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 2,
+        "playRate": 66.67,
+        "avgPlacement": 2
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 1,
+        "playRate": 33.33,
+        "avgPlacement": 2
+      }
+    ]
+  },
+  {
+    "id": "4511",
+    "heroId": "4511",
+    "heroName": "阿狸",
+    "heroType": 0,
+    "isCarry": false,
+    "isSubCarry": false,
+    "isCore": false,
+    "price": 4,
+    "heroStarNum": null,
+    "position": null,
+    "sampleCount": 3,
+    "playRate": 1.19,
+    "avgPlacement": 2.67,
+    "top4Rate": 100,
+    "topRate": 33.33,
+    "starBreakdown": [
+      {
+        "starLevel": 1,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "starLevel": 2,
+        "sampleCount": 3,
+        "playRate": 100,
+        "avgPlacement": 2.67
+      },
+      {
+        "starLevel": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ],
+    "equipCountBreakdown": [
+      {
+        "equipCount": 0,
+        "sampleCount": 1,
+        "playRate": 33.33,
+        "avgPlacement": 1
+      },
+      {
+        "equipCount": 1,
+        "sampleCount": 2,
+        "playRate": 66.67,
+        "avgPlacement": 3.5
+      },
+      {
+        "equipCount": 2,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      },
+      {
+        "equipCount": 3,
+        "sampleCount": 0,
+        "playRate": 0,
+        "avgPlacement": null
+      }
+    ]
+  }
+]

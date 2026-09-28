@@ -1,0 +1,690 @@
+{
+  "source": "gamedata.json, captured 2026-09-21; isolated formula checks, not game-client validation",
+  "engineSha256": "d588ae5f4a0c816b3ee9689bdd6e99aeda8424e0c164bd69f44fc1a6474173a4",
+  "probeRuns": 44,
+  "checks": [
+    {
+      "hero": "奥恩",
+      "star": 3,
+      "ap": 100,
+      "component": "自身护盾",
+      "expected": 550.0,
+      "actual": 550,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "奥恩",
+      "star": 3,
+      "ap": 100,
+      "component": "三目标技能伤害",
+      "expected": 1350.0,
+      "actual": 1350,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "奥恩",
+      "star": 3,
+      "ap": 118,
+      "component": "自身护盾",
+      "expected": 649.0,
+      "actual": 649,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "奥恩",
+      "star": 3,
+      "ap": 118,
+      "component": "三目标技能伤害",
+      "expected": 1593.0,
+      "actual": 1593,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "奥恩",
+      "star": 3,
+      "ap": 150,
+      "component": "自身护盾",
+      "expected": 825.0,
+      "actual": 825,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "奥恩",
+      "star": 3,
+      "ap": 150,
+      "component": "三目标技能伤害",
+      "expected": 2025.0,
+      "actual": 2025,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "奥恩",
+      "star": 3,
+      "ap": 200,
+      "component": "自身护盾",
+      "expected": 1100.0,
+      "actual": 1100,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "奥恩",
+      "star": 3,
+      "ap": 200,
+      "component": "三目标技能伤害",
+      "expected": 2700.0,
+      "actual": 2700,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "洛",
+      "star": 3,
+      "ap": 100,
+      "component": "自身护盾",
+      "expected": 415.0,
+      "actual": 415,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "洛",
+      "star": 3,
+      "ap": 118,
+      "component": "自身护盾",
+      "expected": 489.7,
+      "actual": 489.7,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "洛",
+      "star": 3,
+      "ap": 150,
+      "component": "自身护盾",
+      "expected": 622.5,
+      "actual": 622.5,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "洛",
+      "star": 3,
+      "ap": 200,
+      "component": "自身护盾",
+      "expected": 830.0,
+      "actual": 830,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "蕾欧娜",
+      "star": 2,
+      "ap": 100,
+      "component": "主动护甲系数随星级变化",
+      "expected": 324.0,
+      "actual": 180,
+      "passed": false,
+      "group": "other_coefficients"
+    },
+    {
+      "hero": "蕾欧娜",
+      "star": 2,
+      "ap": 118,
+      "component": "主动护甲系数随星级变化",
+      "expected": 362.87999999999994,
+      "actual": 201.6,
+      "passed": false,
+      "group": "other_coefficients"
+    },
+    {
+      "hero": "蕾欧娜",
+      "star": 2,
+      "ap": 150,
+      "component": "主动护甲系数随星级变化",
+      "expected": 432.0,
+      "actual": 240,
+      "passed": false,
+      "group": "other_coefficients"
+    },
+    {
+      "hero": "蕾欧娜",
+      "star": 2,
+      "ap": 200,
+      "component": "主动护甲系数随星级变化",
+      "expected": 540.0,
+      "actual": 300,
+      "passed": false,
+      "group": "other_coefficients"
+    },
+    {
+      "hero": "蕾欧娜",
+      "star": 3,
+      "ap": 100,
+      "component": "主动护甲系数随星级变化",
+      "expected": 567.0,
+      "actual": 210,
+      "passed": false,
+      "group": "other_coefficients"
+    },
+    {
+      "hero": "蕾欧娜",
+      "star": 3,
+      "ap": 118,
+      "component": "主动护甲系数随星级变化",
+      "expected": 639.9,
+      "actual": 237,
+      "passed": false,
+      "group": "other_coefficients"
+    },
+    {
+      "hero": "蕾欧娜",
+      "star": 3,
+      "ap": 150,
+      "component": "主动护甲系数随星级变化",
+      "expected": 769.5,
+      "actual": 285,
+      "passed": false,
+      "group": "other_coefficients"
+    },
+    {
+      "hero": "蕾欧娜",
+      "star": 3,
+      "ap": 200,
+      "component": "主动护甲系数随星级变化",
+      "expected": 972.0,
+      "actual": 360,
+      "passed": false,
+      "group": "other_coefficients"
+    },
+    {
+      "hero": "可酷伯",
+      "star": 3,
+      "ap": 100,
+      "component": "强化普攻生命系数10%",
+      "expected": 376.8,
+      "actual": 308.76,
+      "passed": false,
+      "group": "other_coefficients"
+    },
+    {
+      "hero": "可酷伯",
+      "star": 3,
+      "ap": 118,
+      "component": "强化普攻生命系数10%",
+      "expected": 403.8,
+      "actual": 335.76,
+      "passed": false,
+      "group": "other_coefficients"
+    },
+    {
+      "hero": "可酷伯",
+      "star": 3,
+      "ap": 150,
+      "component": "强化普攻生命系数10%",
+      "expected": 451.8,
+      "actual": 383.76,
+      "passed": false,
+      "group": "other_coefficients"
+    },
+    {
+      "hero": "可酷伯",
+      "star": 3,
+      "ap": 200,
+      "component": "强化普攻生命系数10%",
+      "expected": 526.8,
+      "actual": 458.76,
+      "passed": false,
+      "group": "other_coefficients"
+    },
+    {
+      "hero": "峡谷迅捷蟹",
+      "star": 3,
+      "ap": 100,
+      "component": "三秒主动治疗总量",
+      "expected": 675.0,
+      "actual": 675,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "峡谷迅捷蟹",
+      "star": 3,
+      "ap": 118,
+      "component": "三秒主动治疗总量",
+      "expected": 796.5,
+      "actual": 796.5,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "峡谷迅捷蟹",
+      "star": 3,
+      "ap": 150,
+      "component": "三秒主动治疗总量",
+      "expected": 1012.5,
+      "actual": 1012.5,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "峡谷迅捷蟹",
+      "star": 3,
+      "ap": 200,
+      "component": "三秒主动治疗总量",
+      "expected": 1350.0,
+      "actual": 1350,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "瑟庄妮",
+      "star": 3,
+      "ap": 100,
+      "component": "生命值加法强的混合护盾",
+      "expected": 566.6,
+      "actual": 566.6,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "瑟庄妮",
+      "star": 3,
+      "ap": 100,
+      "component": "固定三目标模型技能伤害",
+      "expected": 885.0,
+      "actual": 885,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "瑟庄妮",
+      "star": 3,
+      "ap": 118,
+      "component": "生命值加法强的混合护盾",
+      "expected": 616.1,
+      "actual": 616.1,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "瑟庄妮",
+      "star": 3,
+      "ap": 118,
+      "component": "固定三目标模型技能伤害",
+      "expected": 1044.3,
+      "actual": 1044.3,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "瑟庄妮",
+      "star": 3,
+      "ap": 150,
+      "component": "生命值加法强的混合护盾",
+      "expected": 704.1,
+      "actual": 704.1,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "瑟庄妮",
+      "star": 3,
+      "ap": 150,
+      "component": "固定三目标模型技能伤害",
+      "expected": 1327.5,
+      "actual": 1327.5,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "瑟庄妮",
+      "star": 3,
+      "ap": 200,
+      "component": "生命值加法强的混合护盾",
+      "expected": 841.6,
+      "actual": 841.6,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "瑟庄妮",
+      "star": 3,
+      "ap": 200,
+      "component": "固定三目标模型技能伤害",
+      "expected": 1770.0,
+      "actual": 1770,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "慎",
+      "star": 3,
+      "ap": 100,
+      "component": "自身护盾",
+      "expected": 550.0,
+      "actual": 550,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "慎",
+      "star": 3,
+      "ap": 100,
+      "component": "强化普攻魔法伤害",
+      "expected": 80.0,
+      "actual": 80,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "慎",
+      "star": 3,
+      "ap": 118,
+      "component": "自身护盾",
+      "expected": 649.0,
+      "actual": 649,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "慎",
+      "star": 3,
+      "ap": 118,
+      "component": "强化普攻魔法伤害",
+      "expected": 94.39999999999999,
+      "actual": 94.4,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "慎",
+      "star": 3,
+      "ap": 150,
+      "component": "自身护盾",
+      "expected": 825.0,
+      "actual": 825,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "慎",
+      "star": 3,
+      "ap": 150,
+      "component": "强化普攻魔法伤害",
+      "expected": 120.0,
+      "actual": 120,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "慎",
+      "star": 3,
+      "ap": 200,
+      "component": "自身护盾",
+      "expected": 1100.0,
+      "actual": 1100,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "慎",
+      "star": 3,
+      "ap": 200,
+      "component": "强化普攻魔法伤害",
+      "expected": 160.0,
+      "actual": 160,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "伊莉丝",
+      "star": 3,
+      "ap": 100,
+      "component": "变身增加生命不吃法强",
+      "expected": 725.0,
+      "actual": 725,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "伊莉丝",
+      "star": 3,
+      "ap": 100,
+      "component": "蜘蛛普攻治疗",
+      "expected": 170.0,
+      "actual": 170,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "伊莉丝",
+      "star": 3,
+      "ap": 100,
+      "component": "蜘蛛普攻魔法伤害",
+      "expected": 80.0,
+      "actual": 80,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "伊莉丝",
+      "star": 3,
+      "ap": 118,
+      "component": "变身增加生命不吃法强",
+      "expected": 725.0,
+      "actual": 725,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "伊莉丝",
+      "star": 3,
+      "ap": 118,
+      "component": "蜘蛛普攻治疗",
+      "expected": 200.6,
+      "actual": 200.6,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "伊莉丝",
+      "star": 3,
+      "ap": 118,
+      "component": "蜘蛛普攻魔法伤害",
+      "expected": 94.39999999999999,
+      "actual": 94.4,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "伊莉丝",
+      "star": 3,
+      "ap": 150,
+      "component": "变身增加生命不吃法强",
+      "expected": 725.0,
+      "actual": 725,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "伊莉丝",
+      "star": 3,
+      "ap": 150,
+      "component": "蜘蛛普攻治疗",
+      "expected": 255.0,
+      "actual": 255,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "伊莉丝",
+      "star": 3,
+      "ap": 150,
+      "component": "蜘蛛普攻魔法伤害",
+      "expected": 120.0,
+      "actual": 120,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "伊莉丝",
+      "star": 3,
+      "ap": 200,
+      "component": "变身增加生命不吃法强",
+      "expected": 725.0,
+      "actual": 725,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "伊莉丝",
+      "star": 3,
+      "ap": 200,
+      "component": "蜘蛛普攻治疗",
+      "expected": 340.0,
+      "actual": 340,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "伊莉丝",
+      "star": 3,
+      "ap": 200,
+      "component": "蜘蛛普攻魔法伤害",
+      "expected": 160.0,
+      "actual": 160,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "蔚",
+      "star": 3,
+      "ap": 100,
+      "component": "主动治疗",
+      "expected": 360.0,
+      "actual": 360,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "蔚",
+      "star": 3,
+      "ap": 100,
+      "component": "普攻被动只吃生命值",
+      "expected": 71.28,
+      "actual": 71.28,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "蔚",
+      "star": 3,
+      "ap": 118,
+      "component": "主动治疗",
+      "expected": 424.79999999999995,
+      "actual": 424.8,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "蔚",
+      "star": 3,
+      "ap": 118,
+      "component": "普攻被动只吃生命值",
+      "expected": 71.28,
+      "actual": 71.28,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "蔚",
+      "star": 3,
+      "ap": 150,
+      "component": "主动治疗",
+      "expected": 540.0,
+      "actual": 540,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "蔚",
+      "star": 3,
+      "ap": 150,
+      "component": "普攻被动只吃生命值",
+      "expected": 71.28,
+      "actual": 71.28,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "蔚",
+      "star": 3,
+      "ap": 200,
+      "component": "主动治疗",
+      "expected": 720.0,
+      "actual": 720,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "蔚",
+      "star": 3,
+      "ap": 200,
+      "component": "普攻被动只吃生命值",
+      "expected": 71.28,
+      "actual": 71.28,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "拉莫斯",
+      "star": 3,
+      "ap": 100,
+      "component": "自身护盾",
+      "expected": 550.0,
+      "actual": 550,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "拉莫斯",
+      "star": 3,
+      "ap": 118,
+      "component": "自身护盾",
+      "expected": 649.0,
+      "actual": 649,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "拉莫斯",
+      "star": 3,
+      "ap": 150,
+      "component": "自身护盾",
+      "expected": 825.0,
+      "actual": 825,
+      "passed": true,
+      "group": "eight_heroes"
+    },
+    {
+      "hero": "拉莫斯",
+      "star": 3,
+      "ap": 200,
+      "component": "自身护盾",
+      "expected": 1100.0,
+      "actual": 1100,
+      "passed": true,
+      "group": "eight_heroes"
+    }
+  ],
+  "passed": 56,
+  "failed": 12,
+  "generatedDataSha256": "9f153b1105b950cce6b733a9f01ec2370ed0e0d6a6a5d7981ae9fb2309fbc3df"
+}

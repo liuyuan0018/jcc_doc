@@ -1,0 +1,4 @@
+var catalog=UnityEditor.AssetDatabase.LoadAssetAtPath<Jcc.Presentation.ReplayAssetCatalog>("Assets/Res/Replay/ReplayAssets.asset");
+var list=new System.Collections.Generic.List<Jcc.Presentation.ReplayAssetCatalog.Entry>(catalog.entries);
+if(!list.Exists(x=>x.key=="cover/rammus-revised-v9")){var sprite=UnityEditor.AssetDatabase.LoadAssetAtPath<UnityEngine.Sprite>("Assets/Res/GUI/Image/Cover/rammus-revised-v9.png");if(!sprite)throw new System.Exception("Missing cover/rammus-revised-v9");list.Add(new Jcc.Presentation.ReplayAssetCatalog.Entry{key="cover/rammus-revised-v9",sprite=sprite});}
+catalog.entries=list.ToArray();UnityEditor.EditorUtility.SetDirty(catalog);UnityEditor.AssetDatabase.SaveAssets();return "Rammus assets registered";

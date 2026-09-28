@@ -1,0 +1,109 @@
+{
+  "baseline": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919",
+  "output": "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919-修订版",
+  "images": [
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919-修订版/01-常规阵容强度榜.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919-修订版/02-今天怎么选.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919-修订版/03-地狱火95.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919-修订版/04-野怪小红.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919-修订版/05-重装女警.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919-修订版/06-巨龙95.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919-修订版/07-古纳拉95.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919-修订版/08-裁决螳螂.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919-修订版/09-7野怪鸡哥.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919-修订版/10-主宰女警.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919-修订版/11-皎月螳螂.png",
+    "/Users/lyu/Documents/ChatGPT/金铲铲/exports/S18常规榜-20260919-修订版/12-神谕大嘴.png"
+  ],
+  "ranked_comp_ids": [
+    "112",
+    "104",
+    "100",
+    "89",
+    "113",
+    "116",
+    "99",
+    "106",
+    "109"
+  ],
+  "supplement_comp_ids": [
+    "119"
+  ],
+  "source_comp_count": 34,
+  "version": "18.2a",
+  "data_updated_at": "2026-09-18T19:32:50.884Z",
+  "publish_permission": "USER_WILL_CLICK_DO_NOT_SUBMIT",
+  "status": "user_submitted_under_review",
+  "bound_topics_to_preserve": [
+    "金铲铲之战",
+    "金铲铲S18",
+    "金铲铲自然之力",
+    "金铲铲阵容",
+    "金铲铲阵容码",
+    "金铲铲",
+    "金铲铲攻略",
+    "金铲铲推荐阵容"
+  ],
+  "collection": "s18金铲铲阵容数据库",
+  "body_length": 767,
+  "limits": [
+    "No game import verification",
+    "No match replay verification",
+    "DataJ tier not causal strength",
+    "Population in diagram is not a statistical filter"
+  ],
+  "editor_tab_id": null,
+  "verified_at": "2026-09-19T11:49:45.607326+00:00",
+  "editor_readback": {
+    "title": "金铲铲S18阵容榜9.19｜附阵容码",
+    "uploaded_images": 12,
+    "all_images_loaded": true,
+    "body_code_count": 10,
+    "bound_topic_count": 8,
+    "collection": "s18金铲铲阵容数据库",
+    "original_declaration": true,
+    "allow_copy": true,
+    "scheduled": false,
+    "reference_note_title": "金铲铲S18冷门榜9.19｜附阵容码",
+    "published_by_agent": false,
+    "user_edited_body_preserved": "Earlier user removal of creator-side publishing-limit sentence retained; opening and source paragraph now revised as instructed.",
+    "user_edited_topics_preserved": "Seven retained; synonymous recommendation topic replaced with the current 5.6亿-browse suggestion.",
+    "body_revision": "Player-facing opening and source paragraph applied following latest user instruction; all ten codes unchanged."
+  },
+  "visual_QA": {
+    "cover": "passed, full God Kogmaw row visible in local image and editor preview",
+    "choice_page": "passed in previous revision, unchanged PNG hash",
+    "infernal_details": "passed in previous revision, unchanged PNG hash",
+    "kogmaw_board": "passed in previous revision, unchanged PNG hash",
+    "unchanged_boards": "verified only page total changed in previous revision"
+  },
+  "cover_correction": {
+    "changed_pngs": [
+      "01-常规阵容强度榜.png"
+    ],
+    "unchanged_png_count": 11,
+    "row_count": 10,
+    "main_rows": 9,
+    "supplement": "神谕大嘴",
+    "label": "顺牌备选",
+    "stats_scope": "comp119 whole-system stats",
+    "top4": "50.2%",
+    "win": "10.3%",
+    "sample": 966,
+    "average_place": 4.5,
+    "visual_QA": "passed",
+    "user_visual_approval": "not received"
+  },
+  "body_authority": "main-body.txt matches the final player-facing editor paragraphs; platform-bound topics are listed separately in reader-view-editor-readback.json.",
+  "reader_view_readback": "reader-view-editor-readback.json",
+  "topic_selection_note": "Current 2026-09-19 editor snapshot only; future posts must query #金铲铲 suggestions and compare live browse counts.",
+  "last_editor_tab_id": "1808207246",
+  "latest_observation": {
+    "source": "Creator note manager, live read this turn",
+    "title": "金铲铲S18阵容榜9.19｜附阵容码",
+    "status": "审核中",
+    "displayed_time": "2026-09-19 19:52",
+    "published_by_agent": false,
+    "tab_note": "1808207246 is now editing the cold note; it is no longer the pending regular editor."
+  }
+}

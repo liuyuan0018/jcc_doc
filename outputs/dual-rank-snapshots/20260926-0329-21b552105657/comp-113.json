@@ -1,0 +1,236 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": {
+    "compId": "113",
+    "name": "古纳拉95",
+    "desc": null,
+    "gameCode": "【阵容码】#古纳拉95#MjIwMDY3MzAyODc5ODA4NTYxNzg5MDI2ODY2MTcx",
+    "heroes": [
+      {
+        "id": "2297",
+        "heroId": "5456",
+        "heroName": "拉露恩",
+        "heroType": 0,
+        "isCarry": true,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 5,
+        "heroStarNum": null,
+        "position": "4,1"
+      },
+      {
+        "id": "2296",
+        "heroId": "5458",
+        "heroName": "远古巨龙",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": true,
+        "isCore": true,
+        "price": 5,
+        "heroStarNum": null,
+        "position": "2,2"
+      },
+      {
+        "id": "2303",
+        "heroId": "5452",
+        "heroName": "纳尔",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 5,
+        "heroStarNum": null,
+        "position": "2,3"
+      },
+      {
+        "id": "2298",
+        "heroId": "4500",
+        "heroName": "苍蓝雕纹魔像",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": true,
+        "price": 4,
+        "heroStarNum": null,
+        "position": "1,4"
+      },
+      {
+        "id": "2300",
+        "heroId": "5451",
+        "heroName": "塔里克",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 5,
+        "heroStarNum": null,
+        "position": "1,5"
+      },
+      {
+        "id": "2299",
+        "heroId": "3506",
+        "heroName": "黛安娜",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 3,
+        "heroStarNum": null,
+        "position": "1,3"
+      },
+      {
+        "id": "2301",
+        "heroId": "3500",
+        "heroName": "赫卡里姆",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 3,
+        "heroStarNum": null,
+        "position": "1,2"
+      },
+      {
+        "id": "2302",
+        "heroId": "2501",
+        "heroName": "阿利斯塔",
+        "heroType": 0,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 2,
+        "heroStarNum": null,
+        "position": "1,6"
+      },
+      {
+        "id": "2304",
+        "heroId": "8704",
+        "heroName": "石皮树",
+        "heroType": 1,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 0,
+        "heroStarNum": null,
+        "position": "1,7"
+      },
+      {
+        "id": "2305",
+        "heroId": "8705",
+        "heroName": "生命花",
+        "heroType": 1,
+        "isCarry": false,
+        "isSubCarry": false,
+        "isCore": false,
+        "price": 0,
+        "heroStarNum": null,
+        "position": "4,4"
+      }
+    ],
+    "traits": [
+      {
+        "id": "83720102",
+        "name": "重装战士"
+      },
+      {
+        "id": "83920101",
+        "name": "永恒之森"
+      },
+      {
+        "id": "84660101",
+        "name": "峡谷野怪"
+      },
+      {
+        "id": "85200101",
+        "name": "斗士"
+      },
+      {
+        "id": "83870101",
+        "name": "月蚀骑士"
+      },
+      {
+        "id": "83840101",
+        "name": "宝石骑士"
+      },
+      {
+        "id": "83850101",
+        "name": "顶级掠食者"
+      },
+      {
+        "id": "83960101",
+        "name": "月华神女"
+      }
+    ],
+    "equips": [
+      {
+        "heroId": "5452",
+        "equipId": "2012",
+        "compHeroId": "2303"
+      },
+      {
+        "heroId": "5452",
+        "equipId": "2007",
+        "compHeroId": "2303"
+      },
+      {
+        "heroId": "5452",
+        "equipId": "2006",
+        "compHeroId": "2303"
+      },
+      {
+        "heroId": "5458",
+        "equipId": "2037",
+        "compHeroId": "2296"
+      },
+      {
+        "heroId": "5458",
+        "equipId": "2007",
+        "compHeroId": "2296"
+      },
+      {
+        "heroId": "5458",
+        "equipId": "2001",
+        "compHeroId": "2296"
+      },
+      {
+        "heroId": "5456",
+        "equipId": "2038",
+        "compHeroId": "2297"
+      },
+      {
+        "heroId": "5456",
+        "equipId": "2014",
+        "compHeroId": "2297"
+      },
+      {
+        "heroId": "5456",
+        "equipId": "2004",
+        "compHeroId": "2297"
+      },
+      {
+        "heroId": "4500",
+        "equipId": "2034",
+        "compHeroId": "2298"
+      },
+      {
+        "heroId": "4500",
+        "equipId": "2028",
+        "compHeroId": "2298"
+      },
+      {
+        "heroId": "4500",
+        "equipId": "2023",
+        "compHeroId": "2298"
+      }
+    ],
+    "top4Rate": 58.44,
+    "topRate": 17.79,
+    "pickRate": 0.08,
+    "avgPlacement": 4.05,
+    "sampleCount": 2659,
+    "tier": "S",
+    "dataMode": "stats"
+  }
+}

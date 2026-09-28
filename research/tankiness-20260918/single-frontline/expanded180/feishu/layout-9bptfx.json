@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "column_groups": [],
+    "column_widths": [
+      {
+        "cols": "A:A",
+        "type": "custom",
+        "width": 129
+      },
+      {
+        "cols": "B:B",
+        "type": "custom",
+        "width": 560
+      }
+    ],
+    "frozen_columns": 1,
+    "frozen_rows": 1,
+    "hidden_columns": [],
+    "hidden_rows": [],
+    "merged_cells": [],
+    "range": "A1:B5",
+    "revision": 468,
+    "row_groups": [],
+    "row_heights": [
+      {
+        "height": 34,
+        "rows": "1:1",
+        "type": "custom"
+      },
+      {
+        "height": 54,
+        "rows": "2:2",
+        "type": "custom"
+      },
+      {
+        "height": 34,
+        "rows": "3:3",
+        "type": "custom"
+      },
+      {
+        "height": 54,
+        "rows": "4:4",
+        "type": "custom"
+      },
+      {
+        "height": 34,
+        "rows": "5:5",
+        "type": "custom"
+      }
+    ],
+    "sheet_id": "9bptfx",
+    "sheet_name": "180秒_阅读说明"
+  },
+  "_notice": {
+    "update": {
+      "command": "lark-cli update",
+      "current": "1.0.95",
+      "latest": "1.0.96",
+      "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+    }
+  }
+}
