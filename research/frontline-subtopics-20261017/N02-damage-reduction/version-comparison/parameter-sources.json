@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "retainedPatchAnnouncement": {
+    "image": "official-18.4-changes.jpg",
+    "sha256": "ebd897b7255580541101a79d63e5d21de685e896776015ee74bbb00c45a2150e",
+    "verification": "Local retained image visually inspected; no web lookup in this task",
+    "recordedOriginPage": "https://www.taptap.cn/moment/859501804386257393?group_id=213275",
+    "originVerification": "Recorded provenance only; live page not rechecked",
+    "changes": [
+      {
+        "name": "主宰成员",
+        "tiers": [
+          2,
+          4,
+          6
+        ],
+        "before": [
+          20,
+          33,
+          45
+        ],
+        "after": [
+          20,
+          30,
+          42
+        ],
+        "unit": "percent damage reduction"
+      },
+      {
+        "name": "普通振奋盔甲",
+        "before": 8,
+        "after": 10,
+        "unit": "percent damage reduction"
+      }
+    ]
+  },
+  "battleBase": {
+    "kind": "synthetic diagnostic fixture; not extracted official battle input",
+    "sha256": "c0b42542d7477626113a1298f84f5fb2504853624215ffe00c0e1c201901e17e",
+    "engineRepository": "liuyuan0018/jcc",
+    "auditedSourceCommit": "34d86ac1516d0fad1c3627b4d904d139f75acdb9",
+    "compiledBalanceVersion": "18.3",
+    "description": "Expanded native CLI input: two-star Vi with ordinary Spirit Visage and six Juggernaut trait counts against AD1000 AS1.0 crit0 HP1000000 adjacent attacker",
+    "officialParityValidated": false
+  },
+  "acceptanceTarget": "Same official input, independent C++ execution, same battle process and result; synthetic runs are diagnostics only"
+}
